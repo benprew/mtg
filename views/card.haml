@@ -1,0 +1,25 @@
+%div{ :style => 'float: right' }
+  = search_box()
+
+%h3= @card.name
+
+%strong Price as of 12/30/2008
+
+%h2= sprintf("%.2f", @avg_price)
+
+%div
+  %p
+    %strong Set:
+    = @card.set_name
+  %p
+    %strong Casting Cost:
+    = @card.casting_cost
+  %p
+    %strong Type:
+    = @card.type
+  %p
+    %strong Rarity:
+    = @card.rarity
+
+- if @avg_price > 0
+  %img{ :src=> 'http://chart.apis.google.com/chart?cht=lc&chd=t:10.05,40&chxr=1,10,60&chs=250x100&chl=Hello|World&chxt=x,y' }

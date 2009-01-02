@@ -1,0 +1,7 @@
+%div
+  = search_box()
+
+%div{ :style => "width: 50%" }
+  %h2 Most expensive cards
+  = render_dataset(@top_10_cards)
+
