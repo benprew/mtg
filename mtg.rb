@@ -42,8 +42,9 @@ def average_price_for_card(card)
 end
 
 def top_10_cards
-  cards = repository(:default).adapter.query('select c.name as name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, count(*) as volume from xtns inner join cards c using (card_no) group by c.name order by 2 desc limit 10')
-  Dataset.new(%w(Name Max Min Avg Volume), cards)
+  cards = repository(:default).adapter.query('select c.card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
+  d = Dataset.new(%w(name set_name max min avg volume), cards)
+#  d.add_decorator(:name, lambda { |row| 
 end
 
 helpers do

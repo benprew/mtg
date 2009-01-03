@@ -1,6 +1,6 @@
 %table
   %thead    
-    - @dataset.header.each do |header_col|
+    - @dataset.header_titles.each do |header_col|
       %th
         = header_col
   - @dataset.rows.each do |row|
