@@ -11,4 +11,5 @@ class ExternalItem
   property :buy_it_now_price, Float
   property :card_no, Integer
   property :last_updated, DateTime, :nullable => false
+  property :cards_in_item, Integer, :nullable => false
 end

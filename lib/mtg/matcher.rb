@@ -24,7 +24,7 @@ class Matcher
 
   def _build_keywords_from_cards()
     Card.all.each do |c|
-      c.keywords.each do |keyword|
+      c.all_keywords.each do |keyword|
         @cards_keywords[keyword] ||= []
         @cards_keywords[keyword] << c.id
       end
@@ -46,10 +46,6 @@ class Matcher
 
 
   def match(description)
-#     warn "doing exact name match"
-#     c = _exact_name_match(description)
-#     return c if c
-
     description_keywords = keywords_from_string(description)
 
     possible_matches = {}
@@ -66,14 +62,14 @@ class Matcher
     top_5.each do |suggested_match|
 
       # if all keywords in the description are contained in the card name
-      has_all_keywords_in_name? = Card.get(suggested_match[0]).name_keywords.inject(true) do |memo, keyword|
+      has_all_keywords_in_name = Card.get(suggested_match[0]).name_keywords.inject(true) do |memo, keyword|
         case memo
           when false : false
           when true : description_keywords.include?(keyword) ? true : false
         end
       end
 
-      suggested_match[1] += 5 if has_all_keywords_in_name?
+      suggested_match[1] += 8 if has_all_keywords_in_name
       
       if suggested_match[1] == Card.get(suggested_match[0]).all_keywords.length
         suggested_match[1] += 10

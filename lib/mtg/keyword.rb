@@ -4,7 +4,7 @@ module Keyword
   def keywords_from_string(string)
     str = string.gsub(/[^a-zA-Z0-9]/, ' ')
     str.downcase!
-    str.split(/\s+/).grep(/\w{3,}/)
+    str.split(/\s+/).reject { |i| i == 'the' }.grep(/\w{3,}/)
   end
 end
 

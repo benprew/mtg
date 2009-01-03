@@ -9,5 +9,5 @@ class Xtn
   property :external_item_id, String, :key => true
   property :price, Float
   property :xtn_type_id, String
-
+  property :xtns, Integer, :default => 1
 end
