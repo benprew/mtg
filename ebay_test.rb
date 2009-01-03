@@ -7,7 +7,7 @@ require 'rest_client'
 require 'uri'
 require 'json'
 require 'dm-core'
-require 'mtg/external_items'
+require 'mtg/external_item'
 
 DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
@@ -25,21 +25,22 @@ def url_ify(gateway, params)
 end
 
 def import_item(item_info)
-  item = ExternalItem.first_or_create(:external_id => item_info['ItemID'])
+  item = ExternalItem.first(:external_item_id => item_info['ItemID']) || ExternalItem.new(:external_item_id => item_info['ItemID'], :last_updated => @@current_time)
   item.description = item_info['Title']
   item.end_time = item_info['EndTime']
   item.auction_price = item_info['ConvertedCurrentPrice']['Value']
   item.buy_it_now_price = item_info['ConvertedBuyItNowPrice']['Value'] if item_info['ConvertedBuyItNowPrice']
-  item.last_updated = current_time
 
   item.save
 end
 
-current_time = JSON.parse(RestClient.get(url_ify( gateway,
+@@current_time = JSON.parse(RestClient.get(url_ify( gateway,
                         :appid => app_id,
                         :version => 595,
                         :responseencoding => 'JSON',
                         :callname => 'GeteBayTime' )))['Timestamp']
+
+p @@current_time
 
 
 
