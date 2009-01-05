@@ -9,12 +9,37 @@ require 'dm-core'
 require 'mtg/dataset'
 require 'mtg/card'
 require 'mtg/xtn'
+require 'mtg/external_item'
 
 DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
+get '/style.css' do
+  headers 'Content-Type' => 'text/css'
+  sass :style
+end
+
+
 get '/' do
-  @top_10_cards = top_10_cards()
+  @most_expensive_cards = most_expensive_cards()
+  @highest_volume_cards = highest_volume_cards()
   haml :index
+end
+
+post '/match_auction' do
+  e = ExternalItem.get(params[:external_item_id])
+  e.card_no = params[:card_no]
+  e.cards_in_item = params[:cards_in_item]
+  e.save
+
+  @e = ExternalItem.first(:card_no => nil)
+
+  haml :match_auction
+end
+
+get '/match_auction' do
+  @e = ExternalItem.first(:card_no => nil)
+
+  haml :match_auction
 end
 
 get '/search' do
@@ -41,11 +66,22 @@ def average_price_for_card(card)
   return rows[0] ? rows[0] : 0
 end
 
-def top_10_cards
-  cards = repository(:default).adapter.query('select c.card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
-  d = Dataset.new(%w(name set_name max min avg volume), cards)
-#  d.add_decorator(:name, lambda { |row| 
+def most_expensive_cards
+  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
+  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  d.add_decorator(:name,
+                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  return d
 end
+
+def highest_volume_cards
+  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
+  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  d.add_decorator(:name,
+                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  return d
+end
+
 
 helpers do
   def render_dataset(dataset)

@@ -1,8 +1,8 @@
 %table
   %thead    
-    - @dataset.header_titles.each do |header_col|
+    - @dataset.header.each do |h|
       %th
-        = header_col
+        = h[:title]
   - @dataset.rows.each do |row|
     %tr
       - row.each do |field|

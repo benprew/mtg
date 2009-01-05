@@ -10,20 +10,19 @@ class Headers
   end
 
   def self.find(header)
-    if @@headers.has_key?(header)
-      return @@headers[header]
-    else
-      raise "No header named '#{header}' found"
+    @@headers.each do |h|
+      return h if header == h[:name]
     end
+
+    raise "No header named '#{header}' found"
   end
 
-  @@headers = {
-    'name' => { :title => 'Name', :format => method(:as_pass) },
-    'set_name' => { :title => 'Set', :format => method(:as_pass) },
-    'max' => { :title => 'Max Price', :format => method(:as_dollar) },
-    'min' => { :title => 'Min Price', :format => method(:as_dollar) },
-    'avg' => { :title => 'Ave Price', :format => method(:as_dollar) },
-    'volume' => { :title => 'Vol', :format => method(:as_pass) },
-  }
-
+  @@headers = [
+    { :name => :name,     :title => 'Name',      :format => method(:as_pass) },
+    { :name => :set_name, :title => 'Set',       :format => method(:as_pass) },
+    { :name => :max,      :title => 'Max Price', :format => method(:as_dollar) },
+    { :name => :min,      :title => 'Min Price', :format => method(:as_dollar) },
+    { :name => :avg,      :title => 'Ave Price', :format => method(:as_dollar) },
+    { :name => :volume,   :title => 'Vol',       :format => method(:as_pass) },
+  ]
 end

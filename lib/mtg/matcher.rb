@@ -20,6 +20,9 @@ class Matcher
         _freeze_cards_keywords()
       end
     end
+
+    @average_num_keywords =
+      @cards_keywords.inject(0) { |r, c| r + c.length } / @cards_keywords.length
   end
 
   def _build_keywords_from_cards()
@@ -44,6 +47,10 @@ class Matcher
     f.close
   end
 
+  def _points_for_keyword(keyword)
+    @cards_keywords[keyword].length >= @average_num_keywords ? 1 : 1.5
+  end
+
 
   def match(description)
     description_keywords = keywords_from_string(description)
@@ -53,7 +60,7 @@ class Matcher
       if @cards_keywords.has_key?(keyword)
         @cards_keywords[keyword].each do |id|
           possible_matches[id] ||= 0
-          possible_matches[id] += 1
+          possible_matches[id] += _points_for_keyword(keyword)
         end
       end
     end

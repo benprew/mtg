@@ -1,8 +1,5 @@
 - @title = "Search Results"
 
-%div
-  = search_box()
-
 - if @cards then
   %div{ :style => "text-align: right" }= sprintf("Results 1 - %s of %s", @cards.length < 10 ? @cards.length : "10", @cards.length)
   %table
@@ -10,6 +7,7 @@
       %th Name
       %th Set
       %th Casting Cost
+      %th Card #
     - @cards.each do |c|
       %tr
         %td
@@ -18,4 +16,6 @@
           = c.set_name
         %td
           = c.casting_cost ? c.casting_cost : ''
+        %td
+          = c.card_no
         
