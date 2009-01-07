@@ -13,14 +13,23 @@ require 'mtg/external_item'
 
 DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
+error do
+  @error = request.env['sinatra.error']
+
+  warn @error
+
+  status 500
+  haml "Internal Server Error"
+end
+
 get '/style.css' do
   headers 'Content-Type' => 'text/css'
   sass :style
 end
 
-
 get '/' do
   @most_expensive_cards = most_expensive_cards()
+  @most_expensive_shards_of_alara_cards = most_expensive_shards_of_alara_cards()
   @highest_volume_cards = highest_volume_cards()
   haml :index
 end
@@ -82,10 +91,18 @@ def highest_volume_cards
   return d
 end
 
+def most_expensive_shards_of_alara_cards
+  cards = repository(:default).adapter.query(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
+  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  d.add_decorator(:name,
+                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  return d
+end
 
 helpers do
-  def render_dataset(dataset)
+  def render_dataset(title, dataset)
     @dataset = dataset
+    @dataset_title = title
     haml :dataset, :layout => false
   end
 

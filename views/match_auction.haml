@@ -1,12 +1,12 @@
 %div{ :style => 'padding: 1em' }
-  %h4 Match the auction below to a card, and a # of cards in the auction, or you can skip the auction, or mark it as "not an auction for a single card"
+  %h4 Match the auction below to a card, and a # of cards in the auction, or you can skip the auction, or mark it as "Not a Card"
   %h3 Auction Description
   %p
     = "'#{@e.description}'"
   
   %form{ :action => '/match_auction', :method => 'post' }
     Card #
-    %input{ :type => 'hidden', :value => @e.external_item_id }
+    %input{ :type => 'hidden', :name=>'external_item_id', :value => @e.external_item_id }
     %input{ :type => 'text', :name => 'card_no' }
     Number of Cards in auction
     %input{ :type => 'text', :name => 'cards_in_item', :size => 3 } 
@@ -14,3 +14,9 @@
     
   %form{ :action => '/match_auction', :method => 'get' }
     %input{ :type => 'submit', :value => 'Skip' }
+
+  %form{ :action => '/match_auction', :method => 'post' }
+    %input{ :type => 'hidden', :name =>'external_item_id', :value => @e.external_item_id }
+    %input{ :type => 'hidden', :name =>'card_no', :value => -1 }
+    %input{ :type => 'hidden', :name =>'cards_in_item', :value => 0 }
+    %input{ :type => 'submit', :value => 'Not a Card' }

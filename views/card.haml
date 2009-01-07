@@ -41,6 +41,8 @@ pluginspage="http://www.macromedia.com/go/getflashplayer" />
 %div
   %h3 Auctions associated with this card:
   %ul
+  - require 'mtg/xtn'
   - require 'mtg/external_item'
-  - ExternalItem.all(:card_no => @card.card_no).each do |i|
-    %li= i.description
+  - Xtn.all(:card_no => @card.card_no).each do |x|
+    - i = ExternalItem.get(x.external_item_id)
+    %li= "#{i.description} ### #{i.price} ### #{i.external_item_id}"

@@ -1,10 +1,13 @@
-%table
-  %thead    
-    - @dataset.header.each do |h|
-      %th
-        = h[:title]
-  - @dataset.rows.each do |row|
-    %tr
-      - row.each do |field|
-        %td
-          = field
+.report
+  .ds_header= @dataset_title
+  %table.dataset
+    %thead    
+      - @dataset.header.each do |h|
+        %th
+          = h[:title]
+    - @dataset.rows.each do |row|
+      %tr
+        - row.each do |field|
+          %td
+            = field
+  .ds_footer view report... (coming soon)

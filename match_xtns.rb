@@ -5,6 +5,7 @@ require 'dm-core'
 require 'mtg/external_item'
 require 'mtg/matcher'
 require 'mtg/card'
+require 'mtg/possible_match'
 
 DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
@@ -24,6 +25,16 @@ def _cards_in_item(external_item)
   end
 end
 
+def _save_possible_matches(ext_item, possible_matches)
+  possible_matches.each do |pm|
+    PossibleMatch.create(
+      :external_item_id => ext_item.external_item_id,
+      :card_no => pm[0],
+      :score => pm[1]
+    ).save
+  end
+end
+
 ##############
 
 m = Matcher.new()
@@ -33,6 +44,8 @@ warn "done building card keywords"
 ExternalItem.all(:card_no => nil).each do |i|
   possible_matches = m.match(i.description)
   next unless possible_matches.length > 0
+
+  _save_possible_matches(i, possible_matches)
 
   if possible_matches[0][1] >= 10
     warn " #{i.description} ##### #{Card.get(possible_matches[0][0]).name}"

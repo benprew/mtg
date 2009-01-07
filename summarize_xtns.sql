@@ -5,3 +5,4 @@ INSERT INTO xtns
   FROM external_items
   WHERE card_no IS NOT NULL AND price IS NOT NULL
 ;
+

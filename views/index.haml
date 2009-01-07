@@ -1,3 +1,4 @@
+- @title = "Homepage"
 %div{ :style => "padding: 1em" }
   Welcome to the MTG pricing system.  You can search using the search box in the header, or look at the list of cards below.
 
@@ -10,12 +11,10 @@
     %li better card matching system (currently there are ~10k auctions unmatched)
     %li support for buy-it-now auctions
 
-.report{ :style => "width: 45%; float: right" }
-  %h2 Most Auctioned Cards
-  = render_dataset(@highest_volume_cards)
-
-.report{ :style => "width: 45%" }
-  %h2 Most Expensive Cards
-  = render_dataset(@most_expensive_cards)
-
-
+%div{ :style => "padding-left: 1em; padding-right: 1em" }
+  %div{ :style => "float: right; width: 49%" }
+    = render_dataset("Most Auctioned Cards", @highest_volume_cards)
+  
+  %div{ :style => "float: left; width: 49%" }
+    = render_dataset("Most Expensive Cards", @most_expensive_cards)
+    = render_dataset("Most Expensive Shards of Alara Cards", @most_expensive_shards_of_alara_cards)
