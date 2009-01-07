@@ -18,15 +18,12 @@
     %strong Rarity:
     = @card.rarity
 
-- if @avg_price > 0
-  %img{ :src=> 'http://chart.apis.google.com/chart?cht=lc&chd=t:10,25,60,30&chxr=1,1,60&chs=250x100&chxl=0:|Jan|Feb|Mar|Apr&chxt=x,y&chxp=0,0,33,66,100&chxtc=1,-250' }
-
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="500"
 height="250" id="graph-2" align="middle">
 <param name="allowScriptAccess" value="sameDomain" />
-<param name="movie" value="open-flash-chart.swf" />
+= %Q(<param name="movie" value="open-flash-chart.swf?data-file=/chart/card/#{@card.card_no}" />)
 <param name="quality" value="high" />
-<embed src="/open-flash-chart.swf"
+= %Q(<embed src="/open-flash-chart.swf?data-file=/chart/card/#{@card.card_no}")
 quality="high"
 bgcolor="#FFFFFF"
 width="500"
@@ -45,4 +42,6 @@ pluginspage="http://www.macromedia.com/go/getflashplayer" />
   - require 'mtg/external_item'
   - Xtn.all(:card_no => @card.card_no).each do |x|
     - i = ExternalItem.get(x.external_item_id)
-    %li= "#{i.description} ### #{i.price} ### #{i.external_item_id}"
+    %li
+      = "#{i.description} ### #{i.price} ### #{i.external_item_id} ### "
+      %a{ :href=>"/match_auction/#{i.external_item_id}" } re-match

@@ -40,14 +40,86 @@ post '/match_auction' do
   e.cards_in_item = params[:cards_in_item]
   e.save
 
-  @e = ExternalItem.first(:card_no => nil)
+  p e
+  warn "done saving external item"
 
-  haml :match_auction
+  redirect '/match_auction'
 end
 
 get '/match_auction' do
-  @e = ExternalItem.first(:card_no => nil)
+  redirect sprintf '/match_auction/%s', ExternalItem.first(:card_no => nil).external_item_id
+end
 
+get '/chart/card/:card_no' do
+  
+  xtns = repository(:default).adapter.query("select sum(xtns) as volume, sum(price) as price, date from xtns where card_no = ? group by date order by date asc", [ params[:card_no] ])
+
+  %Q(
+{
+  "title":{
+    "text":  "Card Price",
+    "style": "{font-size: 20px; color:#0000ff; font-family: Verdana; text-align: center;}"
+  },
+ 
+  "elements":[
+    {
+      "type":      "line_dot",
+      "alpha":     0.5,
+      "colour":    "#9933CC",
+      "text":      "Price",
+      "font-size": 10,
+      "values" :   [#{xtns.map { |x| (x['price'] / x['volume']).to_i }.join(',')}]
+    },
+    {
+      "type":      "line_dot",
+      "alpha":     0.5,
+      "colour":    "#0033CC",
+      "text":      "Volume",
+      "font-size": 10,
+      "values" :   [#{xtns.map { |x| x['volume'].to_i }.join(',')}]
+    }
+
+  ],
+ 
+  "x_axis":{
+    "stroke":1,
+    "tick_height":10,
+    "colour":"#d000d0",
+    "grid_colour":"#00ff00",
+    "labels":{
+      "rotate" :"vertical",
+      "labels" :[#{xtns.map { |x| sprintf'"%s"', x['date'] }.join(',')} ]
+     }
+   },
+ 
+  "y_axis":{
+    "stroke":      4,
+    "tick_length": 3,
+    "colour":      "#d000d0",
+    "grid_colour": "#00ff00",
+    "offset":      0,
+    "max":         #{xtns.map{ |x| (x['price'] / x['volume']).to_i }.max},
+    "steps": #{xtns.map{ |x| (x['price'] / x['volume']).to_i }.max / 8}
+  }
+}
+)
+end
+
+get '/match_auction/:external_item_id' do
+  @e = ExternalItem.get(params[:external_item_id])
+  @possible_matches =
+    Dataset.new( [ :name, :set_name, :score, :cards_in_item ],
+                 repository(:default).adapter.query('select card_no, name, set_name, score, 1 as cards_in_item from possible_matches inner join cards using (card_no) where external_item_id = ? order by score desc', [@e.external_item_id]))
+  @possible_matches.add_decorator(:cards_in_item, lambda do |val, row| 
+                                    @row = row
+                                    haml %Q(
+%form{ :action=> "/match_auction",  :method=>'post' }
+  %input{ :type=>"text", :name=>"cards_in_item", :size=>3, :value=>"#{@e.cards_in_item}" }
+  %input{ :type=>"hidden", :name=>"external_item_id", :value=>"#{@e.external_item_id}" }
+  %input{ :type=>"hidden", :name=>"card_no", :value=> @row[:card_no] }
+  %input{ :type=>"submit", :value=>"Match" }
+), :layout => :false
+                                  end)
   haml :match_auction
 end
 

@@ -78,7 +78,7 @@ class Matcher
 
       suggested_match[1] += 8 if has_all_keywords_in_name
       
-      if suggested_match[1] == Card.get(suggested_match[0]).all_keywords.length
+      if (description_keywords & Card.get(suggested_match[0]).all_keywords).length == description_keywords.length
         suggested_match[1] += 10
       end
     end

@@ -18,11 +18,14 @@ class Headers
   end
 
   @@headers = [
-    { :name => :name,     :title => 'Name',      :format => method(:as_pass) },
-    { :name => :set_name, :title => 'Set',       :format => method(:as_pass) },
-    { :name => :max,      :title => 'Max Price', :format => method(:as_dollar) },
-    { :name => :min,      :title => 'Min Price', :format => method(:as_dollar) },
-    { :name => :avg,      :title => 'Ave Price', :format => method(:as_dollar) },
-    { :name => :volume,   :title => 'Vol',       :format => method(:as_pass) },
+    { :name => :name,          :title => 'Name',      :format => method(:as_pass) },
+    { :name => :set_name,      :title => 'Set',       :format => method(:as_pass) },
+    { :name => :max,           :title => 'Max Price', :format => method(:as_dollar) },
+    { :name => :min,           :title => 'Min Price', :format => method(:as_dollar) },
+    { :name => :avg,           :title => 'Ave Price', :format => method(:as_dollar) },
+    { :name => :volume,        :title => 'Vol',       :format => method(:as_pass) },
+    { :name => :match,         :title => 'Match',     :format => method(:as_pass) },
+    { :name => :score,         :title => 'Score',     :format => method(:as_pass) },
+    { :name => :cards_in_item, :title => '# Cards',   :format => method(:as_pass) },
   ]
 end

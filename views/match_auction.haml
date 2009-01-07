@@ -20,3 +20,7 @@
     %input{ :type => 'hidden', :name =>'card_no', :value => -1 }
     %input{ :type => 'hidden', :name =>'cards_in_item', :value => 0 }
     %input{ :type => 'submit', :value => 'Not a Card' }
+  
+  =render_dataset("Possible Matches", @possible_matches)
+
+      

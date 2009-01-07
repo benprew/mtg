@@ -1,12 +1,13 @@
+!!!strict
 %html
   %head
     %title= "mtg - #{@title}"
     %meta{ :name => 'description', :content => @description }
     %link{ :rel => "stylesheet", :href => "/style.css", :type => "text/css" }
-%body
-  .header
-    %div{ :style => 'float: right' }
-      %a{ :href=>'/' } Home
-      %a{ :href=>'/match_auction' } Match Auctions
-    = search_box()
-  = yield
+  %body
+    .header
+      %div{ :style => 'float: right' }
+        %a{ :href=>'/' } Home
+        %a{ :href=>'/match_auction' } Match Auctions
+      = search_box()
+    = yield

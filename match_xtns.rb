@@ -41,7 +41,7 @@ m = Matcher.new()
 
 warn "done building card keywords"
 
-ExternalItem.all(:card_no => nil).each do |i|
+ExternalItem.all().each do |i|
   possible_matches = m.match(i.description)
   next unless possible_matches.length > 0
 

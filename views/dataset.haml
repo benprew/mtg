@@ -2,9 +2,10 @@
   .ds_header= @dataset_title
   %table.dataset
     %thead    
-      - @dataset.header.each do |h|
-        %th
-          = h[:title]
+      %tr
+        - @dataset.header.each do |h|
+          %th
+            = h[:title]
     - @dataset.rows.each do |row|
       %tr
         - row.each do |field|
