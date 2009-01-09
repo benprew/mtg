@@ -6,8 +6,7 @@ require 'mtg/external_item'
 require 'mtg/matcher'
 require 'mtg/card'
 require 'mtg/possible_match'
-
-DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
+require 'mtg/db'
 
 def _match_card(external_item, card_no)
   warn "matching card: #{card_no}"
@@ -26,6 +25,7 @@ def _cards_in_item(external_item)
 end
 
 def _save_possible_matches(ext_item, possible_matches)
+  repository(:default).adapter.execute('DELETE FROM possible_matches WHERE external_item_id = ?', [ext_item.external_item_id])
   possible_matches.each do |pm|
     PossibleMatch.create(
       :external_item_id => ext_item.external_item_id,
@@ -41,7 +41,7 @@ m = Matcher.new()
 
 warn "done building card keywords"
 
-ExternalItem.all().each do |i|
+ExternalItem.all(:card_no => nil).each do |i|
   possible_matches = m.match(i.description)
   next unless possible_matches.length > 0
 
