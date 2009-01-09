@@ -10,16 +10,17 @@ require 'mtg/dataset'
 require 'mtg/card'
 require 'mtg/xtn'
 require 'mtg/external_item'
+require 'mtg/db'
 
-DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
-
-error do
-  @error = request.env['sinatra.error']
-
-  warn @error
-
-  status 500
-  haml "Internal Server Error"
+configure :production do
+  error do
+    @error = request.env['sinatra.error']
+  
+    warn @error
+  
+    status 500
+    haml "Internal Server Error"
+  end
 end
 
 get '/style.css' do
@@ -52,7 +53,7 @@ end
 
 get '/chart/card/:card_no' do
   
-  xtns = repository(:default).adapter.query("select sum(xtns) as volume, sum(price) as price, date from xtns where card_no = ? group by date order by date asc", [ params[:card_no] ])
+  xtns = repository(:default).adapter.query("select sum(price) / sum(xtns) as avg_price, sum(xtns) as volume, sum(price) as price, date from xtns where card_no = ? group by date order by date asc", [ params[:card_no] ])
 
   %Q(
 {
@@ -68,7 +69,7 @@ get '/chart/card/:card_no' do
       "colour":    "#9933CC",
       "text":      "Price",
       "font-size": 10,
-      "values" :   [#{xtns.map { |x| (x['price'] / x['volume']).to_i }.join(',')}]
+      "values" :   [#{xtns.map { |x| x['avg_price'].to_i }.join(',')}]
     },
     {
       "type":      "line_dot",
@@ -98,8 +99,8 @@ get '/chart/card/:card_no' do
     "colour":      "#d000d0",
     "grid_colour": "#00ff00",
     "offset":      0,
-    "max":         #{xtns.map{ |x| (x['price'] / x['volume']).to_i }.max},
-    "steps": #{xtns.map{ |x| (x['price'] / x['volume']).to_i }.max / 8}
+    "max":         #{xtns.map{ |x| (x['avg_price']).to_i }.max},
+    "steps": #{xtns.map{ |x| (x['avg_price']).to_i }.max / 8}
   }
 }
 )
@@ -128,7 +129,15 @@ get '/search' do
     @q = params[:q]
     @q.gsub!(/[^a-zA-Z0-9]+/, ' ')
 
-    @cards = Card.all(:name.like => "%#{@q}%")
+    @cards = Dataset.new(
+      [ :name, :set_name, :casting_cost, :card_no  ],
+      Card.all(:name.like => "%#{@q}%")
+    )
+
+    @cards.add_decorator(
+      :name,
+      lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) }
+    )
   end
     
   haml :search
@@ -138,34 +147,44 @@ get '/card/:card_id' do
   @card = Card.get(params[:card_id])
 
   @avg_price = average_price_for_card(@card)
+  @auctions_matched_to_card = auctions_matched_to_card(@card)
   
   haml :card
 end
 
+def auctions_matched_to_card(card)
+  auctions = repository(:default).adapter.query('select e.* as cards_in_item from external_items e inner join xtns using(external_item_id) where card_no = ? ', [ card.card_no ])
+  d = Dataset.new([:description, :price, :cards_in_item, :external_item_id, :end_time ], auctions)
+  d.add_decorator(
+    :external_item_id,
+    lambda { |val, row| %Q( #{row[:external_item_id]} <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) })
+  return d
+end
+
 def average_price_for_card(card)
-  rows = repository(:default).adapter.query('select avg(price) as avg from xtns inner join cards using (card_no) where card_no = ?', card.id)
+  rows = repository(:default).adapter.query('select sum(price) / sum(xtns) as avg from xtns inner join cards using (card_no) where card_no = ?', card.id)
   return rows[0] ? rows[0] : 0
 end
 
 def most_expensive_cards
-  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
-  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
+  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
 end
 
 def highest_volume_cards
-  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
-  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
+  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
 end
 
 def most_expensive_shards_of_alara_cards
-  cards = repository(:default).adapter.query(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, avg(price) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
-  d = Dataset.new([ :name, :set_name, :max, :min, :avg, :volume ], cards)
+  cards = repository(:default).adapter.query(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
+  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
