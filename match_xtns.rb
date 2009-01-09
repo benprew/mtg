@@ -42,6 +42,14 @@ m = Matcher.new()
 warn "done building card keywords"
 
 ExternalItem.all(:card_no => nil).each do |i|
+
+  # There are a lot of "extended art" cards on ebay now, and they sell for a
+  # lot more then the actual card, so we want to match them to "not a card"
+  if external_item.description.match(/(extended|altered).*art/i)
+    _match_card(i, -1)
+    next
+  end
+
   possible_matches = m.match(i.description)
   next unless possible_matches.length > 0
 
