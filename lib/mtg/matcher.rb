@@ -65,25 +65,28 @@ class Matcher
       end
     end
 
-    top_5 = possible_matches.sort { |a, b| b[1] <=> a[1] }[0..4]
-    top_5.each do |suggested_match|
+    top_3 = possible_matches.sort { |a, b| b[1] <=> a[1] }[0..2]
+    top_3.each do |suggested_match|
 
-      # if all keywords in the description are contained in the card name
-      has_all_keywords_in_name = Card.get(suggested_match[0]).name_keywords.inject(true) do |memo, keyword|
-        case memo
-          when false : false
-          when true : description_keywords.include?(keyword) ? true : false
-        end
+      card = Card.get(suggested_match[0])
+
+      # special case for foil cards
+      if card.name_keywords.include?('foil') && description_keywords.include?('foil')
+        suggested_match[1] += 8
       end
 
-      suggested_match[1] += 8 if has_all_keywords_in_name
-      
-      if (description_keywords & Card.get(suggested_match[0]).all_keywords).length == description_keywords.length
+      # if all keywords in the description are contained in the card name
+      if (description_keywords & card.name_keywords).length == card.name_keywords.length
         suggested_match[1] += 10
+      end
+      
+      # if all keywords and set name match
+      if (description_keywords & card.all_keywords).length == card.all_keywords.length
+        suggested_match[1] += 18
       end
     end
 
-    return top_5.sort { |a, b| b[1] <=> a[1] }
+    return top_3.sort { |a, b| b[1] <=> a[1] }
   end
 
   def _exact_name_match(description)
