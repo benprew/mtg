@@ -8,7 +8,7 @@
             = h[:title]
     - @dataset.rows.each do |row|
       %tr
-        - row.each do |field|
+        - row.each_value do |field|
           %td
             = field
   .ds_footer view report... (coming soon)
