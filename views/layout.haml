@@ -4,6 +4,10 @@
     %title= "mtg - #{@title}"
     %meta{ :name => 'description', :content => @description }
     %link{ :rel => "stylesheet", :href => "/style.css", :type => "text/css" }
+    - if @chart_url
+      %script{ :type=>"text/javascript", :src=>"/js/swfobject.js" }
+      %script{ :type => "text/javascript" }
+        = %Q{swfobject.embedSWF("#{@chart_url}", "my_chart", "750", "340", "9.0.0")}
   %body
     .header
       %div{ :style => 'float: right' }

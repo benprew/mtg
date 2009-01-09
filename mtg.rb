@@ -12,6 +12,8 @@ require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
 
+@@base_chart = '/open-flash-chart.swf'
+
 configure :production do
   error do
     @error = request.env['sinatra.error']
@@ -148,6 +150,7 @@ get '/card/:card_id' do
 
   @avg_price = average_price_for_card(@card)
   @auctions_matched_to_card = auctions_matched_to_card(@card)
+  @chart_url = @@base_chart + "?data-file=/chart/card/#{@card.card_no}"
   
   haml :card
 end
