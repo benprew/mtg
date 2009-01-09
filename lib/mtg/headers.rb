@@ -14,16 +14,22 @@ class Headers
       return h if header == h[:name]
     end
 
-    raise "No header named '#{header}' found"
+    foo = { :name => header, :title => header.to_s, :format => method(:as_pass) }
+    p foo
+    return foo
   end
 
   @@headers = [
-    { :name => :name,          :title => 'Name',      :format => method(:as_pass) },
-    { :name => :set_name,      :title => 'Set',       :format => method(:as_pass) },
+    { :name => :name,          :title => 'Name',       :format => method(:as_pass) },
+    { :name => :set_name,      :title => 'Set',        :format => method(:as_pass) },
+    { :name => :casting_cost,  :title => 'Cast. Cost', :format => method(:as_pass) },
+    { :name => :card_no,       :title => 'Card #',     :format => method(:as_pass) },
+
     { :name => :max,           :title => 'Max Price', :format => method(:as_dollar) },
     { :name => :min,           :title => 'Min Price', :format => method(:as_dollar) },
     { :name => :avg,           :title => 'Ave Price', :format => method(:as_dollar) },
     { :name => :volume,        :title => 'Vol',       :format => method(:as_pass) },
+    { :name => :price,         :title => 'Price',     :format => method(:as_dollar) },
     { :name => :match,         :title => 'Match',     :format => method(:as_pass) },
     { :name => :score,         :title => 'Score',     :format => method(:as_pass) },
     { :name => :cards_in_item, :title => '# Cards',   :format => method(:as_pass) },
