@@ -12,9 +12,10 @@
     %li support for buy-it-now auctions
 
 %div{ :style => "padding-left: 1em; padding-right: 1em" }
-  %div{ :style => "float: right; width: 49%" }
-    = render_dataset("Most Auctioned Cards", @highest_volume_cards)
-  
   %div{ :style => "float: left; width: 49%" }
     = render_dataset("Most Expensive Cards", @most_expensive_cards)
+    = render_dataset("Most Auctioned Cards", @highest_volume_cards)
+
+  %div{ :style => "float: right; width: 49%" }
     = render_dataset("Most Expensive Shards of Alara Cards", @most_expensive_shards_of_alara_cards)
+  

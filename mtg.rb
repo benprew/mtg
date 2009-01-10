@@ -155,22 +155,26 @@ get '/card/:card_id' do
   haml :card
 end
 
+get '/set/:set_name' do
+  cards = q('select * from cards where set_name = ?', [params[:set_name]])
+end
+
 def auctions_matched_to_card(card)
-  auctions = repository(:default).adapter.query('select e.* as cards_in_item from external_items e inner join xtns using(external_item_id) where card_no = ? ', [ card.card_no ])
+  auctions = q('select e.* as cards_in_item from external_items e inner join xtns using(external_item_id) where card_no = ? ', [ card.card_no ])
   d = Dataset.new([:description, :price, :cards_in_item, :external_item_id, :end_time ], auctions)
   d.add_decorator(
     :external_item_id,
-    lambda { |val, row| %Q( #{row[:external_item_id]} <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) })
+    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) })
   return d
 end
 
 def average_price_for_card(card)
-  rows = repository(:default).adapter.query('select sum(price) / sum(xtns) as avg from xtns inner join cards using (card_no) where card_no = ?', card.id)
+  rows = q('select sum(price) / sum(xtns) as avg from xtns inner join cards using (card_no) where card_no = ?', card.id)
   return rows[0] ? rows[0] : 0
 end
 
 def most_expensive_cards
-  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
+  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
@@ -178,7 +182,7 @@ def most_expensive_cards
 end
 
 def highest_volume_cards
-  cards = repository(:default).adapter.query('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
+  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
@@ -186,7 +190,7 @@ def highest_volume_cards
 end
 
 def most_expensive_shards_of_alara_cards
-  cards = repository(:default).adapter.query(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
+  cards = q(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(:name,
                   lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
@@ -202,6 +206,10 @@ helpers do
 
   def search_box
     haml :search_box, :layout => false
+  end
+
+  def q(sql, bind_params)
+    return repository(:default).adapter.query(sql, bind_params)
   end
 
 end
