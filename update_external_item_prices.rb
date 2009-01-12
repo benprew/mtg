@@ -7,13 +7,12 @@ require 'rest_client'
 require 'uri'
 require 'json'
 require 'dm-core'
+require 'mtg/db'
 require 'mtg/external_item'
 
 app_id = 'BenPrew2f-def9-421f-87b8-55dc6a53837'
 ebay_api_version = 595
 gateway = 'http://open.api.ebay.com/shopping'
-
-DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
 def url_ify(gateway, params)
   url = gateway + params.inject('?') { |r, e| r + "#{e[0]}=#{URI.escape e[1].to_s}&" }
