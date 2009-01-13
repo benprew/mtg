@@ -3,9 +3,9 @@
 require 'rubygems'
 require 'optparse'
 require 'dm-core'
+require 'mtg/db'
 require 'mtg/card'
 
-DataMapper.setup(:default, 'sqlite3:///var/db/foo')
 DataMapper.auto_migrate!
 
 options = {}
