@@ -7,9 +7,8 @@ require 'rest_client'
 require 'uri'
 require 'json'
 require 'dm-core'
+require 'mtg/db'
 require 'mtg/external_item'
-
-DataMapper.setup(:default, 'sqlite3:///var/db/mtg')
 
 dev_id = 'f36af579-ed91-4c03-b429-0507fae12064'
 app_id = 'BenPrew2f-def9-421f-87b8-55dc6a53837'
