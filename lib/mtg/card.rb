@@ -1,14 +1,12 @@
 require 'rubygems'
 require 'dm-core'
 require 'mtg/keyword'
-
-
 class Card
   include DataMapper::Resource
   include Keyword
   
   property :card_no, Integer, :key => true, :serial => true
-  property :name, String
+  property :name, String, :length => 256
   property :casting_cost, String
   property :type, String
   property :rarity, String
@@ -25,4 +23,5 @@ class Card
   def set_keywords
     keywords_from_string(self.set_name)
   end
+
 end
