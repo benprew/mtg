@@ -25,7 +25,9 @@ end
                         :responseencoding => 'JSON',
                         :callname => 'GeteBayTime' )))['Timestamp']
 
-items = ExternalItem.all(:end_time.lt => @@current_time, :has_been_finalized => false)
+@@current_time = Time.parse(@@current_time)
+
+items = ExternalItem.all(:end_time.lt => @@current_time - 24 * 60 * 60, :has_been_finalized => false)
 
 while (items.length > 0) do
   warn "getting 20 items " + items.length.to_s
