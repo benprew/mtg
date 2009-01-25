@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 $:.unshift File.dirname(__FILE__) + '/sinatra/lib'
+$:.unshift File.dirname(__FILE__) + '/sqlbuilder/lib'
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
@@ -11,8 +12,11 @@ require 'mtg/card'
 require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
+require 'mtg/builder'
 
 @@base_chart = '/open-flash-chart.swf'
+
+@@builder = Mtg::Builder.new
 
 configure :production do
   error do
@@ -156,12 +160,23 @@ get '/card/:card_id' do
 end
 
 get '/set/:set_name' do
-  cards = q('select * from cards where set_name = ?', [params[:set_name]])
+  @sets = make_dataset(
+      [:card_name, :set_name, :price],
+      :group => [:set_name],
+      :order => [:price],
+      :where => [ 'set_name = ?', [ params[:set_name] ] ]
+      )
+
+  haml :set
+
 end
 
 def auctions_matched_to_card(card)
-  auctions = q('select e.* as cards_in_item from external_items e inner join xtns using(external_item_id) where card_no = ? ', [ card.card_no ])
-  d = Dataset.new([:description, :price, :cards_in_item, :external_item_id, :end_time ], auctions)
+  d = make_dataset(
+    [:description, :price, :cards_in_item, :external_item_id, :end_time ],
+    :where => [ 'cards.card_no = ?', [card.card_no] ]
+    )
+      
   d.add_decorator(
     :external_item_id,
     lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) })
@@ -169,31 +184,37 @@ def auctions_matched_to_card(card)
 end
 
 def average_price_for_card(card)
-  rows = q('select sum(price) / sum(xtns) as avg from xtns inner join cards using (card_no) where card_no = ?', card.id)
+  rows = q(%Q{
+SELECT sum(price) / sum(xtns) as avg
+FROM xtns inner join cards using (card_no)
+WHERE card_no = ?}, card.id)
   return rows[0] ? rows[0] : 0
 end
 
 def most_expensive_cards
   cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
-  d.add_decorator(:name,
-                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  d.add_decorator(
+    :name,
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
 end
 
 def highest_volume_cards
   cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
-  d.add_decorator(:name,
-                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  d.add_decorator(
+    :name,
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
 end
 
 def most_expensive_shards_of_alara_cards
   cards = q(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
-  d.add_decorator(:name,
-                  lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+  d.add_decorator(
+    :name,
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
   return d
 end
 
@@ -208,7 +229,16 @@ helpers do
     haml :search_box, :layout => false
   end
 
-  def q(sql, bind_params)
+  def make_dataset(columns, options)
+    (sql, bind_params) = @@builder.build_query(columns, options).sql_and_bind_params
+
+    return Dataset.new(
+      columns,
+      q(sql, bind_params)
+      )
+  end
+
+  def q(sql, bind_params = [])
     return repository(:default).adapter.query(sql, bind_params)
   end
 
