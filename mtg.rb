@@ -160,12 +160,13 @@ get '/card/:card_id' do
 end
 
 get '/set/:set_name' do
-  @sets = make_dataset(
-      [:card_name, :set_name, :price],
-      :group => [:set_name],
-      :order => [:price],
-      :where => [ 'set_name = ?', [ params[:set_name] ] ]
-      )
+  set_name = params[:set_name]
+  @sets = make_dataset do
+    select :card_name, :set_name, :price
+    order_by :price
+    group_by :card_name
+    where 'set_name = ?', [ set_name ]
+  end
 
   haml :set
 
@@ -229,11 +230,15 @@ helpers do
     haml :search_box, :layout => false
   end
 
-  def make_dataset(columns, options)
-    (sql, bind_params) = @@builder.build_query(columns, options).sql_and_bind_params
+  def make_dataset(&blk)
+    plan = @@builder.query(&blk)
+
+    (sql, bind_params) = plan.sql_and_bind_params
+
+    warn sql
 
     return Dataset.new(
-      columns,
+      plan.selected_fields,
       q(sql, bind_params)
       )
   end
