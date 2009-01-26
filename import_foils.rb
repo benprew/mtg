@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+
+$:.unshift File.dirname(__FILE__) + '/lib'
+
+require 'mtg/db'
+require 'mtg/card'
+
+File.new(ARGV[0]).readlines.each do |line|
+  (card_name, set_name) = line.split(/\|/)
+  set_name.chop!
+  orig_card = Card.first(:name => card_name)
+  
+
+  next if Card.first( :name => card_name + ' Foil', :set_name => set_name )
+
+  warn "Creating foil card #{card_name} Foil : #{set_name}"
+  
+  foil_card = Card.create(
+    :name => card_name + ' Foil',
+    :casting_cost => orig_card.casting_cost,
+    :type => orig_card.type,
+    :rarity => orig_card.rarity,
+    :set_name => set_name
+    ).save
+end

@@ -43,6 +43,9 @@ warn "done building card keywords"
 
 ExternalItem.all(:card_no => nil).each do |i|
 
+  # skip cards that we have already generated matches for
+  next if PossibleMatch.first(:external_item_id => i.external_item_id)
+
   # There are a lot of "extended art" cards on ebay now, and they sell for a
   # lot more then the actual card, so we want to match them to "not a card"
   if i.description.match(/(extended|altered).*art/i)
