@@ -173,10 +173,10 @@ get '/set/:set_name' do
 end
 
 def auctions_matched_to_card(card)
-  d = make_dataset(
-    [:description, :price, :cards_in_item, :external_item_id, :end_time ],
-    :where => [ 'cards.card_no = ?', [card.card_no] ]
-    )
+  d = make_dataset do
+    select :date, :description, :price, :cards_in_item, :external_item_id, :end_time
+    where 'card_no = ?', [card.card_no]
+  end
       
   d.add_decorator(
     :external_item_id,
