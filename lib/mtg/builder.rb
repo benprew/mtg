@@ -4,45 +4,41 @@ require 'sqlbuilder'
 require 'mtg/external_item'
 
 module Mtg
-  class Builder < SqlBuilder::Builder
+  class Builder < SQLBuilder::Builder
 
-    def self.cards_resource
-      SqlBuilder::Resource.new(:cards,
-        {
-          :card_no => Integer,
-          :card_name => [ String, { :db_name => :name } ],
-          :casting_cost => String,
-          :type => String,
-          :rarity => String,
-          :set_name => String
-        },
-        [:card_no]
-        )
+    def initialize
+      super
+      table Builder.cards_table()
+      table Builder.build_resource_from_dm_model(Xtn)
+      table Builder.build_resource_from_dm_model(ExternalItem)
+    end
+
+    def self.cards_table
+      SQLBuilder::Table.new(:cards) do
+        key :card_no, Integer
+        add :card_name, String, :db_name => :name
+        add :casting_cost, String
+        add :type, String
+        add :rarity, String
+        add :set_name, String
+      end
     end
 
     def self.build_resource_from_dm_model(model)
-      table_name = model.storage_name
-      properties_hash = {}
-      key_fields = []
-      model.properties.each do |prop|
-        properties_hash[prop.name] = prop.type
-        key_fields << prop.name if prop.key?
-      end
 
-      return SqlBuilder::Resource.new(
-        table_name,
-        properties_hash,
-        key_fields
-        )
-      
+      table_name = model.storage_name
+
+      return SQLBuilder::Table.new(table_name.to_sym) do
+        model.properties.each do |prop|
+          prop.key? \
+          ? key( prop.name, prop.type ) \
+          : add( prop.name, prop.type )
+        end
+      end
     end
 
-    field SqlBuilder::Field.new( :xtns, 'sum' )
-    field SqlBuilder::Field.new( :price, 'avg' )
-
-    resource Builder.build_resource_from_dm_model(Xtn)
-    resource Builder.cards_resource
-    resource Builder.build_resource_from_dm_model(ExternalItem)
+#    field SQLBuilder::Field.new( :xtns, 'sum' )
+#    field SQLBuilder::Field.new( :price, 'avg' )
 
   end
 end
