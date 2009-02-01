@@ -1,3 +1,5 @@
+Plains|Promo
+Island|Promo
 Akroma, Angel of Wrath|Legions
 Akroma, Angel of Wrath|Time Spiral Timeshifted
 Ambush Commander|Scourge

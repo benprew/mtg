@@ -3,6 +3,7 @@
   %h3 Auction Description
   %p
     = "'#{@e.description}'"
+    %a{ :href => "http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{@e.external_item_id}" }= @e.external_item_id
   
   %form{ :action => '/match_auction', :method => 'post' }
     Card #

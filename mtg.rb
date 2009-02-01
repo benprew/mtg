@@ -115,18 +115,20 @@ end
 get '/match_auction/:external_item_id' do
   @e = ExternalItem.get(params[:external_item_id])
   @possible_matches =
-    Dataset.new( [ :name, :set_name, :score, :cards_in_item ],
+    Dataset.new( [ :card_no, :name, :set_name, :score, :cards_in_item ],
                  repository(:default).adapter.query('select card_no, name, set_name, score, 1 as cards_in_item from possible_matches inner join cards using (card_no) where external_item_id = ? order by score desc', [@e.external_item_id]))
-  @possible_matches.add_decorator(:cards_in_item, lambda do |val, row| 
-                                    @row = row
-                                    haml %Q(
+  @possible_matches.add_decorator(
+    :cards_in_item,
+    lambda do |val, row| 
+      @row = row
+      haml %Q(
 %form{ :action=> "/match_auction",  :method=>'post' }
   %input{ :type=>"text", :name=>"cards_in_item", :size=>3, :value=>"#{@e.cards_in_item}" }
   %input{ :type=>"hidden", :name=>"external_item_id", :value=>"#{@e.external_item_id}" }
   %input{ :type=>"hidden", :name=>"card_no", :value=> @row[:card_no] }
   %input{ :type=>"submit", :value=>"Match" }
 ), :layout => :false
-                                  end)
+    end)
   haml :match_auction
 end
 
@@ -193,7 +195,7 @@ WHERE card_no = ?}, card.id)
 end
 
 def most_expensive_cards
-  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by max(price/xtns) desc limit 20')
+  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by 6 desc limit 20')
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(
     :name,
