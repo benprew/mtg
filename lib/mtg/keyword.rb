@@ -19,7 +19,8 @@ module Keyword
   }
   
   def keywords_from_string(string)
-    str = string.gsub(/'/, '')
+    str = string.gsub(/ s /, 's ')
+    str = str.gsub(/'/, '')
     str = str.gsub(/[^a-zA-Z0-9]/, ' ')
     str.downcase!
     str = str.gsub(/free shipping/, ' ')
