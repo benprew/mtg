@@ -6,8 +6,6 @@ require 'dm-core'
 require 'mtg/db'
 require 'mtg/card'
 
-DataMapper.auto_migrate!
-
 options = {}
 
 OptionParser.new do |opts|
@@ -24,8 +22,10 @@ open(ARGV[0]) do |f|
     line.chop!
     next unless line.match(/\w/)
     
-    (key, val) = line.split(/\t/)
+    (key, val) = line.split(/:\t/)
+
     key.downcase!
+    key.gsub!(/[^a-z]/, '_')
     key = key.to_sym
     card[key] = val
     is_full_card = false
@@ -33,7 +33,7 @@ open(ARGV[0]) do |f|
     # cards end on the set_rarity key, so we only really check if that's set
     if key == :set_rarity
       is_full_card = true
-      %w(cardname set_rarity cost type).each do |required_key|
+      %w(cardname set_rarity cost type rules_text).each do |required_key|
         if !card.has_key?(required_key.to_sym)
           p card
           warn "missing key #{required_key}"
@@ -48,11 +48,14 @@ open(ARGV[0]) do |f|
         arr = sr.split(/\s+/)
         rarity = arr.pop
         set = arr.join(" ")
-        c = Card.first_or_create( :name => card[:cardname],
-                     :type => card[:type],
-                     :casting_cost => card[:cost],
-                     :set_name => set,
-                     :rarity => rarity )
+        c = Card.first_or_create(:name => card[:cardname])
+
+        c.update_attributes(
+          :type => card[:type],
+          :casting_cost => card[:cost],
+          :set_name => set,
+          :rules_text => card[:rules_text],
+          :rarity => rarity )
         c.save
       end
       card = {}

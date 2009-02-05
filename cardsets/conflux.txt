@@ -1,0 +1,1014 @@
+CardName:	Absorb Vis
+Cost:	6B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player loses 4 life and you gain 4 life. Basic landcycling 1B (1B, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Aerie Mystics
+Cost:	4W
+Type:	Creature - Bird Wizard
+Pow/Tgh:	3/3
+Rules Text:	Flying 1GU: Creatures you control gain shroud until end of turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Ancient Ziggurat
+Cost:	
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add one mana of any color to your mana pool. Spend this mana only to play creature spells.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Apocalypse Hydra
+Cost:	XRG
+Type:	Creature - Hydra
+Pow/Tgh:	0/0
+Rules Text:	Apocalypse Hydra comes into play with X +1/+1 counters on it. If X is 5 or more, it comes into play with an additional X +1/+1 counters on it. 1R, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Armillary Sphere
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	2, T, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Asha's Favor
+Cost:	2W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature Enchanted creature has flying, first strike, and vigilance.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Aven Squire
+Cost:	1W
+Type:	Creature - Bird Soldier
+Pow/Tgh:	1/1
+Rules Text:	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Aven Trailblazer
+Cost:	2W
+Type:	Creature - Bird Soldier
+Pow/Tgh:	2/*
+Rules Text:	Flying Domain - Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Banefire
+Cost:	XR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Banefire deals X damage to target creature or player. If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Beacon Behemoth
+Cost:	3GG
+Type:	Creature - Beast
+Pow/Tgh:	5/3
+Rules Text:	1: Target creature with power 5 or greater gains vigilance until end of turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Blood Tyrant
+Cost:	4UBR
+Type:	Creature - Vampire
+Pow/Tgh:	5/5
+Rules Text:	Flying, trample At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way. Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Bloodhall Ooze
+Cost:	R
+Type:	Creature - Ooze
+Pow/Tgh:	1/1
+Rules Text:	At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze. At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Bone Saw
+Cost:	0
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Equipped creature gets +1/+0. Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Brackwater Elemental
+Cost:	2U
+Type:	Creature - Elemental
+Pow/Tgh:	4/4
+Rules Text:	When Brackwater Elemental attacks or blocks, sacrifice it at end of turn. Unearth 2U (2U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Canyon Minotaur
+Cost:	3R
+Type:	Creature - Minotaur Warrior
+Pow/Tgh:	3/3
+Rules Text:	
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Celestial Purge
+Cost:	1W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Remove target black or red permanent from the game.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Charnelhoard Wurm
+Cost:	4BRG
+Type:	Creature - Wurm
+Pow/Tgh:	6/6
+Rules Text:	Trample Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Child of Alara
+Cost:	WUBRG
+Type:	Legendary Creature - Avatar
+Pow/Tgh:	6/6
+Rules Text:	Trample When Child of Alara is put into a graveyard from play, destroy all nonland permanents. They can't be regenerated.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Cliffrunner Behemoth
+Cost:	3G
+Type:	Creature - Rhino Beast
+Pow/Tgh:	5/3
+Rules Text:	Cliffrunner Behemoth has haste as long as you control a red permanent. Cliffrunner Behemoth has lifelink as long as you control a white permanent.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Conflux
+Cost:	3WUBRG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Constricting Tendrils
+Cost:	U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets -3/-0 until end of turn. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Controlled Instincts
+Cost:	U
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant red or green creature Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Corrupted Roots
+Cost:	B
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant Forest or Plains Whenever enchanted land becomes tapped, its controller loses 2 life.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Countersquall
+Cost:	UB
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target noncreature spell. Its controller loses 2 life.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Court Homunculus
+Cost:	W
+Type:	Artifact Creature - Homunculus
+Pow/Tgh:	1/1
+Rules Text:	Court Homunculus gets +1/+1 as long as you control another artifact.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Cumber Stone
+Cost:	3U
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Creatures your opponents control get -1/-0.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Cylian Sunsinger
+Cost:	1G
+Type:	Creature - Elf Shaman
+Pow/Tgh:	2/2
+Rules Text:	RGW: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Dark Temper
+Cost:	2R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Darklit Gargoyle
+Cost:	1W
+Type:	Artifact Creature - Gargoyle
+Pow/Tgh:	1/2
+Rules Text:	Flying B: Darklit Gargoyle gets +2/-1 until end of turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Drag Down
+Cost:	2B
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Domain - Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Dragonsoul Knight
+Cost:	2R
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	First strike WUBRG: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Dreadwing
+Cost:	B
+Type:	Creature - Zombie
+Pow/Tgh:	1/1
+Rules Text:	1UR: Dreadwing gets +3/+0 and gains flying until end of turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Elder Mastery
+Cost:	3UBR
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature Enchanted creature gets +3/+3 and has flying. Whenever enchanted creature deals damage to a player, that player discards two cards.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Ember Weaver
+Cost:	2G
+Type:	Creature - Spider
+Pow/Tgh:	2/3
+Rules Text:	Reach (This can block creatures with flying.) As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Esper Cormorants
+Cost:	2WU
+Type:	Artifact Creature - Bird
+Pow/Tgh:	3/3
+Rules Text:	Flying
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Esperzoa
+Cost:	2U
+Type:	Artifact Creature - Jellyfish
+Pow/Tgh:	4/3
+Rules Text:	Flying At the beginning of your upkeep, return an artifact you control to its owner's hand.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Ethersworn Adjudicator
+Cost:	4U
+Type:	Artifact Creature - Vedalken Knight
+Pow/Tgh:	4/4
+Rules Text:	Flying 1WB, T Destroy target creature or enchantment. 2U: Untap Ethersworn Adjudicator.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Exotic Orchard
+Cost:	
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add to your mana pool one mana of any color that a land an opponent controls could produce.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Exploding Borders
+Cost:	2RG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Domain - Search your library for a basic land card, put that card into play tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Extractor Demon
+Cost:	4BB
+Type:	Creature - Demon
+Pow/Tgh:	5/5
+Rules Text:	Flying Whenever another creature leaves play, you may have target player put the top two cards of his or her library into his or her graveyard. Unearth 2B (2B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Faerie Mechanist
+Cost:	3U
+Type:	Artifact Creature - Faerie Artificer
+Pow/Tgh:	2/2
+Rules Text:	Flying When Faerie Mechanist comes into play, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Fiery Fall
+Cost:	5R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Fiery Fall deals 5 damage to target creature. Basic landcycling 1R (1R, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Filigree Fracture
+Cost:	2G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Fleshformer
+Cost:	2B
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	WUBRG: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Play this ability only during your turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Font of Mythos
+Cost:	4
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	At the beginning of each player's draw step, that player draws two additional cards.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Frontline Sage
+Cost:	2U
+Type:	Creature - Human Wizard
+Pow/Tgh:	0/1
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) U, T Draw a card, then discard a card.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Fusion Elemental
+Cost:	WUBRG
+Type:	Creature - Elemental
+Pow/Tgh:	8/8
+Rules Text:	
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Giltspire Avenger
+Cost:	GWU
+Type:	Creature - Human Soldier
+Pow/Tgh:	2/2
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) T Destroy target creature that dealt damage to you this turn.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Gleam of Resistance
+Cost:	4W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Creatures you control get +1/+2 until end of turn. Untap those creatures. Basic landcycling 1W (1W, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Gluttonous Slime
+Cost:	2G
+Type:	Creature - Ooze
+Pow/Tgh:	2/2
+Rules Text:	Flash Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.)
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Goblin Outlander
+Cost:	BR
+Type:	Creature - Goblin Scout
+Pow/Tgh:	2/2
+Rules Text:	Protection from white
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Goblin Razerunners
+Cost:	2RR
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	3/4
+Rules Text:	1R, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners. At the end of your turn, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Grixis Illusionist
+Cost:	U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	T Target land you control becomes the basic land type of your choice until end of turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Grixis Slavedriver
+Cost:	5B
+Type:	Creature - Zombie Giant
+Pow/Tgh:	4/4
+Rules Text:	When Grixis Slavedriver leaves play, put a 2/2 black Zombie creature token into play. Unearth 3B (3B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Gwafa Hazid, Profiteer
+Cost:	1WU
+Type:	Legendary Creature - Human Rogue
+Pow/Tgh:	2/2
+Rules Text:	WU, T Put a bribery counter on target creature you don't control. Its controller draws a card. Creatures with bribery counters on them can't attack or block.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Hellkite Hatchling
+Cost:	2RG
+Type:	Creature - Dragon
+Pow/Tgh:	2/2
+Rules Text:	Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) Hellkite Hatchling has flying and trample if it devoured a creature.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Hellspark Elemental
+Cost:	1R
+Type:	Creature - Elemental
+Pow/Tgh:	3/1
+Rules Text:	Trample, haste At end of turn, sacrifice Hellspark Elemental. Unearth 1R (1R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Ignite Disorder
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Ignite Disorder deals 3 damage divided as you choose among any number of target white and/or blue creatures.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Infectious Horror
+Cost:	3B
+Type:	Creature - Zombie Horror
+Pow/Tgh:	2/2
+Rules Text:	Whenever Infectious Horror attacks, each opponent loses 2 life.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Inkwell Leviathan
+Cost:	7UU
+Type:	Artifact Creature - Leviathan
+Pow/Tgh:	7/11
+Rules Text:	Islandwalk, trample, shroud
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Jhessian Balmgiver
+Cost:	1WU
+Type:	Creature - Human Cleric
+Pow/Tgh:	1/1
+Rules Text:	T Prevent the next 1 damage that would be dealt to target creature or player this turn. T Target creature is unblockable this turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Kaleidostone
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	When Kaleidostone comes into play, draw a card. 5, T, Sacrifice Kaleidostone: Add WUBRG to your mana pool.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Kederekt Parasite
+Cost:	B
+Type:	Creature - Horror
+Pow/Tgh:	1/1
+Rules Text:	Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Knight of the Reliquary
+Cost:	1GW
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	Knight of the Reliquary gets +1/+1 for each land card in your graveyard. T, Sacrifice a Forest or Plains: Search your library for a land card, put it into play, then shuffle your library.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Knotvine Mystic
+Cost:	RGW
+Type:	Creature - Elf Druid
+Pow/Tgh:	2/2
+Rules Text:	1, T Add RGW to your mana pool.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Kranioceros
+Cost:	4R
+Type:	Creature - Beast
+Pow/Tgh:	5/2
+Rules Text:	1W: Kranioceros gets +0/+3 until end of turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Lapse of Certainty
+Cost:	2W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Maelstrom Archangel
+Cost:	WUBRG
+Type:	Creature - Angel
+Pow/Tgh:	5/5
+Rules Text:	Flying Whenever Maelstrom Archangel deals combat damage to a player, you may play a nonland card from your hand without paying its mana cost.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Magister Sphinx
+Cost:	4WUB
+Type:	Artifact Creature - Sphinx
+Pow/Tgh:	5/5
+Rules Text:	Flying When Magister Sphinx comes into play, target player's life total becomes 10.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Malfegor
+Cost:	2BBRR
+Type:	Legendary Creature - Demon Dragon
+Pow/Tgh:	6/6
+Rules Text:	Flying When Malfegor comes into play, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Mana Cylix
+Cost:	1
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1, T Add one mana of any color to your mana pool.
+Set/Rarity:	Conflux Common, Planeshift Uncommon
+ 	 
+CardName:	Manaforce Mace
+Cost:	4
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Domain - Equipped creature gets +1/+1 for each basic land type among lands you control. Equip 3
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Maniacal Rage
+Cost:	1R
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature Enchanted creature gets +2/+2 and can't block.
+Set/Rarity:	Conflux Common, Invasion Common, Battle Royale Box Set Common, Exodus Common
+ 	 
+CardName:	Mark of Asylum
+Cost:	1W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Prevent all noncombat damage that would be dealt to creatures you control.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Martial Coup
+Cost:	XWW
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Put X 1/1 white Soldier creature tokens into play. If X is 5 or more, destroy all other creatures.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Master Transmuter
+Cost:	3U
+Type:	Artifact Creature - Human Artificer
+Pow/Tgh:	1/2
+Rules Text:	U, T, Return an artifact you control to its owner's hand: You may put an artifact card from your hand into play.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Matca Rioters
+Cost:	2G
+Type:	Creature - Human Warrior
+Pow/Tgh:	*/*
+Rules Text:	Domain - Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Meglonoth
+Cost:	3RGW
+Type:	Creature - Beast
+Pow/Tgh:	6/6
+Rules Text:	Vigilance, trample Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Might of Alara
+Cost:	G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Domain - Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Mirror-Sigil Sergeant
+Cost:	5W
+Type:	Creature - Rhino Soldier
+Pow/Tgh:	4/4
+Rules Text:	Trample At the beginning of your upkeep, if you control a blue permanent, you may put a token into play that's a copy of Mirror-Sigil Sergeant.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Molten Frame
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact creature. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Nacatl Hunt-Pride
+Cost:	5W
+Type:	Creature - Cat Warrior
+Pow/Tgh:	5/4
+Rules Text:	Vigilance R, T Target creature can't block this turn. G, T Target creature blocks this turn if able.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Nacatl Outlander
+Cost:	RG
+Type:	Creature - Cat Scout
+Pow/Tgh:	2/2
+Rules Text:	Protection from blue
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Nacatl Savage
+Cost:	1G
+Type:	Creature - Cat Warrior
+Pow/Tgh:	2/1
+Rules Text:	Protection from artifacts
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Nicol Bolas, Planeswalker
+Cost:	4UBBR
+Type:	Planeswalker - Bolas
+Pow/Tgh:	/5
+Rules Text:	+3: Destroy target noncreature permanent. -2: Gain control of target creature. -9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Noble Hierarch
+Cost:	G
+Type:	Creature - Human Druid
+Pow/Tgh:	0/1
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) T Add G, W, or U to your mana pool.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Nyxathid
+Cost:	1BB
+Type:	Creature - Elemental
+Pow/Tgh:	7/7
+Rules Text:	As Nyxathid comes into play, choose an opponent. Nyxathid gets -1/-1 for each card in the chosen player's hand.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Obelisk of Alara
+Cost:	6
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1W, T You gain 5 life. 1U, T Draw a card, then discard a card. 1B, T Target creature gets -2/-2 until end of turn. 1R, T Obelisk of Alara deals 3 damage to target player. 1G, T Target creature gets +4/+4 until end of turn.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Paleoloth
+Cost:	4GG
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	Whenever another creature with power 5 or greater comes into play under your control, you may return target creature card from your graveyard to your hand.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Paragon of the Amesha
+Cost:	2W
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	First strike WUBRG: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Parasitic Strix
+Cost:	2U
+Type:	Artifact Creature - Bird
+Pow/Tgh:	2/2
+Rules Text:	Flying When Parasitic Strix comes into play, if you control a black permanent, target player loses 2 life and you gain 2 life.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Path to Exile
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Remove target creature from the game. Its controller may search his or her library for a basic land card, put that card into play tapped, then shuffle his or her library.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Pestilent Kathari
+Cost:	2B
+Type:	Creature - Bird Warrior
+Pow/Tgh:	1/1
+Rules Text:	Flying Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.) 2R: Pestilent Kathari gains first strike until end of turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Progenitus
+Cost:	WWUUBBRRGG
+Type:	Legendary Creature - Hydra Avatar
+Pow/Tgh:	10/10
+Rules Text:	Protection from everything If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Quenchable Fire
+Cost:	3R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays U before that step.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Rakka Mar
+Cost:	2RR
+Type:	Legendary Creature - Human Shaman
+Pow/Tgh:	2/2
+Rules Text:	Haste R, T Put a 3/1 red Elemental creature token with haste into play.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Reliquary Tower
+Cost:	
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	You have no maximum hand size. T Add 1 to your mana pool.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Rhox Bodyguard
+Cost:	3GW
+Type:	Creature - Rhino Monk Soldier
+Pow/Tgh:	2/3
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) When Rhox Bodyguard comes into play, you gain 3 life.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Rhox Meditant
+Cost:	3W
+Type:	Creature - Rhino Monk
+Pow/Tgh:	2/4
+Rules Text:	When Rhox Meditant comes into play, if you control a green permanent, draw a card.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Rotting Rats
+Cost:	1B
+Type:	Creature - Zombie Rat
+Pow/Tgh:	1/1
+Rules Text:	When Rotting Rats comes into play, each player discards a card. Unearth 1B (1B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Rupture Spire
+Cost:	
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Rupture Spire comes into play tapped. When Rupture Spire comes into play, sacrifice it unless you pay 1. T Add one mana of any color to your mana pool.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Sacellum Archers
+Cost:	2G
+Type:	Creature - Elf Archer
+Pow/Tgh:	2/3
+Rules Text:	RW, T Sacellum Archers deals 2 damage to target attacking or blocking creature.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Salvage Slasher
+Cost:	1B
+Type:	Artifact Creature - Human Rogue
+Pow/Tgh:	1/1
+Rules Text:	Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Scarland Thrinax
+Cost:	BRG
+Type:	Creature - Lizard
+Pow/Tgh:	2/2
+Rules Text:	Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Scattershot Archer
+Cost:	G
+Type:	Creature - Elf Archer
+Pow/Tgh:	1/2
+Rules Text:	T Scattershot Archer deals 1 damage to each creature with flying.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Scepter of Dominance
+Cost:	1WW
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	W, T Tap target permanent.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Scepter of Fugue
+Cost:	BB
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1B, T Target player discards a card. Play this ability only during your turn.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Scepter of Insight
+Cost:	1UU
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	3U, T Draw a card.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Scornful Æther-Lich
+Cost:	3U
+Type:	Artifact Creature - Zombie Wizard
+Pow/Tgh:	2/4
+Rules Text:	WB: Scornful AEther-Lich gains fear and vigilance until end of turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Sedraxis Alchemist
+Cost:	2B
+Type:	Creature - Zombie Wizard
+Pow/Tgh:	2/2
+Rules Text:	When Sedraxis Alchemist comes into play, if you control a blue permanent, return target nonland permanent to its owner's hand.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Shambling Remains
+Cost:	1BR
+Type:	Creature - Zombie Horror
+Pow/Tgh:	4/3
+Rules Text:	Shambling Remains can't block. Unearth BR (BR: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Shard Convergence
+Cost:	3G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Sigil of the Empty Throne
+Cost:	3WW
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever you play an enchantment spell, put a 4/4 white Angel creature token with flying into play.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Skyward Eye Prophets
+Cost:	3GWU
+Type:	Creature - Human Wizard
+Pow/Tgh:	3/3
+Rules Text:	Vigilance T Reveal the top card of your library. If it's a land card, put it into play. Otherwise, put it into your hand.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Sludge Strider
+Cost:	1WUB
+Type:	Artifact Creature - Insect
+Pow/Tgh:	3/3
+Rules Text:	Whenever another artifact comes into play under your control or another artifact you control leaves play, you may pay 1. If you do, target player loses 1 life and you gain 1 life.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Soul's Majesty
+Cost:	4G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Draw cards equal to the power of target creature you control.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Sphinx Summoner
+Cost:	3UB
+Type:	Artifact Creature - Sphinx
+Pow/Tgh:	3/3
+Rules Text:	Flying When Sphinx Summoner comes into play, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Spore Burst
+Cost:	3G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Domain - Put a 1/1 green Saproling creature token into play for each basic land type among lands you control.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Suicidal Charge
+Cost:	3BR
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Sylvan Bounty
+Cost:	5G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target player gains 8 life. Basic landcycling 1G (1G, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Telemin Performance
+Cost:	3UU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card into play under your control.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Thornling
+Cost:	3GG
+Type:	Creature - Elemental Shapeshifter
+Pow/Tgh:	4/4
+Rules Text:	G: Thornling gains haste until end of turn. G: Thornling gains trample until end of turn. G: Thornling is indestructible this turn. 1: Thornling gets +1/-1 until end of turn. 1: Thornling gets -1/+1 until end of turn.
+Set/Rarity:	Conflux MythicRare
+ 	 
+CardName:	Toxic Iguanar
+Cost:	R
+Type:	Creature - Lizard
+Pow/Tgh:	1/1
+Rules Text:	Toxic Iguanar has deathtouch as long as you control a green permanent. (Whenever it deals damage to a creature, destroy that creature.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Traumatic Visions
+Cost:	3UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell. Basic landcycling 1U (1U, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Tukatongue Thallid
+Cost:	G
+Type:	Creature - Fungus
+Pow/Tgh:	1/1
+Rules Text:	When Tukatongue Thallid is put into a graveyard from play, put a 1/1 green Saproling creature token into play.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Unstable Frontier
+Cost:	
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Target land you control becomes the basic land type of your choice until end of turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Unsummon
+Cost:	U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return target creature to its owner's hand.
+Set/Rarity:	Conflux Common, Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+ 	 
+CardName:	Vagrant Plowbeasts
+Cost:	5GW
+Type:	Creature - Beast
+Pow/Tgh:	6/6
+Rules Text:	1: Regenerate target creature with power 5 or greater.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Valeron Outlander
+Cost:	GW
+Type:	Creature - Human Scout
+Pow/Tgh:	2/2
+Rules Text:	Protection from black
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Valiant Guard
+Cost:	W
+Type:	Creature - Human Soldier
+Pow/Tgh:	0/3
+Rules Text:	
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Vectis Agents
+Cost:	3UB
+Type:	Artifact Creature - Human Rogue
+Pow/Tgh:	4/3
+Rules Text:	UB: Vectis Agents gets -2/-0 until end of turn and is unblockable this turn.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Vedalken Outlander
+Cost:	WU
+Type:	Artifact Creature - Vedalken Scout
+Pow/Tgh:	2/2
+Rules Text:	Protection from red
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Viashino Slaughtermaster
+Cost:	1R
+Type:	Creature - Viashino Warrior
+Pow/Tgh:	1/1
+Rules Text:	Double strike BG: Viashino Slaughtermaster gets +1/+1 until end of turn. Play this ability only once each turn.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	View from Above
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Voices from the Void
+Cost:	4B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Domain - Target player discards a card for each basic land type among lands you control.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Volcanic Fallout
+Cost:	1RR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Volcanic Fallout can't be countered. Volcanic Fallout deals 2 damage to each creature and each player.
+Set/Rarity:	Conflux Uncommon
+ 	 
+CardName:	Voracious Dragon
+Cost:	3RR
+Type:	Creature - Dragon
+Pow/Tgh:	4/4
+Rules Text:	Flying Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) When Voracious Dragon comes into play, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Wall of Reverence
+Cost:	3W
+Type:	Creature - Spirit Wall
+Pow/Tgh:	1/6
+Rules Text:	Defender, flying At the end of your turn, you may gain life equal to the power of target creature you control.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Wandering Goblins
+Cost:	2R
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	0/3
+Rules Text:	Domain - 3: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Wild Leotau
+Cost:	2GG
+Type:	Creature - Cat
+Pow/Tgh:	5/4
+Rules Text:	At the beginning of your upkeep, sacrifice Wild Leotau unless you pay G.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Worldheart Phoenix
+Cost:	3R
+Type:	Creature - Phoenix
+Pow/Tgh:	2/2
+Rules Text:	Flying You may play Worldheart Phoenix from your graveyard by paying WUBRG rather than paying its mana cost. If you do, it comes into play with two +1/+1 counters on it.
+Set/Rarity:	Conflux Rare
+ 	 
+CardName:	Worldly Counsel
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Domain - Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+Set/Rarity:	Conflux Common, Invasion Common
+ 	 
+CardName:	Wretched Banquet
+Cost:	B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target creature if it has the least power or is tied for least power among creatures in play.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Yoke of the Damned
+Cost:	1B
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature When a creature is put into a graveyard from play, destroy enchanted creature.
+Set/Rarity:	Conflux Common
+ 	 
+CardName:	Zombie Outlander
+Cost:	UB
+Type:	Creature - Zombie Scout
+Pow/Tgh:	2/2
+Rules Text:	Protection from green
+Set/Rarity:	Conflux Common
