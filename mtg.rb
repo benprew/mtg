@@ -36,7 +36,7 @@ end
 
 get '/' do
   @most_expensive_cards = most_expensive_cards()
-  @most_expensive_shards_of_alara_cards = most_expensive_shards_of_alara_cards()
+  @most_expensive_conflux_cards = most_expensive_conflux_cards()
   @highest_volume_cards = highest_volume_cards()
   haml :index
 end
@@ -212,8 +212,8 @@ def highest_volume_cards
   return d
 end
 
-def most_expensive_shards_of_alara_cards
-  cards = q(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Shards of Alara' group by c.card_no order by max(price/xtns) desc limit 20})
+def most_expensive_conflux_cards
+  cards = q(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Conflux' group by c.card_no order by 6 desc limit 20})
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(
     :name,

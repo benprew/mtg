@@ -1,10 +1,16 @@
+
+
 %h3= @card.name
 
-%strong Price as of 12/30/2008
+%div{ :style => "float: right" }
+  #my_chart
+
+%strong Price
 
 %h2= sprintf("%.2f", @avg_price)
 
-%div
+
+%div{ :style=>"width: 25%" }
   %p
     %strong Set:
     = @card.set_name
@@ -17,8 +23,9 @@
   %p
     %strong Rarity:
     = @card.rarity
-
-#my_chart
+  %p
+    %strong Rules Text:
+    = @card.rules_text
 
 %div
   = render_dataset("Auctions associated with this card", @auctions_matched_to_card)
