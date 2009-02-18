@@ -35,7 +35,7 @@ end
 
 get '/' do
   @most_expensive_cards = most_expensive_cards()
-  @most_expensive_conflux_cards = most_expensive_conflux_cards()
+  @most_expensive_conflux_cards = most_expensive_cards('Conflux')
   @highest_volume_cards = highest_volume_cards()
   haml :index
 end
@@ -213,42 +213,20 @@ def auctions_matched_to_card(card)
       
   d.add_decorator(
     :external_item_id,
-    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) })
+    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting
   return d
 end
 
+
 def average_price_for_card(card)
   rows = q(%Q{
-SELECT sum(price) / sum(xtns) as avg
-FROM xtns inner join cards using (card_no)
+SELECT sum(price) / sum(xtns) AS avg
+FROM xtns INNER JOIN cards USING (card_no)
 WHERE card_no = ?}, card.id)
   return rows[0] ? rows[0] : 0
 end
 
-def most_expensive_cards
-  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by 6 desc limit 20')
-  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
-  d.add_decorator(
-    :name,
-    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
-
-  d.add_decorator(
-    :set_name,
-    lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
-
-  return d
-end
-
-def highest_volume_cards
-  cards = q('select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) group by c.card_no order by sum(xtns) desc limit 20')
-  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
-  d.add_decorator(
-    :name,
-    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
-  return d
-end
-
-def most_expensive_conflux_cards
+def most_expensive_cards(set_name = false)
   cards = q(%Q{
     SELECT
       card_no,
@@ -261,12 +239,39 @@ def most_expensive_conflux_cards
     FROM
       xtns INNER JOIN
       cards c USING (card_no)
-    WHERE
-      set_name = ? 
-    GROUP BY
-      c.card_no
+    #{ set_name ? " WHERE set_name = ? " : "" }
+    GROUP BY c.card_no
     ORDER BY 6 DESC
-    LIMIT 20 }, ['Conflux'])
+    LIMIT 20  }, set_name ? [ set_name ] : [])
+  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
+
+  d.add_decorator(
+    :name,
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+
+  d.add_decorator(
+    :set_name,
+    lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
+
+  return d
+end
+
+def highest_volume_cards
+  cards = q(%Q{
+    SELECT
+      card_no,
+      max(c.name) as name,
+      max(c.set_name) as set_name,
+      max(price/xtns) as max,
+      min(price/xtns) as min,
+      sum(price) / sum(xtns) as avg,
+      ifnull(sum(xtns), 0) as volume
+    FROM
+      xtns INNER JOIN
+      cards c USING (card_no)
+    GROUP BY c.card_no
+    ORDER BY sum(xtns) DESC
+    LIMIT 20 })
 
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(
@@ -276,6 +281,7 @@ def most_expensive_conflux_cards
   d.add_decorator(
     :set_name,
     lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
+
   return d
 end
 
