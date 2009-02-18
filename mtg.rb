@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 $:.unshift File.dirname(__FILE__) + '/sinatra/lib'
-$:.unshift File.dirname(__FILE__) + '/sqlbuilder/lib'
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
@@ -58,8 +57,17 @@ get '/match_auction' do
 end
 
 get '/chart/card/:card_no' do
+  card_no = params[:card_no]
+  plan = @@builder.query do
+      select :avg_price, :xtns, :price, :date
+      where :card_no => card_no
+      group_by :date
+      order_by :date
+  end
+
+  (sql, bind_params) = plan.sql_and_bind_params
   
-  xtns = repository(:default).adapter.query("select sum(price) / sum(xtns) as avg_price, sum(xtns) as volume, sum(price) as price, date from xtns where card_no = ? group by date order by date asc", [ params[:card_no] ])
+  xtns = q(sql, bind_params)
 
   %Q(
 {
@@ -83,7 +91,7 @@ get '/chart/card/:card_no' do
       "colour":    "#0033CC",
       "text":      "Volume",
       "font-size": 10,
-      "values" :   [#{xtns.map { |x| x['volume'].to_i }.join(',')}]
+      "values" :   [#{xtns.map { |x| x['xtns'].to_i }.join(',')}]
     }
 
   ],
@@ -113,18 +121,31 @@ get '/chart/card/:card_no' do
 end
 
 get '/match_auction/:external_item_id' do
+
   @e = ExternalItem.get(params[:external_item_id])
-  @possible_matches =
-    Dataset.new( [ :card_no, :name, :set_name, :score, :cards_in_item ],
-                 repository(:default).adapter.query('select card_no, name, set_name, score, 1 as cards_in_item from possible_matches inner join cards using (card_no) where external_item_id = ? order by score desc', [@e.external_item_id]))
+  @possible_matches = 
+    Dataset.new(
+      [ :card_no, :name, :set_name, :score, :cards_in_item ],
+      q( %Q(
+        SELECT possible_matches.card_no, name, set_name, cards_in_item, score
+        FROM
+          possible_matches INNER JOIN
+          cards USING (card_no) INNER JOIN
+          external_items USING (external_item_id)
+        WHERE
+          external_item_id = ?
+        ORDER BY
+          score desc
+      ), [ params[:external_item_id] ]))
+
   @possible_matches.add_decorator(
     :cards_in_item,
     lambda do |val, row| 
       @row = row
       haml %Q(
 %form{ :action=> "/match_auction",  :method=>'post' }
-  %input{ :type=>"text", :name=>"cards_in_item", :size=>3, :value=>"#{@e.cards_in_item}" }
-  %input{ :type=>"hidden", :name=>"external_item_id", :value=>"#{@e.external_item_id}" }
+  %input{ :type=>"text", :name=>"cards_in_item", :size=>3, :value=> @row[:cards_in_item] }
+  %input{ :type=>"hidden", :name=>"external_item_id", :value=> "#{params[:external_item_id]}" }
   %input{ :type=>"hidden", :name=>"card_no", :value=> @row[:card_no] }
   %input{ :type=>"submit", :value=>"Match" }
 ), :layout => :false
@@ -163,12 +184,22 @@ end
 
 get '/set/:set_name' do
   set_name = params[:set_name]
-  @sets = make_dataset do
-    select :card_name, :set_name, :price
-    order_by :price
-    group_by :card_name
-    where 'set_name = ?', [ set_name ]
-  end
+  @sets = Dataset.new(
+    [ :card_no, :name, :set_name, :price ],
+    q(%Q(
+      SELECT card_no, name, set_name, price
+      FROM
+        cards INNER JOIN
+        xtns USING (card_no)
+      WHERE set_name = ?
+      GROUP BY name
+      ORDER BY price desc), [ params[:set_name] ])
+    )
+
+  @sets.add_decorator(
+    :name,
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+
 
   haml :set
 
@@ -177,7 +208,7 @@ end
 def auctions_matched_to_card(card)
   d = make_dataset do
     select :date, :description, :price, :cards_in_item, :external_item_id, :end_time
-    where 'card_no = ?', [card.card_no]
+    where :card_no => card.card_no
   end
       
   d.add_decorator(
@@ -200,6 +231,11 @@ def most_expensive_cards
   d.add_decorator(
     :name,
     lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+
+  d.add_decorator(
+    :set_name,
+    lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
+
   return d
 end
 
@@ -213,11 +249,33 @@ def highest_volume_cards
 end
 
 def most_expensive_conflux_cards
-  cards = q(%q{select card_no, max(c.name) as name, max(c.set_name) as set_name, max(price/xtns) as max, min(price/xtns) as min, sum(price) / sum(xtns) as avg, ifnull(sum(xtns), 0) as volume from xtns inner join cards c using (card_no) where set_name = 'Conflux' group by c.card_no order by 6 desc limit 20})
+  cards = q(%Q{
+    SELECT
+      card_no,
+      max(c.name) as name,
+      max(c.set_name) as set_name,
+      max(price/xtns) as max,
+      min(price/xtns) as min,
+      sum(price) / sum(xtns) as avg,
+      ifnull(sum(xtns), 0) as volume
+    FROM
+      xtns INNER JOIN
+      cards c USING (card_no)
+    WHERE
+      set_name = ? 
+    GROUP BY
+      c.card_no
+    ORDER BY 6 DESC
+    LIMIT 20 }, ['Conflux'])
+
   d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
   d.add_decorator(
     :name,
     lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
+
+  d.add_decorator(
+    :set_name,
+    lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
   return d
 end
 

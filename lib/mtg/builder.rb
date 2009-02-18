@@ -1,7 +1,10 @@
 $:.unshift File.dirname(__FILE__) + '/../../../sqlbuilder/lib'
 require 'date'
 require 'sqlbuilder'
+require 'mtg/db'
 require 'mtg/external_item'
+require 'mtg/xtn'
+require 'mtg/possible_match'
 
 module Mtg
   class Builder < SQLBuilder::Builder
@@ -11,6 +14,9 @@ module Mtg
       table Builder.cards_table()
       table Builder.build_resource_from_dm_model(Xtn)
       table Builder.build_resource_from_dm_model(ExternalItem)
+      table Builder.build_resource_from_dm_model(PossibleMatch)
+
+      calculation :avg_price, 'sum(?price) / sum(?xtns)', Float
     end
 
     def self.cards_table
@@ -31,15 +37,19 @@ module Mtg
       return SQLBuilder::Table.new(table_name.to_sym) do
         model.properties.each do |prop|
           prop.key? \
-          ? key( prop.name, prop.type ) \
-          : add( prop.name, prop.type )
+          ? key( prop.name, prop.type, Builder._aggregate_for_type(prop.type) ) \
+          : add( prop.name, prop.type, Builder._aggregate_for_type(prop.type) )
         end
       end
     end
 
-#    field SQLBuilder::Field.new( :xtns, 'sum' )
-#    field SQLBuilder::Field.new( :price, 'avg' )
-
+    def self._aggregate_for_type(type)
+      if type == Integer || type == Float
+        return :aggregate => 'SUM'
+      else
+        return :aggregate => 'MAX'
+      end
+    end
   end
 end
 
