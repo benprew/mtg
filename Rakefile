@@ -34,3 +34,5 @@ namespace :daemon do
     sh 'ln -sf ../init.d/mtg /etc/rc.d/rc2.d/K13mtg'
   end
 end
+
+Dir['tasks/**/*.rake'].each { |t| load t }
