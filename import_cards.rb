@@ -18,17 +18,25 @@ end.parse!
 
 card = {}
 open(ARGV[0]) do |f|
+  prev_key = ''
   f.each do |line|
     line.chop!
     next unless line.match(/\w/)
     
-    (key, val) = line.split(/:\t/)
+    (key, val) = line.split(/:?\t/)
 
     key.downcase!
     key.gsub!(/[^a-z]/, '_')
     key = key.to_sym
     card[key] = val
     is_full_card = false
+
+    if (prev_key == :rules_text && key != :set_rarity)
+      card[prev_key] += line
+      next
+    end
+
+    prev_key = key
 
     # cards end on the set_rarity key, so we only really check if that's set
     if key == :set_rarity
@@ -55,6 +63,7 @@ open(ARGV[0]) do |f|
           :casting_cost => card[:cost],
           :set_name => set,
           :rules_text => card[:rules_text],
+          :pow_tgh => card[:pow_tgh],
           :rarity => rarity )
         c.save
       end
