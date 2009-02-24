@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-$:.unshift File.dirname(__FILE__) + '/sinatra/lib'
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
