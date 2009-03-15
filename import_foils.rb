@@ -18,6 +18,8 @@ File.new(ARGV[0]).readlines.each do |line|
   foil_card = Card.create(
     :name => card_name + ' Foil',
     :casting_cost => orig_card.casting_cost,
+    :rules_text => orig_card.rules_text,
+    :pow_tgh => orig_card.pow_tgh,
     :type => orig_card.type,
     :rarity => orig_card.rarity,
     :set_name => set_name
