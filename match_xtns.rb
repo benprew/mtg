@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+$:.unshift File.dirname(__FILE__) + '/lib'
+
 require 'rubygems'
 require 'dm-core'
 require 'mtg/external_item'
@@ -40,11 +42,12 @@ end
 m = Matcher.new()
 
 warn "done building card keywords"
+count = 0
 
+# q('SELECT description, external_item_id FROM external_items e LEFT OUTER JOIN possible_matches pm USING (external_item_id) WHERE e.card_no IS null and pm.card_no IS null GROUP BY external_item_id')
 ExternalItem.all(:card_no => nil).each do |i|
-
-  # skip cards that we have already generated matches for
-  next if PossibleMatch.first(:external_item_id => i.external_item_id)
+  count += 1
+  warn "#{count} items #{Time.now()}" if count % 100 == 0
 
   # There are a lot of "extended art" cards on ebay now, and they sell for a
   # lot more then the actual card, so we want to match them to "not a card"

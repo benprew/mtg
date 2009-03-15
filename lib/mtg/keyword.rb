@@ -25,6 +25,7 @@ module Keyword
     str.downcase!
     str = str.gsub(/free shipping/, ' ')
     str = str.gsub(/magic the gathering/, ' ')
+    str = str.gsub(/ ce /, ' collectors edition ')
     str.split(/\s+/).reject { |i| @@reject_list.member?(i) }.grep(/\w{3,}/).map { |j| @@numbers.has_key?(j) ? @@numbers[j] : j }
   end
 end

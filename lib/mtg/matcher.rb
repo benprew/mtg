@@ -13,8 +13,7 @@ class Matcher
       _build_keywords_from_cards()
     end
 
-    @average_num_keywords =
-      @cards_keywords.inject(0) { |r, c| r + c.length } / @cards_keywords.length
+    @rare_keyword_limit = 5
   end
 
   def _build_keywords_from_cards()
@@ -27,7 +26,7 @@ class Matcher
   end
 
   def _points_for_keyword(keyword)
-    @cards_keywords[keyword].length >= @average_num_keywords ? 1 : 1.5
+    @cards_keywords[keyword].length >= @rare_keyword_limit ? 1 : 1.5
   end
 
   def match(description)
@@ -43,8 +42,8 @@ class Matcher
       end
     end
 
-    top_3 = possible_matches.sort { |a, b| b[1] <=> a[1] }[0..2]
-    top_3.each do |suggested_match|
+
+    possible_matches.select { |key, val| val > 1 }.each do |suggested_match|
 
       card = Card.get(suggested_match[0])
 
@@ -64,7 +63,7 @@ class Matcher
       end
     end
 
-    return top_3.sort { |a, b| b[1] <=> a[1] }
+    return possible_matches.sort { |a, b| b[1] <=> a[1] }[0..3]
   end
 
   def _exact_name_match(description)
