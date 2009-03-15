@@ -28,7 +28,7 @@ configure :production do
 end
 
 get '/style.css' do
-  headers 'Content-Type' => 'text/css'
+  response['Content-Type'] = 'text/css'
   sass :style
 end
 
@@ -192,9 +192,9 @@ get '/set/:set_name' do
   @sets = Dataset.new(
     [ :card_no, :name, :set_name, :price ],
     q(%Q(
-      SELECT card_no, name, set_name, price
+      SELECT card_no, name, set_name, sum(price)/sum(xtns) as price
       FROM
-        cards INNER JOIN
+        cards LEFT OUTER JOIN
         xtns USING (card_no)
       WHERE set_name = ?
       GROUP BY name
