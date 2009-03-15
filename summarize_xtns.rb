@@ -4,8 +4,10 @@ require 'rubygems'
 require 'dm-core'
 require 'mtg/db'
 
+warn "Deleting xtns"
 repository(:default).adapter.execute("DELETE FROM xtns")
 
+warn "Inserting new xtns"
 repository(:default).adapter.execute(%Q{
 INSERT INTO xtns
   SELECT card_no, date(end_time), external_item_id, price, 'AUCTION', cards_in_item
