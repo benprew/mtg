@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-$:.unshift File.dirname(__FILE__) + '/sinatra/lib'
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
@@ -53,7 +52,7 @@ post '/match_auction' do
 end
 
 get '/match_auction' do
-  redirect sprintf '/match_auction/%s', ExternalItem.first(:card_no => nil).external_item_id
+  redirect sprintf '/match_auction/%s', ExternalItem.first(:card_no => nil, :order => [:price.desc] ).external_item_id
 end
 
 get '/chart/card/:card_no' do
@@ -157,10 +156,16 @@ get '/search' do
   if params[:q]
     @q = params[:q]
     @q.gsub!(/[^a-zA-Z0-9]+/, ' ')
+    @q.strip!
 
     @cards = Dataset.new(
-      [ :name, :set_name, :casting_cost, :card_no  ],
-      Card.all(:name.like => "%#{@q}%")
+      [ :name, :set_name, :price, :card_no ],
+      q(%Q(
+        SELECT max(name) as name , MAX(set_name) as set_name, sum(price)/sum(xtns) as price, card_no
+        FROM cards LEFT OUTER JOIN xtns USING (card_no)
+        WHERE name like ?
+        GROUP BY card_no
+      ), [  "%#{@q}%" ])
     )
 
     @cards.add_decorator(

@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+$:.unshift File.dirname(__FILE__) + '/lib'
+
 require 'rubygems'
 require 'optparse'
 require 'dm-core'
@@ -56,12 +58,11 @@ open(ARGV[0]) do |f|
         arr = sr.split(/\s+/)
         rarity = arr.pop
         set = arr.join(" ")
-        c = Card.first_or_create(:name => card[:cardname])
+        c = Card.first_or_create(:name => card[:cardname], :set_name => set)
 
         c.update_attributes(
           :type => card[:type],
           :casting_cost => card[:cost],
-          :set_name => set,
           :rules_text => card[:rules_text],
           :pow_tgh => card[:pow_tgh],
           :rarity => rarity )
