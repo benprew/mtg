@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+$:.unshift File.dirname(__FILE__) + '/lib'
+
 require 'mtg/keyword'
 require 'mtg/db'
 require 'mtg/card'

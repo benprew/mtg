@@ -42,8 +42,9 @@ class Matcher
       end
     end
 
+    possible_mathches = possible_matches.select { |key, val| val > 1 } 
 
-    possible_matches.select { |key, val| val > 1 }.each do |suggested_match|
+    possible_matches = possible_matches.map do |suggested_match|
 
       card = Card.get(suggested_match[0])
 
