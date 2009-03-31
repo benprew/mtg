@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/local/ruby/bin/ruby
 
 $:.unshift File.dirname(__FILE__) + '/lib'
 
@@ -48,6 +48,8 @@ count = 0
 ExternalItem.all(:card_no => nil).each do |i|
   count += 1
   warn "#{count} items #{Time.now()}" if count % 100 == 0
+
+  next if PossibleMatch.first(:external_item_id => i.external_item_id)
 
   # There are a lot of "extended art" cards on ebay now, and they sell for a
   # lot more then the actual card, so we want to match them to "not a card"
