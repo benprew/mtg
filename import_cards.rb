@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/local/ruby/bin/ruby
 
 $:.unshift File.dirname(__FILE__) + '/lib'
 
