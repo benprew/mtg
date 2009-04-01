@@ -62,6 +62,8 @@ class Matcher
       if (description_keywords & card.all_keywords).length == card.all_keywords.length
         suggested_match[1] += 18
       end
+
+      suggested_match
     end
 
     return possible_matches.sort { |a, b| b[1] <=> a[1] }[0..3]
