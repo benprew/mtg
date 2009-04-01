@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/local/ruby/bin/ruby
 
 $:.unshift File.dirname(__FILE__) + '/lib'
 
@@ -162,7 +162,7 @@ get '/search' do
       [ :name, :set_name, :price, :card_no ],
       q(%Q(
         SELECT max(name) as name , MAX(set_name) as set_name, sum(price)/sum(xtns) as price, card_no
-        FROM cards LEFT OUTER JOIN xtns USING (card_no)
+        FROM cards LEFT OUTER JOIN xtns_by_card_day USING (card_no)
         WHERE name like ?
         GROUP BY card_no
       ), [  "%#{@q}%" ])
@@ -195,7 +195,7 @@ get '/set/:set_name' do
       SELECT card_no, name, set_name, sum(price)/sum(xtns) as price
       FROM
         cards LEFT OUTER JOIN
-        xtns USING (card_no)
+        xtns_by_card_day USING (card_no)
       WHERE set_name = ?
       GROUP BY name
       ORDER BY price desc), [ params[:set_name] ])
@@ -226,7 +226,7 @@ end
 def average_price_for_card(card)
   rows = q(%Q{
 SELECT sum(price) / sum(xtns) AS avg
-FROM xtns INNER JOIN cards USING (card_no)
+FROM xtns_by_card_day INNER JOIN cards USING (card_no)
 WHERE card_no = ?}, card.id)
   return rows[0] ? rows[0] : 0
 end
@@ -242,9 +242,11 @@ def most_expensive_cards(set_name = false)
       sum(price) / sum(xtns) as avg,
       ifnull(sum(xtns), 0) as volume
     FROM
-      xtns INNER JOIN
+      xtns_by_card_day INNER JOIN
       cards c USING (card_no)
-    #{ set_name ? " WHERE set_name = ? " : "" }
+    WHERE
+      date >= date_sub(curdate(), interval 16 day)
+    #{ set_name ? " AND set_name = ? " : "" }
     GROUP BY c.card_no
     ORDER BY 6 DESC
     LIMIT 20  }, set_name ? [ set_name ] : [])
@@ -272,8 +274,10 @@ def highest_volume_cards
       sum(price) / sum(xtns) as avg,
       ifnull(sum(xtns), 0) as volume
     FROM
-      xtns INNER JOIN
+      xtns_by_card_day INNER JOIN
       cards c USING (card_no)
+    WHERE
+      date >= date_sub(curdate(), interval 16 day)
     GROUP BY c.card_no
     ORDER BY sum(xtns) DESC
     LIMIT 20 })
