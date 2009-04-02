@@ -36,6 +36,25 @@ get '/' do
   @most_expensive_cards = most_expensive_cards()
   @most_expensive_conflux_cards = most_expensive_cards('Conflux')
   @highest_volume_cards = highest_volume_cards()
+  @interesting_auctions = Dataset.new(
+    [ :description, :price, :external_item_id, :end_time ],
+    q(%Q{
+      SELECT
+        description,
+        auction_price as price,
+        external_item_id,
+        end_time
+      FROM
+        external_items
+      WHERE
+        end_time > now()
+        and  (card_no is null or card_no = -1)
+      ORDER BY auction_price desc
+      LIMIT 40}))
+
+  @interesting_auctions.add_decorator(
+    :external_item_id,
+    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting
   haml :index
 end
 
