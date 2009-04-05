@@ -2,7 +2,7 @@ module Keyword
 
   # only returns keywords that are 3 chars or more
 
-  @@reject_list = %w(dci the mtg promo gathering jss fnm mint rare prerelease prix tcg textless excellent)
+  @@reject_list = %w(dci the mtg promo gathering jss fnm mint rare prerelease prix tcg textless excellent playset set unplayed beautiful pre sale)
 
   @@numbers = {
     '1st' => 'first',
@@ -27,7 +27,11 @@ module Keyword
     str = str.gsub(/\bmagic the gathering\b/, ' ')
     str = str.gsub(/\bmagic\b/, ' ')
     str = str.gsub(/\bce\b/, ' collectors edition ')
-    str.split(/\s+/).reject { |i| @@reject_list.member?(i) }.grep(/\w{3,}/).map { |j| @@numbers.has_key?(j) ? @@numbers[j] : j }
+    keywords = str.split(/\s+/).reject { |i| @@reject_list.member?(i) }.grep(/\w{3,}/).map { |j| @@numbers.has_key?(j) ? @@numbers[j] : j }
+    if keywords.include?('foil')
+      keywords = ['foil'] + keywords.select { |i| i != 'foil' }
+    end
+    keywords
   end
 end
 
