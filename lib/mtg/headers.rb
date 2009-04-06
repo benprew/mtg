@@ -39,5 +39,12 @@ class Headers
     { :name => :match,         :title => 'Match',     :format => method(:as_pass) },
     { :name => :score,         :title => 'Score',     :format => method(:as_decimal) },
     { :name => :cards_in_item, :title => '# Cards',   :format => method(:as_pass) },
+    { :name => :avg_rare_price,:title => 'Avg Rare',  :format => method(:as_dollar) },
+    { :name => :avg_uncommon_price,:title => 'Avg Uncommon',  :format => method(:as_dollar) },
+    { :name => :rare_volume,   :title => 'Vol',       :format => method(:as_int) },
+    { :name => :uncommon_volume,:title => 'Vol',       :format => method(:as_int) },
+
+
+
   ]
 end
