@@ -28,6 +28,7 @@ module Keyword
     str = str.gsub(/\bmagic\b/, ' ')
     str = str.gsub(/\bce\b/, ' collectors edition ')
     keywords = str.split(/\s+/).reject { |i| @@reject_list.member?(i) }.grep(/\w{3,}/).map { |j| @@numbers.has_key?(j) ? @@numbers[j] : j }
+    # push 'foil' to the front of the list
     if keywords.include?('foil')
       keywords = ['foil'] + keywords.select { |i| i != 'foil' }
     end
