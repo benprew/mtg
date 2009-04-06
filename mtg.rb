@@ -206,6 +206,36 @@ get '/card/:card_id' do
   haml :card
 end
 
+get '/set' do
+  @sets = Dataset.new(
+    [ :set_name, :cards_in_set, :avg_rare_price, :rare_volume, :avg_uncommon_price, :uncommon_volume ],
+    q(%Q(
+      SELECT
+        set_name,
+        count(card_no) as cards_in_set,
+        sum(case when rarity = 'Rare' then price else 0 end) / 
+        sum(case when rarity = 'Rare' then xtns else 0 end) as avg_rare_price,
+        sum(case when rarity = 'Rare' then xtns else 0 end) as rare_volume,
+
+        sum(case when rarity = 'Uncommon' then price else 0 end) / 
+        sum(case when rarity = 'Uncommon' then xtns else 0 end) as avg_uncommon_price,
+        sum(case when rarity = 'Uncommon' then xtns else 0 end) as uncommon_volume
+
+      FROM
+        cards LEFT OUTER JOIN
+        xtns_by_card_day USING (card_no)
+      WHERE
+        date >= date_sub(curdate(), interval 16 day)
+      GROUP BY set_name
+      ORDER BY 3 desc)
+    )
+  )
+
+  @sets.add_decorator(:set_name, set_link_decorator())
+  
+  haml :set
+end
+
 get '/set/:set_name' do
   set_name = params[:set_name]
   @sets = Dataset.new(
@@ -215,7 +245,9 @@ get '/set/:set_name' do
       FROM
         cards LEFT OUTER JOIN
         xtns_by_card_day USING (card_no)
-      WHERE set_name = ?
+      WHERE
+        set_name = ?
+        AND date >= date_sub(curdate(), interval 16 day)
       GROUP BY name
       ORDER BY price desc), [ params[:set_name] ])
     )
@@ -306,9 +338,7 @@ def highest_volume_cards
     :name,
     lambda { |val, row| %Q(<a href="/card/#{row[:card_no]}">#{val}</a>) })
 
-  d.add_decorator(
-    :set_name,
-    lambda { |val, row| %Q(<a href="/set/#{val}">#{val}</a>) })
+  d.add_decorator(:set_name, set_link_decorator())
 
   return d
 end
@@ -339,6 +369,13 @@ helpers do
 
   def q(sql, bind_params = [])
     return repository(:default).adapter.query(sql, bind_params)
+  end
+
+  def card_link_decorator(val, row)
+  end
+
+  def set_link_decorator
+    lambda { |val, row| %Q(<a href="/set/#{row[:set_name]}">#{val}</a>) }
   end
 
 end

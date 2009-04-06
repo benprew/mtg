@@ -11,7 +11,11 @@
   %body
     .header
       %div{ :style => 'float: right' }
+        %a{ :href=>'/set', :style=>'background-color: white'} SETS
+        %a{ :href=>'/card', :style=>'background-color: white'} CARDS
+
         %a{ :href=>'/' } Home
         %a{ :href=>'/match_auction' } Match Auctions
       = search_box()
-    = yield
+    .page
+      = yield
