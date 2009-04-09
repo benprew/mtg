@@ -10,15 +10,16 @@ require 'mtg/card'
 require 'mtg/possible_match'
 require 'mtg/db'
 
-def _match_card(external_item, card_no)
-  warn "matching card: #{card_no}"
-  external_item.card_no = card_no
-  external_item.cards_in_item = _cards_in_item(external_item)
-  external_item.save
+def _match_card(item, card_no)
+  log.debug "matching card: #{card_no}"
+  e = ExternalItem.first(item['external_item_id'])
+  e.card_no = card_no
+  e.cards_in_item = _cards_in_item(item['description'])
+  e.save
 end
 
-def _cards_in_item(external_item)
-  m = external_item.description.match(/(x\s*(\d+)|(\d)+\s*x)/i)
+def _cards_in_description(description)
+  m = description.match(/(x\s*(\d+)|(\d)+\s*x)/i)
   if m
     return m[2] || m[3]
   else

@@ -4,85 +4,72 @@ $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'trie'
 require 'mtg/db'
-require 'mtg/card'
-require 'mtg/external_item'
-require 'mtg/keyword'
 require 'logger'
+require 'mtg/external_item'
+require 'mtg/trie_matcher'
 
-include Keyword
+class XtnMatcher < Logger::Application
 
-def q(sql, bind_params = [])
-  return repository(:default).adapter.query(sql, bind_params)
-end
+  def initialize
+    super('XtnMatcher')
+  end
 
-def _build_trie(log)
-  @valid_keywords = {}
-  cards_trie = Trie.new
-  Card.all.each do |card|
-    name_keywords = card.name_keywords
-    set_keywords = card.set_keywords
+  def q(sql, bind_params = [])
+    return repository(:default).adapter.query(sql, bind_params)
+  end
 
-    card.all_keywords.each { |k| @valid_keywords[k] = 1 }
+  def run
+    @log.level = Logger::DEBUG
 
-    cards_trie.insert((name_keywords + set_keywords).join(" "), card.card_no)
-    cards_trie.insert((set_keywords + name_keywords).join(" "), card.card_no)
-    if name_keywords[0] == 'foil'
-      name_keywords.shift
-      cards_trie.insert( (['foil'] + set_keywords + name_keywords).join(" "), card.card_no)
+    @log.info("Building matcher")
+    @matcher = TrieMatcher.new(@log)
+
+    @log.info("Loading external items")
+    ext_items = q('SELECT description, external_item_id FROM external_items e LEFT OUTER JOIN possible_matches pm USING (external_item_id) WHERE e.card_no IS null and pm.card_no IS null GROUP BY external_item_id')
+    
+    @log.info("Matching #{ext_items.length} items")
+    ext_items.each do |item|
+      possible_matches = @matcher.match(item)
+      if !possible_matches || possible_matches.length == 0
+        @log.debug "no matches for #{item['description']}"
+      elsif possible_matches.length == 1
+        @log.debug "matching card: #{possible_matches[0]}"
+        _match_card(item, possible_matches[0])
+      else
+        @log.debug "saving #{possible_matches.length} possible matches"
+        _save_possible_matches(item['external_item_id'], possible_matches)
+      end
     end
   end
 
-  return cards_trie
-end
+  def _match_card(item, card_no)
+    e = ExternalItem.get(item['external_item_id'])
+    e.card_no = card_no
+    e.cards_in_item = _cards_in_description(item['description'])
+    e.save
+  end
 
-log = Logger.new('/tmp/trie_matcher.rb')
-log.level = Logger::DEBUG
-
-log.info("Building Trie")
-cards_trie = _build_trie(log)
-
-log.info("Loading external items")
-ext_items = q("select external_item_id, description from external_items limit 50000")
-
-log.info("Matching items")
-ext_items.each do |item|
-  keywords = keywords_from_string(item['description'])
-
-#   # There are a lot of "extended art" cards on ebay now, and they sell for a
-#   # lot more then the actual card, so we want to match them to "not a card"
-#   if i.description.match(/(extended|altered).*art/i)
-#     _match_card(i, -1)
-#     next
-#   end
-
-#   # FBB apparently means "Foreign/Black-bordered", so I skip them for
-#   # now, since they don't list very well and I don't want to try and
-#   # match them yet
-#   if i.description.match(/(fbb|foreign)/i)
-#     _match_card(i, -1)
-#     next
-#   end
-
-
-  ct2 = cards_trie
-
-  keywords.each do |keyword|
-    next unless @valid_keywords[keyword]
-    ct2 = ct2.find_prefix(keyword)
-
-    if ct2.size == 1
-      card_no = ''
-      ct2.each_value { |v| card_no = v }
-      puts sprintf "%s|%s", item['external_item_id'], card_no
-      break
+  def _cards_in_description(description)
+    m = description.match(/(x\s*(\d+)|(\d)+\s*x)/i)
+    if m
+      return m[2] || m[3]
+    else
+      return 1
     end
+  end
 
-    if ct2.size == 0
-      log.debug("unable to match: #{keywords.join(' ')} : at keyword #{keyword}")
-      break
+  def _save_possible_matches(ext_item_id, possible_matches)
+    repository(:default).adapter.execute('DELETE FROM possible_matches WHERE external_item_id = ?', [ext_item_id])
+    possible_matches.each do |pm|
+      PossibleMatch.create(
+        :external_item_id => ext_item.external_item_id,
+        :card_no => pm,
+        :score => 1
+      ).save
     end
-
-    ct2 = ct2.find_prefix(" ")
   end
 end
+
+XtnMatcher.new().start()
+
 
