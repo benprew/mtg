@@ -52,10 +52,12 @@ get '/' do
       ORDER BY auction_price desc
       LIMIT 40}))
 
-  @interesting_auctions.add_decorator(
-    :external_item_id,
-    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting
+  @interesting_auctions.add_decorator(:external_item_id, auction_link_decorator())
   haml :index
+end
+
+get '/updates' do
+  haml :updates
 end
 
 post '/match_auction' do
@@ -376,6 +378,13 @@ helpers do
 
   def set_link_decorator
     lambda { |val, row| %Q(<a href="/set/#{row[:set_name]}">#{val}</a>) }
+  end
+
+  def auction_link_decorator
+    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> ) } # "<-- for emacs highlighting
+  end
+
+  def rematch_auction_link_decorator
   end
 
 end
