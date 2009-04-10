@@ -6,12 +6,14 @@ require 'trie'
 require 'mtg/db'
 require 'logger'
 require 'mtg/external_item'
+require 'mtg/possible_match'
 require 'mtg/trie_matcher'
 
 class XtnMatcher < Logger::Application
 
   def initialize
     super('XtnMatcher')
+    set_log('/tmp/match_xtns.rb.log', 10, 2048000)
   end
 
   def q(sql, bind_params = [])
@@ -19,8 +21,11 @@ class XtnMatcher < Logger::Application
   end
 
   def run
-    @log.level = Logger::DEBUG
+    no_match = 0
+    match = 0
+    possible_match = 0
 
+   @log.level = Logger::INFO
     @log.info("Building matcher")
     @matcher = TrieMatcher.new(@log)
 
@@ -32,14 +37,21 @@ class XtnMatcher < Logger::Application
       possible_matches = @matcher.match(item)
       if !possible_matches || possible_matches.length == 0
         @log.debug "no matches for #{item['description']}"
+        no_match += 1
       elsif possible_matches.length == 1
         @log.debug "matching card: #{possible_matches[0]}"
         _match_card(item, possible_matches[0])
+        match += 1
       else
         @log.debug "saving #{possible_matches.length} possible matches"
         _save_possible_matches(item['external_item_id'], possible_matches)
+        possible_match += 1
       end
     end
+
+    @log.info("Matched: #{match} : #{sprintf '%d%%', ((match + 0.0) / ext_items.length) * 100}")
+    @log.info("No Match: #{no_match}")
+    @log.info("Possible Match: #{possible_match}")
   end
 
   def _match_card(item, card_no)
@@ -59,10 +71,12 @@ class XtnMatcher < Logger::Application
   end
 
   def _save_possible_matches(ext_item_id, possible_matches)
+    @log.debug "deleting old matches"
     repository(:default).adapter.execute('DELETE FROM possible_matches WHERE external_item_id = ?', [ext_item_id])
+    @log.debug "inserting new matches"
     possible_matches.each do |pm|
       PossibleMatch.create(
-        :external_item_id => ext_item.external_item_id,
+        :external_item_id => ext_item_id,
         :card_no => pm,
         :score => 1
       ).save
