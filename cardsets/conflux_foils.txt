@@ -1,0 +1,146 @@
+Absorb Vis|Conflux
+Aerie Mystics|Conflux 
+Ancient Ziggurat|Conflux 
+Apocalypse Hydra|Conflux 
+Armillary Sphere|Conflux 
+Asha's Favor|Conflux 
+Aven Squire|Conflux 
+Aven Trailblazer|Conflux 
+Banefire|Conflux 
+Beacon Behemoth|Conflux 
+Blood Tyrant|Conflux 
+Bloodhall Ooze|Conflux 
+Bone Saw|Conflux 
+Brackwater Elemental|Conflux 
+Canyon Minotaur|Conflux 
+Celestial Purge|Conflux 
+Charnelhoard Wurm|Conflux 
+Child of Alara|Conflux 
+Cliffrunner Behemoth|Conflux 
+Conflux|Conflux 
+Constricting Tendrils|Conflux 
+Controlled Instincts|Conflux 
+Corrupted Roots|Conflux 
+Countersquall|Conflux 
+Court Homunculus|Conflux 
+Cumber Stone|Conflux 
+Cylian Sunsinger|Conflux 
+Dark Temper|Conflux 
+Darklit Gargoyle|Conflux 
+Drag Down|Conflux 
+Dragonsoul Knight|Conflux 
+Dreadwing|Conflux 
+Elder Mastery|Conflux 
+Ember Weaver|Conflux 
+Esper Cormorants|Conflux 
+Esperzoa|Conflux 
+Ethersworn Adjudicator|Conflux 
+Exotic Orchard|Conflux 
+Exploding Borders|Conflux 
+Extractor Demon|Conflux 
+Faerie Mechanist|Conflux 
+Fiery Fall|Conflux 
+Filigree Fracture|Conflux 
+Fleshformer|Conflux 
+Font of Mythos|Conflux 
+Frontline Sage|Conflux 
+Fusion Elemental|Conflux 
+Giltspire Avenger|Conflux 
+Gleam of Resistance|Conflux 
+Gluttonous Slime|Conflux 
+Goblin Outlander|Conflux 
+Goblin Razerunners|Conflux 
+Grixis Illusionist|Conflux 
+Grixis Slavedriver|Conflux 
+Gwafa Hazid, Profiteer|Conflux 
+Hellkite Hatchling|Conflux 
+Hellspark Elemental|Conflux 
+Ignite Disorder|Conflux 
+Infectious Horror|Conflux 
+Inkwell Leviathan|Conflux 
+Jhessian Balmgiver|Conflux 
+Kaleidostone|Conflux 
+Kederekt Parasite|Conflux 
+Knight of the Reliquary|Conflux 
+Knotvine Mystic|Conflux 
+Kranioceros|Conflux 
+Lapse of Certainty|Conflux 
+Maelstrom Archangel|Conflux 
+Magister Sphinx|Conflux 
+Malfegor|Conflux 
+Mana Cylix|Conflux 
+Manaforce Mace|Conflux 
+Maniacal Rage|Conflux 
+Mark of Asylum|Conflux 
+Martial Coup|Conflux 
+Master Transmuter|Conflux 
+Matca Rioters|Conflux 
+Meglonoth|Conflux 
+Might of Alara|Conflux 
+Mirror-Sigil Sergeant|Conflux 
+Molten Frame|Conflux 
+Nacatl Hunt-Pride|Conflux 
+Nacatl Outlander|Conflux 
+Nacatl Savage|Conflux 
+Nicol Bolas, Planeswalker|Conflux 
+Noble Hierarch|Conflux 
+Nyxathid|Conflux 
+Obelisk of Alara|Conflux 
+Paleoloth|Conflux 
+Paragon of the Amesha|Conflux 
+Parasitic Strix|Conflux 
+Path to Exile|Conflux 
+Pestilent Kathari|Conflux 
+Progenitus|Conflux 
+Quenchable Fire|Conflux 
+Rakka Mar|Conflux 
+Reliquary Tower|Conflux 
+Rhox Bodyguard|Conflux 
+Rhox Meditant|Conflux 
+Rotting Rats|Conflux 
+Rupture Spire|Conflux 
+Sacellum Archers|Conflux 
+Salvage Slasher|Conflux 
+Scarland Thrinax|Conflux 
+Scattershot Archer|Conflux 
+Scepter of Dominance|Conflux 
+Scepter of Fugue|Conflux 
+Scepter of Insight|Conflux 
+Scornful Aether-Lich|Conflux 
+Sedraxis Alchemist|Conflux 
+Shambling Remains|Conflux 
+Shard Convergence|Conflux 
+Sigil of the Empty Throne|Conflux 
+Skyward Eye Prophets|Conflux 
+Sludge Strider|Conflux 
+Soul's Majesty|Conflux 
+Sphinx Summoner|Conflux 
+Spore Burst|Conflux 
+Suicidal Charge|Conflux 
+Sylvan Bounty|Conflux 
+Telemin Performance|Conflux 
+Thornling|Conflux 
+Toxic Iguanar|Conflux 
+Traumatic Visions|Conflux 
+Tukatongue Thallid|Conflux 
+Unstable Frontier|Conflux 
+Unsummon|Conflux 
+Vagrant Plowbeasts|Conflux 
+Valeron Outlander|Conflux 
+Valiant Guard|Conflux 
+Vectis Agents|Conflux 
+Vedalken Outlander|Conflux 
+Viashino Slaughtermaster|Conflux 
+View from Above|Conflux 
+Voices from the Void|Conflux 
+Volcanic Fallout|Conflux 
+Voracious Dragon|Conflux 
+Wall of Reverence|Conflux 
+Wandering Goblins|Conflux 
+Wild Leotau|Conflux 
+Worldheart Phoenix|Conflux 
+Worldly Counsel|Conflux 
+Wretched Banquet|Conflux 
+Yoke of the Damned|Conflux 
+Zombie Outlander|Conflux 
+
