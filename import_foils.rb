@@ -6,6 +6,7 @@ require 'mtg/db'
 require 'mtg/card'
 
 File.new(ARGV[0]).readlines.each do |line|
+  next if line.match /^#/	
   (card_name, set_name) = line.split(/\|/)
   set_name.chop!
   orig_card = Card.first(:name => card_name)
