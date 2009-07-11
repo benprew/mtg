@@ -17,16 +17,18 @@ OptionParser.new do |opts|
 
 end.parse!
 
-
+cards_built = 0
 card = {}
+
 open(ARGV[0]) do |f|
   prev_key = ''
   f.each do |line|
     line.chop!
     next unless line.match(/\w/)
     
-    (key, val) = line.split(/:?\t/)
+    (key, val) = line.split(/:\s+/)
 
+    key.strip!
     key.downcase!
     key.gsub!(/[^a-z]/, '_')
     key = key.to_sym
@@ -43,6 +45,10 @@ open(ARGV[0]) do |f|
     # cards end on the set_rarity key, so we only really check if that's set
     if key == :set_rarity
       is_full_card = true
+      if (card.has_key?(:name) && !card.has_key?(:cardname))
+        card[:cardname] = card[:name]
+      end
+        
       %w(cardname set_rarity cost type rules_text).each do |required_key|
         if !card.has_key?(required_key.to_sym)
           p card
@@ -67,9 +73,12 @@ open(ARGV[0]) do |f|
           :pow_tgh => card[:pow_tgh],
           :rarity => rarity )
         c.save
+        cards_built += 1
       end
       card = {}
     end
   end
       
 end
+
+puts "Built #{cards_built} cards"

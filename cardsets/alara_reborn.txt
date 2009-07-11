@@ -1,0 +1,1103 @@
+Name: 	Anathemancer
+Cost: 	1BR
+Type: 	Creature - Zombie Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.
+Unearth {5}{B}{R} ({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Architects of Will
+Cost: 	2UB
+Type: 	Artifact Creature - Human Wizard
+Pow/Tgh: 	(3/3)
+Rules Text: 	When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.
+Cycling {(u/b)} ({(u/b)}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Ardent Plea
+Cost: 	1WU
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Arsenal Thresher
+Cost: 	2(W/B)U
+Type: 	Artifact Creature - Construct
+Pow/Tgh: 	(2/2)
+Rules Text: 	As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Aven Mimeomancer
+Cost: 	1WU
+Type: 	Creature - Bird Wizard
+Pow/Tgh: 	(3/1)
+Rules Text: 	Flying
+At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Bant Sojourners
+Cost: 	1GWU
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(2/4)
+Rules Text: 	When you cycle Bant Sojourners or it's put into a graveyard from the battlefield, you may put a 1/1 white Soldier creature token onto the battlefield.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Bant Sureblade
+Cost: 	(G/U)W
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(2/1)
+Rules Text: 	As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Behemoth Sledge
+Cost: 	1GW
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature gets +2/+2 and has lifelink and trample.
+Equip {3}
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Bituminous Blast
+Cost: 	3BR
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Bituminous Blast deals 4 damage to target creature.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Blitz Hellion
+Cost: 	3RG
+Type: 	Creature - Hellion
+Pow/Tgh: 	(7/7)
+Rules Text: 	Trample, haste
+At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Bloodbraid Elf
+Cost: 	2RG
+Type: 	Creature - Elf Berserker
+Pow/Tgh: 	(3/2)
+Rules Text: 	Haste
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Brainbite
+Cost: 	2UB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Draw a card.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Breath of Malfegor
+Cost: 	3BR
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Breath of Malfegor deals 5 damage to each opponent.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Captured Sunlight
+Cost: 	2GW
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+You gain 4 life.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Cerodon Yearling
+Cost: 	RW
+Type: 	Creature - Beast
+Pow/Tgh: 	(2/2)
+Rules Text: 	Vigilance, haste
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Cloven Casting
+Cost: 	5UR
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Colossal Might
+Cost: 	RG
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gets +4/+2 and gains trample until end of turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Crystallization
+Cost: 	(G/U)W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, exile that creature.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Dauntless Escort
+Cost: 	1GW
+Type: 	Creature - Rhino Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	Sacrifice Dauntless Escort: Creatures you control are indestructible this turn.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Deadshot Minotaur
+Cost: 	3RG
+Type: 	Creature - Minotaur
+Pow/Tgh: 	(3/4)
+Rules Text: 	When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.
+Cycling {(r/g)} ({(r/g)}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Deathbringer Thoctar
+Cost: 	4BR
+Type: 	Creature - Zombie Beast
+Pow/Tgh: 	(3/3)
+Rules Text: 	Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Deathbringer Thoctar.
+Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Defiler of Souls
+Cost: 	3BBR
+Type: 	Creature - Demon
+Pow/Tgh: 	(5/5)
+Rules Text: 	Flying
+At the beginning of each player's upkeep, that player sacrifices a monocolored creature.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Demonic Dread
+Cost: 	1BR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Target creature can't block this turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Demonspine Whip
+Cost: 	BR
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	{X}: Equipped creature gets +X/+0 until end of turn.
+Equip {1}
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Deny Reality
+Cost: 	3UB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Return target permanent to its owner's hand.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Double Negative
+Cost: 	UUR
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter up to two target spells.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Dragon Appeasement
+Cost: 	3BRG
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Skip your draw step.
+Whenever you sacrifice a creature, you may draw a card.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Dragon Broodmother
+Cost: 	2RRRG
+Type: 	Creature - Dragon
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+At the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Drastic Revelation
+Cost: 	2UBR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Discard your hand. Draw seven cards, then discard three cards at random.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Enigma Sphinx
+Cost: 	4WUB
+Type: 	Artifact Creature - Sphinx
+Pow/Tgh: 	(5/4)
+Rules Text: 	Flying
+When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Enlisted Wurm
+Cost: 	4GW
+Type: 	Creature - Wurm
+Pow/Tgh: 	(5/5)
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Esper Sojourners
+Cost: 	WUB
+Type: 	Artifact Creature - Vedalken Wizard
+Pow/Tgh: 	(2/3)
+Rules Text: 	When you cycle Esper Sojourners or it's put into a graveyard from the battlefield, you may tap or untap target permanent.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Esper Stormblade
+Cost: 	(W/B)U
+Type: 	Artifact Creature - Vedalken Wizard
+Pow/Tgh: 	(2/1)
+Rules Text: 	As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Ethercaste Knight
+Cost: 	WU
+Type: 	Artifact Creature - Human Knight
+Pow/Tgh: 	(1/3)
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Etherium Abomination
+Cost: 	3UB
+Type: 	Artifact Creature - Horror
+Pow/Tgh: 	(4/3)
+Rules Text: 	Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Ethersworn Shieldmage
+Cost: 	1WU
+Type: 	Artifact Creature - Vedalken Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flash
+When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Etherwrought Page
+Cost: 	1WUB
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	At the beginning of your upkeep, choose one - You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Fieldmist Borderpost
+Cost: 	1WU
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.
+Fieldmist Borderpost enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Fight to the Death
+Cost: 	RW
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy all blocking creatures and all blocked creatures.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Filigree Angel
+Cost: 	5WWU
+Type: 	Artifact Creature - Angel
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Finest Hour
+Cost: 	2GWU
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Firewild Borderpost
+Cost: 	1RG
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.
+Firewild Borderpost enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Flurry of Wings
+Cost: 	GWU
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Giant Ambush Beetle
+Cost: 	3(B/G)R
+Type: 	Creature - Insect
+Pow/Tgh: 	(4/3)
+Rules Text: 	Haste
+When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Glassdust Hulk
+Cost: 	3WU
+Type: 	Artifact Creature - Golem
+Pow/Tgh: 	(3/4)
+Rules Text: 	Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and is unblockable this turn.
+Cycling {(w/u)} ({(w/u)}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Glory of Warfare
+Cost: 	2RW
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	As long as it's your turn, creatures you control get +2/+0.
+As long as it's not your turn, creatures you control get +0/+2.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Gloryscale Viashino
+Cost: 	1RGW
+Type: 	Creature - Viashino Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Godtracker of Jund
+Cost: 	1RG
+Type: 	Creature - Elf Shaman
+Pow/Tgh: 	(2/2)
+Rules Text: 	Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Gorger Wurm
+Cost: 	3RG
+Type: 	Creature - Wurm
+Pow/Tgh: 	(5/5)
+Rules Text: 	Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Grixis Grimblade
+Cost: 	(U/R)B
+Type: 	Creature - Zombie Warrior
+Pow/Tgh: 	(2/1)
+Rules Text: 	As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Grixis Sojourners
+Cost: 	1UBR
+Type: 	Creature - Zombie Ogre
+Pow/Tgh: 	(4/3)
+Rules Text: 	When you cycle Grixis Sojourners or it's put into a graveyard from the battlefield, you may exile target card from a graveyard.
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Grizzled Leotau
+Cost: 	GW
+Type: 	Creature - Cat
+Pow/Tgh: 	(1/5)
+Rules Text: 	
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Identity Crisis
+Cost: 	2WWBB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Exile all cards from target player's hand and graveyard.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Igneous Pouncer
+Cost: 	4BR
+Type: 	Creature - Elemental
+Pow/Tgh: 	(5/1)
+Rules Text: 	Haste
+Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Illusory Demon
+Cost: 	1UB
+Type: 	Creature - Demon Illusion
+Pow/Tgh: 	(4/3)
+Rules Text: 	Flying
+When you cast a spell, sacrifice Illusory Demon.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Intimidation Bolt
+Cost: 	1RW
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Jenara, Asura of War
+Cost: 	GWU
+Type: 	Legendary Creature - Angel
+Pow/Tgh: 	(3/3)
+Rules Text: 	Flying
+{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Jhessian Zombies
+Cost: 	4UB
+Type: 	Creature - Zombie
+Pow/Tgh: 	(2/4)
+Rules Text: 	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Islandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Jund Hackblade
+Cost: 	(B/G)R
+Type: 	Creature - Goblin Berserker
+Pow/Tgh: 	(2/1)
+Rules Text: 	As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Jund Sojourners
+Cost: 	BRG
+Type: 	Creature - Viashino Shaman
+Pow/Tgh: 	(3/2)
+Rules Text: 	When you cycle Jund Sojourners or it's put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Karrthus, Tyrant of Jund
+Cost: 	4BRG
+Type: 	Legendary Creature - Dragon
+Pow/Tgh: 	(7/7)
+Rules Text: 	Flying, haste
+When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Kathari Bomber
+Cost: 	1BR
+Type: 	Creature - Bird Shaman
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.
+Unearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Kathari Remnant
+Cost: 	2UB
+Type: 	Creature - Bird Skeleton
+Pow/Tgh: 	(0/1)
+Rules Text: 	Flying
+{B}: Regenerate Kathari Remnant.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Knight of New Alara
+Cost: 	2GW
+Type: 	Creature - Human Knight
+Pow/Tgh: 	(2/2)
+Rules Text: 	Each other multicolored creature you control gets +1/+1 for each of its colors.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Knotvine Paladin
+Cost: 	GW
+Type: 	Creature - Human Knight
+Pow/Tgh: 	(2/2)
+Rules Text: 	Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Lavalanche
+Cost: 	XBRG
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Lavalanche deals X damage to target player and each creature he or she controls.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Leonin Armorguard
+Cost: 	2GW
+Type: 	Creature - Cat Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Lich Lord of Unx
+Cost: 	1UB
+Type: 	Creature - Zombie Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.
+{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Lightning Reaver
+Cost: 	3BR
+Type: 	Creature - Zombie Beast
+Pow/Tgh: 	(3/3)
+Rules Text: 	Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.
+At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Lord of Extinction
+Cost: 	3BG
+Type: 	Creature - Elemental
+Pow/Tgh: 	(*/*)
+Rules Text: 	Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Lorescale Coatl
+Cost: 	1GU
+Type: 	Creature - Snake
+Pow/Tgh: 	(2/2)
+Rules Text: 	Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Madrush Cyclops
+Cost: 	1BRG
+Type: 	Creature - Cyclops Warrior
+Pow/Tgh: 	(3/4)
+Rules Text: 	Creatures you control have haste.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Maelstrom Nexus
+Cost: 	WUBRG
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Maelstrom Pulse
+Cost: 	1BG
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Mage Slayer
+Cost: 	1RG
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Whenever equipped creature attacks, it deals damage equal to its power to defending player.
+Equip {3}
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Magefire Wings
+Cost: 	UR
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +2/+0 and has flying.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Marisi's Twinclaws
+Cost: 	2(R/W)G
+Type: 	Creature - Cat Warrior
+Pow/Tgh: 	(2/4)
+Rules Text: 	Double strike
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Marrow Chomper
+Cost: 	3BG
+Type: 	Creature - Zombie Lizard
+Pow/Tgh: 	(3/3)
+Rules Text: 	Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Mask of Riddles
+Cost: 	UB
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Whenever equipped creature deals combat damage to a player, you may draw a card.
+Equip {2}
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Mayael's Aria
+Cost: 	RGW
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Meddling Mage
+Cost: 	WU
+Type: 	Creature - Human Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	As Meddling Mage enters the battlefield, name a nonland card.
+The named card can't be cast.
+Set/Rarity: 	Alara Reborn Rare, Planeshift Rare
+
+Name: 	Messenger Falcons
+Cost: 	2(G/U)W
+Type: 	Creature - Bird
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+When Messenger Falcons enters the battlefield, draw a card.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Mind Funeral
+Cost: 	1UB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Mistvein Borderpost
+Cost: 	1UB
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.
+Mistvein Borderpost enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Monstrous Carabid
+Cost: 	3BR
+Type: 	Creature - Insect
+Pow/Tgh: 	(4/4)
+Rules Text: 	Monstrous Carabid attacks each turn if able.
+Cycling {(b/r)} ({(b/r)}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Morbid Bloom
+Cost: 	4BG
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Mycoid Shepherd
+Cost: 	1GGW
+Type: 	Creature - Fungus
+Pow/Tgh: 	(5/4)
+Rules Text: 	Whenever Mycoid Shepherd or another creature you control with power 5 or greater is put into a graveyard from the battlefield, you may gain 5 life.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Naya Hushblade
+Cost: 	(R/W)G
+Type: 	Creature - Elf Rogue
+Pow/Tgh: 	(2/1)
+Rules Text: 	As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Naya Sojourners
+Cost: 	2RGW
+Type: 	Creature - Elf Shaman
+Pow/Tgh: 	(5/3)
+Rules Text: 	When you cycle Naya Sojourners or it's put into a graveyard from the battlefield, you may put a +1/+1 counter on target creature.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Necromancer's Covenant
+Cost: 	3WBB
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way.
+Zombies you control have lifelink.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Nemesis of Reason
+Cost: 	3UB
+Type: 	Creature - Leviathan Horror
+Pow/Tgh: 	(3/7)
+Rules Text: 	Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Nulltread Gargantuan
+Cost: 	1GU
+Type: 	Creature - Beast
+Pow/Tgh: 	(5/6)
+Rules Text: 	When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Offering to Asha
+Cost: 	2WU
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter target spell unless its controller pays {4}. You gain 4 life.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Pale Recluse
+Cost: 	4GW
+Type: 	Creature - Spider
+Pow/Tgh: 	(4/5)
+Rules Text: 	Reach (This can block creatures with flying.)
+Forestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Predatory Advantage
+Cost: 	3RG
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Putrid Leech
+Cost: 	BG
+Type: 	Creature - Zombie Leech
+Pow/Tgh: 	(2/2)
+Rules Text: 	Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Qasali Pridemage
+Cost: 	GW
+Type: 	Creature - Cat Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Reborn Hope
+Cost: 	GW
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return target multicolored card from your graveyard to your hand.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Retaliator Griffin
+Cost: 	1RGW
+Type: 	Creature - Griffin
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Rhox Brute
+Cost: 	2RG
+Type: 	Creature - Rhino Warrior
+Pow/Tgh: 	(4/4)
+Rules Text: 	
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Sages of the Anima
+Cost: 	3GU
+Type: 	Creature - Elf Wizard
+Pow/Tgh: 	(3/4)
+Rules Text: 	If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Sanctum Plowbeast
+Cost: 	4WU
+Type: 	Artifact Creature - Beast
+Pow/Tgh: 	(3/6)
+Rules Text: 	Defender
+Plainscycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Sangrite Backlash
+Cost: 	(B/G)R
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +3/-3.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Sanity Gnawers
+Cost: 	1BR
+Type: 	Creature - Rat
+Pow/Tgh: 	(1/1)
+Rules Text: 	When Sanity Gnawers enters the battlefield, target player discards a card at random.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Sen Triplets
+Cost: 	2WUB
+Type: 	Legendary Artifact Creature - Human Wizard
+Pow/Tgh: 	(3/3)
+Rules Text: 	At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Sewn-Eye Drake
+Cost: 	2(U/R)B
+Type: 	Creature - Zombie Drake
+Pow/Tgh: 	(3/1)
+Rules Text: 	Flying, haste
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Shield of the Righteous
+Cost: 	WU
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature gets +0/+2 and has vigilance.
+Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.
+Equip {2}
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Sigil Captain
+Cost: 	1GWW
+Type: 	Creature - Rhino Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Sigil of the Nayan Gods
+Cost: 	1GW
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+Cycling {(g/w)} ({(g/w)}, Discard this card: Draw a card.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Sigiled Behemoth
+Cost: 	4GW
+Type: 	Creature - Beast
+Pow/Tgh: 	(5/4)
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Singe-Mind Ogre
+Cost: 	2BR
+Type: 	Creature - Ogre Mutant
+Pow/Tgh: 	(3/2)
+Rules Text: 	When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Skyclaw Thrash
+Cost: 	3UR
+Type: 	Artifact Creature - Viashino Warrior
+Pow/Tgh: 	(4/4)
+Rules Text: 	Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Slave of Bolas
+Cost: 	3(U/R)B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Soul Manipulation
+Cost: 	1UB
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Choose one or both - Counter target creature spell; and/or return target creature card from your graveyard to your hand.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Soulquake
+Cost: 	3UUBB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Sovereigns of Lost Alara
+Cost: 	4WU
+Type: 	Creature - Spirit
+Pow/Tgh: 	(4/5)
+Rules Text: 	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Spellbound Dragon
+Cost: 	3UR
+Type: 	Creature - Dragon
+Pow/Tgh: 	(3/5)
+Rules Text: 	Flying
+Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Spellbreaker Behemoth
+Cost: 	1RGG
+Type: 	Creature - Beast
+Pow/Tgh: 	(5/5)
+Rules Text: 	Spellbreaker Behemoth can't be countered.
+Creature spells you control with power 5 or greater can't be countered.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Sphinx of the Steel Wind
+Cost: 	5WUB
+Type: 	Artifact Creature - Sphinx
+Pow/Tgh: 	(6/6)
+Rules Text: 	Flying, first strike, vigilance, lifelink, protection from red and from green
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Stormcaller's Boon
+Cost: 	2WU
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Stun Sniper
+Cost: 	RW
+Type: 	Creature - Human Archer
+Pow/Tgh: 	(1/1)
+Rules Text: 	{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Tainted Sigil
+Cost: 	1WB
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Talon Trooper
+Cost: 	1WU
+Type: 	Creature - Bird Scout
+Pow/Tgh: 	(2/3)
+Rules Text: 	Flying
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Terminate
+Cost: 	BR
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy target creature. It can't be regenerated.
+Set/Rarity: 	Alara Reborn Common, Planeshift Common
+
+Name: 	Thopter Foundry
+Cost: 	(W/B)U
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Thought Hemorrhage
+Cost: 	2BR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Thraximundar
+Cost: 	4UBR
+Type: 	Legendary Creature - Zombie Assassin
+Pow/Tgh: 	(6/6)
+Rules Text: 	Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Time Sieve
+Cost: 	UB
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{T}, Sacrifice five artifacts: Take an extra turn after this one.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Trace of Abundance
+Cost: 	(R/W)G
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant land
+Enchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Unbender Tine
+Cost: 	2WU
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{T}: Untap another target permanent.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Unscythe, Killer of Kings
+Cost: 	UBBR
+Type: 	Legendary Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature gets +3/+3 and has first strike.
+Whenever a creature dealt damage by equipped creature this turn is put into a graveyard, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Equip {2}
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Uril, the Miststalker
+Cost: 	2RGW
+Type: 	Legendary Creature - Beast
+Pow/Tgh: 	(5/5)
+Rules Text: 	Uril, the Miststalker can't be the target of spells or abilities your opponents control.
+Uril gets +2/+2 for each Aura attached to it.
+Set/Rarity: 	Alara Reborn Mythic Rare
+
+Name: 	Valley Rannet
+Cost: 	4RG
+Type: 	Creature - Beast
+Pow/Tgh: 	(6/3)
+Rules Text: 	Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Vectis Dominator
+Cost: 	1WB
+Type: 	Artifact Creature - Human Wizard
+Pow/Tgh: 	(0/2)
+Rules Text: 	{T}: Tap target creature unless its controller pays 2 life.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Vedalken Ghoul
+Cost: 	UB
+Type: 	Creature - Vedalken Zombie
+Pow/Tgh: 	(1/1)
+Rules Text: 	Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Vedalken Heretic
+Cost: 	GU
+Type: 	Creature - Vedalken Rogue
+Pow/Tgh: 	(1/1)
+Rules Text: 	Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Veinfire Borderpost
+Cost: 	1BR
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost.
+Veinfire Borderpost enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Vengeful Rebirth
+Cost: 	4RG
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.
+Exile Vengeful Rebirth.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Violent Outburst
+Cost: 	1RG
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Creatures you control get +1/+0 until end of turn.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Vithian Renegades
+Cost: 	1RG
+Type: 	Creature - Human Shaman
+Pow/Tgh: 	(3/2)
+Rules Text: 	When Vithian Renegades enters the battlefield, destroy target artifact.
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Wall of Denial
+Cost: 	1WU
+Type: 	Creature - Wall
+Pow/Tgh: 	(0/8)
+Rules Text: 	Defender, flying, shroud
+Set/Rarity: 	Alara Reborn Uncommon
+
+Name: 	Wargate
+Cost: 	XGWU
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+Set/Rarity: 	Alara Reborn Rare
+
+Name: 	Wildfield Borderpost
+Cost: 	1GW
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.
+Wildfield Borderpost enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Winged Coatl
+Cost: 	1GU
+Type: 	Creature - Snake
+Pow/Tgh: 	(1/1)
+Rules Text: 	Flash
+Flying
+Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Set/Rarity: 	Alara Reborn Common
+
+Name: 	Zealous Persecution
+Cost: 	WB
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+Set/Rarity: 	Alara Reborn Uncommon

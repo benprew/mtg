@@ -1,0 +1,146 @@
+# from abugames.com
+Anathemancer|Alara Reborn
+Architects of Will|Alara Reborn
+Ardent Plea|Alara Reborn
+Arsenal Thresher|Alara Reborn
+Aven Mimeomancer|Alara Reborn
+Bant Sojourners|Alara Reborn
+Bant Sureblade|Alara Reborn
+Behemoth Sledge|Alara Reborn
+Bituminous Blast|Alara Reborn
+Blitz Hellion|Alara Reborn
+Bloodbraid Elf|Alara Reborn
+Brainbite|Alara Reborn
+Breath of Malfegor|Alara Reborn
+Captured Sunlight|Alara Reborn
+Cerodon Yearling|Alara Reborn
+Cloven Casting|Alara Reborn
+Colossal Might|Alara Reborn
+Crystallization|Alara Reborn
+Dauntless Escort|Alara Reborn
+Deadshot Minotaur|Alara Reborn
+Deathbringer Thoctar|Alara Reborn
+Defiler of Souls|Alara Reborn
+Demonic Dread|Alara Reborn
+Demonspine Whip|Alara Reborn
+Deny Reality|Alara Reborn
+Double Negative|Alara Reborn
+Dragon Appeasement|Alara Reborn
+Dragon Broodmother|Alara Reborn
+Drastic Revelation|Alara Reborn
+Enigma Sphinx|Alara Reborn
+Enlisted Wurm|Alara Reborn
+Esper Sojourners|Alara Reborn
+Esper Stormblade|Alara Reborn
+Ethercaste Knight|Alara Reborn
+Etherium Abomination|Alara Reborn
+Ethersworn Shieldmage|Alara Reborn
+Etherwrought Page|Alara Reborn
+Fieldmist Borderpost|Alara Reborn
+Fight to the Death|Alara Reborn
+Filigree Angel|Alara Reborn
+Finest Hour|Alara Reborn
+Firewild Borderpost|Alara Reborn
+Flurry of Wings|Alara Reborn
+Giant Ambush Beetle|Alara Reborn
+Glassdust Hulk|Alara Reborn
+Glory of Warfare|Alara Reborn
+Gloryscale Viashino|Alara Reborn
+Godtracker of Jund|Alara Reborn
+Gorger Wurm|Alara Reborn
+Grixis Grimblade|Alara Reborn
+Grixis Sojourners|Alara Reborn
+Grizzled Leotau|Alara Reborn
+Identity Crisis|Alara Reborn
+Igneous Pouncer|Alara Reborn
+Illusory Demon|Alara Reborn
+Intimidation Bolt|Alara Reborn
+Jenara, Asura of War|Alara Reborn
+Jhessian Zombies|Alara Reborn
+Jund Hackblade|Alara Reborn
+Jund Sojourners|Alara Reborn
+Karrthus, Tyrant of Jund|Alara Reborn
+Kathari Bomber|Alara Reborn
+Kathari Remnant|Alara Reborn
+Knight of New Alara|Alara Reborn
+Knotvine Paladin|Alara Reborn
+Lavalanche|Alara Reborn
+Leonin Armorguard|Alara Reborn
+Lich Lord of Unx|Alara Reborn
+Lightning Reaver|Alara Reborn
+Lord of Extinction|Alara Reborn
+Lorescale Coatl|Alara Reborn
+Madrush Cyclops|Alara Reborn
+Maelstrom Nexus|Alara Reborn
+Maelstrom Pulse|Alara Reborn
+Mage Slayer|Alara Reborn
+Magefire Wings|Alara Reborn
+Marisi's Twinclaws|Alara Reborn
+Marrow Chomper|Alara Reborn
+Mask of Riddles|Alara Reborn
+Mayael's Aria|Alara Reborn
+Meddling Mage|Alara Reborn
+Messenger Falcons|Alara Reborn
+Mind Funeral|Alara Reborn
+Mistvein Borderpost|Alara Reborn
+Monstrous Carabid|Alara Reborn
+Morbid Bloom|Alara Reborn
+Mycoid Shepherd|Alara Reborn
+Naya Hushblade|Alara Reborn
+Naya Sojourners|Alara Reborn
+Necromancer's Covenant|Alara Reborn
+Nemesis of Reason|Alara Reborn
+Nulltread Gargantuan|Alara Reborn
+Offering to Asha|Alara Reborn
+Pale Recluse|Alara Reborn
+Predatory Advantage|Alara Reborn
+Putrid Leech|Alara Reborn
+Qasali Pridemage|Alara Reborn
+Reborn Hope|Alara Reborn
+Retaliator Griffin|Alara Reborn
+Rhox Brute|Alara Reborn
+Sages of the Anima|Alara Reborn
+Sanctum Plowbeast|Alara Reborn
+Sangrite Backlash|Alara Reborn
+Sanity Gnawers|Alara Reborn
+Sen Triplets|Alara Reborn
+Sewn-Eye Drake|Alara Reborn
+Shield of the Righteous|Alara Reborn
+Sigil Captain|Alara Reborn
+Sigil of the Nayan Gods|Alara Reborn
+Sigiled Behemoth|Alara Reborn
+Singe-Mind Ogre|Alara Reborn
+Skyclaw Thrash|Alara Reborn
+Slave of Bolas|Alara Reborn
+Soul Manipulation|Alara Reborn
+Soulquake|Alara Reborn
+Sovereigns of Lost Alara|Alara Reborn
+Spellbound Dragon|Alara Reborn
+Spellbreaker Behemoth|Alara Reborn
+Sphinx of the Steel Wind|Alara Reborn
+Stormcaller's Boon|Alara Reborn
+Stun Sniper|Alara Reborn
+Tainted Sigil|Alara Reborn
+Talon Trooper|Alara Reborn
+Terminate|Alara Reborn
+Thopter Foundry|Alara Reborn
+Thought Hemorrhage|Alara Reborn
+Thraximundar|Alara Reborn
+Time Sieve|Alara Reborn
+Trace of Abundance|Alara Reborn
+Unbender Tine|Alara Reborn
+Unscythe, Killer of Kings|Alara Reborn
+Uril, the Miststalker|Alara Reborn
+Valley Rannet|Alara Reborn
+Vectis Dominator|Alara Reborn
+Vedalken Ghoul|Alara Reborn
+Vedalken Heretic|Alara Reborn
+Veinfire Borderpost|Alara Reborn
+Vengeful Rebirth|Alara Reborn
+Violent Outburst|Alara Reborn
+Vithian Renegades|Alara Reborn
+Wall of Denial|Alara Reborn
+Wargate|Alara Reborn
+Wildfield Borderpost|Alara Reborn
+Winged Coatl|Alara Reborn
+Zealous Persecution|Alara Reborn
