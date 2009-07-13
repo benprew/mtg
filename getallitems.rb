@@ -33,7 +33,7 @@ def item_details(external_item_id)
   return RestClient.get(url)
 end
 
-ExternalItem.all(:order => [:external_item_id.desc]).each do |e|
+ExternalItem.all(:order => [:end_time.desc]).each do |e|
   next if File.exist?('items/' + e.external_item_id)
   File.new('items/' + e.external_item_id, 'w').puts(item_details(e.external_item_id))
 end
