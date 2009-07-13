@@ -14,4 +14,5 @@ class ExternalItem
   property :cards_in_item, Integer, :nullable => false, :default => 1
   property :price, Float
   property :has_been_finalized, Boolean, :default => false
+  property :has_match_been_attempted, Boolean, :default => false
 end
