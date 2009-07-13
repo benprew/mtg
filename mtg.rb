@@ -47,8 +47,8 @@ get '/' do
       FROM
         external_items
       WHERE
-        end_time > now()
-        and  (card_no is null or card_no = -1)
+        end_time > date_add(now(), interval 8 hour)
+        and card_no is null
       ORDER BY auction_price desc
       LIMIT 40}))
 
