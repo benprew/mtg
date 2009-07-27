@@ -31,9 +31,8 @@ class XtnMatcher < Logger::Application
     @log.info("Loading external items")
     ext_items = DB[:external_items].select(:description, :external_item_id).filter(:has_match_been_attempted => 0)
 
-    die
-    
-    @log.info("Matching #{ext_items.count} items")
+    count = ext_items.count
+    @log.info("Matching #{count} items")
     ext_items.each do |item|
       possible_matches = @matcher.match(item[:description])
       if !possible_matches || possible_matches.length == 0
@@ -52,7 +51,7 @@ class XtnMatcher < Logger::Application
       DB[:external_items].filter(:external_item_id => item[:external_item_id]).update(:has_match_been_attempted => 1)
     end
 
-    @log.info("Matched: #{match} : #{sprintf '%d%%', ((match + 0.0) / ext_items.count) * 100}")
+    @log.info("Matched: #{match} : #{sprintf '%d%%', (count.zero? ? 0 : ((match + 0.0) / count)) * 100}")
     @log.info("No Match: #{no_match}")
     @log.info("Possible Match: #{possible_match}")
   end
