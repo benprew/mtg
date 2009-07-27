@@ -36,7 +36,7 @@ end
 
 get '/' do
   @most_expensive_cards = most_expensive_cards()
-  @most_expensive_conflux_cards = most_expensive_cards('Conflux')
+  @most_expensive_alara_reborn_cards = most_expensive_cards('Alara Reborn')
   @highest_volume_cards = highest_volume_cards()
   @interesting_auctions = Dataset.new(
     [ :description, :price, :external_item_id, :end_time ],
@@ -282,7 +282,7 @@ def average_price_for_card(card)
   rows = q(%Q{
 SELECT sum(price) / sum(xtns) AS avg
 FROM xtns_by_card_day INNER JOIN cards USING (card_no)
-WHERE card_no = ?}, card.id)
+WHERE card_no = ?}, [card.id])
   return rows[0] ? rows[0] : 0
 end
 
