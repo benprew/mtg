@@ -6,9 +6,10 @@
         - @dataset.header.each do |h|
           %th
             = h[:title]
-    - @dataset.rows.each do |row|
-      %tr
-        - row.each_value do |field|
-          %td
-            = field
+    %tbody
+      - @dataset.rows.each do |row|
+        %tr
+          - row.each_value do |field|
+            %td
+              = field
   .ds_footer view report... (coming soon)

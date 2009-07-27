@@ -11,6 +11,8 @@ require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
 require 'mtg/builder'
+require 'sass'
+require 'haml'
 
 @@base_chart = '/open-flash-chart.swf'
 
@@ -370,7 +372,12 @@ helpers do
   end
 
   def q(sql, bind_params = [])
-    return repository(:default).adapter.query(sql, bind_params)
+    if bind_params.length > 0
+      return repository(:default).adapter.query(sql, bind_params)
+    else
+      return repository(:default).adapter.query(sql)
+    end
+      
   end
 
   def card_link_decorator(val, row)
