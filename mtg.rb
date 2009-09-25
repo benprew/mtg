@@ -34,6 +34,10 @@ get '/style.css' do
   sass :style
 end
 
+get '/card/:card_no/auctions.json' do
+  card_no = params[:card_no]
+end
+
 get '/' do
   @most_expensive_cards = most_expensive_cards()
   @most_expensive_alara_reborn_cards = most_expensive_cards('Alara Reborn')
@@ -290,22 +294,16 @@ def most_expensive_cards(set_name = false)
   cards = q(%Q{
     SELECT
       card_no,
-      max(c.name) as name,
-      max(c.set_name) as set_name,
-      max(price/xtns) as max,
-      min(price/xtns) as min,
-      sum(price) / sum(xtns) as avg,
-      ifnull(sum(xtns), 0) as volume
+      c.name as name,
+      c.set_name,
+      price as price
     FROM
-      xtns_by_card_day INNER JOIN
+      card_prices INNER JOIN
       cards c USING (card_no)
-    WHERE
-      date >= date_sub(curdate(), interval 16 day)
-    #{ set_name ? " AND set_name = ? " : "" }
-    GROUP BY c.card_no
-    ORDER BY 6 DESC
+    #{ set_name ? " WHERE set_name = ? " : "" }
+    ORDER BY price DESC
     LIMIT 20  }, set_name ? [ set_name ] : [])
-  d = Dataset.new([ :card_no, :name, :set_name, :max, :min, :avg, :volume ], cards)
+  d = Dataset.new([ :card_no, :name, :set_name, :price ], cards)
 
   d.add_decorator(
     :name,
