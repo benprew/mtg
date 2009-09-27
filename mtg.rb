@@ -10,9 +10,13 @@ require 'mtg/card'
 require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
+require 'mtg/sql_db'
 require 'mtg/builder'
 require 'sass'
 require 'haml'
+require 'json'
+
+include SqlDb
 
 @@base_chart = '/open-flash-chart.swf'
 
@@ -36,6 +40,8 @@ end
 
 get '/card/:card_no/auctions.json' do
   card_no = params[:card_no]
+  puts card_no
+  JSON.generate({:data => DB[:external_items].filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
 end
 
 get '/' do
@@ -188,8 +194,8 @@ get '/search' do
     @cards = Dataset.new(
       [ :name, :set_name, :price, :card_no ],
       q(%Q(
-        SELECT max(name) as name , MAX(set_name) as set_name, sum(price)/sum(xtns) as price, card_no
-        FROM cards LEFT OUTER JOIN xtns_by_card_day USING (card_no)
+        SELECT max(name) as name , MAX(set_name) as set_name, price, card_no
+        FROM cards LEFT OUTER JOIN card_prices USING (card_no)
         WHERE name like ?
         GROUP BY card_no
       ), [  "%#{@q}%" ])

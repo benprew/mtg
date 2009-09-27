@@ -1,4 +1,7 @@
-
+<!-- Combo-handled YUI CSS files: --> 
+%link{ :rel=>"stylesheet", :type=>"text/css", :href=>"http://yui.yahooapis.com/combo?2.8.0r4/build/datatable/assets/skins/sam/datatable.css" }
+<!-- Combo-handled YUI JS files: --> 
+%script{ :type=>"text/javascript", :src=>"http://yui.yahooapis.com/combo?2.8.0r4/build/yahoo-dom-event/yahoo-dom-event.js&2.8.0r4/build/element/element-min.js&2.8.0r4/build/datasource/datasource-min.js&2.8.0r4/build/datatable/datatable-min.js" }
 
 %h3= @card.name
 
@@ -7,8 +10,9 @@
 
 %strong Price
 
-%h2= sprintf("%.2f", @avg_price)
+%h2= sprintf("$%.2f", @avg_price)
 
+%img{ :src => @card.picture }
 
 %div{ :style=>"width: 25%" }
   %p
@@ -30,5 +34,24 @@
     %strong Rules Text:
     = @card.rules_text
 
+%div{ :id => 'project_tasks' }
+  %h2 DataTable
+  %script
+    = %Q{var dataSource = new YAHOO.util.XHRDataSource("/card/#{@card.card_no}/auctions.json");}
+    dataSource.responseType = YAHOO.util.XHRDataSource.TYPE_JSON;
+    dataSource.responseSchema = {
+    resultsList: "data",
+    fields: [ {key:"end_time"}, {key:"description"}, {key:"price"} ]
+    }
+
+    var columnDefinitions = [
+    {key:"end_time", label:"Date", formatter:"formatPriority", sortable:true},
+    {key:"description", label:"Description", sortable:true},
+    {key:"price", label:"Price"},
+    ];
+
+    var dataTable = new YAHOO.widget.DataTable("project_tasks", columnDefinitions, dataSource, {caption:"DataTable Caption"});
+
 %div
   = render_dataset("Auctions associated with this card", @auctions_matched_to_card)
+
