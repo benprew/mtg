@@ -13,6 +13,11 @@ class Card
   property :pow_tgh, String
   property :rarity, String
   property :set_name, String
+  property :collector_no, Integer
+
+  def picture
+    '/' + set_name.downcase.gsub(/\s/, '_') + '/' + collector_no.to_s + '.jpeg'
+  end
 
   def all_keywords
     [ name_keywords(), set_keywords() ].flatten
