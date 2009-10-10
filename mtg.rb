@@ -48,23 +48,7 @@ get '/' do
   @most_expensive_cards = most_expensive_cards()
   @most_expensive_alara_reborn_cards = most_expensive_cards('Alara Reborn')
   @highest_volume_cards = highest_volume_cards()
-  @interesting_auctions = Dataset.new(
-    [ :description, :price, :external_item_id, :end_time ],
-    q(%Q{
-      SELECT
-        description,
-        auction_price as price,
-        external_item_id,
-        end_time
-      FROM
-        external_items
-      WHERE
-        end_time > date_add(now(), interval 8 hour)
-        and card_no is null
-      ORDER BY auction_price desc
-      LIMIT 40}))
 
-  @interesting_auctions.add_decorator(:external_item_id, auction_link_decorator())
   haml :index
 end
 
