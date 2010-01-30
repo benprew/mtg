@@ -16,7 +16,7 @@ class Card
   property :collector_no, Integer
 
   def picture
-    '/' + set_name.downcase.gsub(/\s/, '_') + '/' + collector_no.to_s + '.jpeg'
+    '/sets/' + set_name.downcase.gsub(/\s/, '_') + '/' + collector_no.to_s + '.jpeg'
   end
 
   def all_keywords
