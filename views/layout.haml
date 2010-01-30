@@ -8,6 +8,9 @@
       %script{ :type=>"text/javascript", :src=>"/js/swfobject.js" }
       %script{ :type => "text/javascript" }
         = %Q{swfobject.embedSWF("#{@chart_url}", "my_chart", "750", "340", "9.0.0")}
+    %script{ :type=>"text/javascript", :src=>"http://www.google.com/jsapi" }
+    %script{ :type=>"text/javascript" }
+      google.load('visualization', '1', {packages: ['table']});
   %body
     .header
       %div{ :style => 'float: right' }

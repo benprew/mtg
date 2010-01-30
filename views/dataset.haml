@@ -1,15 +1,3 @@
 .report
   .ds_header= @dataset_title
-  %table.dataset
-    %thead    
-      %tr
-        - @dataset.header.each do |h|
-          %th
-            = h[:title]
-    %tbody
-      - @dataset.rows.each do |row|
-        %tr
-          - row.each_value do |field|
-            %td
-              = field
-  .ds_footer view report... (coming soon)
+  = @dataset.to_data_table
