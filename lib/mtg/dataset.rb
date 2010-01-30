@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'facets/dictionary'
 require 'mtg/headers'
+require 'json'
 
 class Dataset
 
@@ -55,5 +56,28 @@ class Dataset
     @decorators[field] ||= []
     @decorators[field] << decorate_sub
     _decorate_dataset()
+  end
+
+  def to_data_table
+    json_format = Hash.new
+
+    json_format = { :cols => [], :rows => [] }
+    json_format[:cols] = @header.map do |h|
+      { :label => h[:title], :name => h[:name], :type => :string }
+    end
+
+    @rows.each do |row|
+      row2 = @header.map { |col| { :v => row[col[:name].to_sym] } }
+      json_format[:rows] << { :c => row2 }
+    end
+    
+    return %Q{
+    <div id='#{self.object_id}'></div>
+    <script type="text/javascript">
+      data = new google.visualization.DataTable(#{JSON.generate(json_format)});
+      table = new google.visualization.Table(document.getElementById('#{self.object_id}')) 
+      table.draw(data, {allowHtml: true, showRowNumber: true})
+    </script>
+}
   end
 end
