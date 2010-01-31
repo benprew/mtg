@@ -6,8 +6,7 @@ include FileUtils
 
 (app_name, app_port) = ARGV
 
-File.open('bin/spin', 'w') do |f|
-  f << %q{
+puts %q{
 #!/usr/local/ruby/bin/ruby
 
 require 'rubygems'
@@ -21,4 +20,3 @@ Daemons.run_proc(executable, :log_output => 1, :dir_mode => :system) do
   exec "/usr/local/ruby/bin/ruby #{executable} -e production #{extra_options}"
 end
 } % [ pwd(), app_name, "-p #{app_port}" ]
-end
