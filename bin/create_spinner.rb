@@ -7,7 +7,7 @@ include FileUtils
 (app_name, app_port) = ARGV
 
 puts %q{
-#!/usr/local/ruby/bin/ruby
+#!/usr/local/bin/ruby
 
 require 'rubygems'
 require 'daemons'
