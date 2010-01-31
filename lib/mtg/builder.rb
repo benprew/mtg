@@ -1,4 +1,4 @@
-$:.unshift File.dirname(__FILE__) + '/../../../sqlbuilder/lib'
+$:.unshift File.dirname(__FILE__) + '/../../ext/sqlbuilder/lib'
 require 'date'
 require 'sqlbuilder'
 require 'mtg/db'
