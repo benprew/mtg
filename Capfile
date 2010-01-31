@@ -22,8 +22,8 @@ namespace :deploy do
 end
 
 task :daemonize do
-  run "bin/create_spinner #{app_name} #{app_port}"
-  run "cp script/spin /etc/init.d/#{app_name}"
+  run "#{release_path}/bin/create_spinner.rb #{app_name} #{app_port} >/tmp/spin"
+  run "cp /tmp/spin /etc/init.d/#{app_name} && rm /tmp/spin"
   run "chmod +x /etc/init.d/#{app_name}"
   run "ln -sf ../init.d/mtg /etc/rc.d/rc2.d/S97#{app_name}"
   run "ln -sf ../init.d/mtg /etc/rc.d/rc2.d/K13#{app_name}"
