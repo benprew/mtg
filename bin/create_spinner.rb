@@ -1,3 +1,13 @@
+#!/usr/local/bin/ruby
+
+require 'fileutils'
+
+include FileUtils
+
+(app_name, app_port) = ARGV
+
+File.open('bin/spin', 'w') do |f|
+  f << %q{
 #!/usr/local/ruby/bin/ruby
 
 require 'rubygems'
@@ -9,4 +19,6 @@ extra_options = "%s"
 Daemons.run_proc(executable, :log_output => 1, :dir_mode => :system) do
   Dir.chdir(pwd)
   exec "/usr/local/ruby/bin/ruby #{executable} -e production #{extra_options}"
+end
+} % [ pwd(), app_name, "-p #{app_port}" ]
 end
