@@ -4,7 +4,7 @@ require 'fileutils'
 
 include FileUtils
 
-(app_name, app_port) = ARGV
+(app_dir, app_name, app_port) = ARGV
 
 puts %q{#!/usr/local/bin/ruby
 
@@ -18,4 +18,4 @@ Daemons.run_proc(executable, :log_output => 1, :dir_mode => :system) do
   Dir.chdir(pwd)
   exec "/usr/local/ruby/bin/ruby #{executable} -e production #{extra_options}"
 end
-} % [ pwd(), app_name, "-p #{app_port}" ]
+} % [ app_dir, app_name, "-p #{app_port}" ]
