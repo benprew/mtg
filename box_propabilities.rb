@@ -10,10 +10,10 @@ set_name = ARGV[0]
 
 include SqlDb
 
-@cards = DB[:cards].left_outer_join(:card_prices, :card_no => :card_no).select(:name, :price).filter(:set_name => set_name).filter(~:name.like('%Foil%'))
+@cards = db[:cards].left_outer_join(:card_prices, :card_no => :card_no).select(:name, :price).filter(:set_name => set_name).filter(~:name.like('%Foil%'))
 @rares = @cards.filter(:rarity => 'Rare').all
 @uncommons = @cards.filter(:rarity => 'Uncommon').all
-@foils = DB[:cards].left_outer_join(:card_prices, :card_no => :card_no).select(:name, :price).filter(:set_name => set_name).filter(:name.like('%Foil%')).filter(~:rarity => 'Mythic Rare').all
+@foils = db[:cards].left_outer_join(:card_prices, :card_no => :card_no).select(:name, :price).filter(:set_name => set_name).filter(:name.like('%Foil%')).filter(~:rarity => 'Mythic Rare').all
 
 def rare_total_for_set(set_name)
   total = 0

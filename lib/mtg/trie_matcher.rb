@@ -17,7 +17,7 @@ class TrieMatcher
   def _build_cards_trie()
     @valid_keywords = {}
     @cards_trie = Trie.new
-    DB[:cards].all do |card|
+    db[:cards].all do |card|
       name_keywords = keywords_from_string(card[:name])
       set_keywords = keywords_from_string(card[:set_name])
       all_keywords = [ name_keywords, set_keywords ].flatten

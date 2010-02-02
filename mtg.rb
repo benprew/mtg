@@ -11,7 +11,7 @@ require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
 require 'mtg/sql_db'
-require 'mtg/builder'
+# require 'mtg/builder'
 require 'sass'
 require 'haml'
 require 'json'
@@ -20,7 +20,7 @@ include SqlDb
 
 @@base_chart = '/open-flash-chart.swf'
 
-@@builder = Mtg::Builder.new
+# @@builder = Mtg::Builder.new
 
 configure :production do
   error do
@@ -41,7 +41,7 @@ end
 get '/card/:card_no/auctions.json' do
   card_no = params[:card_no]
   puts card_no
-  JSON.generate({:data => DB[:external_items].filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
+  JSON.generate({:data => db[:external_items].filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
 end
 
 get '/' do
@@ -74,16 +74,16 @@ end
 
 get '/chart/card/:card_no' do
   card_no = params[:card_no]
-  plan = @@builder.query do
-      select :avg_price, :xtns, :price, :date
-      where :card_no => card_no
-      group_by :date
-      order_by :date
-  end
-
-  (sql, bind_params) = plan.sql_and_bind_params
-  
-  xtns = q(sql, bind_params)
+  xtns = db[:cards].
+    select(
+      (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price),
+      :price,
+      :xtns,
+      :date ).
+    inner_join(:xtns_by_card_day, :card_no => :card_no).
+    filter(:cards__card_no => card_no).
+    group_by( :date ).
+    order_by( :date ).all
 
   %Q(
 {

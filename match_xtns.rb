@@ -29,7 +29,7 @@ class XtnMatcher < Logger::Application
     @matcher = TrieMatcher.new(@log)
 
     @log.info("Loading external items")
-    ext_items = DB[:external_items].select(:description, :external_item_id).filter(:has_match_been_attempted => 0)
+    ext_items = db[:external_items].select(:description, :external_item_id).filter(:has_match_been_attempted => 0)
 
     count = ext_items.count
     @log.info("Matching #{count} items")
@@ -48,7 +48,7 @@ class XtnMatcher < Logger::Application
         possible_match += 1
       end
 
-      DB[:external_items].filter(:external_item_id => item[:external_item_id]).update(:has_match_been_attempted => 1)
+      db[:external_items].filter(:external_item_id => item[:external_item_id]).update(:has_match_been_attempted => 1)
     end
 
     @log.info("Matched: #{match} : #{sprintf '%d%%', (count.zero? ? 0 : ((match + 0.0) / count)) * 100}")
@@ -57,7 +57,7 @@ class XtnMatcher < Logger::Application
   end
 
   def _match_card(item, card_no)
-    e = DB[:external_items].filter(:external_item_id => item[:external_item_id])
+    e = db[:external_items].filter(:external_item_id => item[:external_item_id])
     e.update(:card_no => card_no, :cards_in_item => _cards_in_description(item[:description]))
   end
 
@@ -72,10 +72,10 @@ class XtnMatcher < Logger::Application
 
   def _save_possible_matches(ext_item_id, possible_matches)
     @log.debug "deleting old matches"
-    DB[:possible_matches].filter(:external_item_id => ext_item_id).delete
+    db[:possible_matches].filter(:external_item_id => ext_item_id).delete
     @log.debug "inserting new matches"
     possible_matches.each do |pm|
-      DB[:possible_matches].insert(:external_item_id => ext_item_id, :card_no => pm, :score => 1)
+      db[:possible_matches].insert(:external_item_id => ext_item_id, :card_no => pm, :score => 1)
     end
   end
 end
