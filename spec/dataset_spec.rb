@@ -4,14 +4,11 @@ require 'mtg/dataset'
 describe Dataset do
   it "renders to google dataTable" do
     data = Dataset.new( [:head1, :header2 ], [ { :head1 => 0, :head2 => 1 }, { :head1 => 2, :head2 => 3} ] )
-    data.to_data_table.should == <<-PART
+    as_data_table = data.to_data_table
 
-    <div id='#{data.object_id}'></div>
-    <script type="text/javascript">
-      data = new google.visualization.DataTable({"cols":[{"type":"string","name":"head1","label":"head1"},{"type":"string","name":"header2","label":"header2"}],"rows":[{"c":[{"v":0},{"v":null}]},{"c":[{"v":2},{"v":null}]}]});
-      table = new google.visualization.Table(document.getElementById('#{data.object_id}')) 
-      table.draw(data, {allowHtml: true, showRowNumber: true})
-    </script>
-    PART
+    as_data_table.should match(/<div id='#{data.object_id}'><\/div>/)
+    as_data_table.should match(/new google.visualization.DataTable/)
+    as_data_table.should match(/"name":"head1".*"name":"header2"/)
+    as_data_table.should match(/"rows":.*"v":0.*"v":2/)
   end
 end
