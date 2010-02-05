@@ -37,20 +37,21 @@ describe Card do
 
   it "can build a card chart" do
     db[:xtns_by_card_day].insert(
-      :card_no => @new_card[:card_no],
+      :card_no => 100,
       :price => 25,
       :xtns => 1,
       :date => '20090101' )
 
     db[:xtns_by_card_day].insert(
-      :card_no => @new_card[:card_no],
+      :card_no => 100,
       :price => 12,
       :xtns => 2,
       :date => '20090102' )
 
-
-    get "/chart/card/#{@new_card[:card_no]}"
+    get "/chart/card/100"
 
     last_response.body.should match(/tick_height/)
+    last_response.body.should match(/values.*[25,6]/)
+    last_response.body.should match(/values.*[1,2]/)
   end
 end

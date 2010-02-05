@@ -11,7 +11,6 @@ require 'mtg/xtn'
 require 'mtg/external_item'
 require 'mtg/db'
 require 'mtg/sql_db'
-# require 'mtg/builder'
 require 'sass'
 require 'haml'
 require 'json'
@@ -19,8 +18,6 @@ require 'json'
 include SqlDb
 
 @@base_chart = '/open-flash-chart.swf'
-
-# @@builder = Mtg::Builder.new
 
 configure :production do
   error do
@@ -74,14 +71,13 @@ end
 
 get '/chart/card/:card_no' do
   card_no = params[:card_no]
-  xtns = db[:cards].
+  xtns = db[:xtns_by_card_day].
     select(
       (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price),
       :price,
       :xtns,
       :date ).
-    inner_join(:xtns_by_card_day, :card_no => :card_no).
-    filter(:cards__card_no => card_no).
+    filter(:card_no => card_no).
     group_by( :date ).
     order_by( :date ).all
 
@@ -99,7 +95,7 @@ get '/chart/card/:card_no' do
       "colour":    "#9933CC",
       "text":      "Price",
       "font-size": 10,
-      "values" :   [#{xtns.map { |x| x['avg_price'].to_i }.join(',')}]
+      "values" :   [#{xtns.map { |x| x[:avg_price].to_i }.join(',')}]
     },
     {
       "type":      "line_dot",
@@ -107,7 +103,7 @@ get '/chart/card/:card_no' do
       "colour":    "#0033CC",
       "text":      "Volume",
       "font-size": 10,
-      "values" :   [#{xtns.map { |x| x['xtns'].to_i }.join(',')}]
+      "values" :   [#{xtns.map { |x| x[:xtns].to_i }.join(',')}]
     }
 
   ],
@@ -119,7 +115,7 @@ get '/chart/card/:card_no' do
     "grid_colour":"#00ff00",
     "labels":{
       "rotate" :"vertical",
-      "labels" :[#{xtns.map { |x| sprintf'"%s"', x['date'] }.join(',')} ]
+      "labels" :[#{xtns.map { |x| sprintf'"%s"', x[:date] }.join(',')} ]
      }
    },
  
@@ -129,8 +125,8 @@ get '/chart/card/:card_no' do
     "colour":      "#d000d0",
     "grid_colour": "#00ff00",
     "offset":      0,
-    "max":         #{xtns.map{ |x| (x['avg_price']).to_i }.max},
-    "steps": #{xtns.map{ |x| (x['avg_price']).to_i }.max / 8}
+    "max":         #{xtns.map{ |x| (x[:avg_price]).to_i }.max},
+    "steps": #{xtns.map{ |x| (x[:avg_price]).to_i }.max / 8}
   }
 }
 )
@@ -260,10 +256,10 @@ get '/set/:set_name' do
 end
 
 def auctions_matched_to_card(card)
-  d = make_dataset do
-    select :date, :description, :price, :cards_in_item, :external_item_id, :end_time
-    where :card_no => card.card_no
-  end
+  d = Dataset.new(
+    [ :date, :description, :price, :cards_in_item, :external_item_id, :end_time ],
+    db[:external_items].select(:date, :description, :price, :cards_in_item, :external_item_id, :end_time).filter( :card_no => card.card_no ).all
+    )
       
   d.add_decorator(
     :external_item_id,
@@ -344,19 +340,6 @@ helpers do
 
   def search_box
     haml :search_box, :layout => false
-  end
-
-  def make_dataset(&blk)
-    plan = @@builder.query(&blk)
-
-    (sql, bind_params) = plan.sql_and_bind_params
-
-    warn sql
-
-    return Dataset.new(
-      plan.selected_fields,
-      q(sql, bind_params)
-      )
   end
 
   def q(sql, bind_params = [])
