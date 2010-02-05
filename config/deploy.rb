@@ -8,7 +8,7 @@ set :deploy_to, "/var/www/mtg"
 
 set :scm, :git
 set :scm_command, '/usr/local/git/bin/git'
-set :local_scm_command, '/usr/bin/git'
+set :local_scm_command, `which git`.chomp
 set :repository, 'git://github.com/benprew/mtg.git'
 set :branch, 'master'
 set :deploy_via, :remote_cache
