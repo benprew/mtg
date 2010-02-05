@@ -258,7 +258,7 @@ end
 def auctions_matched_to_card(card)
   d = Dataset.new(
     [ :date, :description, :price, :cards_in_item, :external_item_id, :end_time ],
-    db[:external_items].select(:date, :description, :price, :cards_in_item, :external_item_id, :end_time).filter( :card_no => card.card_no ).all
+    db[:external_items].select(:description, :price, :cards_in_item, :external_item_id, :end_time.as(:date)).filter( :card_no => card.card_no ).all
     )
       
   d.add_decorator(
