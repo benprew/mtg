@@ -5,6 +5,7 @@ require 'mtg/sql_db'
 require 'mtg/cardutils'
 
 set :environment, :test
+DataMapper.setup(:default, 'sqlite3:///tmp/mtg_test_db')
 
 describe Card do
 
@@ -17,7 +18,6 @@ describe Card do
   end
 
   before(:each) do
-    db.run('begin transaction')
     db[:cards].insert(
       :name => 'test card',
       :set_name => 'test set',
@@ -27,12 +27,17 @@ describe Card do
   end
 
   after(:each) do
-    db.run('rollback')
   end
 
 
   it "has a path to an image" do
     card_picture(@new_card).should == '/sets/test_set/25.jpeg'
+  end
+
+  it "can get card details" do
+    get "/card/#{@new_card[:card_no]}"
+
+    p last_response.body
   end
 
   it "can build a card chart" do
