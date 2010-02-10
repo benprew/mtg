@@ -37,7 +37,7 @@ describe Card do
   it "can get card details" do
     get "/card/#{@new_card[:card_no]}"
 
-    p last_response.body
+    last_response.body.should match /Casting Cost/
   end
 
   it "can build a card chart" do

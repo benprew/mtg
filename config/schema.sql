@@ -23,3 +23,31 @@ CREATE TABLE `cards` (
   PRIMARY KEY  (`card_no`)
 );
 
+DROP TABLE IF EXISTS `possible_matches`;
+
+CREATE TABLE `possible_matches` (
+  `external_item_id` varchar(50) NOT NULL,
+  `card_no` integer NOT NULL,
+  `score` float NOT NULL,
+  PRIMARY KEY (`external_item_id`,`card_no`)
+);
+
+DROP TABLE IF EXISTS `external_items`;
+
+CREATE TABLE `external_items` (
+  `external_item_id` varchar(50) NOT NULL,
+  `description` varchar(512) DEFAULT NULL,
+  `end_time` datetime DEFAULT NULL,
+  `auction_price` float DEFAULT NULL,
+  `buy_it_now_price` float DEFAULT NULL,
+  `card_no` integer DEFAULT NULL,
+  `last_updated` datetime NOT NULL,
+  `cards_in_item` integer NOT NULL DEFAULT '1',
+  `price` float DEFAULT NULL,
+  `has_been_finalized` tinyint(4) DEFAULT '0',
+  `has_match_been_attempted` tinyint(4) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`external_item_id`)
+);
+
+
+
