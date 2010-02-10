@@ -22,4 +22,15 @@ Spec::Rake::SpecTask.new('rcov') do |t|
   t.rcov_opts = ['--exclude', 'examples']
 end
 
+namespace :db do
+  namespace :test do
+    desc "prepare test db"
+    task :prepare do
+      `sqlite3 /tmp/mtg_test_db < config/schema.sql`
+    end
+  end
+end
+
+task :spec => [ :'db:test:prepare' ]
+
 task :default => :spec
