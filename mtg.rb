@@ -54,19 +54,17 @@ get '/updates' do
 end
 
 post '/match_auction' do
-  e = ExternalItem.get(params[:external_item_id])
-  e.card_no = params[:card_no]
-  e.cards_in_item = params[:cards_in_item]
-  e.save
-
-  p e
+  db[:external_items].
+    filter( :external_item_id => params[:external_item_id] ).
+    update( :card_no => params[:card_no], :cards_in_item => params[:cards_in_item] )
   warn "done saving external item"
 
   redirect '/match_auction'
 end
 
 get '/match_auction' do
-  redirect sprintf '/match_auction/%s', ExternalItem.first(:card_no => nil, :order => [:price.desc] ).external_item_id
+  item = db[:external_items].filter(:card_no => nil).reverse_order(:price).first
+  redirect sprintf '/match_auction/%s', item[:external_item_id]
 end
 
 get '/chart/card/:card_no' do
@@ -134,21 +132,19 @@ end
 
 get '/match_auction/:external_item_id' do
 
-  @e = ExternalItem.get(params[:external_item_id])
+  query = db[:possible_matches].
+        select( :possible_matches__card_no, :name, :set_name, :cards_in_item, :score ).
+        inner_join( :cards, :card_no => :card_no ).
+        inner_join( :external_items, :external_item_id => :possible_matches__external_item_id ).
+        filter( :external_items__external_item_id => params[:external_item_id]).
+        reverse_order( :score )
+
+  @e = db[:external_items].filter( :external_item_id => params[:external_item_id]).first
   @possible_matches = 
     Dataset.new(
       [ :card_no, :name, :set_name, :score, :cards_in_item ],
-      q( %Q(
-        SELECT possible_matches.card_no, name, set_name, cards_in_item, score
-        FROM
-          possible_matches INNER JOIN
-          cards USING (card_no) INNER JOIN
-          external_items USING (external_item_id)
-        WHERE
-          external_item_id = ?
-        ORDER BY
-          score desc
-      ), [ params[:external_item_id] ]))
+      query.all
+    )
 
   @possible_matches.add_decorator(
     :cards_in_item,
@@ -269,10 +265,12 @@ end
 
 
 def average_price_for_card(card)
-  rows = q(%Q{
-SELECT sum(price) / sum(xtns) AS avg
-FROM xtns_by_card_day INNER JOIN cards USING (card_no)
-WHERE card_no = ?}, [card.id])
+  rows = 
+    db[:xtns_by_card_day].
+    select( (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg) ).
+    inner_join( :cards, :card_no => :card_no ).
+    filter( :cards__card_no => card.card_no ).first
+
   return rows[0] ? rows[0] : 0
 end
 

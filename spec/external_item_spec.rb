@@ -9,7 +9,6 @@ describe ExternalItem do
 
   include Rack::Test::Methods
   include SqlDb
-  include CardUtils
 
   def app
     Sinatra::Application
@@ -32,5 +31,12 @@ describe ExternalItem do
 
     last_response.headers["Location"].should == '/match_auction/1234'
   end
+
+  it "can show an auction to match properly" do
+    get '/match_auction/1234'
+
+    last_response.body.should match /Match the auction below/
+  end
+
 
 end

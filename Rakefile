@@ -26,7 +26,7 @@ namespace :db do
   namespace :test do
     desc "prepare test db"
     task :prepare do
-      `sqlite3 /tmp/mtg_test_db < config/schema.sql`
+      puts `sqlite3 /tmp/mtg_test_db < config/schema.sql`
     end
   end
 end
