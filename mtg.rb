@@ -6,11 +6,9 @@ require 'rubygems'
 require 'sinatra'
 require 'dm-core'
 require 'mtg/dataset'
-require 'mtg/card'
-require 'mtg/xtn'
-require 'mtg/external_item'
-require 'mtg/db'
 require 'mtg/sql_db'
+require 'mtg/sql_card'
+require 'mtg/sql_external_item'
 require 'sass'
 require 'haml'
 require 'json'
@@ -38,7 +36,7 @@ end
 get '/card/:card_no/auctions.json' do
   card_no = params[:card_no]
   puts card_no
-  JSON.generate({:data => db[:external_items].filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
+  JSON.generate({:data => ExternalItems.filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
 end
 
 get '/' do
@@ -54,16 +52,13 @@ get '/updates' do
 end
 
 post '/match_auction' do
-  db[:external_items].
-    filter( :external_item_id => params[:external_item_id] ).
+  ExternalItem.first( :external_item_id => params[:external_item_id] ).
     update( :card_no => params[:card_no], :cards_in_item => params[:cards_in_item] )
-  warn "done saving external item"
-
   redirect '/match_auction'
 end
 
 get '/match_auction' do
-  item = db[:external_items].filter(:card_no => nil).reverse_order(:price).first
+  item = ExternalItem.filter(:card_no => nil).reverse_order(:price).first
   redirect sprintf '/match_auction/%s', item[:external_item_id]
 end
 
@@ -187,7 +182,7 @@ get '/search' do
 end
 
 get '/card/:card_id' do
-  @card = Card.get(params[:card_id])
+  @card = Card.first(:card_no => params[:card_id])
 
   @avg_price = average_price_for_card(@card)
   @auctions_matched_to_card = auctions_matched_to_card(@card)
@@ -342,9 +337,9 @@ helpers do
 
   def q(sql, bind_params = [])
     if bind_params.length > 0
-      return repository(:default).adapter.query(sql, bind_params)
+      return db[sql, bind_params].all
     else
-      return repository(:default).adapter.query(sql)
+      return db[sql].all
     end
       
   end

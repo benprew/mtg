@@ -5,23 +5,25 @@ require 'yaml'
 module SqlDb
   module_function
 
+  DB_CONFIG = YAML::load File.open(File.dirname(__FILE__) + '/../../config/database.yml')
   @@DB = nil
 
   def db
     return @@DB unless @@DB.nil?
 
-    db_config = YAML::load File.open(File.dirname(__FILE__) + '/../../config/database.yml')
-
-    @@DB =  Sequel.connect('sqlite:///tmp/mtg_test_db') if test?
-    @@DB = Sequel.connect(make_connect_string(db_config, :production)) if production?
-    @@DB = Sequel.connect(make_connect_string(db_config, :development)) if development?
+    if test?
+      @@DB = Sequel.connect('sqlite:///tmp/mtg_test_db')
+    elsif production?
+      @@DB = Sequel.connect(build_connect_string_for(:production))
+    else
+      @@DB = Sequel.connect(build_connect_string_for(:development))
+    end
 
     return @@DB
   end
 
-  def make_connect_string(db_config, environment)
-    db_info = db_config[environment.to_s]
+  def build_connect_string_for(environment)
+    db_info = DB_CONFIG[environment.to_s]
     return sprintf "%s://%s:%s@localhost/%s", db_info['adapter'], db_info['username'], db_info['password'], db_info['database']
   end
-
 end

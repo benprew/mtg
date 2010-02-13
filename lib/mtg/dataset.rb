@@ -39,7 +39,7 @@ class Dataset
   end
 
   def _is_object_row?(header, row)
-    row.respond_to?(header[:name])
+    row.class != Hash
   end
 
   def _build_object_row(header, row)

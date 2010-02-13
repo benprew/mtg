@@ -1,9 +1,6 @@
 require File.dirname(__FILE__) + '/base'
 require 'mtg'
 require 'rack/test'
-require 'mtg/sql_db'
-
-set :environment, :test
 
 describe ExternalItem do
 

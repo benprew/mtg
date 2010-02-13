@@ -4,6 +4,7 @@ require 'spec/rake/spectask'
 
 desc "Run all specs"
 Spec::Rake::SpecTask.new('spec') do |t|
+  ENV['RACK_ENV'] = 'test'
   t.spec_files = FileList['spec/*_spec.rb']
   t.libs = ['lib/mtg']
   t.spec_opts = ["--diff", 'u']
@@ -11,12 +12,14 @@ end
 
 desc "Print specdocs"
 Spec::Rake::SpecTask.new(:doc) do |t|
+  ENV['RACK_ENV'] = 'test'
   t.spec_opts = ["--format", "specdoc", "--dry-run"]
   t.spec_files = FileList['spec/*_spec.rb']
 end
 
 desc "Run all examples with RCov"
 Spec::Rake::SpecTask.new('rcov') do |t|
+  ENV['RACK_ENV'] = 'test'
   t.spec_files = FileList['spec/*_spec.rb']
   t.rcov = true
   t.rcov_opts = ['--exclude', 'examples']
