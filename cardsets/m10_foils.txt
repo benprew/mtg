@@ -1,0 +1,327 @@
+Acidic Slime|M10
+Acolyte of Xathrid|M10
+Act of Treason|M10
+Air Elemental|M10
+Air Elemental|M10
+Ajani Goldmane|M10
+Alluring Siren|M10
+Angel's Feather|M10
+Angel's Mercy|M10
+Angel's Mercy|M10
+Ant Queen|M10
+Armored Ascension|M10
+Armored Ascension|M10
+Assassinate|M10
+Awakener Druid|M10
+Ball Lightning|M10
+Ball Lightning|M10
+Baneslayer Angel|M10
+Berserkers of Blood Ridge|M10
+Berserkers of Blood Ridge|M10
+Birds of Paradise|M10
+Black Knight|M10
+Blinding Mage|M10
+Blinding Mage|M10
+Bog Wraith|M10
+Bogardan Hellkite|M10
+Bogardan Hellkite|M10
+Borderland Ranger|M10
+Borderland Ranger|M10
+Bountiful Harvest|M10
+Bramble Creeper|M10
+Burning Inquiry|M10
+Burst of Speed|M10
+Cancel|M10
+Cancel|M10
+Canyon Minotaur|M10
+Capricious Efreet|M10
+Capricious Efreet|M10
+Captain of the Watch|M10
+Captain of the Watch|M10
+Celestial Purge|M10
+Cemetery Reaper|M10
+Cemetery Reaper|M10
+Centaur Courser|M10
+Centaur Courser|M10
+Chandra Nalaar|M10
+Child of Night|M10
+Clone|M10
+Coat of Arms|M10
+Consume Spirit|M10
+Consume Spirit|M10
+Convincing Mirage|M10
+Coral Merfolk|M10
+Craw Wurm|M10
+Cudgel Troll|M10
+Darksteel Colossus|M10
+Darksteel Colossus|M10
+Deadly Recluse|M10
+Deathmark|M10
+Deathmark|M10
+Demon's Horn|M10
+Diabolic Tutor|M10
+Diabolic Tutor|M10
+Disentomb|M10
+Disorient|M10
+Divination|M10
+Divine Verdict|M10
+Divine Verdict|M10
+Djinn of Wishes|M10
+Djinn of Wishes|M10
+Doom Blade|M10
+Dragon Whelp|M10
+Dragon Whelp|M10
+Dragon's Claw|M10
+Dragonskull Summit|M10
+Dread Warlock|M10
+Dread Warlock|M10
+Drowned Catacomb|M10
+Drudge Skeletons|M10
+Drudge Skeletons|M10
+Duress|M10
+Duress|M10
+Earthquake|M10
+Elite Vanguard|M10
+Elvish Archdruid|M10
+Elvish Archdruid|M10
+Elvish Piper|M10
+Elvish Visionary|M10
+Emerald Oryx|M10
+Enormous Baloth|M10
+Entangling Vines|M10
+Essence Scatter|M10
+Excommunicate|M10
+Excommunicate|M10
+Fabricate|M10
+Fiery Hellhound|M10
+Fireball|M10
+Fireball|M10
+Firebreathing|M10
+Flashfreeze|M10
+Fog|M10
+Fog|M10
+Forest|M10
+Forest|M10
+Forest|M10
+Forest|M10
+Gargoyle Castle|M10
+Garruk Wildspeaker|M10
+Giant Growth|M10
+Giant Spider|M10
+Giant Spider|M10
+Glacial Fortress|M10
+Glorious Charge|M10
+Glorious Charge|M10
+Goblin Artillery|M10
+Goblin Chieftain|M10
+Goblin Piker|M10
+Gorgon Flail|M10
+Gorgon Flail|M10
+Gravedigger|M10
+Gravedigger|M10
+Great Sable Stag|M10
+Griffin Sentinel|M10
+Guardian Seraph|M10
+Harm's Way|M10
+Harm's Way|M10
+Haunting Echoes|M10
+Hive Mind|M10
+Holy Strength|M10
+Honor of the Pure|M10
+Horned Turtle|M10
+Howl of the Night Pack|M10
+Howling Banshee|M10
+Howling Mine|M10
+Hypnotic Specter|M10
+Hypnotic Specter|M10
+Ice Cage|M10
+Ice Cage|M10
+Ignite Disorder|M10
+Illusionary Servant|M10
+Indestructibility|M10
+Indestructibility|M10
+Inferno Elemental|M10
+Island|M10
+Island|M10
+Island|M10
+Island|M10
+Island|M10
+Island|M10
+Jace Beleren|M10
+Jackal Familiar|M10
+Jackal Familiar|M10
+Jump|M10
+Kalonian Behemoth|M10
+Kalonian Behemoth|M10
+Kelinore Bat|M10
+Kindled Fury|M10
+Kraken's Eye|M10
+Lava Axe|M10
+Levitation|M10
+Lifelink|M10
+Lightning Bolt|M10
+Lightning Elemental|M10
+Lightwielder Paladin|M10
+Lightwielder Paladin|M10
+Liliana Vess|M10
+Liliana Vess|M10
+Llanowar Elves|M10
+Looming Shade|M10
+Lurking Predators|M10
+Magebane Armor|M10
+Magebane Armor|M10
+Magma Phoenix|M10
+Magma Phoenix|M10
+Manabarbs|M10
+Master of the Wild Hunt|M10
+Megrim|M10
+Merfolk Looter|M10
+Merfolk Sovereign|M10
+Mesa Enchantress|M10
+Might of Oaks|M10
+Mind Control|M10
+Mind Control|M10
+Mind Rot|M10
+Mind Shatter|M10
+Mind Spring|M10
+Mirror of Fate|M10
+Mirror of Fate|M10
+Mist Leopard|M10
+Mold Adder|M10
+Mold Adder|M10
+Mountain|M10
+Mountain|M10
+Mountain|M10
+Mountain|M10
+Mountain|M10
+Naturalize|M10
+Nature's Spiral|M10
+Negate|M10
+Nightmare|M10
+Nightmare|M10
+Oakenform|M10
+Open the Vaults|M10
+Ornithopter|M10
+Overrun|M10
+Overrun|M10
+Pacifism|M10
+Palace Guard|M10
+Palace Guard|M10
+Panic Attack|M10
+Phantom Warrior|M10
+Pithing Needle|M10
+Plains|M10
+Plains|M10
+Plains|M10
+Plains|M10
+Plains|M10
+Planar Cleansing|M10
+Planar Cleansing|M10
+Platinum Angel|M10
+Platinum Angel|M10
+Polymorph|M10
+Ponder|M10
+Ponder|M10
+Prized Unicorn|M10
+Prized Unicorn|M10
+Prodigal Pyromancer|M10
+Prodigal Pyromancer|M10
+Protean Hydra|M10
+Protean Hydra|M10
+Pyroclasm|M10
+Raging Goblin|M10
+Raging Goblin|M10
+Rampant Growth|M10
+Rampant Growth|M10
+Razorfoot Griffin|M10
+Regenerate|M10
+Relentless Rats|M10
+Rhox Pikemaster|M10
+Rhox Pikemaster|M10
+Righteousness|M10
+Rise from the Grave|M10
+Rise from the Grave|M10
+Rod of Ruin|M10
+Rod of Ruin|M10
+Rootbound Crag|M10
+Royal Assassin|M10
+Runeclaw Bear|M10
+Safe Passage|M10
+Sage Owl|M10
+Sanguine Bond|M10
+Seismic Strike|M10
+Serpent of the Endless Sea|M10
+Serpent of the Endless Sea|M10
+Serra Angel|M10
+Serra Angel|M10
+Shatter|M10
+Shivan Dragon|M10
+Shivan Dragon|M10
+Siege Mastodon|M10
+Siege-Gang Commander|M10
+Siege-Gang Commander|M10
+Sign in Blood|M10
+Silence|M10
+Silence|M10
+Silvercoat Lion|M10
+Sleep|M10
+Snapping Drake|M10
+Solemn Offering|M10
+Solemn Offering|M10
+Soul Bleed|M10
+Soul Warden|M10
+Sparkmage Apprentice|M10
+Sparkmage Apprentice|M10
+Spellbook|M10
+Sphinx Ambassador|M10
+Stampeding Rhino|M10
+Stone Giant|M10
+Stormfront Pegasus|M10
+Sunpetal Grove|M10
+Swamp|M10
+Swamp|M10
+Swamp|M10
+Swamp|M10
+Swamp|M10
+Swamp|M10
+Telepathy|M10
+Tempest of Light|M10
+Tendrils of Corruption|M10
+Terramorphic Expanse|M10
+Terramorphic Expanse|M10
+Time Warp|M10
+Tome Scour|M10
+Traumatize|M10
+Trumpet Blast|M10
+Twincast|M10
+Twincast|M10
+Undead Slayer|M10
+Underworld Dreams|M10
+Underworld Dreams|M10
+Unholy Strength|M10
+Unsummon|M10
+Vampire Aristocrat|M10
+Vampire Aristocrat|M10
+Vampire Nocturnus|M10
+Veteran Armorsmith|M10
+Veteran Swordsmith|M10
+Viashino Spearhunter|M10
+Viashino Spearhunter|M10
+Wall of Bone|M10
+Wall of Faith|M10
+Wall of Fire|M10
+Wall of Frost|M10
+Warp World|M10
+Warp World|M10
+Warpath Ghoul|M10
+Weakness|M10
+Whispersilk Cloak|M10
+White Knight|M10
+Wind Drake|M10
+Windstorm|M10
+Wurm's Tooth|M10
+Xathrid Demon|M10
+Yawning Fissure|M10
+Zephyr Sprite|M10
+Zephyr Sprite|M10
+Zombie Goliath|M10

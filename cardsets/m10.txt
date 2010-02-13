@@ -1,0 +1,1727 @@
+Name: 	Acidic Slime
+Cost: 	3GG
+Type: 	Creature - Ooze
+Pow/Tgh: 	(2/2)
+Rules Text: 	Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Acolyte of Xathrid
+Cost: 	B
+Type: 	Creature - Human Cleric
+Pow/Tgh: 	(0/1)
+Rules Text: 	{1}{B}, {T}: Target player loses 1 life.
+Set/Rarity: 	M10 Common
+
+Name: 	Act of Treason
+Cost: 	2R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Air Elemental
+Cost: 	3UU
+Type: 	Creature - Elemental
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Beatdown Box Set Uncommon, Battle Royale Box Set Uncommon, Starter 1999 Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Ajani Goldmane
+Cost: 	2WW
+Type: 	Planeswalker - Ajani
+Loyalty: 	(4)
+Rules Text: 	+1: You gain 2 life.
+-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+-6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+Set/Rarity: 	M10 Mythic Rare, Lorwyn Rare
+
+Name: 	Alluring Siren
+Cost: 	1U
+Type: 	Creature - Siren
+Pow/Tgh: 	(1/1)
+Rules Text: 	{T}: Target creature an opponent controls attacks you this turn if able.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Angel's Feather
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts a white spell, you may gain 1 life.
+Set/Rarity: 	M10 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: 	Angel's Mercy
+Cost: 	2WW
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	You gain 7 life.
+Set/Rarity: 	M10 Common
+
+Name: 	Ant Queen
+Cost: 	3GG
+Type: 	Creature - Insect
+Pow/Tgh: 	(5/5)
+Rules Text: 	{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.
+Set/Rarity: 	M10 Rare
+
+Name: 	Armored Ascension
+Cost: 	3W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +1/+1 for each Plains you control and has flying.
+Set/Rarity: 	M10 Uncommon, Shadowmoor Uncommon
+
+Name: 	Assassinate
+Cost: 	2B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy target tapped creature.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Time Spiral Common
+
+Name: 	Awakener Druid
+Cost: 	2G
+Type: 	Creature - Human Druid
+Pow/Tgh: 	(1/1)
+Rules Text: 	When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid is on the battlefield. It's still a land.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Ball Lightning
+Cost: 	RRR
+Type: 	Creature - Elemental
+Pow/Tgh: 	(6/1)
+Rules Text: 	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.
+Set/Rarity: 	M10 Rare, Masters Edition Rare, Beatdown Box Set Rare, Fifth Edition Rare, Fourth Edition Rare, The Dark Rare
+
+Name: 	Baneslayer Angel
+Cost: 	3WW
+Type: 	Creature - Angel
+Pow/Tgh: 	(5/5)
+Rules Text: 	Flying, first strike, lifelink, protection from Demons and from Dragons
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Berserkers of Blood Ridge
+Cost: 	4R
+Type: 	Creature - Human Berserker
+Pow/Tgh: 	(4/4)
+Rules Text: 	Berserkers of Blood Ridge attacks each turn if able.
+Set/Rarity: 	M10 Common
+
+Name: 	Birds of Paradise
+Cost: 	G
+Type: 	Creature - Bird
+Pow/Tgh: 	(0/1)
+Rules Text: 	Flying
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ravnica: City of Guilds Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Black Knight
+Cost: 	BB
+Type: 	Creature - Human Knight
+Pow/Tgh: 	(2/2)
+Rules Text: 	First strike (This creature deals combat damage before creatures without first strike.)
+Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Set/Rarity: 	M10 Uncommon, Masters Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Blinding Mage
+Cost: 	1W
+Type: 	Creature - Human Wizard
+Pow/Tgh: 	(1/2)
+Rules Text: 	{W}, {T}: Tap target creature.
+Set/Rarity: 	M10 Common
+
+Name: 	Bog Wraith
+Cost: 	3B
+Type: 	Creature - Wraith
+Pow/Tgh: 	(3/3)
+Rules Text: 	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 1999 Uncommon, Classic Sixth Edition Uncommon, Portal Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Bogardan Hellkite
+Cost: 	6RR
+Type: 	Creature - Dragon
+Pow/Tgh: 	(5/5)
+Rules Text: 	Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.
+Set/Rarity: 	M10 Mythic Rare, From the Vault: Dragons Rare, Time Spiral Rare
+
+Name: 	Borderland Ranger
+Cost: 	2G
+Type: 	Creature - Human Scout
+Pow/Tgh: 	(2/2)
+Rules Text: 	When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+Set/Rarity: 	M10 Common
+
+Name: 	Bountiful Harvest
+Cost: 	4G
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	You gain 1 life for each land you control.
+Set/Rarity: 	M10 Common
+
+Name: 	Bramble Creeper
+Cost: 	4G
+Type: 	Creature - Elemental
+Pow/Tgh: 	(0/3)
+Rules Text: 	Whenever Bramble Creeper attacks, it gets +5/+0 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Burning Inquiry
+Cost: 	R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Each player draws three cards, then discards three cards at random.
+Set/Rarity: 	M10 Common
+
+Name: 	Burst of Speed
+Cost: 	R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Creatures you control gain haste until end of turn. (They can attack and {T} even if they just came under your control.)
+Set/Rarity: 	M10 Common
+
+Name: 	Cancel
+Cost: 	1UU
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter target spell.
+Set/Rarity: 	Zendikar Common, M10 Common, Shards of Alara Common, Tenth Edition Common, Time Spiral Common
+
+Name: 	Canyon Minotaur
+Cost: 	3R
+Type: 	Creature - Minotaur Warrior
+Pow/Tgh: 	(3/3)
+Rules Text: 	
+Set/Rarity: 	M10 Common, Conflux Common
+
+Name: 	Capricious Efreet
+Cost: 	4RR
+Type: 	Creature - Efreet
+Pow/Tgh: 	(6/4)
+Rules Text: 	At the beginning of your upkeep, choose target nonland permanent you control and up to two target nonland permanents you don't control. Destroy one of them at random.
+Set/Rarity: 	M10 Rare
+
+Name: 	Captain of the Watch
+Cost: 	4WW
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	Vigilance (Attacking doesn't cause this creature to tap.)
+Other Soldier creatures you control get +1/+1 and have vigilance.
+When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.
+Set/Rarity: 	M10 Rare
+
+Name: 	Celestial Purge
+Cost: 	1W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Exile target black or red permanent.
+Set/Rarity: 	M10 Uncommon, Conflux Uncommon
+
+Name: 	Cemetery Reaper
+Cost: 	1BB
+Type: 	Creature - Zombie
+Pow/Tgh: 	(2/2)
+Rules Text: 	Other Zombie creatures you control get +1/+1.
+{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity: 	M10 Rare
+
+Name: 	Centaur Courser
+Cost: 	2G
+Type: 	Creature - Centaur Warrior
+Pow/Tgh: 	(3/3)
+Rules Text: 	
+Set/Rarity: 	M10 Common
+
+Name: 	Chandra Nalaar
+Cost: 	3RR
+Type: 	Planeswalker - Chandra
+Loyalty: 	(6)
+Rules Text: 	+1: Chandra Nalaar deals 1 damage to target player.
+-X: Chandra Nalaar deals X damage to target creature.
+-8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.
+Set/Rarity: 	M10 Mythic Rare, Duel Decks: Jace vs. Chandra Mythic Rare, Lorwyn Rare
+
+Name: 	Child of Night
+Cost: 	1B
+Type: 	Creature - Vampire
+Pow/Tgh: 	(2/1)
+Rules Text: 	Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity: 	M10 Common
+
+Name: 	Clone
+Cost: 	3U
+Type: 	Creature - Shapeshifter
+Pow/Tgh: 	(0/0)
+Rules Text: 	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Onslaught Rare, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Coat of Arms
+Cost: 	5
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)
+Set/Rarity: 	Premium Deck Series: Slivers Rare, M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Exodus Rare
+
+Name: 	Consume Spirit
+Cost: 	X1B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.
+Set/Rarity: 	Planechase Uncommon, M10 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Common
+
+Name: 	Convincing Mirage
+Cost: 	1U
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant land
+As Convincing Mirage enters the battlefield, choose a basic land type.
+Enchanted land is the chosen type.
+Set/Rarity: 	M10 Common
+
+Name: 	Coral Merfolk
+Cost: 	1U
+Type: 	Creature - Merfolk
+Pow/Tgh: 	(2/1)
+Rules Text: 	
+Set/Rarity: 	M10 Common, Seventh Edition Common, Urza's Saga Common
+
+Name: 	Craw Wurm
+Cost: 	4GG
+Type: 	Creature - Wurm
+Pow/Tgh: 	(6/4)
+Rules Text: 	
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Cudgel Troll
+Cost: 	2GG
+Type: 	Creature - Troll
+Pow/Tgh: 	(4/3)
+Rules Text: 	{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Darksteel Colossus
+Cost: 	11
+Type: 	Artifact Creature - Golem
+Pow/Tgh: 	(11/11)
+Rules Text: 	Trample
+Darksteel Colossus is indestructible.
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.
+Set/Rarity: 	M10 Mythic Rare, Darksteel Rare
+
+Name: 	Deadly Recluse
+Cost: 	1G
+Type: 	Creature - Spider
+Pow/Tgh: 	(1/2)
+Rules Text: 	Reach (This creature can block creatures with flying.)
+Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Set/Rarity: 	M10 Common
+
+Name: 	Deathmark
+Cost: 	B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy target green or white creature.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Coldsnap Uncommon
+
+Name: 	Demon's Horn
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts a black spell, you may gain 1 life.
+Set/Rarity: 	M10 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: 	Diabolic Tutor
+Cost: 	2BB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+Name: 	Disentomb
+Cost: 	B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return target creature card from your graveyard to your hand.
+Set/Rarity: 	M10 Common
+
+Name: 	Disorient
+Cost: 	3U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gets -7/-0 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Divination
+Cost: 	2U
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Draw two cards.
+Set/Rarity: 	M10 Common
+
+Name: 	Divine Verdict
+Cost: 	3W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy target attacking or blocking creature.
+Set/Rarity: 	M10 Common
+
+Name: 	Djinn of Wishes
+Cost: 	3UU
+Type: 	Creature - Djinn
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+Djinn of Wishes enters the battlefield with three wish counters on it.
+{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
+Set/Rarity: 	M10 Rare
+
+Name: 	Doom Blade
+Cost: 	1B
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy target nonblack creature.
+Set/Rarity: 	M10 Common
+
+Name: 	Dragon Whelp
+Cost: 	2RR
+Type: 	Creature - Dragon
+Pow/Tgh: 	(2/3)
+Rules Text: 	Flying
+{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Set/Rarity: 	M10 Uncommon, From the Vault: Dragons Rare, Time Spiral "Timeshifted" Special, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Dragon's Claw
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts a red spell, you may gain 1 life.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: 	Dragonskull Summit
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity: 	M10 Rare
+
+Name: 	Dread Warlock
+Cost: 	1BB
+Type: 	Creature - Human Wizard
+Pow/Tgh: 	(2/2)
+Rules Text: 	Dread Warlock can't be blocked except by black creatures.
+Set/Rarity: 	M10 Common
+
+Name: 	Drowned Catacomb
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity: 	M10 Rare
+
+Name: 	Drudge Skeletons
+Cost: 	1B
+Type: 	Creature - Skeleton
+Pow/Tgh: 	(1/1)
+Rules Text: 	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Common, M10 Common, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Duress
+Cost: 	B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Set/Rarity: 	M10 Common, Duel Decks: Divine vs. Demonic Common, Seventh Edition Common, Urza's Saga Common
+
+Name: 	Earthquake
+Cost: 	XR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Earthquake deals X damage to each creature without flying and each player.
+Set/Rarity: 	M10 Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Elite Vanguard
+Cost: 	W
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(2/1)
+Rules Text: 	
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Elvish Archdruid
+Cost: 	1GG
+Type: 	Creature - Elf Druid
+Pow/Tgh: 	(2/2)
+Rules Text: 	Other Elf creatures you control get +1/+1.
+{T}: Add {G} to your mana pool for each Elf you control.
+Set/Rarity: 	M10 Rare
+
+Name: 	Elvish Piper
+Cost: 	3G
+Type: 	Creature - Elf Shaman
+Pow/Tgh: 	(1/1)
+Rules Text: 	{G}, {T}: You may put a creature card from your hand onto the battlefield.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Destiny Rare
+
+Name: 	Elvish Visionary
+Cost: 	1G
+Type: 	Creature - Elf Shaman
+Pow/Tgh: 	(1/1)
+Rules Text: 	When Elvish Visionary enters the battlefield, draw a card.
+Set/Rarity: 	M10 Common, Shards of Alara Common
+
+Name: 	Emerald Oryx
+Cost: 	3G
+Type: 	Creature - Antelope
+Pow/Tgh: 	(2/3)
+Rules Text: 	Forestwalk (This creature is unblockable as long as defending player controls a Forest.)
+Set/Rarity: 	M10 Common
+
+Name: 	Enormous Baloth
+Cost: 	6G
+Type: 	Creature - Beast
+Pow/Tgh: 	(7/7)
+Rules Text: 	
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Legions Uncommon
+
+Name: 	Entangling Vines
+Cost: 	3G
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant tapped creature
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity: 	M10 Common
+
+Name: 	Essence Scatter
+Cost: 	1U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter target creature spell.
+Set/Rarity: 	M10 Common
+
+Name: 	Excommunicate
+Cost: 	2W
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Put target creature on top of its owner's library.
+Set/Rarity: 	M10 Common, Shards of Alara Common
+
+Name: 	Fabricate
+Cost: 	2U
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity: 	Planechase Uncommon, M10 Uncommon, Mirrodin Uncommon
+
+Name: 	Fiery Hellhound
+Cost: 	1RR
+Type: 	Creature - Elemental Hound
+Pow/Tgh: 	(2/2)
+Rules Text: 	{R}: Fiery Hellhound gets +1/+0 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Fireball
+Cost: 	XR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.
+Set/Rarity: 	M10 Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Darksteel Uncommon, Beatdown Box Set Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Firebreathing
+Cost: 	R
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Flashfreeze
+Cost: 	1U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter target red or green spell.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Coldsnap Uncommon
+
+Name: 	Fog
+Cost: 	G
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Prevent all combat damage that would be dealt this turn.
+Set/Rarity: 	M10 Common, Seventh Edition Common, Beatdown Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Forest
+Cost: 	
+Type: 	Basic Land - Forest
+Pow/Tgh: 	
+Rules Text: 	G
+Set/Rarity: 	Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, M10 Land, M10 Land, M10 Land, M10 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: 	Gargoyle Castle
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	{T}: Add {1} to your mana pool.
+{5}, {T}, Sacrifice Gargoyle Castle: Put a 3/4 colorless Gargoyle artifact creature token with flying onto the battlefield.
+Set/Rarity: 	M10 Rare
+
+Name: 	Garruk Wildspeaker
+Cost: 	2GG
+Type: 	Planeswalker - Garruk
+Loyalty: 	(3)
+Rules Text: 	+1: Untap two target lands.
+-1: Put a 3/3 green Beast creature token onto the battlefield.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Mythic Rare, M10 Mythic Rare, Lorwyn Rare
+
+Name: 	Giant Growth
+Cost: 	G
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gets +3/+3 until end of turn.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Common, Masters Edition III Common, M10 Common, Masters Edition II Common, Duel Decks: Elves vs. Goblins Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Giant Spider
+Cost: 	3G
+Type: 	Creature - Spider
+Pow/Tgh: 	(2/4)
+Rules Text: 	Reach (This creature can block creatures with flying.)
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Glacial Fortress
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity: 	M10 Rare
+
+Name: 	Glorious Charge
+Cost: 	1W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Creatures you control get +1/+1 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Goblin Artillery
+Cost: 	1RR
+Type: 	Creature - Goblin Warrior
+Pow/Tgh: 	(1/3)
+Rules Text: 	{T}: Goblin Artillery deals 2 damage to target creature or player and 3 damage to you.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Goblin Chieftain
+Cost: 	1RR
+Type: 	Creature - Goblin
+Pow/Tgh: 	(2/2)
+Rules Text: 	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Other Goblin creatures you control get +1/+1 and have haste.
+Set/Rarity: 	M10 Rare
+
+Name: 	Goblin Piker
+Cost: 	1R
+Type: 	Creature - Goblin Warrior
+Pow/Tgh: 	(2/1)
+Rules Text: 	
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Portal Second Age Common
+
+Name: 	Gorgon Flail
+Cost: 	2
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature gets +1/+1 and has deathtouch. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Gravedigger
+Cost: 	3B
+Type: 	Creature - Zombie
+Pow/Tgh: 	(2/2)
+Rules Text: 	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Set/Rarity: 	Planechase Common, M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common, Seventh Edition Common, Beatdown Box Set Common, Starter 1999 Uncommon, Classic Sixth Edition Common, Tempest Common, Portal Uncommon
+
+Name: 	Great Sable Stag
+Cost: 	1GG
+Type: 	Creature - Elk
+Pow/Tgh: 	(3/3)
+Rules Text: 	Great Sable Stag can't be countered.
+Protection from blue and from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue or black.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Griffin Sentinel
+Cost: 	2W
+Type: 	Creature - Griffin
+Pow/Tgh: 	(1/3)
+Rules Text: 	Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity: 	M10 Common
+
+Name: 	Guardian Seraph
+Cost: 	2WW
+Type: 	Creature - Angel
+Pow/Tgh: 	(3/4)
+Rules Text: 	Flying
+If a source an opponent controls would deal damage to you, prevent 1 of that damage.
+Set/Rarity: 	M10 Rare
+
+Name: 	Harm's Way
+Cost: 	W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Haunting Echoes
+Cost: 	3BB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Set/Rarity: 	M10 Rare, Odyssey Rare
+
+Name: 	Hive Mind
+Cost: 	5U
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for his or her copy.
+Set/Rarity: 	M10 Rare
+
+Name: 	Holy Strength
+Cost: 	W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +1/+2.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Honor of the Pure
+Cost: 	1W
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	White creatures you control get +1/+1.
+Set/Rarity: 	M10 Rare
+
+Name: 	Horned Turtle
+Cost: 	2U
+Type: 	Creature - Turtle
+Pow/Tgh: 	(1/4)
+Rules Text: 	
+Set/Rarity: 	M10 Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Tempest Common, Portal Common
+
+Name: 	Howl of the Night Pack
+Cost: 	6G
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.
+Set/Rarity: 	M10 Uncommon, Shadowmoor Uncommon
+
+Name: 	Howling Banshee
+Cost: 	2BB
+Type: 	Creature - Spirit
+Pow/Tgh: 	(3/3)
+Rules Text: 	Flying
+When Howling Banshee enters the battlefield, each player loses 3 life.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Uncommon, M10 Uncommon
+
+Name: 	Howling Mine
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Hypnotic Specter
+Cost: 	1BB
+Type: 	Creature - Specter
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Ice Cage
+Cost: 	1U
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.
+Set/Rarity: 	M10 Common
+
+Name: 	Ignite Disorder
+Cost: 	1R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.
+Set/Rarity: 	M10 Uncommon, Conflux Uncommon
+
+Name: 	Illusionary Servant
+Cost: 	1UU
+Type: 	Creature - Illusion
+Pow/Tgh: 	(3/4)
+Rules Text: 	Flying
+When Illusionary Servant becomes the target of a spell or ability, sacrifice it.
+Set/Rarity: 	M10 Common
+
+Name: 	Indestructibility
+Cost: 	3W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant permanent
+Enchanted permanent is indestructible. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Inferno Elemental
+Cost: 	4RR
+Type: 	Creature - Elemental
+Pow/Tgh: 	(4/4)
+Rules Text: 	Whenever Inferno Elemental blocks or becomes blocked by a creature, Inferno Elemental deals 3 damage to that creature.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Island
+Cost: 	
+Type: 	Basic Land - Island
+Pow/Tgh: 	
+Rules Text: 	U
+Set/Rarity: 	Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, M10 Land, M10 Land, M10 Land, M10 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: 	Jace Beleren
+Cost: 	1UU
+Type: 	Planeswalker - Jace
+Loyalty: 	(3)
+Rules Text: 	+2: Each player draws a card.
+-1: Target player draws a card.
+-10: Target player puts the top twenty cards of his or her library into his or her graveyard.
+Set/Rarity: 	M10 Mythic Rare, Duel Decks: Jace vs. Chandra Mythic Rare, Lorwyn Rare
+
+Name: 	Jackal Familiar
+Cost: 	R
+Type: 	Creature - Hound
+Pow/Tgh: 	(2/2)
+Rules Text: 	Jackal Familiar can't attack or block alone.
+Set/Rarity: 	M10 Common
+
+Name: 	Jump
+Cost: 	U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gains flying until end of turn.
+Set/Rarity: 	M10 Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Kalonian Behemoth
+Cost: 	5GG
+Type: 	Creature - Beast
+Pow/Tgh: 	(9/9)
+Rules Text: 	Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Kelinore Bat
+Cost: 	2B
+Type: 	Creature - Bat
+Pow/Tgh: 	(2/1)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Common
+
+Name: 	Kindled Fury
+Cost: 	R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Set/Rarity: 	M10 Common, Morningtide Common
+
+Name: 	Kraken's Eye
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts a blue spell, you may gain 1 life.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: 	Lava Axe
+Cost: 	4R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Lava Axe deals 5 damage to target player.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Starter 1999 Common, Urza's Legacy Common, Portal Second Age Common, Portal Common
+
+Name: 	Levitation
+Cost: 	2UU
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Creatures you control have flying.
+Set/Rarity: 	M10 Uncommon, Ninth Edition Uncommon, Seventh Edition Uncommon, Urza's Legacy Uncommon
+
+Name: 	Lifelink
+Cost: 	W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity: 	M10 Common
+
+Name: 	Lightning Bolt
+Cost: 	R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Lightning Bolt deals 3 damage to target creature or player.
+Set/Rarity: 	M10 Common, Masters Edition Common, Beatdown Box Set Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Lightning Elemental
+Cost: 	3R
+Type: 	Creature - Elemental
+Pow/Tgh: 	(4/1)
+Rules Text: 	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Battle Royale Box Set Common, Tempest Common
+
+Name: 	Lightwielder Paladin
+Cost: 	3WW
+Type: 	Creature - Human Knight
+Pow/Tgh: 	(4/4)
+Rules Text: 	First strike (This creature deals combat damage before creatures without first strike.)
+Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.
+Set/Rarity: 	M10 Rare
+
+Name: 	Liliana Vess
+Cost: 	3BB
+Type: 	Planeswalker - Liliana
+Loyalty: 	(5)
+Rules Text: 	+1: Target player discards a card.
+-2: Search your library for a card, then shuffle your library and put that card on top of it.
+-8: Put all creature cards in all graveyards onto the battlefield under your control.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Mythic Rare, M10 Mythic Rare, Lorwyn Rare
+
+Name: 	Llanowar Elves
+Cost: 	G
+Type: 	Creature - Elf Druid
+Pow/Tgh: 	(1/1)
+Rules Text: 	{T}: Add {G} to your mana pool.
+Set/Rarity: 	M10 Common, Duel Decks: Elves vs. Goblins Common, Tenth Edition Common, Ninth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Looming Shade
+Cost: 	2B
+Type: 	Creature - Shade
+Pow/Tgh: 	(1/1)
+Rules Text: 	{B}: Looming Shade gets +1/+1 until end of turn.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Urza's Saga Common
+
+Name: 	Lurking Predators
+Cost: 	4GG
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever an opponent casts a spell, reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, you may put that card on the bottom of your library.
+Set/Rarity: 	M10 Rare
+
+Name: 	Magebane Armor
+Cost: 	3
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature gets +2/+4 and loses flying.
+Prevent all noncombat damage that would be dealt to equipped creature.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Magma Phoenix
+Cost: 	3RR
+Type: 	Creature - Phoenix
+Pow/Tgh: 	(3/3)
+Rules Text: 	Flying
+When Magma Phoenix is put into a graveyard from the battlefield, it deals 3 damage to each creature and each player.
+{3}{R}{R}: Return Magma Phoenix from your graveyard to your hand.
+Set/Rarity: 	M10 Rare
+
+Name: 	Manabarbs
+Cost: 	3R
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Master of the Wild Hunt
+Cost: 	2GG
+Type: 	Creature - Human Shaman
+Pow/Tgh: 	(3/3)
+Rules Text: 	At the beginning of your upkeep, put a 2/2 green Wolf creature token onto the battlefield.
+{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Megrim
+Cost: 	2B
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever an opponent discards a card, Megrim deals 2 damage to that player.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Stronghold Uncommon
+
+Name: 	Merfolk Looter
+Cost: 	1U
+Type: 	Creature - Merfolk Rogue
+Pow/Tgh: 	(1/1)
+Rules Text: 	{T}: Draw a card, then discard a card.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Seventh Edition Uncommon, Exodus Common
+
+Name: 	Merfolk Sovereign
+Cost: 	1UU
+Type: 	Creature - Merfolk
+Pow/Tgh: 	(2/2)
+Rules Text: 	Other Merfolk creatures you control get +1/+1.
+{T}: Target Merfolk creature is unblockable this turn.
+Set/Rarity: 	M10 Rare
+
+Name: 	Mesa Enchantress
+Cost: 	1WW
+Type: 	Creature - Human Druid
+Pow/Tgh: 	(0/2)
+Rules Text: 	Whenever you cast an enchantment spell, you may draw a card.
+Set/Rarity: 	M10 Rare, Planar Chaos Rare
+
+Name: 	Might of Oaks
+Cost: 	3G
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target creature gets +7/+7 until end of turn.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Legacy Rare
+
+Name: 	Mind Control
+Cost: 	3UU
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+You control enchanted creature.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Mind Rot
+Cost: 	2B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player discards two cards.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Portal Second Age Common, Portal Common
+
+Name: 	Mind Shatter
+Cost: 	XBB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player discards X cards at random.
+Set/Rarity: 	M10 Rare, Morningtide Rare
+
+Name: 	Mind Spring
+Cost: 	XUU
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Draw X cards.
+Set/Rarity: 	M10 Rare, Morningtide Rare
+
+Name: 	Mirror of Fate
+Cost: 	5
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.
+Set/Rarity: 	M10 Rare
+
+Name: 	Mist Leopard
+Cost: 	3G
+Type: 	Creature - Cat
+Pow/Tgh: 	(3/2)
+Rules Text: 	Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity: 	M10 Common
+
+Name: 	Mold Adder
+Cost: 	G
+Type: 	Creature - Fungus Snake
+Pow/Tgh: 	(1/1)
+Rules Text: 	Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Mountain
+Cost: 	
+Type: 	Basic Land - Mountain
+Pow/Tgh: 	
+Rules Text: 	R
+Set/Rarity: 	Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, M10 Land, M10 Land, M10 Land, M10 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: 	Naturalize
+Cost: 	1G
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy target artifact or enchantment.
+Set/Rarity: 	M10 Common, Shards of Alara Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name: 	Nature's Spiral
+Cost: 	1G
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Negate
+Cost: 	1U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Counter target noncreature spell.
+Set/Rarity: 	M10 Common, Morningtide Common
+
+Name: 	Nightmare
+Cost: 	5B
+Type: 	Creature - Nightmare Horse
+Pow/Tgh: 	(*/*)
+Rules Text: 	Flying
+Nightmare's power and toughness are each equal to the number of Swamps you control.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Oakenform
+Cost: 	2G
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +3/+3.
+Set/Rarity: 	M10 Common
+
+Name: 	Open the Vaults
+Cost: 	4WW
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Ornithopter
+Cost: 	0
+Type: 	Artifact Creature - Thopter
+Pow/Tgh: 	(0/2)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Antiquities Common
+
+Name: 	Overrun
+Cost: 	2GGG
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Uncommon, M10 Uncommon, Tenth Edition Uncommon, Odyssey Uncommon, Tempest Uncommon
+
+Name: 	Pacifism
+Cost: 	1W
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature can't attack or block.
+Set/Rarity: 	M10 Common, Duel Decks: Divine vs. Demonic Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common, Seventh Edition Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Urza's Saga Common, Tempest Common, Mirage Common
+
+Name: 	Palace Guard
+Cost: 	2W
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(1/4)
+Rules Text: 	Palace Guard can block any number of creatures.
+Set/Rarity: 	M10 Common
+
+Name: 	Panic Attack
+Cost: 	2R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Up to three target creatures can't block this turn.
+Set/Rarity: 	M10 Common, Ninth Edition Common, Eighth Edition Common, Prophecy Common
+
+Name: 	Phantom Warrior
+Cost: 	1UU
+Type: 	Creature - Illusion Warrior
+Pow/Tgh: 	(2/2)
+Rules Text: 	Phantom Warrior is unblockable.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 1999 Rare, Classic Sixth Edition Uncommon, Weatherlight Uncommon, Portal Rare
+
+Name: 	Pithing Needle
+Cost: 	1
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	As Pithing Needle enters the battlefield, name a card.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Saviors of Kamigawa Rare
+
+Name: 	Plains
+Cost: 	
+Type: 	Basic Land - Plains
+Pow/Tgh: 	
+Rules Text: 	W
+Set/Rarity: 	Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, M10 Land, M10 Land, M10 Land, M10 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: 	Planar Cleansing
+Cost: 	3WWW
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy all nonland permanents.
+Set/Rarity: 	M10 Rare
+
+Name: 	Platinum Angel
+Cost: 	7
+Type: 	Artifact Creature - Angel
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+You can't lose the game and your opponents can't win the game.
+Set/Rarity: 	M10 Mythic Rare, Tenth Edition Rare, Mirrodin Rare
+
+Name: 	Polymorph
+Cost: 	3U
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.
+Set/Rarity: 	M10 Rare, Ninth Edition Rare, Classic Sixth Edition Rare, Mirage Rare
+
+Name: 	Ponder
+Cost: 	U
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.
+Set/Rarity: 	M10 Common, Lorwyn Common
+
+Name: 	Prized Unicorn
+Cost: 	3G
+Type: 	Creature - Unicorn
+Pow/Tgh: 	(2/2)
+Rules Text: 	All creatures able to block Prized Unicorn do so.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Prodigal Pyromancer
+Cost: 	2R
+Type: 	Creature - Human Wizard
+Pow/Tgh: 	(1/1)
+Rules Text: 	{T}: Prodigal Pyromancer deals 1 damage to target creature or player.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Common, Planar Chaos Common
+
+Name: 	Protean Hydra
+Cost: 	XG
+Type: 	Creature - Hydra
+Pow/Tgh: 	(0/0)
+Rules Text: 	Protean Hydra enters the battlefield with X +1/+1 counters on it.
+If damage would be dealt to Protean Hydra, prevent that damage and remove that many +1/+1 counters from it.
+Whenever a +1/+1 counter is removed from Protean Hydra, put two +1/+1 counters on it at the beginning of the next end step.
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Pyroclasm
+Cost: 	1R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Pyroclasm deals 2 damage to each creature.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Portal Rare, Ice Age Uncommon
+
+Name: 	Raging Goblin
+Cost: 	R
+Type: 	Creature - Goblin Berserker
+Pow/Tgh: 	(1/1)
+Rules Text: 	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Set/Rarity: 	M10 Common, Duel Decks: Elves vs. Goblins Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Battle Royale Box Set Common, Starter 1999 Common, Classic Sixth Edition Common, Exodus Common, Portal Second Age Common, Portal Common, Portal Common
+
+Name: 	Rampant Growth
+Cost: 	1G
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Set/Rarity: 	Planechase Common, M10 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Classic Sixth Edition Common, Tempest Common, Mirage Common
+
+Name: 	Razorfoot Griffin
+Cost: 	3W
+Type: 	Creature - Griffin
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity: 	M10 Common, Eighth Edition Common, Seventh Edition Common, Invasion Common
+
+Name: 	Regenerate
+Cost: 	1G
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Regenerate target creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity: 	M10 Common
+
+Name: 	Relentless Rats
+Cost: 	1BB
+Type: 	Creature - Rat
+Pow/Tgh: 	(2/2)
+Rules Text: 	Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
+A deck can have any number of cards named Relentless Rats.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+Name: 	Rhox Pikemaster
+Cost: 	2WW
+Type: 	Creature - Rhino Soldier
+Pow/Tgh: 	(3/3)
+Rules Text: 	First strike (This creature deals combat damage before creatures without first strike.)
+Other Soldier creatures you control have first strike.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Righteousness
+Cost: 	W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Target blocking creature gets +7/+7 until end of turn.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Rare, Ninth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Rise from the Grave
+Cost: 	4B
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Put target creature card in a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Uncommon, M10 Uncommon
+
+Name: 	Rod of Ruin
+Cost: 	4
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 2000 Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Rootbound Crag
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity: 	Premium Deck Series: Slivers Rare, M10 Rare
+
+Name: 	Royal Assassin
+Cost: 	1BB
+Type: 	Creature - Human Assassin
+Pow/Tgh: 	(1/1)
+Rules Text: 	{T}: Destroy target tapped creature.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Runeclaw Bear
+Cost: 	1G
+Type: 	Creature - Bear
+Pow/Tgh: 	(2/2)
+Rules Text: 	
+Set/Rarity: 	M10 Common
+
+Name: 	Safe Passage
+Cost: 	2W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Prevent all damage that would be dealt to you and creatures you control this turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Sage Owl
+Cost: 	1U
+Type: 	Creature - Bird
+Pow/Tgh: 	(1/1)
+Rules Text: 	Flying
+When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+Set/Rarity: 	M10 Common, Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Weatherlight Common
+
+Name: 	Sanguine Bond
+Cost: 	3BB
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever you gain life, target opponent loses that much life.
+Set/Rarity: 	M10 Rare
+
+Name: 	Seismic Strike
+Cost: 	2R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+Set/Rarity: 	M10 Common
+
+Name: 	Serpent of the Endless Sea
+Cost: 	4U
+Type: 	Creature - Serpent
+Pow/Tgh: 	(*/*)
+Rules Text: 	Serpent of the Endless Sea's power and toughness are each equal to the number of Islands you control.
+Serpent of the Endless Sea can't attack unless defending player controls an Island.
+Set/Rarity: 	M10 Common
+
+Name: 	Serra Angel
+Cost: 	3WW
+Type: 	Creature - Angel
+Pow/Tgh: 	(4/4)
+Rules Text: 	Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity: 	M10 Uncommon, Duel Decks: Divine vs. Demonic Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Shatter
+Cost: 	1R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy target artifact.
+Set/Rarity: 	M10 Common, Ninth Edition Common, Mirrodin Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Tempest Common, Fifth Edition Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Shivan Dragon
+Cost: 	4RR
+Type: 	Creature - Dragon
+Pow/Tgh: 	(5/5)
+Rules Text: 	Flying
+{R}: Shivan Dragon gets +1/+0 until end of turn.
+Set/Rarity: 	M10 Rare, From the Vault: Dragons Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Beatdown Box Set Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: 	Siege Mastodon
+Cost: 	4W
+Type: 	Creature - Elephant
+Pow/Tgh: 	(3/5)
+Rules Text: 	
+Set/Rarity: 	M10 Common
+
+Name: 	Siege-Gang Commander
+Cost: 	3RR
+Type: 	Creature - Goblin
+Pow/Tgh: 	(2/2)
+Rules Text: 	When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+Set/Rarity: 	M10 Rare, Duel Decks: Elves vs. Goblins Rare, Tenth Edition Rare, Scourge Rare
+
+Name: 	Sign in Blood
+Cost: 	BB
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player draws two cards and loses 2 life.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Common, M10 Common
+
+Name: 	Silence
+Cost: 	W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+Set/Rarity: 	M10 Rare
+
+Name: 	Silvercoat Lion
+Cost: 	1W
+Type: 	Creature - Cat
+Pow/Tgh: 	(2/2)
+Rules Text: 	
+Set/Rarity: 	M10 Common
+
+Name: 	Sleep
+Cost: 	2UU
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Snapping Drake
+Cost: 	3U
+Type: 	Creature - Drake
+Pow/Tgh: 	(3/2)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Common, Tenth Edition Common, Ravnica: City of Guilds Common, Beatdown Box Set Common, Starter 1999 Common, Portal Common
+
+Name: 	Solemn Offering
+Cost: 	2W
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Destroy target artifact or enchantment. You gain 4 life.
+Set/Rarity: 	M10 Common
+
+Name: 	Soul Bleed
+Cost: 	2B
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.
+Set/Rarity: 	M10 Common
+
+Name: 	Soul Warden
+Cost: 	W
+Type: 	Creature - Human Cleric
+Pow/Tgh: 	(1/1)
+Rules Text: 	Whenever another creature enters the battlefield, you gain 1 life.
+Set/Rarity: 	Planechase Common, M10 Common, Tenth Edition Uncommon, Ninth Edition Uncommon, Battle Royale Box Set Common, Exodus Common
+
+Name: 	Sparkmage Apprentice
+Cost: 	1R
+Type: 	Creature - Human Wizard
+Pow/Tgh: 	(1/1)
+Rules Text: 	When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.
+Set/Rarity: 	M10 Common, Ravnica: City of Guilds Common
+
+Name: 	Spellbook
+Cost: 	0
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	You have no maximum hand size.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Exodus Uncommon
+
+Name: 	Sphinx Ambassador
+Cost: 	5UU
+Type: 	Creature - Sphinx
+Pow/Tgh: 	(5/5)
+Rules Text: 	Flying
+Whenever Sphinx Ambassador deals combat damage to a player, search that player's library for a card, then that player names a card. If you searched for a creature card that isn't the named card, you may put it onto the battlefield under your control. Then that player shuffles his or her library.
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Stampeding Rhino
+Cost: 	4G
+Type: 	Creature - Rhino
+Pow/Tgh: 	(4/4)
+Rules Text: 	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Set/Rarity: 	M10 Common
+
+Name: 	Stone Giant
+Cost: 	2RR
+Type: 	Creature - Giant
+Pow/Tgh: 	(3/4)
+Rules Text: 	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Set/Rarity: 	M10 Uncommon, Masters Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Stormfront Pegasus
+Cost: 	1W
+Type: 	Creature - Pegasus
+Pow/Tgh: 	(2/1)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Common
+
+Name: 	Sunpetal Grove
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity: 	M10 Rare
+
+Name: 	Swamp
+Cost: 	
+Type: 	Basic Land - Swamp
+Pow/Tgh: 	
+Rules Text: 	B
+Set/Rarity: 	Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, M10 Land, M10 Land, M10 Land, M10 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: 	Telepathy
+Cost: 	U
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Your opponents play with their hands revealed.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Saga Uncommon
+
+Name: 	Tempest of Light
+Cost: 	2W
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Destroy all enchantments.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon
+
+Name: 	Tendrils of Corruption
+Cost: 	3B
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Common, M10 Common, Time Spiral Common
+
+Name: 	Terramorphic Expanse
+Cost: 	
+Type: 	Land
+Pow/Tgh: 	
+Rules Text: 	{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Set/Rarity: 	Premium Deck Series: Slivers Common, Planechase Common, M10 Common, Tenth Edition Common, Time Spiral Common
+
+Name: 	Time Warp
+Cost: 	3UU
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player takes an extra turn after this one.
+Set/Rarity: 	M10 Mythic Rare, Starter 1999 Rare, Tempest Rare
+
+Name: 	Tome Scour
+Cost: 	U
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player puts the top five cards of his or her library into his or her graveyard.
+Set/Rarity: 	M10 Common
+
+Name: 	Traumatize
+Cost: 	3UU
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Odyssey Rare
+
+Name: 	Trumpet Blast
+Cost: 	2R
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Attacking creatures get +2/+0 until end of turn.
+Set/Rarity: 	M10 Common, Urza's Destiny Common
+
+Name: 	Twincast
+Cost: 	UU
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Copy target instant or sorcery spell. You may choose new targets for the copy.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Saviors of Kamigawa Rare
+
+Name: 	Undead Slayer
+Cost: 	2W
+Type: 	Creature - Human Cleric
+Pow/Tgh: 	(2/2)
+Rules Text: 	{W}, {T}: Exile target Skeleton, Vampire, or Zombie.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Underworld Dreams
+Cost: 	BBB
+Type: 	Enchantment
+Pow/Tgh: 	
+Rules Text: 	Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Legends Uncommon
+
+Name: 	Unholy Strength
+Cost: 	B
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets +2/+1.
+Set/Rarity: 	M10 Common, Duel Decks: Divine vs. Demonic Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Unsummon
+Cost: 	U
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Return target creature to its owner's hand.
+Set/Rarity: 	M10 Common, Conflux Common, Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Vampire Aristocrat
+Cost: 	2B
+Type: 	Creature - Vampire Rogue
+Pow/Tgh: 	(2/2)
+Rules Text: 	Sacrifice a creature: Vampire Aristocrat gets +2/+2 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Vampire Nocturnus
+Cost: 	1BBB
+Type: 	Creature - Vampire
+Pow/Tgh: 	(3/3)
+Rules Text: 	Play with the top card of your library revealed.
+As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Veteran Armorsmith
+Cost: 	WW
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(2/3)
+Rules Text: 	Other Soldier creatures you control get +0/+1.
+Set/Rarity: 	M10 Common
+
+Name: 	Veteran Swordsmith
+Cost: 	2W
+Type: 	Creature - Human Soldier
+Pow/Tgh: 	(3/2)
+Rules Text: 	Other Soldier creatures you control get +1/+0.
+Set/Rarity: 	M10 Common
+
+Name: 	Viashino Spearhunter
+Cost: 	2R
+Type: 	Creature - Viashino Warrior
+Pow/Tgh: 	(2/1)
+Rules Text: 	First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity: 	M10 Common
+
+Name: 	Wall of Bone
+Cost: 	2B
+Type: 	Creature - Skeleton Wall
+Pow/Tgh: 	(1/4)
+Rules Text: 	Defender (This creature can't attack.)
+{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Uncommon, M10 Uncommon, Seventh Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Wall of Faith
+Cost: 	3W
+Type: 	Creature - Wall
+Pow/Tgh: 	(0/5)
+Rules Text: 	Defender (This creature can't attack.)
+{W}: Wall of Faith gets +0/+1 until end of turn.
+Set/Rarity: 	M10 Common
+
+Name: 	Wall of Fire
+Cost: 	1RR
+Type: 	Creature - Wall
+Pow/Tgh: 	(0/5)
+Rules Text: 	Defender (This creature can't attack.)
+{R}: Wall of Fire gets +1/+0 until end of turn.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Wall of Frost
+Cost: 	1UU
+Type: 	Creature - Wall
+Pow/Tgh: 	(0/7)
+Rules Text: 	Defender (This creature can't attack.)
+Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+Set/Rarity: 	M10 Uncommon
+
+Name: 	Warp World
+Cost: 	5RRR
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
+Set/Rarity: 	M10 Rare, Tenth Edition Rare, Ravnica: City of Guilds Rare
+
+Name: 	Warpath Ghoul
+Cost: 	2B
+Type: 	Creature - Zombie
+Pow/Tgh: 	(3/2)
+Rules Text: 	
+Set/Rarity: 	M10 Common
+
+Name: 	Weakness
+Cost: 	B
+Type: 	Enchantment - Aura
+Pow/Tgh: 	
+Rules Text: 	Enchant creature
+Enchanted creature gets -2/-1.
+Set/Rarity: 	M10 Common, Battle Royale Box Set Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: 	Whispersilk Cloak
+Cost: 	3
+Type: 	Artifact - Equipment
+Pow/Tgh: 	
+Rules Text: 	Equipped creature is unblockable.
+Equipped creature has shroud. (It can't be the target of spells or abilities.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Darksteel Common
+
+Name: 	White Knight
+Cost: 	WW
+Type: 	Creature - Human Knight
+Pow/Tgh: 	(2/2)
+Rules Text: 	First strike (This creature deals combat damage before creatures without first strike.)
+Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+Set/Rarity: 	M10 Uncommon, Legions Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: 	Wind Drake
+Cost: 	2U
+Type: 	Creature - Drake
+Pow/Tgh: 	(2/2)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Battle Royale Box Set Common, Starter 1999 Common, Classic Sixth Edition Common, Tempest Common, Portal Common
+
+Name: 	Windstorm
+Cost: 	XG
+Type: 	Instant
+Pow/Tgh: 	
+Rules Text: 	Windstorm deals X damage to each creature with flying.
+Set/Rarity: 	Duel Decks: Garruk vs. Liliana Uncommon, M10 Uncommon
+
+Name: 	Wurm's Tooth
+Cost: 	2
+Type: 	Artifact
+Pow/Tgh: 	
+Rules Text: 	Whenever a player casts a green spell, you may gain 1 life.
+Set/Rarity: 	M10 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: 	Xathrid Demon
+Cost: 	3BBB
+Type: 	Creature - Demon
+Pow/Tgh: 	(7/7)
+Rules Text: 	Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than Xathrid Demon, then each opponent loses life equal to the sacrificed creature's power. If you can't sacrifice a creature, tap Xathrid Demon and you lose 7 life.
+Set/Rarity: 	M10 Mythic Rare
+
+Name: 	Yawning Fissure
+Cost: 	4R
+Type: 	Sorcery
+Pow/Tgh: 	
+Rules Text: 	Each opponent sacrifices a land.
+Set/Rarity: 	M10 Common
+
+Name: 	Zephyr Sprite
+Cost: 	U
+Type: 	Creature - Faerie
+Pow/Tgh: 	(1/1)
+Rules Text: 	Flying
+Set/Rarity: 	M10 Common
+
+Name: 	Zombie Goliath
+Cost: 	4B
+Type: 	Creature - Zombie Giant
+Pow/Tgh: 	(4/3)
+Rules Text: 	
+Set/Rarity: 	M10 Common
