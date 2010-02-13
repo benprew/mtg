@@ -63,6 +63,9 @@ open(@cardset_file) do |f|
       card[:set_rarity].split(/, /).each do |sr|
         arr = sr.split(/\s+/)
         rarity = arr.pop
+        if rarity == 'Rare' && arr[-1] == 'Mythic'
+          rarity = arr.pop + rarity
+        end
         set = arr.join(" ")
         c = Card.find_or_create(:name => card[:cardname], :set_name => set)
 
