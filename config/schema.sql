@@ -1,3 +1,6 @@
+-- CREATE DATABASE mtg DEFAULT CHARSET utf8;
+-- grant all on mtg.* to 'mtg'@'localhost' identified by <password-in-plain-text>
+
 DROP TABLE IF EXISTS `xtns_by_card_day`;
 
 CREATE TABLE xtns_by_card_day (

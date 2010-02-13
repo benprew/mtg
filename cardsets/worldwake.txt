@@ -1,0 +1,1126 @@
+Name:	Abyssal Persecutor
+Cost:	 2BB
+Type:	 Creature - Demon
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying, trample
+You can't win the game and your opponents can't lose the game.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Admonition Angel
+Cost:	 3WWW
+Type:	 Creature - Angel
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying
+Landfall - Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.
+When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Aether Tradewinds
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target permanent you control and target permanent you don't control to their owners' hands.
+Set/Rarity:	 Worldwake Common
+
+Name:	Agadeem Occultist
+Cost:	 2B
+Type:	 Creature - Human Shaman Ally
+Pow/Tgh:	 (0/2)
+Rules Text:	 {T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Akoum Battlesinger
+Cost:	 1R
+Type:	 Creature - Human Berserker Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 Haste
+Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Amulet of Vigor
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever a permanent enters the battlefield tapped and under your control, untap it.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Anowon, the Ruin Sage
+Cost:	 3BB
+Type:	 Legendary Creature - Vampire Shaman
+Pow/Tgh:	 (4/3)
+Rules Text:	 At the beginning of your upkeep, each player sacrifices a non-Vampire creature.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Apex Hawks
+Cost:	 2W
+Type:	 Creature - Bird
+Pow/Tgh:	 (2/2)
+Rules Text:	 Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+Flying
+Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Set/Rarity:	 Worldwake Common
+
+Name:	Arbor Elf
+Cost:	 G
+Type:	 Creature - Elf Druid
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Untap target Forest.
+Set/Rarity:	 Worldwake Common
+
+Name:	Archon of Redemption
+Cost:	 3WW
+Type:	 Creature - Archon
+Pow/Tgh:	 (3/4)
+Rules Text:	 Flying
+Whenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Avenger of Zendikar
+Cost:	 5GG
+Type:	 Creature - Elemental
+Pow/Tgh:	 (5/5)
+Rules Text:	 When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.
+Landfall - Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Basilisk Collar
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has deathtouch and lifelink.
+Equip {2}
+Set/Rarity:	 Worldwake Rare
+
+Name:	Battle Hurda
+Cost:	 4W
+Type:	 Creature - Giant
+Pow/Tgh:	 (3/3)
+Rules Text:	 First strike
+Set/Rarity:	 Worldwake Common
+
+Name:	Bazaar Trader
+Cost:	 1R
+Type:	 Creature - Goblin
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Target player gains control of target artifact, creature, or land you control.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Bestial Menace
+Cost:	 3GG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Bloodhusk Ritualist
+Cost:	 2B
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Multikicker {B} (You may pay an additional {B} any number of times as you cast this spell.)
+When Bloodhusk Ritualist enters the battlefield, target opponent discards a card for each time it was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Bojuka Bog
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+{T}: Add {B} to your mana pool.
+Set/Rarity:	 Worldwake Common
+
+Name:	Bojuka Brigand
+Cost:	 1B
+Type:	 Creature - Human Warrior Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 Bojuka Brigand can't block.
+Whenever Bojuka Brigand or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Bojuka Brigand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Brink of Disaster
+Cost:	 2BB
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.
+Set/Rarity:	 Worldwake Common
+
+Name:	Bull Rush
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+0 until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Butcher of Malakir
+Cost:	 5BB
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 (5/4)
+Rules Text:	 Flying
+Whenever Butcher of Malakir or another creature you control is put into a graveyard from the battlefield, each opponent sacrifices a creature.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Calcite Snapper
+Cost:	 1UU
+Type:	 Creature - Turtle
+Pow/Tgh:	 (1/4)
+Rules Text:	 Shroud (This creature can't be the target of spells or abilities.)
+Landfall - Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Canopy Cover
+Cost:	 1G
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature can't be blocked except by creatures with flying or reach.
+Enchanted creature can't be the target of spells or abilities your opponents control.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Caustic Crawler
+Cost:	 3BB
+Type:	 Creature - Insect
+Pow/Tgh:	 (4/3)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may have target creature get -1/-1 until end of turn.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Celestial Colonnade
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Chain Reaction
+Cost:	 2RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Claws of Valakut
+Cost:	 1RR
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+0 for each Mountain you control and has first strike.
+Set/Rarity:	 Worldwake Common
+
+Name:	Comet Storm
+Cost:	 XRR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Corrupted Zendikon
+Cost:	 1B
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a 3/3 black Ooze creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Cosi's Ravager
+Cost:	 3R
+Type:	 Creature - Elemental
+Pow/Tgh:	 (2/2)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.
+Set/Rarity:	 Worldwake Common
+
+Name:	Creeping Tar Pit
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Creeping Tar Pit enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.
+{1}{U}{B}: Until end of turn, Creeping Tar Pit becomes a 3/2 blue and black Elemental creature and is unblockable. It's still a land.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Crusher Zendikon
+Cost:	 2R
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a 4/2 red Beast creature with trample. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Cunning Sparkmage
+Cost:	 2R
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 (0/1)
+Rules Text:	 Haste
+{T}: Cunning Sparkmage deals 1 damage to target creature or player.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Dead Reckoning
+Cost:	 1BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.
+Set/Rarity:	 Worldwake Common
+
+Name:	Deathforge Shaman
+Cost:	 4R
+Type:	 Creature - Ogre Shaman
+Pow/Tgh:	 (4/3)
+Rules Text:	 Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)
+When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Death's Shadow
+Cost:	 B
+Type:	 Creature - Avatar
+Pow/Tgh:	 (13/13)
+Rules Text:	 Death's Shadow gets -X/-X, where X is your life total.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Dispel
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target instant spell.
+Set/Rarity:	 Worldwake Common
+
+Name:	Dragonmaster Outcast
+Cost:	 R
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 At the beginning of your upkeep, if you control six or more lands, put a 5/5 red Dragon creature token with flying onto the battlefield.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Dread Statuary
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Enclave Elite
+Cost:	 2U
+Type:	 Creature - Merfolk Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Islandwalk
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Set/Rarity:	 Worldwake Common
+
+Name:	Everflowing Chalice
+Cost:	 0
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Explore
+Cost:	 1G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You may play an additional land this turn.
+Draw a card.
+Set/Rarity:	 Worldwake Common
+
+Name:	Eye of Ugin
+Cost:	
+Type:	 Legendary Land
+Pow/Tgh:	
+Rules Text:	 Colorless Eldrazi spells you cast cost {2} less to cast.
+{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Feral Contest
+Cost:	 3G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a +1/+1 counter on target creature you control. Another target creature blocks it this turn if able.
+Set/Rarity:	 Worldwake Common
+
+Name:	Fledgling Griffin
+Cost:	 1W
+Type:	 Creature - Griffin
+Pow/Tgh:	 (2/2)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Gnarlid Pack
+Cost:	 1G
+Type:	 Creature - Beast
+Pow/Tgh:	 (2/2)
+Rules Text:	 Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Set/Rarity:	 Worldwake Common
+
+Name:	Goblin Roughrider
+Cost:	 2R
+Type:	 Creature - Goblin Knight
+Pow/Tgh:	 (3/2)
+Rules Text:	
+Set/Rarity:	 Worldwake Common
+
+Name:	Goliath Sphinx
+Cost:	 5UU
+Type:	 Creature - Sphinx
+Pow/Tgh:	 (8/7)
+Rules Text:	 Flying
+Set/Rarity:	 Worldwake Rare
+
+Name:	Grappler Spider
+Cost:	 1G
+Type:	 Creature - Spider
+Pow/Tgh:	 (2/1)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Set/Rarity:	 Worldwake Common
+
+Name:	Graypelt Hunter
+Cost:	 3G
+Type:	 Creature - Human Warrior Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Trample
+Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.
+Set/Rarity:	 Worldwake Common
+
+Name:	Grotag Thrasher
+Cost:	 4R
+Type:	 Creature - Lizard
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever Grotag Thrasher attacks, target creature can't block this turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Groundswell
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+2 until end of turn.
+Landfall - If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.
+Set/Rarity:	 Worldwake Common
+
+Name:	Guardian Zendikon
+Cost:	 2W
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a 2/6 white Wall creature with defender. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Hada Freeblade
+Cost:	 W
+Type:	 Creature - Human Soldier Ally
+Pow/Tgh:	 (0/1)
+Rules Text:	 Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Halimar Depths
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Halimar Depths enters the battlefield tapped.
+When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.
+{T}: Add {U} to your mana pool.
+Set/Rarity:	 Worldwake Common
+
+Name:	Halimar Excavator
+Cost:	 1U
+Type:	 Creature - Human Wizard Ally
+Pow/Tgh:	 (1/3)
+Rules Text:	 Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.
+Set/Rarity:	 Worldwake Common
+
+Name:	Hammer of Ruin
+Cost:	 2
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+0.
+Whenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls.
+Equip {2}
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Harabaz Druid
+Cost:	 1G
+Type:	 Creature - Human Druid Ally
+Pow/Tgh:	 (0/1)
+Rules Text:	 {T}: Add X mana of any one color to your mana pool, where X is the number of Allies you control.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Hedron Rover
+Cost:	 4
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 (2/2)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Horizon Drake
+Cost:	 1UU
+Type:	 Creature - Drake
+Pow/Tgh:	 (3/1)
+Rules Text:	 Flying, protection from lands
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Iona's Judgment
+Cost:	 4W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile target creature or enchantment.
+Set/Rarity:	 Worldwake Common
+
+Name:	Jace, the Mind Sculptor
+Cost:	 2UU
+Type:	 Planeswalker - Jace
+Loyalty:	 (3)
+Rules Text:	 +2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+-1: Return target creature to its owner's hand.
+-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Jagwasp Swarm
+Cost:	 3B
+Type:	 Creature - Insect
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flying
+Set/Rarity:	 Worldwake Common
+
+Name:	Join the Ranks
+Cost:	 3W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Put two 1/1 white Soldier Ally creature tokens onto the battlefield.
+Set/Rarity:	 Worldwake Common
+
+Name:	Joraga Warcaller
+Cost:	 G
+Type:	 Creature - Elf Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Jwari Shapeshifter
+Cost:	 1U
+Type:	 Creature - Shapeshifter Ally
+Pow/Tgh:	 (0/0)
+Rules Text:	 You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Kalastria Highborn
+Cost:	 BB
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Kalastria Highborn or another Vampire you control is put into a graveyard from the battlefield, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Kazuul, Tyrant of the Cliffs
+Cost:	 3RR
+Type:	 Legendary Creature - Ogre Warrior
+Pow/Tgh:	 (5/4)
+Rules Text:	 Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Khalni Garden
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.
+{T}: Add {G} to your mana pool.
+Set/Rarity:	 Worldwake Common
+
+Name:	Kitesail
+Cost:	 2
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Worldwake Common
+
+Name:	Kitesail Apprentice
+Cost:	 W
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.
+Set/Rarity:	 Worldwake Common
+
+Name:	Kor Firewalker
+Cost:	 WW
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Protection from red
+Whenever a player casts a red spell, you may gain 1 life.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Lavaclaw Reaches
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Lavaclaw Reaches enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.
+{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with "{X}: This creature gets +X/+0 until end of turn." It's still a land.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Leatherback Baloth
+Cost:	 GGG
+Type:	 Creature - Beast
+Pow/Tgh:	 (4/5)
+Rules Text:	
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Lightkeeper of Emeria
+Cost:	 3W
+Type:	 Creature - Angel
+Pow/Tgh:	 (2/4)
+Rules Text:	 Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)
+Flying
+When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Loam Lion
+Cost:	 W
+Type:	 Creature - Cat
+Pow/Tgh:	 (1/1)
+Rules Text:	 Loam Lion gets +1/+2 as long as you control a Forest.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Lodestone Golem
+Cost:	 4
+Type:	 Artifact Creature - Golem
+Pow/Tgh:	 (5/3)
+Rules Text:	 Nonartifact spells cost {1} more to cast.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Marsh Threader
+Cost:	 1W
+Type:	 Creature - Kor Scout
+Pow/Tgh:	 (2/1)
+Rules Text:	 Swampwalk
+Set/Rarity:	 Worldwake Common
+
+Name:	Marshal's Anthem
+Cost:	 2WW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+Creatures you control get +1/+1.
+When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Mire's Toll
+Cost:	 B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.
+Set/Rarity:	 Worldwake Common
+
+Name:	Mordant Dragon
+Cost:	 3RRR
+Type:	 Creature - Dragon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+{1}{R}: Mordant Dragon gets +1/+0 until end of turn.
+Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Mysteries of the Deep
+Cost:	 4U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Draw two cards.
+Landfall - If you had a land enter the battlefield under your control this turn, draw three cards instead.
+Set/Rarity:	 Worldwake Common
+
+Name:	Nature's Claim
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment. Its controller gains 4 life.
+Set/Rarity:	 Worldwake Common
+
+Name:	Nemesis Trap
+Cost:	 4BB
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.
+Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Novablast Wurm
+Cost:	 3GGWW
+Type:	 Creature - Wurm
+Pow/Tgh:	 (7/7)
+Rules Text:	 Whenever Novablast Wurm attacks, destroy all other creatures.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Omnath, Locus of Mana
+Cost:	 2G
+Type:	 Legendary Creature - Elemental
+Pow/Tgh:	 (1/1)
+Rules Text:	 Green mana doesn't empty from your mana pool as steps and phases end.
+Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.
+Set/Rarity:	 Worldwake Mythic Rare
+
+Name:	Perimeter Captain
+Cost:	 W
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+Whenever a creature you control with defender blocks, you may gain 2 life.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Permafrost Trap
+Cost:	 2UU
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent had a green creature enter the battlefield under his or her control this turn, you may pay {U} rather than pay Permafrost Trap's mana cost.
+Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Pilgrim's Eye
+Cost:	 3
+Type:	 Artifact Creature - Thopter
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Set/Rarity:	 Worldwake Common
+
+Name:	Pulse Tracker
+Cost:	 B
+Type:	 Creature - Vampire Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever Pulse Tracker attacks, each opponent loses 1 life.
+Set/Rarity:	 Worldwake Common
+
+Name:	Quag Vampires
+Cost:	 B
+Type:	 Creature - Vampire Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)
+Swampwalk
+Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Set/Rarity:	 Worldwake Common
+
+Name:	Quest for Renewal
+Cost:	 1G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.
+As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Quest for the Goblin Lord
+Cost:	 R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.
+As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Quest for the Nihil Stone
+Cost:	 B
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone.
+At the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Quest for Ula's Temple
+Cost:	 U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.
+At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Quicksand
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+Set/Rarity:	 Worldwake Common, Tenth Edition Uncommon, Ninth Edition Uncommon, Visions Uncommon
+
+Name:	Raging Ravine
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.
+{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with "Whenever this creature attacks, put a +1/+1 counter on it." It's still a land.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Razor Boomerang
+Cost:	 3
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has "{T}, Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand."
+Equip {2}
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Refraction Trap
+Cost:	 3W
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent cast a red instant or sorcery spell this turn, you may pay {W} rather than pay Refraction Trap's mana cost.
+Prevent the next 3 damage that a source of your choice would deal to you and/or permanents you control this turn. If damage is prevented this way, Refraction Trap deals that much damage to target creature or player.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Rest for the Weary
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player gains 4 life.
+Landfall - If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.
+Set/Rarity:	 Worldwake Common
+
+Name:	Ricochet Trap
+Cost:	 3R
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent cast a blue spell this turn, you may pay {R} rather than pay Ricochet Trap's mana cost.
+Change the target of target spell with a single target.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Roiling Terrain
+Cost:	 2RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.
+Set/Rarity:	 Worldwake Common
+
+Name:	Ruin Ghost
+Cost:	 1W
+Type:	 Creature - Spirit
+Pow/Tgh:	 (1/1)
+Rules Text:	 {W}, {T}: Exile target land you control, then return it to the battlefield under your control.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Rumbling Aftershocks
+Cost:	 4R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal damage to target creature or player equal to the number of times that spell was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Ruthless Cullblade
+Cost:	 1B
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 (2/1)
+Rules Text:	 Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.
+Set/Rarity:	 Worldwake Common
+
+Name:	Scrib Nibblers
+Cost:	 2B
+Type:	 Creature - Rat
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Exile the top card of target player's library. If it's a land card, you gain 1 life.
+Landfall - Whenever a land enters the battlefield under your control, you may untap Scrib Nibblers.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Searing Blaze
+Cost:	 RR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.
+Landfall - If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.
+Set/Rarity:	 Worldwake Common
+
+Name:	Seer's Sundial
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Sejiri Merfolk
+Cost:	 1U
+Type:	 Creature - Merfolk Soldier
+Pow/Tgh:	 (2/1)
+Rules Text:	 As long as you control a Plains, Sejiri Merfolk has first strike and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Sejiri Steppe
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Sejiri Steppe enters the battlefield tapped.
+When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+{T}: Add {W} to your mana pool.
+Set/Rarity:	 Worldwake Common
+
+Name:	Selective Memory
+Cost:	 3U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Search your library for any number of nonland cards and exile them. Then shuffle your library.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Shoreline Salvager
+Cost:	 3B
+Type:	 Creature - Surrakar
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Skitter of Lizards
+Cost:	 R
+Type:	 Creature - Lizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)
+Haste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Set/Rarity:	 Worldwake Common
+
+Name:	Slavering Nulls
+Cost:	 1R
+Type:	 Creature - Goblin Zombie
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Slingbow Trap
+Cost:	 3G
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If a black creature with flying is attacking, you may pay {G} rather than pay Slingbow Trap's mana cost.
+Destroy target attacking creature with flying.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Smoldering Spires
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Smoldering Spires enters the battlefield tapped.
+When Smoldering Spires enters the battlefield, target creature can't block this turn.
+{T}: Add {R} to your mana pool.
+Set/Rarity:	 Worldwake Common
+
+Name:	Smother
+Cost:	 1B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target creature with converted mana cost 3 or less. It can't be regenerated.
+Set/Rarity:	 Worldwake Uncommon, Onslaught Uncommon
+
+Name:	Snapping Creeper
+Cost:	 2G
+Type:	 Creature - Plant
+Pow/Tgh:	 (2/3)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.
+Set/Rarity:	 Worldwake Common
+
+Name:	Spell Contortion
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Counter target spell unless its controller pays {2}. Draw a card for each time Spell Contortion was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Stirring Wildwood
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Stirring Wildwood enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.
+{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Stone Idol Trap
+Cost:	 5R
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 Stone Idol Trap costs {1} less to cast for each attacking creature.
+Put a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Stoneforge Mystic
+Cost:	 1W
+Type:	 Creature - Kor Artificer
+Pow/Tgh:	 (1/2)
+Rules Text:	 When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Strength of the Tajuru
+Cost:	 XGG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Summit Apes
+Cost:	 3G
+Type:	 Creature - Ape
+Pow/Tgh:	 (5/2)
+Rules Text:	 As long as you control a Mountain, Summit Apes can't be blocked except by two or more creatures.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Surrakar Banisher
+Cost:	 4U
+Type:	 Creature - Surrakar
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Talus Paladin
+Cost:	 3W
+Type:	 Creature - Human Knight Ally
+Pow/Tgh:	 (2/3)
+Rules Text:	 Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Tectonic Edge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Terastodon
+Cost:	 6GG
+Type:	 Creature - Elephant
+Pow/Tgh:	 (9/9)
+Rules Text:	 When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Terra Eternal
+Cost:	 2W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 All lands are indestructible.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Thada Adel, Acquisitor
+Cost:	 1UU
+Type:	 Legendary Creature - Merfolk Rogue
+Pow/Tgh:	 (2/2)
+Rules Text:	 Islandwalk
+Whenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles his or her library. Until end of turn, you may play that card.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Tideforce Elemental
+Cost:	 2U
+Type:	 Creature - Elemental
+Pow/Tgh:	 (2/1)
+Rules Text:	 {U}, {T}: You may tap or untap another target creature.
+Landfall - Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Tomb Hex
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -2/-2 until end of turn.
+Landfall - If you had a land enter the battlefield under your control this turn, that creature gets -4/-4 until end of turn instead.
+Set/Rarity:	 Worldwake Common
+
+Name:	Treasure Hunt
+Cost:	 1U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Tuktuk Scrapper
+Cost:	 3R
+Type:	 Creature - Goblin Artificer Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the number of Allies you control.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Twitch
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 You may tap or untap target artifact, creature, or land.
+Draw a card.
+Set/Rarity:	 Worldwake Common, Tenth Edition Common, Tempest Common
+
+Name:	Urge to Feed
+Cost:	 BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Vapor Snare
+Cost:	 4U
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Vastwood Animist
+Cost:	 2G
+Type:	 Creature - Elf Shaman Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Vastwood Zendikon
+Cost:	 4G
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a 6/4 green Elemental creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Veteran's Reflexes
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+1 until end of turn. Untap that creature.
+Set/Rarity:	 Worldwake Common
+
+Name:	Voyager Drake
+Cost:	 3U
+Type:	 Creature - Drake
+Pow/Tgh:	 (3/3)
+Rules Text:	 Multikicker {U} (You may pay an additional {U} any number of times as you cast this spell.)
+Flying
+When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.
+Set/Rarity:	 Worldwake Uncommon
+
+Name:	Walking Atlas
+Cost:	 2
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: You may put a land card from your hand onto the battlefield.
+Set/Rarity:	 Worldwake Common
+
+Name:	Wind Zendikon
+Cost:	 U
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a 2/2 blue Elemental creature with flying. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.
+Set/Rarity:	 Worldwake Common
+
+Name:	Wolfbriar Elemental
+Cost:	 2GG
+Type:	 Creature - Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)
+When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.
+Set/Rarity:	 Worldwake Rare
+
+Name:	Wrexial, the Risen Deep
+Cost:	 3UUB
+Type:	 Legendary Creature - Kraken
+Pow/Tgh:	 (5/8)
+Rules Text:	 Islandwalk, swampwalk
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.
+Set/Rarity:	 Worldwake Mythic Rare

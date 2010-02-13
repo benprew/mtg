@@ -1,0 +1,234 @@
+Adventuring Gear|Zendikar
+Aether Figment|Zendikar
+Akoum Refuge|Zendikar
+Archive Trap|Zendikar
+Archmage Ascension|Zendikar
+Arid Mesa|Zendikar
+Armament Master|Zendikar
+Arrow Volley Trap|Zendikar
+Bala Ged Thief|Zendikar
+Baloth Cage Trap|Zendikar
+Baloth Woodcrasher|Zendikar
+Beast Hunt|Zendikar
+Beastmaster Ascension|Zendikar
+Blade of the Bloodchief|Zendikar
+Bladetusk Boar|Zendikar
+Blazing Torch|Zendikar
+Blood Seeker|Zendikar
+Blood Tribute|Zendikar
+Bloodchief Ascension|Zendikar
+Bloodghast|Zendikar
+Bog Tatters|Zendikar
+Bold Defense|Zendikar
+Brave the Elements|Zendikar
+Burst Lightning|Zendikar
+Caller of Gales|Zendikar
+Cancel|Zendikar
+Caravan Hurda|Zendikar
+Carnage Altar|Zendikar
+Celestial Mantle|Zendikar
+Chandra Ablaze|Zendikar
+Cliff Threader|Zendikar
+Cobra Trap|Zendikar
+Conqueror's Pledge|Zendikar
+Cosi's Trickster|Zendikar
+Crypt Ripper|Zendikar
+Crypt of Agadeem|Zendikar
+Day of Judgment|Zendikar
+Demolish|Zendikar
+Desecrated Earth|Zendikar
+Devout Lightcaster|Zendikar
+Disfigure|Zendikar
+Eldrazi Monument|Zendikar
+Electropotence|Zendikar
+Elemental Appeal|Zendikar
+Emeria Angel|Zendikar
+Emeria, the Sky Ruin|Zendikar
+Eternity Vessel|Zendikar
+Expedition Map|Zendikar
+Explorer's Scope|Zendikar
+Feast of Blood|Zendikar
+Felidar Sovereign|Zendikar
+Forest|Zendikar
+Frontier Guide|Zendikar
+Gatekeeper of Malakir|Zendikar
+Geyser Glider|Zendikar
+Giant Scorpion|Zendikar
+Gigantiform|Zendikar
+Goblin Bushwhacker|Zendikar
+Goblin Guide|Zendikar
+Goblin Ruinblaster|Zendikar
+Goblin Shortcutter|Zendikar
+Goblin War Paint|Zendikar
+Gomazoa|Zendikar
+Grappling Hook|Zendikar
+Graypelt Refuge|Zendikar
+Grazing Gladehart|Zendikar
+Greenweaver Druid|Zendikar
+Grim Discovery|Zendikar
+Guul Draz Specter|Zendikar
+Guul Draz Vampire|Zendikar
+Hagra Crocodile|Zendikar
+Hagra Diabolist|Zendikar
+Halo Hunter|Zendikar
+Harrow|Zendikar
+Heartstabber Mosquito|Zendikar
+Hedron Crab|Zendikar
+Hedron Scrabbler|Zendikar
+Hellfire Mongrel|Zendikar
+Hellkite Charger|Zendikar
+Hideous End|Zendikar
+Highland Berserker|Zendikar
+Inferno Trap|Zendikar
+Into the Roil|Zendikar
+Iona, Shield of Emeria|Zendikar
+Ior Ruin Expedition|Zendikar
+Island|Zendikar
+Joraga Bard|Zendikar
+Journey to Nowhere|Zendikar
+Jwar Isle Refuge|Zendikar
+Kabira Crossroads|Zendikar
+Kabira Evangel|Zendikar
+Kalitas, Bloodchief of Ghet|Zendikar
+Kazandu Blademaster|Zendikar
+Kazandu Refuge|Zendikar
+Kazuul Warlord|Zendikar
+Khalni Gem|Zendikar
+Khalni Heart Expedition|Zendikar
+Kor Aeronaut|Zendikar
+Kor Cartographer|Zendikar
+Kor Duelist|Zendikar
+Kor Hookmaster|Zendikar
+Kor Outfitter|Zendikar
+Kor Sanctifiers|Zendikar
+Kor Skyfisher|Zendikar
+Kraken Hatchling|Zendikar
+Landbind Ritual|Zendikar
+Lavaball Trap|Zendikar
+Lethargy Trap|Zendikar
+Living Tsunami|Zendikar
+Lorthos, the Tidemaker|Zendikar
+Lotus Cobra|Zendikar
+Lullmage Mentor|Zendikar
+Luminarch Ascension|Zendikar
+Magma Rift|Zendikar
+Magosi, the Waterveil|Zendikar
+Makindi Shieldmate|Zendikar
+Malakir Bloodwitch|Zendikar
+Mark of Mutiny|Zendikar
+Marsh Casualties|Zendikar
+Marsh Flats|Zendikar
+Merfolk Seastalkers|Zendikar
+Merfolk Wayfinder|Zendikar
+Mind Sludge|Zendikar
+Mindbreak Trap|Zendikar
+Mindless Null|Zendikar
+Mire Blight|Zendikar
+Misty Rainforest|Zendikar
+Mold Shambler|Zendikar
+Molten Ravager|Zendikar
+Mountain|Zendikar
+Murasa Pyromancer|Zendikar
+Narrow Escape|Zendikar
+Needlebite Trap|Zendikar
+Nimana Sell-Sword|Zendikar
+Nimbus Wings|Zendikar
+Nissa Revane|Zendikar
+Nissa's Chosen|Zendikar
+Noble Vestige|Zendikar
+Ob Nixilis, the Fallen|Zendikar
+Obsidian Fireheart|Zendikar
+Ondu Cleric|Zendikar
+Oracle of Mul Daya|Zendikar
+Oran-Rief Recluse|Zendikar
+Oran-Rief Survivalist|Zendikar
+Oran-Rief, the Vastwood|Zendikar
+Paralyzing Grasp|Zendikar
+Pillarfield Ox|Zendikar
+Piranha Marsh|Zendikar
+Pitfall Trap|Zendikar
+Plains|Zendikar
+Plated Geopede|Zendikar
+Predatory Urge|Zendikar
+Primal Bellow|Zendikar
+Punishing Fire|Zendikar
+Pyromancer Ascension|Zendikar
+Quest for Ancient Secrets|Zendikar
+Quest for Pure Flame|Zendikar
+Quest for the Gemblades|Zendikar
+Quest for the Gravelord|Zendikar
+Quest for the Holy Relic|Zendikar
+Rampaging Baloths|Zendikar
+Ravenous Trap|Zendikar
+Reckless Scholar|Zendikar
+Relic Crush|Zendikar
+Rite of Replication|Zendikar
+River Boa|Zendikar
+Roil Elemental|Zendikar
+Ruinous Minotaur|Zendikar
+Runeflare Trap|Zendikar
+Sadistic Sacrament|Zendikar
+Savage Silhouette|Zendikar
+Scalding Tarn|Zendikar
+Scute Mob|Zendikar
+Scythe Tiger|Zendikar
+Sea Gate Loremaster|Zendikar
+Seascape Aerialist|Zendikar
+Seismic Shudder|Zendikar
+Sejiri Refuge|Zendikar
+Shatterskull Giant|Zendikar
+Shepherd of the Lost|Zendikar
+Shieldmate's Blessing|Zendikar
+Shoal Serpent|Zendikar
+Sky Ruin Drake|Zendikar
+Slaughter Cry|Zendikar
+Soaring Seacliff|Zendikar
+Sorin Markov|Zendikar
+Soul Stair Expedition|Zendikar
+Spell Pierce|Zendikar
+Sphinx of Jwar Isle|Zendikar
+Sphinx of Lost Truths|Zendikar
+Spidersilk Net|Zendikar
+Spire Barrage|Zendikar
+Spreading Seas|Zendikar
+Steppe Lynx|Zendikar
+Stonework Puma|Zendikar
+Summoner's Bane|Zendikar
+Summoning Trap|Zendikar
+Sunspring Expedition|Zendikar
+Surrakar Marauder|Zendikar
+Swamp|Zendikar
+Tajuru Archer|Zendikar
+Tanglesap|Zendikar
+Teetering Peaks|Zendikar
+Tempest Owl|Zendikar
+Terra Stomper|Zendikar
+Territorial Baloth|Zendikar
+Timbermaw Larva|Zendikar
+Torch Slinger|Zendikar
+Trailblazer's Boots|Zendikar
+Trapfinder's Trick|Zendikar
+Trapmaker's Snare|Zendikar
+Trusty Machete|Zendikar
+Tuktuk Grunts|Zendikar
+Turntimber Basilisk|Zendikar
+Turntimber Grove|Zendikar
+Turntimber Ranger|Zendikar
+Umara Raptor|Zendikar
+Unstable Footing|Zendikar
+Valakut, the Molten Pinnacle|Zendikar
+Vampire Hexmage|Zendikar
+Vampire Lacerator|Zendikar
+Vampire Nighthawk|Zendikar
+Vampire's Bite|Zendikar
+Vastwood Gorger|Zendikar
+Verdant Catacombs|Zendikar
+Vines of Vastwood|Zendikar
+Warren Instigator|Zendikar
+Welkin Tern|Zendikar
+Whiplash Trap|Zendikar
+Windborne Charge|Zendikar
+Windrider Eel|Zendikar
+World Queller|Zendikar
+Zektar Shrine Expedition|Zendikar
+Zendikar Farguide|Zendikar
