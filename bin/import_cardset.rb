@@ -1,26 +1,26 @@
 #!/usr/local/ruby/bin/ruby
 
-$:.unshift File.dirname(__FILE__) + '/lib'
+$:.unshift File.dirname(__FILE__) + '/../lib'
 
 require 'rubygems'
 require 'optparse'
-require 'dm-core'
-require 'mtg/db'
-require 'mtg/card'
+require 'sinatra/base'
+include Sinatra::Delegator
 
 options = {}
 
-OptionParser.new do |opts|
-  opts.banner = "Usage: import_cards.rb <spoiler-file>"
-
-  opts.on("-h", "--help", "Show this help message.") { puts opts; exit }
-
+OptionParser.new do |op|
+  op.on("-c cardset", "filename containing the cardset (text spoiler)") { |val| @cardset_file = val }
+  op.on('-e env')    { |val| set :environment, val.to_sym }
 end.parse!
+
+# have to require the db after setting the environment
+require 'mtg/sql_card'
 
 cards_built = 0
 card = {}
 
-open(ARGV[0]) do |f|
+open(@cardset_file) do |f|
   prev_key = ''
   f.each do |line|
     line.chop!
@@ -64,15 +64,14 @@ open(ARGV[0]) do |f|
         arr = sr.split(/\s+/)
         rarity = arr.pop
         set = arr.join(" ")
-        c = Card.first_or_create(:name => card[:cardname], :set_name => set)
+        c = Card.find_or_create(:name => card[:cardname], :set_name => set)
 
-        c.update_attributes(
+        c.update(
           :type => card[:type],
           :casting_cost => card[:cost],
           :rules_text => card[:rules_text],
           :pow_tgh => card[:pow_tgh],
           :rarity => rarity )
-        c.save
         cards_built += 1
       end
       card = {}

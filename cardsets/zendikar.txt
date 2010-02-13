@@ -1,0 +1,1808 @@
+Name:	Adventuring Gear
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Aether Figment
+Cost:	 1U
+Type:	 Creature - Illusion
+Pow/Tgh:	 (1/1)
+Rules Text:	 Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Aether Figment is unblockable.
+If Aether Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Akoum Refuge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Akoum Refuge enters the battlefield tapped.
+When Akoum Refuge enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Archive Trap
+Cost:	 3UU
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost.
+Target opponent puts the top thirteen cards of his or her library into his or her graveyard.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Archmage Ascension
+Cost:	 2U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.
+As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Arid Mesa
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Armament Master
+Cost:	 WW
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Arrow Volley Trap
+Cost:	 3WW
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.
+Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Bala Ged Thief
+Cost:	 3B
+Type:	 Creature - Human Rogue Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Baloth Cage Trap
+Cost:	 3GG
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.
+Put a 4/4 green Beast creature token onto the battlefield.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Baloth Woodcrasher
+Cost:	 4GG
+Type:	 Creature - Beast
+Pow/Tgh:	 (4/4)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Beast Hunt
+Cost:	 3G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+Set/Rarity:	 Zendikar Common, Planechase Common
+
+Name:	Beastmaster Ascension
+Cost:	 2G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.
+As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Blade of the Bloodchief
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.
+Equip {1}
+Set/Rarity:	 Zendikar Rare
+
+Name:	Bladetusk Boar
+Cost:	 3R
+Type:	 Creature - Boar
+Pow/Tgh:	 (3/2)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Blazing Torch
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1}
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Blood Seeker
+Cost:	 1B
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+Set/Rarity:	 Zendikar Common
+
+Name:	Blood Tribute
+Cost:	 4BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker-Tap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.)
+Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Bloodchief Ascension
+Cost:	 B
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. (Damage causes loss of life.)
+Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Bloodghast
+Cost:	 BB
+Type:	 Creature - Vampire Spirit
+Pow/Tgh:	 (2/1)
+Rules Text:	 Bloodghast can't block.
+Bloodghast has haste as long as an opponent has 10 or less life.
+Landfall - Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Bog Tatters
+Cost:	 4B
+Type:	 Creature - Wraith
+Pow/Tgh:	 (4/2)
+Rules Text:	 Swampwalk
+Set/Rarity:	 Zendikar Common
+
+Name:	Bold Defense
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)
+Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Brave the Elements
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Burst Lightning
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.
+Set/Rarity:	 Zendikar Common
+
+Name:	Caller of Gales
+Cost:	 U
+Type:	 Creature - Merfolk Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 {1}{U}, {T}: Target creature gains flying until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Cancel
+Cost:	 1UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell.
+Set/Rarity:	 Zendikar Common, Magic 2010 Common, Shards of Alara Common, Tenth Edition Common, Time Spiral Common
+
+Name:	Caravan Hurda
+Cost:	 4W
+Type:	 Creature - Giant
+Pow/Tgh:	 (1/5)
+Rules Text:	 Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Carnage Altar
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {3}, Sacrifice a creature: Draw a card.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Celestial Mantle
+Cost:	 3WWW
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3.
+Whenever enchanted creature deals combat damage to a player, double its controller's life total.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Chandra Ablaze
+Cost:	 4RR
+Type:	 Planeswalker - Chandra
+Loyalty:	 (5)
+Rules Text:	 +1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.
+-2: Each player discards his or her hand, then draws three cards.
+-7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Cliff Threader
+Cost:	 1W
+Type:	 Creature - Kor Scout
+Pow/Tgh:	 (2/1)
+Rules Text:	 Mountainwalk
+Set/Rarity:	 Zendikar Common
+
+Name:	Cobra Trap
+Cost:	 4GG
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.
+Put four 1/1 green Snake creature tokens onto the battlefield.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Conqueror's Pledge
+Cost:	 2WWW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker {6} (You may pay an additional {6} as you cast this spell.)
+Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Cosi's Trickster
+Cost:	 U
+Type:	 Creature - Merfolk Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Crypt of Agadeem
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Crypt of Agadeem enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Crypt Ripper
+Cost:	 2BB
+Type:	 Creature - Shade
+Pow/Tgh:	 (2/2)
+Rules Text:	 Haste
+{B}: Crypt Ripper gets +1/+1 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Day of Judgment
+Cost:	 2WW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy all creatures.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Demolish
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or land.
+Set/Rarity:	 Zendikar Common, Tenth Edition Common, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+Name:	Desecrated Earth
+Cost:	 4B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target land. Its controller discards a card.
+Set/Rarity:	 Zendikar Common
+
+Name:	Devout Lightcaster
+Cost:	 WWW
+Type:	 Creature - Kor Cleric
+Pow/Tgh:	 (2/2)
+Rules Text:	 Protection from black
+When Devout Lightcaster enters the battlefield, exile target black permanent.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Disfigure
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -2/-2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Eldrazi Monument
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Creatures you control get +1/+1, have flying, and are indestructible.
+At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Electropotence
+Cost:	 2R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Elemental Appeal
+Cost:	 RRRR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Emeria Angel
+Cost:	 2WW
+Type:	 Creature - Angel
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+Landfall - Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Emeria, the Sky Ruin
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Emeria, the Sky Ruin enters the battlefield tapped.
+At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
+{T}: Add {W} to your mana pool.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Eternity Vessel
+Cost:	 6
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.
+Landfall - Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Expedition Map
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	 Zendikar Common
+
+Name:	Explorer's Scope
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Feast of Blood
+Cost:	 1B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Cast Feast of Blood only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Felidar Sovereign
+Cost:	 4WW
+Type:	 Creature - Cat Beast
+Pow/Tgh:	 (4/6)
+Rules Text:	 Vigilance, lifelink
+At the beginning of your upkeep, if you have 40 or more life, you win the game.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Forest
+Cost:	
+Type:	 Basic Land - Forest
+Pow/Tgh:	
+Rules Text:	 G
+Set/Rarity:	 Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Frontier Guide
+Cost:	 1G
+Type:	 Creature - Elf Scout
+Pow/Tgh:	 (1/1)
+Rules Text:	 {3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Gatekeeper of Malakir
+Cost:	 BB
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Geyser Glider
+Cost:	 3RR
+Type:	 Creature - Elemental Beast
+Pow/Tgh:	 (4/4)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Giant Scorpion
+Cost:	 2B
+Type:	 Creature - Scorpion
+Pow/Tgh:	 (1/3)
+Rules Text:	 Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Gigantiform
+Cost:	 3GG
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Kicker {4}
+Enchant creature
+Enchanted creature is 8/8 and has trample.
+When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Goblin Bushwhacker
+Cost:	 R
+Type:	 Creature - Goblin Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Kicker {R} (You may pay an additional {R} as you cast this spell.)
+When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Goblin Guide
+Cost:	 R
+Type:	 Creature - Goblin Scout
+Pow/Tgh:	 (2/2)
+Rules Text:	 Haste
+Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Goblin Ruinblaster
+Cost:	 2R
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Haste
+When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Goblin Shortcutter
+Cost:	 1R
+Type:	 Creature - Goblin Scout
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Goblin War Paint
+Cost:	 1R
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has haste.
+Set/Rarity:	 Zendikar Common
+
+Name:	Gomazoa
+Cost:	 2U
+Type:	 Creature - Jellyfish
+Pow/Tgh:	 (0/3)
+Rules Text:	 Defender, flying
+{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Grappling Hook
+Cost:	 4
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has double strike.
+Whenever equipped creature attacks, you may have target creature block it this turn if able.
+Equip {4}
+Set/Rarity:	 Zendikar Rare
+
+Name:	Graypelt Refuge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Graypelt Refuge enters the battlefield tapped.
+When Graypelt Refuge enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Grazing Gladehart
+Cost:	 2G
+Type:	 Creature - Antelope
+Pow/Tgh:	 (2/2)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.
+Set/Rarity:	 Zendikar Common
+
+Name:	Greenweaver Druid
+Cost:	 2G
+Type:	 Creature - Elf Druid
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {G}{G} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Grim Discovery
+Cost:	 1B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose one or both - Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.
+Set/Rarity:	 Zendikar Common
+
+Name:	Guul Draz Specter
+Cost:	 2BB
+Type:	 Creature - Specter
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.
+Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Guul Draz Vampire
+Cost:	 B
+Type:	 Creature - Vampire Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Hagra Crocodile
+Cost:	 3B
+Type:	 Creature - Crocodile
+Pow/Tgh:	 (3/1)
+Rules Text:	 Hagra Crocodile can't block.
+Landfall - Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Hagra Diabolist
+Cost:	 4B
+Type:	 Creature - Ogre Shaman Ally
+Pow/Tgh:	 (3/2)
+Rules Text:	 Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Halo Hunter
+Cost:	 2BBB
+Type:	 Creature - Demon
+Pow/Tgh:	 (6/3)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+When Halo Hunter enters the battlefield, destroy target Angel.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Harrow
+Cost:	 2G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Harrow, sacrifice a land.
+Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Common, Invasion Common, Tempest Uncommon
+
+Name:	Heartstabber Mosquito
+Cost:	 3B
+Type:	 Creature - Insect
+Pow/Tgh:	 (2/2)
+Rules Text:	 Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Flying
+When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.
+Set/Rarity:	 Zendikar Common
+
+Name:	Hedron Crab
+Cost:	 U
+Type:	 Creature - Crab
+Pow/Tgh:	 (0/2)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Hedron Scrabbler
+Cost:	 2
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 (1/1)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Hellfire Mongrel
+Cost:	 2R
+Type:	 Creature - Elemental Hound
+Pow/Tgh:	 (2/2)
+Rules Text:	 At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Hellkite Charger
+Cost:	 4RR
+Type:	 Creature - Dragon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying, haste
+Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Hideous End
+Cost:	 1BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target nonblack creature. Its controller loses 2 life.
+Set/Rarity:	 Duel Decks: Garruk vs. Liliana Common, Zendikar Common, Planechase Common
+
+Name:	Highland Berserker
+Cost:	 1R
+Type:	 Creature - Human Berserker Ally
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Inferno Trap
+Cost:	 3R
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.
+Inferno Trap deals 4 damage to target creature.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Into the Roil
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+Set/Rarity:	 Zendikar Common
+
+Name:	Iona, Shield of Emeria
+Cost:	 6WWW
+Type:	 Legendary Creature - Angel
+Pow/Tgh:	 (7/7)
+Rules Text:	 Flying
+As Iona, Shield of Emeria enters the battlefield, choose a color.
+Your opponents can't cast spells of the chosen color.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Ior Ruin Expedition
+Cost:	 1U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.
+Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
+Set/Rarity:	 Zendikar Common
+
+Name:	Island
+Cost:	
+Type:	 Basic Land - Island
+Pow/Tgh:	
+Rules Text:	 U
+Set/Rarity:	 Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Joraga Bard
+Cost:	 3G
+Type:	 Creature - Elf Rogue Ally
+Pow/Tgh:	 (1/4)
+Rules Text:	 Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Journey to Nowhere
+Cost:	 1W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Set/Rarity:	 Zendikar Common
+
+Name:	Jwar Isle Refuge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Jwar Isle Refuge enters the battlefield tapped.
+When Jwar Isle Refuge enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Kabira Crossroads
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Kabira Crossroads enters the battlefield tapped.
+When Kabira Crossroads enters the battlefield, you gain 2 life.
+{T}: Add {W} to your mana pool.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kabira Evangel
+Cost:	 2W
+Type:	 Creature - Human Cleric Ally
+Pow/Tgh:	 (2/3)
+Rules Text:	 Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Kalitas, Bloodchief of Ghet
+Cost:	 5BB
+Type:	 Legendary Creature - Vampire Warrior
+Pow/Tgh:	 (5/5)
+Rules Text:	 {B}{B}{B}, {T}: Destroy target creature. If that creature is put into a graveyard this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Kazandu Blademaster
+Cost:	 WW
+Type:	 Creature - Human Soldier Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 First strike, vigilance
+Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Kazandu Refuge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Kazandu Refuge enters the battlefield tapped.
+When Kazandu Refuge enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Kazuul Warlord
+Cost:	 4R
+Type:	 Creature - Minotaur Warrior Ally
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Khalni Gem
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.
+{T}: Add two mana of any one color to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Khalni Heart Expedition
+Cost:	 1G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.
+Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kor Aeronaut
+Cost:	 WW
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Flying
+When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Kor Cartographer
+Cost:	 3W
+Type:	 Creature - Kor Scout
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kor Duelist
+Cost:	 W
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Kor Hookmaster
+Cost:	 2W
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kor Outfitter
+Cost:	 WW
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kor Sanctifiers
+Cost:	 2W
+Type:	 Creature - Kor Cleric
+Pow/Tgh:	 (2/3)
+Rules Text:	 Kicker {W} (You may pay an additional {W} as you cast this spell.)
+When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+Set/Rarity:	 Zendikar Common, Planechase Common
+
+Name:	Kor Skyfisher
+Cost:	 1W
+Type:	 Creature - Kor Soldier
+Pow/Tgh:	 (2/3)
+Rules Text:	 Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+Set/Rarity:	 Zendikar Common
+
+Name:	Kraken Hatchling
+Cost:	 U
+Type:	 Creature - Kraken
+Pow/Tgh:	 (0/4)
+Rules Text:	
+Set/Rarity:	 Zendikar Common
+
+Name:	Landbind Ritual
+Cost:	 3WW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You gain 2 life for each Plains you control.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Lavaball Trap
+Cost:	 6RR
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost.
+Destroy two target lands. Lavaball Trap deals 4 damage to each creature.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Lethargy Trap
+Cost:	 3U
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost.
+Attacking creatures get -3/-0 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Living Tsunami
+Cost:	 2UU
+Type:	 Creature - Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Lorthos, the Tidemaker
+Cost:	 5UUU
+Type:	 Legendary Creature - Octopus
+Pow/Tgh:	 (8/8)
+Rules Text:	 Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Lotus Cobra
+Cost:	 1G
+Type:	 Creature - Snake
+Pow/Tgh:	 (2/1)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Lullmage Mentor
+Cost:	 1UU
+Type:	 Creature - Merfolk Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.
+Tap seven untapped Merfolk you control: Counter target spell.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Luminarch Ascension
+Cost:	 1W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)
+{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Magma Rift
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Magma Rift, sacrifice a land.
+Magma Rift deals 5 damage to target creature.
+Set/Rarity:	 Zendikar Common
+
+Name:	Magosi, the Waterveil
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Magosi, the Waterveil enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.
+{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Makindi Shieldmate
+Cost:	 2W
+Type:	 Creature - Kor Soldier Ally
+Pow/Tgh:	 (0/3)
+Rules Text:	 Defender
+Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+Set/Rarity:	 Zendikar Common
+
+Name:	Malakir Bloodwitch
+Cost:	 3BB
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying, protection from white
+When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Mark of Mutiny
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Marsh Casualties
+Cost:	 BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Marsh Flats
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Merfolk Seastalkers
+Cost:	 3U
+Type:	 Creature - Merfolk Scout
+Pow/Tgh:	 (2/3)
+Rules Text:	 Islandwalk
+{2}{U}: Tap target creature without flying.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Merfolk Wayfinder
+Cost:	 2U
+Type:	 Creature - Merfolk Scout
+Pow/Tgh:	 (1/2)
+Rules Text:	 Flying
+When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Mind Sludge
+Cost:	 4B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player discards a card for each Swamp you control.
+Set/Rarity:	 Zendikar Uncommon, Eighth Edition Uncommon, Torment Uncommon
+
+Name:	Mindbreak Trap
+Cost:	 2UU
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost.
+Exile any number of target spells.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Mindless Null
+Cost:	 2B
+Type:	 Creature - Zombie
+Pow/Tgh:	 (2/2)
+Rules Text:	 Mindless Null can't block unless you control a Vampire.
+Set/Rarity:	 Zendikar Common
+
+Name:	Mire Blight
+Cost:	 B
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When enchanted creature is dealt damage, destroy it.
+Set/Rarity:	 Zendikar Common
+
+Name:	Misty Rainforest
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Mold Shambler
+Cost:	 3G
+Type:	 Creature - Fungus Beast
+Pow/Tgh:	 (3/3)
+Rules Text:	 Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+Set/Rarity:	 Zendikar Common
+
+Name:	Molten Ravager
+Cost:	 2R
+Type:	 Creature - Elemental
+Pow/Tgh:	 (0/4)
+Rules Text:	 {R}: Molten Ravager gets +1/+0 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Mountain
+Cost:	
+Type:	 Basic Land - Mountain
+Pow/Tgh:	
+Rules Text:	 R
+Set/Rarity:	 Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Murasa Pyromancer
+Cost:	 4RR
+Type:	 Creature - Human Shaman Ally
+Pow/Tgh:	 (3/2)
+Rules Text:	 Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Narrow Escape
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target permanent you control to its owner's hand. You gain 4 life.
+Set/Rarity:	 Zendikar Common
+
+Name:	Needlebite Trap
+Cost:	 5BB
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.
+Target player loses 5 life and you gain 5 life.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Nimana Sell-Sword
+Cost:	 3B
+Type:	 Creature - Human Warrior Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.
+Set/Rarity:	 Zendikar Common
+
+Name:	Nimbus Wings
+Cost:	 1W
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+2 and has flying.
+Set/Rarity:	 Zendikar Common
+
+Name:	Nissa Revane
+Cost:	 2GG
+Type:	 Planeswalker - Nissa
+Loyalty:	 (2)
+Rules Text:	 +1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
++1: You gain 2 life for each Elf you control.
+-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Nissa's Chosen
+Cost:	 GG
+Type:	 Creature - Elf Warrior
+Pow/Tgh:	 (2/3)
+Rules Text:	 If Nissa's Chosen would be put into a graveyard from the battlefield, put it on the bottom of its owner's library instead.
+Set/Rarity:	 Zendikar Common
+
+Name:	Noble Vestige
+Cost:	 2W
+Type:	 Creature - Spirit
+Pow/Tgh:	 (1/2)
+Rules Text:	 Flying
+{T}: Prevent the next 1 damage that would be dealt to target player this turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Ob Nixilis, the Fallen
+Cost:	 3BB
+Type:	 Legendary Creature - Demon
+Pow/Tgh:	 (3/3)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Obsidian Fireheart
+Cost:	 1RRR
+Type:	 Creature - Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 {1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." (The land continues to burn after Obsidian Fireheart has left the battlefield.)
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Ondu Cleric
+Cost:	 1W
+Type:	 Creature - Kor Cleric Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.
+Set/Rarity:	 Zendikar Common
+
+Name:	Oracle of Mul Daya
+Cost:	 3G
+Type:	 Creature - Elf Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play the top card of your library if it's a land card.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Oran-Rief Recluse
+Cost:	 2G
+Type:	 Creature - Spider
+Pow/Tgh:	 (1/3)
+Rules Text:	 Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Reach (This creature can block creatures with flying.)
+When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+Set/Rarity:	 Zendikar Common
+
+Name:	Oran-Rief Survivalist
+Cost:	 1G
+Type:	 Creature - Human Warrior Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.
+Set/Rarity:	 Zendikar Common
+
+Name:	Oran-Rief, the Vastwood
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Paralyzing Grasp
+Cost:	 2U
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	 Zendikar Common
+
+Name:	Pillarfield Ox
+Cost:	 3W
+Type:	 Creature - Ox
+Pow/Tgh:	 (2/4)
+Rules Text:	
+Set/Rarity:	 Zendikar Common
+
+Name:	Piranha Marsh
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Piranha Marsh enters the battlefield tapped.
+When Piranha Marsh enters the battlefield, target player loses 1 life.
+{T}: Add {B} to your mana pool.
+Set/Rarity:	 Zendikar Common
+
+Name:	Pitfall Trap
+Cost:	 2W
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.
+Destroy target attacking creature without flying.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Plains
+Cost:	
+Type:	 Basic Land - Plains
+Pow/Tgh:	
+Rules Text:	 W
+Set/Rarity:	 Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Plated Geopede
+Cost:	 1R
+Type:	 Creature - Insect
+Pow/Tgh:	 (1/1)
+Rules Text:	 First strike
+Landfall - Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Predatory Urge
+Cost:	 3G
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+Set/Rarity:	 Zendikar Rare
+
+Name:	Primal Bellow
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+1 until end of turn for each Forest you control.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Punishing Fire
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Punishing Fire deals 2 damage to target creature or player.
+Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Pyromancer Ascension
+Cost:	 1R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.
+Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Quest for Ancient Secrets
+Cost:	 U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.
+Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Quest for Pure Flame
+Cost:	 R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.
+Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Quest for the Gemblades
+Cost:	 1G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.
+Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Quest for the Gravelord
+Cost:	 B
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature is put into a graveyard from the battlefield, you may put a quest counter on Quest for the Gravelord.
+Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Quest for the Holy Relic
+Cost:	 W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.
+Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Rampaging Baloths
+Cost:	 4GG
+Type:	 Creature - Beast
+Pow/Tgh:	 (6/6)
+Rules Text:	 Trample
+Landfall - Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Ravenous Trap
+Cost:	 2BB
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.
+Exile all cards from target player's graveyard.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Reckless Scholar
+Cost:	 2U
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 (2/1)
+Rules Text:	 {T}: Target player draws a card, then discards a card.
+Set/Rarity:	 Zendikar Common
+
+Name:	Relic Crush
+Cost:	 4G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+Set/Rarity:	 Zendikar Common
+
+Name:	Rite of Replication
+Cost:	 2UU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Put a token onto the battlefield that's a copy of target creature. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.
+Set/Rarity:	 Zendikar Rare
+
+Name:	River Boa
+Cost:	 1G
+Type:	 Creature - Snake
+Pow/Tgh:	 (2/1)
+Rules Text:	 Islandwalk
+{G}: Regenerate River Boa.
+Set/Rarity:	 Zendikar Uncommon, Battle Royale Box Set Uncommon, Classic Sixth Edition Uncommon, Visions Common
+
+Name:	Roil Elemental
+Cost:	 3UUU
+Type:	 Creature - Elemental
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flying
+Landfall - Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Ruinous Minotaur
+Cost:	 1RR
+Type:	 Creature - Minotaur Warrior
+Pow/Tgh:	 (5/2)
+Rules Text:	 Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
+Set/Rarity:	 Zendikar Common
+
+Name:	Runeflare Trap
+Cost:	 4RR
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.
+Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Sadistic Sacrament
+Cost:	 BBB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Kicker {7} (You may pay an additional {7} as you cast this spell.)
+Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Savage Silhouette
+Cost:	 2G
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."
+Set/Rarity:	 Zendikar Common
+
+Name:	Scalding Tarn
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Scute Mob
+Cost:	 G
+Type:	 Creature - Insect
+Pow/Tgh:	 (1/1)
+Rules Text:	 At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Scythe Tiger
+Cost:	 G
+Type:	 Creature - Cat
+Pow/Tgh:	 (3/2)
+Rules Text:	 Shroud (This creature can't be the target of spells or abilities.)
+When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.
+Set/Rarity:	 Zendikar Common
+
+Name:	Sea Gate Loremaster
+Cost:	 4U
+Type:	 Creature - Merfolk Wizard Ally
+Pow/Tgh:	 (1/3)
+Rules Text:	 {T}: Draw a card for each Ally you control.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Seascape Aerialist
+Cost:	 4U
+Type:	 Creature - Merfolk Wizard Ally
+Pow/Tgh:	 (2/3)
+Rules Text:	 Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Seismic Shudder
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Seismic Shudder deals 1 damage to each creature without flying.
+Set/Rarity:	 Zendikar Common
+
+Name:	Sejiri Refuge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Sejiri Refuge enters the battlefield tapped.
+When Sejiri Refuge enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Shatterskull Giant
+Cost:	 2RR
+Type:	 Creature - Giant Warrior
+Pow/Tgh:	 (4/3)
+Rules Text:	
+Set/Rarity:	 Zendikar Common
+
+Name:	Shepherd of the Lost
+Cost:	 4W
+Type:	 Creature - Angel
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying, first strike, vigilance
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Shieldmate's Blessing
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent the next 3 damage that would be dealt to target creature or player this turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Shoal Serpent
+Cost:	 5U
+Type:	 Creature - Serpent
+Pow/Tgh:	 (5/5)
+Rules Text:	 Defender
+Landfall - Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Sky Ruin Drake
+Cost:	 4U
+Type:	 Creature - Drake
+Pow/Tgh:	 (2/5)
+Rules Text:	 Flying
+Set/Rarity:	 Zendikar Common
+
+Name:	Slaughter Cry
+Cost:	 2R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +3/+0 and gains first strike until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Soaring Seacliff
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Soaring Seacliff enters the battlefield tapped.
+When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
+{T}: Add {U} to your mana pool.
+Set/Rarity:	 Zendikar Common
+
+Name:	Sorin Markov
+Cost:	 3BBB
+Type:	 Planeswalker - Sorin
+Loyalty:	 (4)
+Rules Text:	 +2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.
+-3: Target opponent's life total becomes 10.
+-7: You control target player's next turn.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Soul Stair Expedition
+Cost:	 B
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.
+Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.
+Set/Rarity:	 Zendikar Common
+
+Name:	Spell Pierce
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target noncreature spell unless its controller pays {2}.
+Set/Rarity:	 Zendikar Common
+
+Name:	Sphinx of Jwar Isle
+Cost:	 4UU
+Type:	 Creature - Sphinx
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying, shroud
+You may look at the top card of your library. (You may do this at any time.)
+Set/Rarity:	 Zendikar Rare
+
+Name:	Sphinx of Lost Truths
+Cost:	 3UU
+Type:	 Creature - Sphinx
+Pow/Tgh:	 (3/5)
+Rules Text:	 Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Flying
+When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Spidersilk Net
+Cost:	 0
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Spire Barrage
+Cost:	 4R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+Set/Rarity:	 Zendikar Common
+
+Name:	Spreading Seas
+Cost:	 1U
+Type:	 Enchantment - Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+When Spreading Seas enters the battlefield, draw a card.
+Enchanted land is an Island.
+Set/Rarity:	 Zendikar Common
+
+Name:	Steppe Lynx
+Cost:	 W
+Type:	 Creature - Cat
+Pow/Tgh:	 (0/1)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Stonework Puma
+Cost:	 3
+Type:	 Artifact Creature - Cat Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	
+Set/Rarity:	 Zendikar Common
+
+Name:	Summoner's Bane
+Cost:	 2UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Summoning Trap
+Cost:	 4GG
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost.
+Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Sunspring Expedition
+Cost:	 W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.
+Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.
+Set/Rarity:	 Zendikar Common
+
+Name:	Surrakar Marauder
+Cost:	 1B
+Type:	 Creature - Surrakar
+Pow/Tgh:	 (2/1)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Swamp
+Cost:	
+Type:	 Basic Land - Swamp
+Pow/Tgh:	
+Rules Text:	 B
+Set/Rarity:	 Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Tajuru Archer
+Cost:	 2G
+Type:	 Creature - Elf Archer Ally
+Pow/Tgh:	 (1/2)
+Rules Text:	 Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Tanglesap
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all combat damage that would be dealt this turn by creatures without trample.
+Set/Rarity:	 Zendikar Common
+
+Name:	Teetering Peaks
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Teetering Peaks enters the battlefield tapped.
+When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.
+{T}: Add {R} to your mana pool.
+Set/Rarity:	 Zendikar Common
+
+Name:	Tempest Owl
+Cost:	 1U
+Type:	 Creature - Bird
+Pow/Tgh:	 (1/2)
+Rules Text:	 Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)
+Flying
+When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
+Set/Rarity:	 Zendikar Common
+
+Name:	Terra Stomper
+Cost:	 3GGG
+Type:	 Creature - Beast
+Pow/Tgh:	 (8/8)
+Rules Text:	 Terra Stomper can't be countered.
+Trample
+Set/Rarity:	 Zendikar Rare
+
+Name:	Territorial Baloth
+Cost:	 4G
+Type:	 Creature - Beast
+Pow/Tgh:	 (4/4)
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Timbermaw Larva
+Cost:	 3G
+Type:	 Creature - Beast
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.
+Set/Rarity:	 Zendikar Common
+
+Name:	Torch Slinger
+Cost:	 2R
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.
+Set/Rarity:	 Zendikar Common
+
+Name:	Trailblazer's Boots
+Cost:	 2
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has nonbasic landwalk. (It's unblockable as long as defending player controls a nonbasic land.)
+Equip {2}
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Trapfinder's Trick
+Cost:	 1U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player reveals his or her hand and discards all Trap cards.
+Set/Rarity:	 Zendikar Common
+
+Name:	Trapmaker's Snare
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Trusty Machete
+Cost:	 1
+Type:	 Artifact - Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+1.
+Equip {2}
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Tuktuk Grunts
+Cost:	 4R
+Type:	 Creature - Goblin Warrior Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Haste
+Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.
+Set/Rarity:	 Zendikar Common
+
+Name:	Turntimber Basilisk
+Cost:	 1GG
+Type:	 Creature - Basilisk
+Pow/Tgh:	 (2/1)
+Rules Text:	 Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Landfall - Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Turntimber Grove
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Turntimber Grove enters the battlefield tapped.
+When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.
+{T}: Add {G} to your mana pool.
+Set/Rarity:	 Zendikar Common
+
+Name:	Turntimber Ranger
+Cost:	 3GG
+Type:	 Creature - Elf Scout Ally
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Umara Raptor
+Cost:	 2U
+Type:	 Creature - Bird Ally
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+Set/Rarity:	 Zendikar Common
+
+Name:	Unstable Footing
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Valakut, the Molten Pinnacle
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Valakut, the Molten Pinnacle enters the battlefield tapped.
+Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.
+{T}: Add {R} to your mana pool.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Vampire Hexmage
+Cost:	 BB
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 First strike
+Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Vampire Lacerator
+Cost:	 B
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+Set/Rarity:	 Zendikar Common
+
+Name:	Vampire Nighthawk
+Cost:	 1BB
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 (2/3)
+Rules Text:	 Flying
+Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Vampire's Bite
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity:	 Zendikar Common
+
+Name:	Vastwood Gorger
+Cost:	 5G
+Type:	 Creature - Wurm
+Pow/Tgh:	 (5/6)
+Rules Text:	
+Set/Rarity:	 Zendikar Common
+
+Name:	Verdant Catacombs
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Vines of Vastwood
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Kicker {G} (You may pay an additional {G} as you cast this spell.)
+Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	Warren Instigator
+Cost:	 RR
+Type:	 Creature - Goblin Berserker
+Pow/Tgh:	 (1/1)
+Rules Text:	 Double strike
+Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+Set/Rarity:	 Zendikar Mythic Rare
+
+Name:	Welkin Tern
+Cost:	 1U
+Type:	 Creature - Bird
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+Welkin Tern can block only creatures with flying.
+Set/Rarity:	 Zendikar Common
+
+Name:	Whiplash Trap
+Cost:	 3UU
+Type:	 Instant - Trap
+Pow/Tgh:	
+Rules Text:	 If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.
+Return two target creatures to their owners' hands.
+Set/Rarity:	 Zendikar Common, Planechase Common
+
+Name:	Windborne Charge
+Cost:	 2WW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Two target creatures you control each get +2/+2 and gain flying until end of turn.
+Set/Rarity:	 Zendikar Uncommon
+
+Name:	Windrider Eel
+Cost:	 3U
+Type:	 Creature - Fish
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Landfall - Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.
+Set/Rarity:	 Zendikar Common
+
+Name:	World Queller
+Cost:	 3WW
+Type:	 Creature - Avatar
+Pow/Tgh:	 (4/4)
+Rules Text:	 At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.
+Set/Rarity:	 Zendikar Rare
+
+Name:	Zektar Shrine Expedition
+Cost:	 1R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.
+Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.
+Set/Rarity:	 Zendikar Common
+
+Name:	Zendikar Farguide
+Cost:	 4G
+Type:	 Creature - Elemental
+Pow/Tgh:	 (3/3)
+Rules Text:	 Forestwalk
+Set/Rarity:	 Zendikar Common

@@ -35,5 +35,6 @@ end
 task :link_shared_files do
   run "ln -s #{shared_path}/sets #{release_path}/public/sets"
   run "ln -s #{shared_path}/sqlbuilder #{release_path}/ext/sqlbuilder"
+  run "ln -s #{shared_path}/config/database.yml #{release_path}/config/database.yml
 end
 
