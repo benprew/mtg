@@ -3,11 +3,19 @@
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
-require 'sequel'
-require 'mtg/sql_db'
-
-require 'trie'
+require 'optparse'
 require 'logger'
+require 'sinatra/base'
+include Sinatra::Delegator
+
+options = {}
+
+OptionParser.new do |op|
+  op.on('-e env')    { |val| set :environment, val.to_sym }
+end.parse!
+
+# have to require the db after setting the environment
+require 'mtg/sql_db'
 require 'mtg/trie_matcher'
 
 class XtnMatcher < Logger::Application
