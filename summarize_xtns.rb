@@ -3,9 +3,18 @@
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
-require 'sequel'
-require 'mtg/sql_db'
 require 'logger'
+require 'sinatra/base'
+include Sinatra::Delegator
+
+options = {}
+
+OptionParser.new do |op|
+  op.on('-e env')    { |val| set :environment, val.to_sym }
+end.parse!
+
+# have to require the db after setting the environment
+require 'mtg/sql_db'
 
 class XtnSummarizer < Logger::Application
 
@@ -25,7 +34,7 @@ class XtnSummarizer < Logger::Application
     INSERT INTO xtns
       SELECT card_no, date(end_time), external_item_id, price, 'AUCTION', cards_in_item
       FROM external_items
-      WHERE card_no IS NOT NULL AND price IS NOT NULL}
+      WHERE card_no IS NOT NULL AND price IS NOT NULL AND cards_in_item <> 0}
     
     @log.info "Deleting xtns_by_card_day"
     db << "DELETE FROM xtns_by_card_day"
