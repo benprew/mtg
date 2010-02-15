@@ -58,6 +58,42 @@ class Dataset
     _decorate_dataset()
   end
 
+  def to_visualization_chart(chart_type, options={})
+    options = { :height => 300, :legend => :bottom }.merge(options)
+    
+    chart_js = ''
+    case chart_type
+      when :line
+      chart_js = %Q{
+          <div id='#{self.object_id}'></div>
+          <script type="text/javascript">
+            data = new google.visualization.DataTable(#{to_data_table()});
+            chart = new google.visualization.LineChart(document.getElementById('#{self.object_id}')) 
+            chart.draw(data, #{JSON.generate(options)})
+          </script>
+}
+ 
+      else
+      raise "Unknown chart type #{chart_type}"
+    end
+
+    return chart_js
+
+  end
+
+  def to_visualization_table(options={})
+    options = { :allowHtml => true, :showRowNumber => true }.merge(options)
+
+    return %Q{
+    <div id='#{self.object_id}'></div>
+    <script type="text/javascript">
+      data = new google.visualization.DataTable(#{to_data_table()});
+      table = new google.visualization.Table(document.getElementById('#{self.object_id}')) 
+      table.draw(data, #{JSON.generate(options)})
+    </script>
+}
+  end
+
   def to_data_table
     json_format = Hash.new
 
@@ -70,14 +106,7 @@ class Dataset
       row2 = @header.map { |col| { :v => row[col[:name].to_sym] } }
       json_format[:rows] << { :c => row2 }
     end
-    
-    return %Q{
-    <div id='#{self.object_id}'></div>
-    <script type="text/javascript">
-      data = new google.visualization.DataTable(#{JSON.generate(json_format)});
-      table = new google.visualization.Table(document.getElementById('#{self.object_id}')) 
-      table.draw(data, {allowHtml: true, showRowNumber: true})
-    </script>
-}
+    return JSON.generate(json_format)
   end
+
 end
