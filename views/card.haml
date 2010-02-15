@@ -1,15 +1,24 @@
-%h3= @card.name
+.grid_12
+  %h3= @card.name
+.clear
 
-%div{ :style => "float: right" }
-  #my_chart
+.grid_2
+  %strong Price
+  
+  %h2= sprintf("$%.2f", @avg_price)
 
-%strong Price
+.grid_5
+  = @card_prices.to_visualization_chart(:line, :title => 'Price per day (rolling month)')
 
-%h2= sprintf("$%.2f", @avg_price)
+.grid_5
+  = @card_xtns.to_visualization_chart(:line, :title => 'Sales per day (rolling month)')
 
-%img{ :src => @card.picture }
+.clear
 
-%div{ :style=>"width: 25%" }
+.grid_6
+  %p
+    %strong Name:
+    = @card.name
   %p
     %strong Set:
     = @card.set_name
@@ -29,5 +38,9 @@
     %strong Rules Text:
     = @card.rules_text
 
-%div
+.grid_6
+  %img{ :src => @card.picture }
+
+.clear &nbsp;
+.grid_12
   = render_dataset("Auctions associated with this card", @auctions_matched_to_card)

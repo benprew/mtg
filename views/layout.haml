@@ -4,13 +4,10 @@
     %title= "mtg - #{@title}"
     %meta{ :name => 'description', :content => @description }
     %link{ :rel => "stylesheet", :href => "/style.css", :type => "text/css" }
-    - if @chart_url
-      %script{ :type=>"text/javascript", :src=>"/js/swfobject.js" }
-      %script{ :type => "text/javascript" }
-        = %Q{swfobject.embedSWF("#{@chart_url}", "my_chart", "750", "340", "9.0.0")}
     %script{ :type=>"text/javascript", :src=>"http://www.google.com/jsapi" }
     %script{ :type=>"text/javascript" }
-      google.load('visualization', '1', {packages: ['table']});
+      google.load('visualization', '1', {packages: ['table', 'linechart']});
+    %link{ :rel => "stylesheet", :href => "/grid.css", :type => "text/css" }
   %body
     .header
       %div{ :style => 'float: right' }
@@ -19,5 +16,5 @@
         %a{ :href=>'/' } Home
         %a{ :href=>'/match_auction' } Match Auctions
       = search_box()
-    .page
+    .container_12
       = yield
