@@ -15,8 +15,6 @@ require 'json'
 
 include SqlDb
 
-@@base_chart = '/open-flash-chart.swf'
-
 configure :production do
   error do
     @error = request.env['sinatra.error']
@@ -31,12 +29,6 @@ end
 get '/style.css' do
   response['Content-Type'] = 'text/css'
   sass :style
-end
-
-get '/card/:card_no/auctions.json' do
-  card_no = params[:card_no]
-  puts card_no
-  JSON.generate({:data => ExternalItems.filter(:card_no => card_no).select(:end_time, :description, :price, :cards_in_item, :end_time).all })
 end
 
 get '/' do
@@ -60,69 +52,6 @@ end
 get '/match_auction' do
   item = ExternalItem.filter(:card_no => nil).reverse_order(:price).first
   redirect sprintf '/match_auction/%s', item[:external_item_id]
-end
-
-get '/chart/card/:card_no' do
-  card_no = params[:card_no]
-  xtns = db[:xtns_by_card_day].
-    select(
-      (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price),
-      :price,
-      :xtns,
-      :date ).
-    filter(:card_no => card_no).
-    group_by( :date ).
-    order_by( :date ).all
-
-  %Q(
-{
-  "title":{
-    "text":  "Card Price",
-    "style": "{font-size: 20px; color:#0000ff; font-family: Verdana; text-align: center;}"
-  },
- 
-  "elements":[
-    {
-      "type":      "line_dot",
-      "alpha":     0.5,
-      "colour":    "#9933CC",
-      "text":      "Price",
-      "font-size": 10,
-      "values" :   [#{xtns.map { |x| x[:avg_price].to_i }.join(',')}]
-    },
-    {
-      "type":      "line_dot",
-      "alpha":     0.5,
-      "colour":    "#0033CC",
-      "text":      "Volume",
-      "font-size": 10,
-      "values" :   [#{xtns.map { |x| x[:xtns].to_i }.join(',')}]
-    }
-
-  ],
- 
-  "x_axis":{
-    "stroke":1,
-    "tick_height":10,
-    "colour":"#d000d0",
-    "grid_colour":"#00ff00",
-    "labels":{
-      "rotate" :"vertical",
-      "labels" :[#{xtns.map { |x| sprintf'"%s"', x[:date] }.join(',')} ]
-     }
-   },
- 
-  "y_axis":{
-    "stroke":      4,
-    "tick_length": 3,
-    "colour":      "#d000d0",
-    "grid_colour": "#00ff00",
-    "offset":      0,
-    "max":         #{xtns.map{ |x| (x[:avg_price]).to_i }.max},
-    "steps": #{xtns.map{ |x| (x[:avg_price]).to_i }.max / 8}
-  }
-}
-)
 end
 
 get '/match_auction/:external_item_id' do
@@ -184,9 +113,31 @@ end
 get '/card/:card_id' do
   @card = Card.first(:card_no => params[:card_id])
 
-  @avg_price = average_price_for_card(@card)
+  
   @auctions_matched_to_card = auctions_matched_to_card(@card)
-  @chart_url = @@base_chart + "?data-file=/chart/card/#{@card.card_no}"
+
+  query = 
+    db[:xtns_by_card_day].
+    select(
+      (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price),
+      :price,
+      :xtns,
+      :date ).
+    filter(:card_no => params[:card_id] ).
+    filter{|o| o.date > Date.today << 1}.
+    group_by( :date ).
+    order_by( :date )
+
+  latest_price = query.first
+  @avg_price = latest_price ? latest_price[:avg_price] : 0
+
+  @card_prices = Dataset.new(
+    [ :date, :avg_price ],
+    query.all )
+
+  @card_xtns = Dataset.new(
+    [ :date, :xtns ],
+    query.all )
   
   haml :card
 end
@@ -248,7 +199,7 @@ end
 
 def auctions_matched_to_card(card)
   d = Dataset.new(
-    [ :date, :description, :price, :cards_in_item, :external_item_id, :end_time ],
+    [ :date, :description, :price, :cards_in_item, :external_item_id ],
     db[:external_items].select(:description, :price, :cards_in_item, :external_item_id, :end_time.as(:date)).filter( :card_no => card.card_no ).all
     )
       
@@ -256,17 +207,6 @@ def auctions_matched_to_card(card)
     :external_item_id,
     lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting
   return d
-end
-
-
-def average_price_for_card(card)
-  rows = 
-    db[:xtns_by_card_day].
-    select( (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg) ).
-    inner_join( :cards, :card_no => :card_no ).
-    filter( :cards__card_no => card.card_no ).first
-
-  return rows[0] ? rows[0] : 0
 end
 
 def most_expensive_cards(set_name = false)
