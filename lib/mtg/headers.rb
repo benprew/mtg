@@ -29,7 +29,7 @@ class Headers
     { :name => :name,          :title => 'Name',       :format => method(:as_pass) },
     { :name => :set_name,      :title => 'Set',        :format => method(:as_pass) },
     { :name => :casting_cost,  :title => 'Cast. Cost', :format => method(:as_pass) },
-    { :name => :card_no,       :title => 'Card #',     :format => method(:as_pass) },
+    { :name => :card_no,       :title => 'card_no',    :format => method(:as_pass) },
 
     { :name => :max,           :title => 'Max Price', :format => method(:as_dollar) },
     { :name => :min,           :title => 'Min Price', :format => method(:as_dollar) },

@@ -67,12 +67,12 @@ class Dataset
       chart_js = %Q{
           <div id='#{self.object_id}'></div>
           <script type="text/javascript">
-            data = new google.visualization.DataTable(#{to_data_table()});
-            chart = new google.visualization.LineChart(document.getElementById('#{self.object_id}')) 
-            chart.draw(data, #{JSON.generate(options)})
+            var data = new google.visualization.DataTable(#{to_data_table()});
+            var chart = new google.visualization.LineChart(document.getElementById('#{self.object_id}'));
+            chart.draw(data, #{JSON.generate(options)});
           </script>
 }
- 
+
       else
       raise "Unknown chart type #{chart_type}"
     end
@@ -87,9 +87,14 @@ class Dataset
     return %Q{
     <div id='#{self.object_id}'></div>
     <script type="text/javascript">
-      data = new google.visualization.DataTable(#{to_data_table()});
-      table = new google.visualization.Table(document.getElementById('#{self.object_id}')) 
-      table.draw(data, #{JSON.generate(options)})
+      var data = new google.visualization.DataTable(#{to_data_table()});
+      for(var i = 0; i < data.getNumberOfColumns(); i++) {
+        if( data.getColumnLabel(i).match(/_no$/) ) {
+          data.removeColumn(i);
+        }
+      }
+      var table = new google.visualization.Table(document.getElementById('#{self.object_id}'));
+      table.draw(data, #{JSON.generate(options)});
     </script>
 }
   end
