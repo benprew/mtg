@@ -92,7 +92,7 @@ get '/search' do
     @q.strip!
 
     @cards = Dataset.new(
-      [ :name, :set_name, :price, :card_no ],
+      [ :card_no, :name, :set_name, :price ],
       q(%Q(
         SELECT max(name) as name , MAX(set_name) as set_name, price, card_no
         FROM cards LEFT OUTER JOIN card_prices USING (card_no)
@@ -265,12 +265,6 @@ def highest_volume_cards
 end
 
 helpers do
-  def render_dataset(title, dataset)
-    @dataset = dataset
-    @dataset_title = title
-    haml :dataset, :layout => false
-  end
-
   def search_box
     haml :search_box, :layout => false
   end

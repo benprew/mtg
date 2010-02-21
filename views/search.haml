@@ -1,6 +1,6 @@
 - @title = "Search Results"
 
 - if @cards then
-  = render_dataset("Search Results", @cards)
+  = @cards.to_table(:title => "Search Results")
 - else
   %span{ :style => "font-color: red" }= "No cards found for your query: '#{@q}'"

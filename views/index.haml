@@ -11,10 +11,11 @@
       for a complete list
 
 
-%div{ :style => "padding-left: 1em; padding-right: 1em" }
-  %div{ :style => "float: left; width: 49%" }
-    = render_dataset("Most Auctioned Cards", @highest_volume_cards)
+.grid_6
+  = @highest_volume_cards.to_table(:title => "Most Auctioned Cards")
+.grid_6
+  = @most_expensive_cards.to_table(:title => "Most Expensive Cards")
 
-  %div{ :style => "float: right; width: 49%" }
-    = render_dataset("Most Expensive Cards", @most_expensive_cards)
-    = render_dataset("Most Expensive Alara Reborn Cards", @most_expensive_alara_reborn_cards)
+.clear
+.grid_6
+  = @most_expensive_alara_reborn_cards.to_table(:title => "Most Expensive Alara Reborn Cards")

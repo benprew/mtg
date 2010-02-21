@@ -8,10 +8,10 @@
   %h2= sprintf("$%.2f", @avg_price)
 
 .grid_5
-  = @card_prices.to_visualization_chart(:line, :title => 'Price per day (rolling month)')
+  = @card_prices.to_line_chart(:title => 'Price per day (rolling month)')
 
 .grid_5
-  = @card_xtns.to_visualization_chart(:line, :title => 'Sales per day (rolling month)')
+  = @card_xtns.to_line_chart(:title => 'Sales per day (rolling month)')
 
 .clear
 
@@ -39,8 +39,9 @@
     = @card.rules_text
 
 .grid_6
-  %img{ :src => @card.picture }
+  - if File.exists?(@card.picture)
+    %img{ :src => @card.picture }
 
 .clear &nbsp;
 .grid_12
-  = render_dataset("Auctions associated with this card", @auctions_matched_to_card)
+  = @auctions_matched_to_card.to_table(:title => "Auctions associated with this card")

@@ -22,6 +22,6 @@
     %input{ :type => 'hidden', :name =>'cards_in_item', :value => 0 }
     %input{ :type => 'submit', :value => 'Not a Card' }
   
-  =render_dataset("Possible Matches", @possible_matches)
+  = @possible_matches.to_table(:title => "Possible Matches")
 
       

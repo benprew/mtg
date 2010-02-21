@@ -8,7 +8,7 @@ describe Dataset do
   end
 
   it "renders to google dataTable" do
-    as_data_table = @data.to_visualization_table
+    as_data_table = @data.to_table
 
     as_data_table.should match(/<div id='#{@data.object_id}'><\/div>/)
     as_data_table.should match(/new google.visualization.DataTable/)
@@ -18,14 +18,14 @@ describe Dataset do
   end
 
   it "overrides table defaults correctly" do
-    as_data_table = @data.to_visualization_table(:showRowNumber => false)
+    as_data_table = @data.to_table(:showRowNumber => false)
 
     as_data_table.should match(/table.draw\(data, \{.*"showRowNumber":false/)
   end
 
 
   it "renders to google visualization LineChart" do
-    line_chart = @data.to_visualization_chart(:line)
+    line_chart = @data.to_line_chart()
 
     line_chart.should match(/<div id='#{@data.object_id}'><\/div>/)
     line_chart.should match(/new google.visualization.LineChart/)
@@ -35,7 +35,7 @@ describe Dataset do
   end
 
   it "overrides chart defaults correctly" do
-    line_chart = @data.to_visualization_chart(:line, :height => 400)
+    line_chart = @data.to_line_chart(:height => 400)
 
     line_chart.should match(/chart.draw\(data, \{.*"height":400/)
   end

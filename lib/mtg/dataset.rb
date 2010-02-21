@@ -58,13 +58,10 @@ class Dataset
     _decorate_dataset()
   end
 
-  def to_visualization_chart(chart_type, options={})
+  def to_line_chart(options={})
     options = { :height => 300, :legend => :bottom }.merge(options)
     
-    chart_js = ''
-    case chart_type
-      when :line
-      chart_js = %Q{
+    return %Q{
           <div id='#{self.object_id}'></div>
           <script type="text/javascript">
             var data = new google.visualization.DataTable(#{to_data_table()});
@@ -72,19 +69,14 @@ class Dataset
             chart.draw(data, #{JSON.generate(options)});
           </script>
 }
-
-      else
-      raise "Unknown chart type #{chart_type}"
-    end
-
-    return chart_js
-
   end
 
-  def to_visualization_table(options={})
+  def to_table(options={})
     options = { :allowHtml => true, :showRowNumber => true }.merge(options)
 
     return %Q{
+<div class="report">
+  <div class="ds_header">#{options[:title]}</div>
     <div id='#{self.object_id}'></div>
     <script type="text/javascript">
       var data = new google.visualization.DataTable(#{to_data_table()});
@@ -96,6 +88,7 @@ class Dataset
       var table = new google.visualization.Table(document.getElementById('#{self.object_id}'));
       table.draw(data, #{JSON.generate(options)});
     </script>
+</div>
 }
   end
 
@@ -104,7 +97,7 @@ class Dataset
 
     json_format = { :cols => [], :rows => [] }
     json_format[:cols] = @header.map do |h|
-      { :label => h[:title], :name => h[:name], :type => :string }
+      { :label => h[:title], :name => h[:name], :type => h[:type] }
     end
 
     @rows.each do |row|
