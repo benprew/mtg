@@ -127,9 +127,11 @@ get '/card/:card_id' do
     filter{|o| o.date > Date.today << 1}.
     group_by( :date ).
     order_by( :date )
+  
+  latest_price = db[:xtns_by_card_day].
+    select((:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price)).from(query).first
 
-  latest_price = query.first
-  @avg_price = latest_price ? latest_price[:avg_price] : 0
+  @avg_price = latest_price && latest_price[:avg_price] ? latest_price[:avg_price] : 0
 
   @card_prices = Dataset.new(
     [ :date, :avg_price ],
