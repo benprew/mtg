@@ -14,10 +14,10 @@ describe Card do
 
   it "should do" do
     puts %Q{
-      [ ] card_prices table should use 1-month rolling (fix summarize_xtns)
-          [ ] price on card detail page should be using card_prices table
+      [ ] price on card detail page should be using card_prices table
       [ ] reporting by ebay userid
       [ ] re-work main page to be same as monthly dashboard
+      [ ] should use Sequel for everything
     }
   end
 

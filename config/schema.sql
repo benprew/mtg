@@ -52,5 +52,23 @@ CREATE TABLE `external_items` (
   PRIMARY KEY (`external_item_id`)
 );
 
+DROP TABLE IF EXISTS `card_prices`;
+CREATE TABLE `card_prices` (
+  `card_no` int(11) DEFAULT NULL,
+  `price` double DEFAULT NULL
+);
+
+
+DROP TABLE IF EXISTS `xtns`;
+CREATE TABLE `xtns` (
+  `card_no` int(11) NOT NULL,
+  `date` date NOT NULL,
+  `external_item_id` varchar(50) NOT NULL,
+  `price` float DEFAULT NULL,
+  `xtn_type_id` varchar(50) DEFAULT NULL,
+  `xtns` int(11) DEFAULT '1',
+  PRIMARY KEY (`card_no`,`date`,`external_item_id`)
+);
+
 
 
