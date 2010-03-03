@@ -10,6 +10,12 @@ require 'dm-core'
 require 'mtg/db'
 require 'mtg/external_item'
 
+class String
+  def remove_non_ascii(replacement="") 
+    self.gsub(/[\x80-\xff]/,replacement)
+  end
+end
+
 dev_id = 'f36af579-ed91-4c03-b429-0507fae12064'
 app_id = 'BenPrew2f-def9-421f-87b8-55dc6a53837'
 cert = 'efd1bf35-147f-4584-8922-b89a3e3c3673'
@@ -25,7 +31,7 @@ end
 
 def import_item(item_info)
   item = ExternalItem.first(:external_item_id => item_info['ItemID']) || ExternalItem.new(:external_item_id => item_info['ItemID'], :last_updated => @@current_time)
-  item.description = item_info['Title']
+  item.description = item_info['Title'].remove_non_ascii
   item.end_time = item_info['EndTime']
   item.auction_price = item_info['ConvertedCurrentPrice']['Value']
   item.buy_it_now_price = item_info['ConvertedBuyItNowPrice']['Value'] if item_info['ConvertedBuyItNowPrice']

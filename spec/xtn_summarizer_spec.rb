@@ -1,4 +1,5 @@
 require File.dirname(__FILE__) + '/base'
+require 'mtg'
 require 'mtg/xtn_summarizer'
 require 'mtg/sql_db'
 require 'mtg/sql_external_item'
