@@ -1,8 +1,6 @@
 source "http://rubygems.org"
 gem "datamapper"
 gem "data_objects"
-gem "do_sqlite3"
-gem "do_postgres"
 gem "do_mysql"
 gem "sinatra"
 gem "haml"

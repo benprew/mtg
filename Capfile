@@ -22,15 +22,15 @@ namespace :bundler do
 
   task :bundle_new_release, :roles => :app do
     bundler.create_symlink
-    run "cd #{release_path} && /usr/local/ruby/bin/bundle install --without test"
+    run "cd #{release_path} && bundle install --without test"
   end
 
   task :lock, :roles => :app do
-    run "cd #{current_release} && /usr/local/ruby/bin/bundle lock;"
+    run "cd #{current_release} && bundle lock;"
   end
 
   task :unlock, :roles => :app do
-    run "cd #{current_release} && /usr/local/ruby/bin/bundle unlock;"
+    run "cd #{current_release} && bundle unlock;"
   end
 end
 

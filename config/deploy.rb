@@ -20,3 +20,6 @@ set :web, "apache"
 set :use_sudo, false
 
 set :shared_files, [ 'sets', 'sqlbuilder', 'config/database.yml' ] 
+
+default_environment["PATH"] =
+  "/bin:/usr/bin:/usr/local/ruby/bin/:/usr/local/bin:/usr/sbin"
