@@ -6,9 +6,34 @@ load    'config/deploy'
 
 after 'deploy:update', :daemonize
 after 'deploy:update', :link_shared_files
+after "deploy:update_code" do
+  bundler.bundle_new_release
+end
 
 after 'deploy', 'deploy:cleanup'
 after 'deploy', 'deploy:restart'
+
+namespace :bundler do
+  task :create_symlink, :roles => :app do
+    shared_dir = File.join(shared_path, 'bundle')
+    release_dir = File.join(current_release, '.bundle')
+    run("mkdir -p #{shared_dir} && ln -s #{shared_dir} #{release_dir}")
+  end
+
+  task :bundle_new_release, :roles => :app do
+    bundler.create_symlink
+    run "cd #{release_path} && /usr/local/ruby/bin/bundle install --without test"
+  end
+
+  task :lock, :roles => :app do
+    run "cd #{current_release} && /usr/local/ruby/bin/bundle lock;"
+  end
+
+  task :unlock, :roles => :app do
+    run "cd #{current_release} && /usr/local/ruby/bin/bundle unlock;"
+  end
+end
+
 
 namespace :deploy do
   task :start, :roles => :app, :except => { :no_release => true } do
@@ -28,13 +53,12 @@ task :daemonize do
   run "#{release_path}/bin/create_spinner.rb '#{deploy_to}/current' '#{app_name}' '#{app_port}' >/tmp/spin"
   run "cp /tmp/spin /etc/init.d/#{app_name} && rm /tmp/spin"
   run "chmod +x /etc/init.d/#{app_name}"
-  run "ln -sf ../init.d/mtg /etc/rc.d/rc2.d/S97#{app_name}"
-  run "ln -sf ../init.d/mtg /etc/rc.d/rc2.d/K13#{app_name}"
+  run "update-rc.d #{app_name} defaults || echo 'Already in rc.d'"
 end
 
 task :link_shared_files do
-  run "ln -s #{shared_path}/sets #{release_path}/public/sets"
-  run "ln -s #{shared_path}/sqlbuilder #{release_path}/ext/sqlbuilder"
-  run "ln -s #{shared_path}/config/database.yml #{release_path}/config/database.yml"
+  shared_files.each do |file|
+    run "ln -s #{shared_path}/#{file} #{release_path}/#{file}"
+  end
 end
 

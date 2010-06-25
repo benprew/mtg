@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'facets/dictionary'
+require 'dictionary'
 require 'mtg/headers'
 require 'json'
 
