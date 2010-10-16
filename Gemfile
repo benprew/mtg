@@ -9,6 +9,7 @@ gem "dictionary"
 gem "trie"
 gem "sequel"
 gem "mysql"
+gem "rest-client"
 
 group :test do
   gem "rack-test"

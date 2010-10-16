@@ -39,11 +39,12 @@ def import_item(item_info)
   item.save
 end
 
+
 @@current_time = JSON.parse(RestClient.get(url_ify( gateway,
                         :appid => app_id,
                         :version => 595,
                         :responseencoding => 'JSON',
-                        :callname => 'GeteBayTime' )))['Timestamp']
+                        :callname => 'GeteBayTime' )).to_s)['Timestamp']
 
 p @@current_time
 
@@ -62,8 +63,7 @@ url = url_ify( gateway,
 )
 
 page_number = 1
-result = RestClient.get(url)
-data = JSON.parse(result)
+data = JSON.parse(RestClient.get(url).to_s)
 p "##### Total Pages " + data['TotalPages'].to_s + "###########"
 
 while( page_number <= data['TotalPages'] ) do
@@ -81,8 +81,6 @@ while( page_number <= data['TotalPages'] ) do
                  :PageNumber => page_number )
 
   result = RestClient.get(url)
-  data = JSON.parse(result)
+  data = JSON.parse(result.to_s)
 end
 
-
- 
