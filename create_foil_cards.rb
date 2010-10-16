@@ -1,4 +1,4 @@
-#!/usr/local/ruby/bin/ruby
+#!/usr/bin/ruby
 
 require 'rubygems'
 require 'dm-core'
