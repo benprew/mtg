@@ -6,5 +6,5 @@ class PossibleMatch
 
   property :external_item_id, String, :key => true
   property :card_no, Integer, :key => true
-  property :score, Float, :nullable => false
+  property :score, Float, :required => true
 end

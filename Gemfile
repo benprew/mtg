@@ -1,7 +1,7 @@
 source "http://rubygems.org"
-gem "datamapper"
-gem "data_objects"
-gem "do_mysql"
+
+gem "data_mapper"
+gem "dm-mysql-adapter"
 gem "sinatra"
 gem "haml"
 gem "maruku"

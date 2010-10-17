@@ -5,5 +5,5 @@ class XtnType
   include DataMapper::Resource
   
   property :xtn_type_id, String, :key => true
-  property :name, String, :nullable => false
+  property :name, String, :required => true
 end
