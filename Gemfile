@@ -10,6 +10,7 @@ gem "trie"
 gem "sequel"
 gem "mysql"
 gem "rest-client"
+gem "railsless-deploy"
 
 group :test do
   gem "rack-test"
