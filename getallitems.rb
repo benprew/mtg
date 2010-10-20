@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+$:.unshift File.dirname(__FILE__) + '/lib'
+
 require 'rubygems'
 require 'rest_client'
 require 'uri'
