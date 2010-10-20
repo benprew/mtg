@@ -17,7 +17,9 @@ namespace :bundler do
   task :create_symlink, :roles => :app do
     shared_dir = File.join(shared_path, 'bundle')
     release_dir = File.join(current_release, 'vendor/bundle')
-    run("mkdir -p #{shared_dir} && ln -s #{shared_dir} #{release_dir}")
+    run "mkdir -p #{File.join(current_release, 'vendor')}"
+    run "mkdir -p #{shared_dir}"
+    run "ln -s #{shared_dir} #{release_dir}"
   end
 
   task :bundle_new_release, :roles => :app do
