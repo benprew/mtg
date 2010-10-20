@@ -16,7 +16,7 @@ after 'deploy', 'deploy:restart'
 namespace :bundler do
   task :create_symlink, :roles => :app do
     shared_dir = File.join(shared_path, 'bundle')
-    release_dir = File.join(current_release, '.bundle')
+    release_dir = File.join(current_release, 'vendor/bundle')
     run("mkdir -p #{shared_dir} && ln -s #{shared_dir} #{release_dir}")
   end
 
