@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-$:.unshift File.dirname(__FILE__) + '/lib'
+$:.unshift File.dirname(__FILE__) + '/../lib'
 
 require 'mtg/keyword'
 require 'mtg/db'

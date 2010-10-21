@@ -1,7 +1,8 @@
 #!/usr/bin/ruby
 
+$:.unshift File.dirname(__FILE__) + '/../lib'
+
 require 'rubygems'
-require 'dm-core'
 require 'mtg/matcher'
 require 'mtg/card'
 require 'mtg/db'
