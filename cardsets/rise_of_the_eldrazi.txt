@@ -1,0 +1,1911 @@
+Name:	Affa Guard Hound
+Cost:	 2W
+Type:	 Creature — Hound
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flash
+When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Akoum Boulderfoot
+Cost:	 4RR
+Type:	 Creature — Giant Warrior
+Pow/Tgh:	 (4/5)
+Rules Text:	 When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	All Is Dust
+Cost:	 7
+Type:	 Tribal Sorcery — Eldrazi
+Pow/Tgh:	
+Rules Text:	 Each player sacrifices all colored permanents he or she controls.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Ancient Stirrings
+Cost:	 G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Angelheart Vial
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial.
+{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Arrogant Bloodlord
+Cost:	 1BB
+Type:	 Creature — Vampire Knight
+Pow/Tgh:	 (4/4)
+Rules Text:	 Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Artisan of Kozilek
+Cost:	 9
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (10/9)
+Rules Text:	 When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Set/Rarity:	 Archenemy Uncommon, Rise of the Eldrazi Uncommon
+
+Name:	Aura Finesse
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Attach target Aura you control to target creature.
+Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Aura Gnarlid
+Cost:	 2G
+Type:	 Creature — Beast
+Pow/Tgh:	 (2/2)
+Rules Text:	 Creatures with power less than Aura Gnarlid's power can't block it.
+Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Awakening Zone
+Cost:	 2G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Bala Ged Scorpion
+Cost:	 3B
+Type:	 Creature — Scorpion
+Pow/Tgh:	 (2/3)
+Rules Text:	 When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Baneful Omen
+Cost:	 4BBB
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Battle Rampart
+Cost:	 2R
+Type:	 Creature — Wall
+Pow/Tgh:	 (1/3)
+Rules Text:	 Defender
+{T}: Target creature gains haste until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common, Mercadian Masques Common
+
+Name:	Battle-Rattle Shaman
+Cost:	 3R
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Bear Umbra
+Cost:	 2GG
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has "Whenever this creature attacks, untap all lands you control."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Beastbreaker of Bala Ged
+Cost:	 1G
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+4/4
+
+LEVEL 4+
+6/6
+Trample
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Bloodrite Invoker
+Cost:	 2B
+Type:	 Creature — Vampire Shaman
+Pow/Tgh:	 (3/1)
+Rules Text:	 {8}: Target player loses 3 life and you gain 3 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Bloodthrone Vampire
+Cost:	 1B
+Type:	 Creature — Vampire
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+Set/Rarity:	 Magic 2011 Common, Rise of the Eldrazi Common
+
+Name:	Boar Umbra
+Cost:	 2G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Bramblesnap
+Cost:	 1G
+Type:	 Creature — Elemental
+Pow/Tgh:	 (1/1)
+Rules Text:	 Trample
+Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Brimstone Mage
+Cost:	 2R
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+2/3
+{T}: Brimstone Mage deals 1 damage to target creature or player.
+LEVEL 3+
+2/4
+{T}: Brimstone Mage deals 3 damage to target creature or player.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Brood Birthing
+Cost:	 1R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool." Otherwise, put one of those tokens onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Broodwarden
+Cost:	 3GG
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (4/4)
+Rules Text:	 Eldrazi Spawn creatures you control get +2/+1.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Cadaver Imp
+Cost:	 1BB
+Type:	 Creature — Imp
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Caravan Escort
+Cost:	 W
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+2/2
+
+LEVEL 5+
+5/5
+First strike
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Cast Through Time
+Cost:	 4UUU
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Champion's Drake
+Cost:	 1U
+Type:	 Creature — Drake
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Champion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Conquering Manticore
+Cost:	 4RR
+Type:	 Creature — Manticore
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Consume the Meek
+Cost:	 3BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy each creature with converted mana cost 3 or less. They can't be regenerated.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Consuming Vapors
+Cost:	 3B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player sacrifices a creature. You gain life equal to that creature's toughness.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Contaminated Ground
+Cost:	 1B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+Enchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Coralhelm Commander
+Cost:	 UU
+Type:	 Creature — Merfolk Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+3/3
+Flying
+LEVEL 4+
+4/4
+Flying
+Other Merfolk creatures you control get +1/+1.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Corpsehatch
+Cost:	 3BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Crab Umbra
+Cost:	 U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+{2}{U}: Untap enchanted creature.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Curse of Wizardry
+Cost:	 2BB
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 As Curse of Wizardry enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, that player loses 1 life.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Daggerback Basilisk
+Cost:	 2G
+Type:	 Creature — Basilisk
+Pow/Tgh:	 (2/2)
+Rules Text:	 Deathtouch
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Dawnglare Invoker
+Cost:	 2W
+Type:	 Creature — Kor Wizard
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+{8}: Tap all creatures target player controls.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Death Cultist
+Cost:	 B
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Deathless Angel
+Cost:	 4WW
+Type:	 Creature — Angel
+Pow/Tgh:	 (5/7)
+Rules Text:	 Flying
+{W}{W}: Target creature is indestructible this turn.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Demonic Appetite
+Cost:	 B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature you control
+Enchanted creature gets +3/+3.
+At the beginning of your upkeep, sacrifice a creature.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Demystify
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target enchantment.
+Set/Rarity:	 Rise of the Eldrazi Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name:	Deprive
+Cost:	 UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Deprive, return a land you control to its owner's hand.
+Counter target spell.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Devastating Summons
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Devastating Summons, sacrifice X lands.
+Put two X/X red Elemental creature tokens onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Disaster Radius
+Cost:	 5RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Disaster Radius, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Distortion Strike
+Cost:	 U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+0 until end of turn and is unblockable this turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Domestication
+Cost:	 2UU
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+You control enchanted creature.
+At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Dormant Gomazoa
+Cost:	 1UU
+Type:	 Creature — Jellyfish
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+Dormant Gomazoa enters the battlefield tapped.
+Dormant Gomazoa doesn't untap during your untap step.
+Whenever you become the target of a spell, you may untap Dormant Gomazoa.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Drake Umbra
+Cost:	 4U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Drana, Kalastria Bloodchief
+Cost:	 3BB
+Type:	 Legendary Creature — Vampire Shaman
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Dread Drone
+Cost:	 4B
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (4/1)
+Rules Text:	 When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Dreamstone Hedron
+Cost:	 6
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {3} to your mana pool.
+{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+Set/Rarity:	 Archenemy Uncommon, Rise of the Eldrazi Uncommon
+
+Name:	Echo Mage
+Cost:	 1UU
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/3)
+Rules Text:	 Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+2/4
+{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+LEVEL 4+
+2/5
+{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Eel Umbra
+Cost:	 1U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Eland Umbra
+Cost:	 1W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +0/+4.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Eldrazi Conscription
+Cost:	 8
+Type:	 Tribal Enchantment — Eldrazi Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Eldrazi Temple
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Emerge Unscathed
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control gains protection from the color of your choice until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Emrakul, the Aeons Torn
+Cost:	 15
+Type:	 Legendary Creature — Eldrazi
+Pow/Tgh:	 (15/15)
+Rules Text:	 Emrakul, the Aeons Torn can't be countered.
+When you cast Emrakul, take an extra turn after this one.
+Flying, protection from colored spells, annihilator 6
+When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Emrakul's Hatcher
+Cost:	 4R
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Enatu Golem
+Cost:	 6
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (3/5)
+Rules Text:	 When Enatu Golem is put into a graveyard from the battlefield, you gain 4 life.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Enclave Cryptologist
+Cost:	 U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (0/1)
+Rules Text:	 Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+0/1
+{T}: Draw a card, then discard a card.
+LEVEL 3+
+0/1
+{T}: Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Escaped Null
+Cost:	 3B
+Type:	 Creature — Zombie Berserker
+Pow/Tgh:	 (1/2)
+Rules Text:	 Lifelink
+Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Essence Feed
+Cost:	 5B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Evolving Wilds
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Explosive Revelation
+Cost:	 3RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Fissure Vent
+Cost:	 3RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose one or both — Destroy target artifact; and/or destroy target nonbasic land.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Flame Slash
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Flame Slash deals 4 damage to target creature.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Fleeting Distraction
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -1/-0 until end of turn.
+Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Forest
+Cost:	
+Type:	 Basic Land — Forest
+Pow/Tgh:	
+Rules Text:	 G
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Forked Bolt
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Frostwind Invoker
+Cost:	 4U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+{8}: Creatures you control gain flying until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Gelatinous Genesis
+Cost:	 XXG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put X X/X green Ooze creature tokens onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Gideon Jura
+Cost:	 3WW
+Type:	 Planeswalker — Gideon
+Loyalty:	 (6)
+Rules Text:	 +2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+-2: Destroy target tapped creature.
+0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Gigantomancer
+Cost:	 7G
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 {1}: Target creature you control becomes 7/7 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Gloomhunter
+Cost:	 2B
+Type:	 Creature — Bat
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Glory Seeker
+Cost:	 1W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	
+Set/Rarity:	 Duel Decks: Elspeth vs. Tezzeret Common, Rise of the Eldrazi Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name:	Goblin Arsonist
+Cost:	 R
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Goblin Arsonist is put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Goblin Tunneler
+Cost:	 1R
+Type:	 Creature — Goblin Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Target creature with power 2 or less is unblockable this turn.
+Set/Rarity:	 Magic 2011 Common, Rise of the Eldrazi Common
+
+Name:	Gravitational Shift
+Cost:	 3UU
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Creatures with flying get +2/+0.
+Creatures without flying get -2/-0.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Gravity Well
+Cost:	 1GG
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature with flying attacks, it loses flying until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Grotag Siege-Runner
+Cost:	 1R
+Type:	 Creature — Goblin Rogue
+Pow/Tgh:	 (2/1)
+Rules Text:	 {R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Growth Spasm
+Cost:	 2G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Guard Duty
+Cost:	 W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature has defender.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Guard Gomazoa
+Cost:	 2U
+Type:	 Creature — Jellyfish
+Pow/Tgh:	 (1/3)
+Rules Text:	 Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Guul Draz Assassin
+Cost:	 B
+Type:	 Creature — Vampire Assassin
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-3
+2/2
+{B}, {T}: Target creature gets -2/-2 until end of turn.
+LEVEL 4+
+4/4
+{B}, {T}: Target creature gets -4/-4 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Hada Spy Patrol
+Cost:	 1U
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+2/2
+Hada Spy Patrol is unblockable.
+LEVEL 3+
+3/3
+Shroud
+Hada Spy Patrol is unblockable.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Halimar Wavewatch
+Cost:	 1U
+Type:	 Creature — Merfolk Soldier
+Pow/Tgh:	 (0/3)
+Rules Text:	 Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+0/6
+
+LEVEL 5+
+6/6
+Islandwalk
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Hand of Emrakul
+Cost:	 9
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (7/7)
+Rules Text:	 You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Harmless Assault
+Cost:	 2WW
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all combat damage that would be dealt this turn by attacking creatures.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Haze Frog
+Cost:	 3GG
+Type:	 Creature — Frog
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Heat Ray
+Cost:	 XR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Heat Ray deals X damage to target creature.
+Set/Rarity:	 Rise of the Eldrazi Common, Battle Royale Box Set Common, Urza's Saga Common
+
+Name:	Hedron Matrix
+Cost:	 4
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +X/+X, where X is its converted mana cost.
+Equip {4}
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Hedron-Field Purists
+Cost:	 2W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (0/3)
+Rules Text:	 Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+1/4
+If a source would deal damage to you or a creature you control, prevent 1 of that damage.
+LEVEL 5+
+2/5
+If a source would deal damage to you or a creature you control, prevent 2 of that damage.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Hellcarver Demon
+Cost:	 3BBB
+Type:	 Creature — Demon
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying
+Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Hellion Eruption
+Cost:	 5R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Hyena Umbra
+Cost:	 W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has first strike.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Ikiral Outrider
+Cost:	 1W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/2)
+Rules Text:	 Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+2/6
+Vigilance
+LEVEL 4+
+3/10
+Vigilance
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Induce Despair
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Induce Despair, reveal a creature card from your hand.
+Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Inquisition of Kozilek
+Cost:	 B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Irresistible Prey
+Cost:	 G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature must be blocked this turn if able.
+Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Island
+Cost:	
+Type:	 Basic Land — Island
+Pow/Tgh:	
+Rules Text:	 U
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	It That Betrays
+Cost:	 12
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (11/11)
+Rules Text:	 Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Jaddi Lifestrider
+Cost:	 4G
+Type:	 Creature — Elemental
+Pow/Tgh:	 (2/8)
+Rules Text:	 When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Joraga Treespeaker
+Cost:	 G
+Type:	 Creature — Elf Druid
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-4
+1/2
+{T}: Add {G}{G} to your mana pool.
+LEVEL 5+
+1/4
+Elves you control have "{T}: Add {G}{G} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Jwari Scuttler
+Cost:	 2U
+Type:	 Creature — Crab
+Pow/Tgh:	 (2/3)
+Rules Text:	
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Kabira Vindicator
+Cost:	 3W
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (2/4)
+Rules Text:	 Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-4
+3/6
+Other creatures you control get +1/+1.
+LEVEL 5+
+4/8
+Other creatures you control get +2/+2.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Kargan Dragonlord
+Cost:	 RR
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Level up {R} ({R}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 4-7
+4/4
+Flying
+LEVEL 8+
+8/8
+Flying, trample
+{R}: Kargan Dragonlord gets +1/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Kazandu Tuskcaller
+Cost:	 1G
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-5
+1/1
+{T}: Put a 3/3 green Elephant creature token onto the battlefield.
+LEVEL 6+
+1/1
+{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Keening Stone
+Cost:	 6
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Khalni Hydra
+Cost:	 GGGGGGGG
+Type:	 Creature — Hydra
+Pow/Tgh:	 (8/8)
+Rules Text:	 Khalni Hydra costs {G} less to cast for each green creature you control.
+Trample
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Kiln Fiend
+Cost:	 1R
+Type:	 Creature — Elemental Beast
+Pow/Tgh:	 (1/2)
+Rules Text:	 Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Knight of Cliffhaven
+Cost:	 1W
+Type:	 Creature — Kor Knight
+Pow/Tgh:	 (2/2)
+Rules Text:	 Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+2/3
+Flying
+LEVEL 4+
+4/4
+Flying, vigilance
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Kor Line-Slinger
+Cost:	 1W
+Type:	 Creature — Kor Scout
+Pow/Tgh:	 (0/1)
+Rules Text:	 {T}: Tap target creature with power 3 or less.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Kor Spiritdancer
+Cost:	 1W
+Type:	 Creature — Kor Wizard
+Pow/Tgh:	 (0/2)
+Rules Text:	 Kor Spiritdancer gets +2/+2 for each Aura attached to it.
+Whenever you cast an Aura spell, you may draw a card.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Kozilek, Butcher of Truth
+Cost:	 10
+Type:	 Legendary Creature — Eldrazi
+Pow/Tgh:	 (12/12)
+Rules Text:	 When you cast Kozilek, Butcher of Truth, draw four cards.
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Kozilek's Predator
+Cost:	 3G
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lagac Lizard
+Cost:	 3R
+Type:	 Creature — Lizard
+Pow/Tgh:	 (3/3)
+Rules Text:	
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Last Kiss
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Last Kiss deals 2 damage to target creature and you gain 2 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lavafume Invoker
+Cost:	 2R
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 {8}: Creatures you control get +3/+0 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lay Bare
+Cost:	 2UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell. Look at its controller's hand.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Leaf Arrow
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Leaf Arrow deals 3 damage to target creature with flying.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lighthouse Chronologist
+Cost:	 1U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/3)
+Rules Text:	 Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 4-6
+2/4
+
+LEVEL 7+
+3/5
+At the beginning of each end step, if it's not your turn, take an extra turn after this one.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Lightmine Field
+Cost:	 2WW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Linvala, Keeper of Silence
+Cost:	 2WW
+Type:	 Legendary Creature — Angel
+Pow/Tgh:	 (3/4)
+Rules Text:	 Flying
+Activated abilities of creatures your opponents control can't be activated.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Living Destiny
+Cost:	 3G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Living Destiny, reveal a creature card from your hand.
+You gain life equal to the revealed card's converted mana cost.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lone Missionary
+Cost:	 1W
+Type:	 Creature — Kor Monk
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Lone Missionary enters the battlefield, you gain 4 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Lord of Shatterskull Pass
+Cost:	 3R
+Type:	 Creature — Minotaur Shaman
+Pow/Tgh:	 (3/3)
+Rules Text:	 Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-5
+6/6
+
+LEVEL 6+
+6/6
+Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Luminous Wake
+Cost:	 2W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks or blocks, you gain 4 life.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Lust for War
+Cost:	 2R
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.
+Enchanted creature attacks each turn if able.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Magmaw
+Cost:	 3RR
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 {1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Makindi Griffin
+Cost:	 3W
+Type:	 Creature — Griffin
+Pow/Tgh:	 (2/4)
+Rules Text:	 Flying
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Mammoth Umbra
+Cost:	 4W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3 and has vigilance.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Merfolk Observer
+Cost:	 1U
+Type:	 Creature — Merfolk Rogue
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Merfolk Observer enters the battlefield, look at the top card of target player's library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Merfolk Skyscout
+Cost:	 2UU
+Type:	 Creature — Merfolk Scout
+Pow/Tgh:	 (2/3)
+Rules Text:	 Flying
+Whenever Merfolk Skyscout attacks or blocks, untap target permanent.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Might of the Masses
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+1 until end of turn for each creature you control.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Mnemonic Wall
+Cost:	 4U
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Momentous Fall
+Cost:	 2GG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Momentous Fall, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Mortician Beetle
+Cost:	 B
+Type:	 Creature — Insect
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Mountain
+Cost:	
+Type:	 Basic Land — Mountain
+Pow/Tgh:	
+Rules Text:	 R
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Mul Daya Channelers
+Cost:	 1GG
+Type:	 Creature — Elf Druid Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Play with the top card of your library revealed.
+As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.
+As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Narcolepsy
+Cost:	 1U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+At the beginning of each upkeep, if enchanted creature is untapped, tap it.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Naturalize
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment.
+Set/Rarity:	 Magic 2011 Common, Rise of the Eldrazi Common, Magic 2010 Common, Shards of Alara Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name:	Near-Death Experience
+Cost:	 2WWW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of your upkeep, if you have exactly 1 life, you win the game.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Nema Siltlurker
+Cost:	 4G
+Type:	 Creature — Lizard
+Pow/Tgh:	 (3/5)
+Rules Text:	
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Nest Invader
+Cost:	 1G
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Nighthaze
+Cost:	 B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gains swampwalk until end of turn.
+Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Nirkana Cutthroat
+Cost:	 2B
+Type:	 Creature — Vampire Warrior
+Pow/Tgh:	 (3/2)
+Rules Text:	 Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+4/3
+Deathtouch
+LEVEL 3+
+5/4
+First strike, deathtouch
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Nirkana Revenant
+Cost:	 4BB
+Type:	 Creature — Vampire Shade
+Pow/Tgh:	 (4/4)
+Rules Text:	 Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).
+{B}: Nirkana Revenant gets +1/+1 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Nomads' Assembly
+Cost:	 4WW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Not of This World
+Cost:	 7
+Type:	 Tribal Instant — Eldrazi
+Pow/Tgh:	
+Rules Text:	 Counter target spell or ability that targets a permanent you control.
+Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Null Champion
+Cost:	 1B
+Type:	 Creature — Zombie Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-3
+4/2
+
+LEVEL 4+
+7/3
+{B}: Regenerate Null Champion.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Ogre Sentry
+Cost:	 1R
+Type:	 Creature — Ogre Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	 Defender
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Ogre's Cleaver
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +5/+0.
+Equip {5}
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Ondu Giant
+Cost:	 3G
+Type:	 Creature — Giant Druid
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Oust
+Cost:	 W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put target creature into its owner's library second from the top. Its controller gains 3 life.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Overgrown Battlement
+Cost:	 1G
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+{T}: Add {G} to your mana pool for each creature with defender you control.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Pathrazer of Ulamog
+Cost:	 11
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (9/9)
+Rules Text:	 Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)
+Pathrazer of Ulamog can't be blocked except by three or more creatures.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Pawn of Ulamog
+Cost:	 1BB
+Type:	 Creature — Vampire Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Pawn of Ulamog or another nontoken creature you control is put into a graveyard from the battlefield, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Pelakka Wurm
+Cost:	 4GGG
+Type:	 Creature — Wurm
+Pow/Tgh:	 (7/7)
+Rules Text:	 Trample
+When Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm is put into a graveyard from the battlefield, draw a card.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Pennon Blade
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +1/+1 for each creature you control.
+Equip {4}
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Perish the Thought
+Cost:	 2B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Pestilence Demon
+Cost:	 5BBB
+Type:	 Creature — Demon
+Pow/Tgh:	 (7/6)
+Rules Text:	 Flying
+{B}: Pestilence Demon deals 1 damage to each creature and each player.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Phantasmal Abomination
+Cost:	 1UU
+Type:	 Creature — Illusion
+Pow/Tgh:	 (5/5)
+Rules Text:	 Defender
+When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Plains
+Cost:	
+Type:	 Basic Land — Plains
+Pow/Tgh:	
+Rules Text:	 W
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Prey's Vengeance
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+2 until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Prophetic Prism
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Puncturing Light
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target attacking or blocking creature with power 3 or less.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Rage Nimbus
+Cost:	 2R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (5/3)
+Rules Text:	 Defender, flying
+{1}{R}: Target creature attacks this turn if able.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Raid Bombardment
+Cost:	 2R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Rapacious One
+Cost:	 5R
+Type:	 Creature — Eldrazi Drone
+Pow/Tgh:	 (5/4)
+Rules Text:	 Trample
+Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Reality Spasm
+Cost:	 XUU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose one — Tap X target permanents; or untap X target permanents.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Realms Uncharted
+Cost:	 2G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Search your library for four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Recurring Insight
+Cost:	 4UU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Draw cards equal to the number of cards in target opponent's hand.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Regress
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target permanent to its owner's hand.
+Set/Rarity:	 Rise of the Eldrazi Common, Mirrodin Common
+
+Name:	Reinforced Bulwark
+Cost:	 3
+Type:	 Artifact Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+{T}: Prevent the next 1 damage that would be dealt to you this turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Renegade Doppelganger
+Cost:	 1U
+Type:	 Creature — Shapeshifter
+Pow/Tgh:	 (0/1)
+Rules Text:	 Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Repay in Kind
+Cost:	 5BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Each player's life total becomes the lowest life total among all players.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Repel the Darkness
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Tap up to two target creatures.
+Draw a card.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Runed Servitor
+Cost:	 2
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Runed Servitor is put into a graveyard from the battlefield, each player draws a card.
+Set/Rarity:	 Duel Decks: Elspeth vs. Tezzeret Uncommon, Rise of the Eldrazi Uncommon
+
+Name:	Sarkhan the Mad
+Cost:	 3BR
+Type:	 Planeswalker — Sarkhan
+Loyalty:	 (7)
+Rules Text:	 0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.
+-2: Target creature's controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield.
+-4: Each Dragon creature you control deals damage equal to its power to target player.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Sea Gate Oracle
+Cost:	 2U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/3)
+Rules Text:	 When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	See Beyond
+Cost:	 1U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Draw two cards, then shuffle a card from your hand into your library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Shared Discovery
+Cost:	 U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Shared Discovery, tap four untapped creatures you control.
+Draw three cards.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Shrivel
+Cost:	 1B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 All creatures get -1/-1 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Skeletal Wurm
+Cost:	 7B
+Type:	 Creature — Skeleton Wurm
+Pow/Tgh:	 (7/6)
+Rules Text:	 {B}: Regenerate Skeletal Wurm.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Skittering Invasion
+Cost:	 7
+Type:	 Tribal Sorcery — Eldrazi
+Pow/Tgh:	
+Rules Text:	 Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Skywatcher Adept
+Cost:	 U
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+2/2
+Flying
+LEVEL 3+
+4/2
+Flying
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Smite
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target blocked creature.
+Set/Rarity:	 Rise of the Eldrazi Common, Stronghold Common
+
+Name:	Snake Umbra
+Cost:	 2G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Soulbound Guardians
+Cost:	 4W
+Type:	 Creature — Kor Spirit
+Pow/Tgh:	 (4/5)
+Rules Text:	 Defender, flying
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Soul's Attendant
+Cost:	 W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever another creature enters the battlefield, you may gain 1 life.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Soulsurge Elemental
+Cost:	 3R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (*/1)
+Rules Text:	 First strike
+Soulsurge Elemental's power is equal to the number of creatures you control.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Spawning Breath
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Spawnsire of Ulamog
+Cost:	 10
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (7/11)
+Rules Text:	 Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+{4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+{2}0}: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Sphinx of Magosi
+Cost:	 3UUU
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying
+{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Sphinx-Bone Wand
+Cost:	 7
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Spider Umbra
+Cost:	 G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Set/Rarity:	 Archenemy Common, Rise of the Eldrazi Common
+
+Name:	Splinter Twin
+Cost:	 2RR
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature has "{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step."
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Sporecap Spider
+Cost:	 2G
+Type:	 Creature — Spider
+Pow/Tgh:	 (1/5)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Staggershock
+Cost:	 2R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Staggershock deals 2 damage to target creature or player.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Stalwart Shield-Bearers
+Cost:	 1W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (0/3)
+Rules Text:	 Defender
+Other creatures you control with defender get +0/+2.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Stomper Cub
+Cost:	 3GG
+Type:	 Creature — Beast
+Pow/Tgh:	 (5/3)
+Rules Text:	 Trample
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Student of Warfare
+Cost:	 W
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-6
+3/3
+First strike
+LEVEL 7+
+4/4
+Double strike
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Suffer the Past
+Cost:	 XB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Surrakar Spellblade
+Cost:	 1UU
+Type:	 Creature — Surrakar
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.
+Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Surreal Memoir
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return an instant card at random from your graveyard to your hand.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Survival Cache
+Cost:	 2W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You gain 2 life. Then if you have more life than an opponent, draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Swamp
+Cost:	
+Type:	 Basic Land — Swamp
+Pow/Tgh:	
+Rules Text:	 B
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Tajuru Preserver
+Cost:	 1G
+Type:	 Creature — Elf Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 Spells and abilities your opponents control can't cause you to sacrifice permanents.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Thought Gorger
+Cost:	 2BB
+Type:	 Creature — Horror
+Pow/Tgh:	 (2/2)
+Rules Text:	 Trample
+When Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.
+When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Time of Heroes
+Cost:	 1W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Each creature you control with a level counter on it gets +2/+2.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Totem-Guide Hartebeest
+Cost:	 4W
+Type:	 Creature — Antelope
+Pow/Tgh:	 (2/5)
+Rules Text:	 When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Training Grounds
+Cost:	 U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Traitorous Instinct
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Transcendent Master
+Cost:	 1WW
+Type:	 Creature — Human Cleric Avatar
+Pow/Tgh:	 (3/3)
+Rules Text:	 Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 6-11
+6/6
+Lifelink
+LEVEL 12+
+9/9
+Lifelink
+Transcendent Master is indestructible.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Tuktuk the Explorer
+Cost:	 2R
+Type:	 Legendary Creature — Goblin
+Pow/Tgh:	 (1/1)
+Rules Text:	 Haste
+When Tuktuk the Explorer is put into a graveyard from the battlefield, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Ulamog, the Infinite Gyre
+Cost:	 11
+Type:	 Legendary Creature — Eldrazi
+Pow/Tgh:	 (10/10)
+Rules Text:	 When you cast Ulamog, the Infinite Gyre, destroy target permanent.
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+Ulamog is indestructible.
+When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Ulamog's Crusher
+Cost:	 8
+Type:	 Creature — Eldrazi
+Pow/Tgh:	 (8/8)
+Rules Text:	 Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Ulamog's Crusher attacks each turn if able.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Umbra Mystic
+Cost:	 2W
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Unified Will
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell if you control more creatures than that spell's controller.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Valakut Fireboar
+Cost:	 4R
+Type:	 Creature — Elemental Boar
+Pow/Tgh:	 (1/7)
+Rules Text:	 Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Vendetta
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.
+Set/Rarity:	 Rise of the Eldrazi Common, Mercadian Masques Common
+
+Name:	Venerated Teacher
+Cost:	 2U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Vengevine
+Cost:	 2GG
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/3)
+Rules Text:	 Haste
+Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.
+Set/Rarity:	 Rise of the Eldrazi Mythic Rare
+
+Name:	Vent Sentinel
+Cost:	 3R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (2/4)
+Rules Text:	 Defender
+{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Virulent Swipe
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+0 and gains deathtouch until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Wall of Omens
+Cost:	 1W
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender
+When Wall of Omens enters the battlefield, draw a card.
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Warmonger's Chariot
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+2.
+As long as equipped creature has defender, it can attack as though it didn't have defender.
+Equip {3}
+Set/Rarity:	 Rise of the Eldrazi Uncommon
+
+Name:	Wildheart Invoker
+Cost:	 2GG
+Type:	 Creature — Elf Shaman
+Pow/Tgh:	 (4/3)
+Rules Text:	 {8}: Target creature gets +5/+5 and gains trample until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	World at War
+Cost:	 3RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 After the first postcombat main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Set/Rarity:	 Rise of the Eldrazi Rare
+
+Name:	Wrap in Flames
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Zof Shade
+Cost:	 3B
+Type:	 Creature — Shade
+Pow/Tgh:	 (2/2)
+Rules Text:	 {2}{B}: Zof Shade gets +2/+2 until end of turn.
+Set/Rarity:	 Rise of the Eldrazi Common
+
+Name:	Zulaport Enforcer
+Cost:	 B
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-2
+3/3
+
+LEVEL 3+
+5/5
+Zulaport Enforcer can't be blocked except by black creatures.
+Set/Rarity:	 Rise of the Eldrazi Common
+

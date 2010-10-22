@@ -1,0 +1,1786 @@
+Name:	Abuna Acolyte
+Cost:	 1W
+Type:	 Creature — Cat Cleric
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Accorder's Shield
+Cost:	 0
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +0/+3 and has vigilance.
+Equip {3}
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Acid Web Spider
+Cost:	 3GG
+Type:	 Creature — Spider
+Pow/Tgh:	 (3/5)
+Rules Text:	 Reach
+When Acid Web Spider enters the battlefield, you may destroy target Equipment.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Alpha Tyrranax
+Cost:	 4GG
+Type:	 Creature — Beast
+Pow/Tgh:	 (6/5)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Arc Trail
+Cost:	 1R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Argent Sphinx
+Cost:	 2UU
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (4/3)
+Rules Text:	 Flying
+Metalcraft — {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Argentum Armor
+Cost:	 6
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +6/+6.
+Whenever equipped creature attacks, destroy target permanent.
+Equip {6}
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Arrest
+Cost:	 2W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Set/Rarity:	 Scars of Mirrodin Common, Mirrodin Common, Mercadian Masques Uncommon
+
+Name:	Asceticism
+Cost:	 3GG
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Creatures you control can't be the targets of spells or abilities your opponents control.
+{1}{G}: Regenerate target creature.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Assault Strobe
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Auriok Edgewright
+Cost:	 WW
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Auriok Replica
+Cost:	 3
+Type:	 Artifact Creature — Cleric
+Pow/Tgh:	 (2/2)
+Rules Text:	 {W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Auriok Sunchaser
+Cost:	 1W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/1)
+Rules Text:	 Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Barbed Battlegear
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +4/-1.
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Barrage Ogre
+Cost:	 3RR
+Type:	 Creature — Ogre Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	 {T}, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Bellowing Tanglewurm
+Cost:	 3GG
+Type:	 Creature — Wurm
+Pow/Tgh:	 (4/4)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Other green creatures you control have intimidate.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Blackcleave Cliffs
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Blackcleave Goblin
+Cost:	 3B
+Type:	 Creature — Goblin Zombie
+Pow/Tgh:	 (2/1)
+Rules Text:	 Haste
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Bladed Pinions
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has flying and first strike.
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Blade-Tribe Berserkers
+Cost:	 3R
+Type:	 Creature — Human Berserker
+Pow/Tgh:	 (3/3)
+Rules Text:	 Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Bleak Coven Vampires
+Cost:	 3BB
+Type:	 Creature — Vampire Warrior
+Pow/Tgh:	 (4/3)
+Rules Text:	 Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Blight Mamba
+Cost:	 1G
+Type:	 Creature — Snake
+Pow/Tgh:	 (1/1)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{1}{G}: Regenerate Blight Mamba.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Blistergrub
+Cost:	 2B
+Type:	 Creature — Horror
+Pow/Tgh:	 (2/2)
+Rules Text:	 Swampwalk
+When Blistergrub is put into a graveyard from the battlefield, each opponent loses 2 life.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Bloodshot Trainee
+Cost:	 3R
+Type:	 Creature — Goblin Warrior
+Pow/Tgh:	 (2/3)
+Rules Text:	 {T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+Set/Rarity:	 Scars of Mirrodin Uncommon, Future Sight Uncommon
+
+Name:	Blunt the Assault
+Cost:	 3G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Bonds of Quicksilver
+Cost:	 3U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Carapace Forger
+Cost:	 1G
+Type:	 Creature — Elf Artificer
+Pow/Tgh:	 (2/2)
+Rules Text:	 Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Carnifex Demon
+Cost:	 4BB
+Type:	 Creature — Demon
+Pow/Tgh:	 (6/6)
+Rules Text:	 Flying
+Carnifex Demon enters the battlefield with two -1/-1 counters on it.
+{B}, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on each other creature.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Carrion Call
+Cost:	 3G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Put two 1/1 green Insect creature tokens with infect onto the battlefield. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Cerebral Eruption
+Cost:	 2RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Chimeric Mass
+Cost:	 X
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Chimeric Mass enters the battlefield with X charge counters on it.
+{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Chrome Steed
+Cost:	 4
+Type:	 Artifact Creature — Horse
+Pow/Tgh:	 (2/2)
+Rules Text:	 Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Clone Shell
+Cost:	 5
+Type:	 Artifact Creature — Shapeshifter
+Pow/Tgh:	 (2/2)
+Rules Text:	 Imprint — When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order.
+When Clone Shell is put into a graveyard from the battlefield, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Contagion Clasp
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.
+{4}, {T}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Set/Rarity:	 Scars of Mirrodin Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon
+
+Name:	Contagion Engine
+Cost:	 6
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 When Contagion Engine enters the battlefield, put a -1/-1 counter on each creature target player controls.
+{4}, {T}: Proliferate, then proliferate again. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there. Then do it again.)
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Contagious Nim
+Cost:	 2B
+Type:	 Creature — Zombie
+Pow/Tgh:	 (2/2)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Copper Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {G} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common, Planechase Common, Mirrodin Common
+
+Name:	Copperhorn Scout
+Cost:	 G
+Type:	 Creature — Elf Scout
+Pow/Tgh:	 (1/1)
+Rules Text:	 Whenever Copperhorn Scout attacks, untap each other creature you control.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Copperline Gorge
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Corpse Cur
+Cost:	 4
+Type:	 Artifact Creature — Hound
+Pow/Tgh:	 (2/2)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Corrupted Harvester
+Cost:	 4BB
+Type:	 Creature — Horror
+Pow/Tgh:	 (6/3)
+Rules Text:	 {B}, Sacrifice a creature: Regenerate Corrupted Harvester.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Culling Dais
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice a creature: Put a charge counter on Culling Dais.
+{1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Cystbearer
+Cost:	 2G
+Type:	 Creature — Beast
+Pow/Tgh:	 (2/3)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Darkslick Drake
+Cost:	 2UU
+Type:	 Creature — Drake
+Pow/Tgh:	 (2/4)
+Rules Text:	 Flying
+When Darkslick Drake is put into a graveyard from the battlefield, draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Darkslick Shores
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Darksteel Axe
+Cost:	 1
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Darksteel Axe is indestructible. (Effects that say "destroy" don't destroy it.)
+Equipped creature gets +2/+0.
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Darksteel Juggernaut
+Cost:	 5
+Type:	 Artifact Creature — Juggernaut
+Pow/Tgh:	 (*/*)
+Rules Text:	 Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+Darksteel Juggernaut is indestructible and attacks each turn if able.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Darksteel Myr
+Cost:	 3
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (0/1)
+Rules Text:	 Darksteel Myr is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Darksteel Sentinel
+Cost:	 6
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Vigilance
+Darksteel Sentinel is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Dispense Justice
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player sacrifices an attacking creature.
+Metalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Disperse
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target nonland permanent to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Common, Morningtide Common
+
+Name:	Dissipation Field
+Cost:	 2UU
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a permanent deals damage to you, return it to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Dross Hopper
+Cost:	 1B
+Type:	 Creature — Insect Horror
+Pow/Tgh:	 (2/1)
+Rules Text:	 Sacrifice a creature: Dross Hopper gains flying until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Echo Circlet
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature can block an additional creature.
+Equip {1}
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Elspeth Tirel
+Cost:	 3WW
+Type:	 Planeswalker — Elspeth
+Loyalty:	 (4)
+Rules Text:	 +2: You gain 1 life for each creature you control.
+-2: Put three 1/1 white Soldier creature tokens onto the battlefield.
+-5: Destroy all other permanents except
+for lands and tokens.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Embersmith
+Cost:	 1R
+Type:	 Creature — Human Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an artifact spell, you may pay {1}. If you do, Embersmith deals 1 damage to target creature or player.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Engulfing Slagwurm
+Cost:	 5GG
+Type:	 Creature — Wurm
+Pow/Tgh:	 (7/7)
+Rules Text:	 Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Etched Champion
+Cost:	 3
+Type:	 Artifact Creature — Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Exsanguinate
+Cost:	 XBB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Each opponent loses X life. You gain life equal to the life lost this way.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Ezuri, Renegade Leader
+Cost:	 1GG
+Type:	 Legendary Creature — Elf Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 {G}: Regenerate another target Elf.
+{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Ezuri's Archers
+Cost:	 G
+Type:	 Creature — Elf Archer
+Pow/Tgh:	 (1/2)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Ezuri's Brigade
+Cost:	 2GG
+Type:	 Creature — Elf Warrior
+Pow/Tgh:	 (4/4)
+Rules Text:	 Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Ferrovore
+Cost:	 2R
+Type:	 Creature — Beast
+Pow/Tgh:	 (2/2)
+Rules Text:	 {R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Flameborn Hellion
+Cost:	 5R
+Type:	 Creature — Hellion
+Pow/Tgh:	 (5/4)
+Rules Text:	 Haste
+Flameborn Hellion attacks each turn if able.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Flesh Allergy
+Cost:	 2BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Flesh Allergy, sacrifice a creature.
+Destroy target creature. Its controller loses life equal to the number of creatures put into all graveyards from the battlefield this turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Flight Spellbomb
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn.
+When Flight Spellbomb is put into a graveyard from the battlefield, you may pay {U}. If you do, draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Forest
+Cost:	
+Type:	 Basic Land — Forest
+Pow/Tgh:	
+Rules Text:	 G
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Fulgent Distraction
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose two target creatures. Tap those creatures, then unattach all Equipment from them.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Fume Spitter
+Cost:	 B
+Type:	 Creature — Horror
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Furnace Celebration
+Cost:	 1RR
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you sacrifice another permanent, you may pay {2}. If you do, Furnace Celebration deals 2 damage to target creature or player.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Galvanic Blast
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Galvanic Blast deals 2 damage to target creature or player.
+Metalcraft — Galvanic Blast deals 4 damage to that creature or player instead if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Genesis Wave
+Cost:	 XGGG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Geth, Lord of the Vault
+Cost:	 4BB
+Type:	 Legendary Creature — Zombie
+Pow/Tgh:	 (5/5)
+Rules Text:	 Intimidate
+{X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Ghalma's Warden
+Cost:	 3W
+Type:	 Creature — Elephant Soldier
+Pow/Tgh:	 (2/4)
+Rules Text:	 Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Glimmerpoint Stag
+Cost:	 2WW
+Type:	 Creature — Elk
+Pow/Tgh:	 (3/3)
+Rules Text:	 Vigilance
+When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Glimmerpost
+Cost:	
+Type:	 Land — Locus
+Pow/Tgh:	
+Rules Text:	 When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield.
+{T}: Add {1} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Glint Hawk
+Cost:	 W
+Type:	 Creature — Bird
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+When Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Glint Hawk Idol
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.
+{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Goblin Gaveleer
+Cost:	 R
+Type:	 Creature — Goblin Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Trample
+Goblin Gaveleer gets +2/+0 for each Equipment attached to it.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Gold Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {W} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common, Planechase Common, Mirrodin Common
+
+Name:	Golden Urn
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 At the beginning of your upkeep, you may put a charge counter on Golden Urn.
+{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Golem Artisan
+Cost:	 5
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (3/3)
+Rules Text:	 {2}: Target artifact creature gets +1/+1 until end of turn.
+{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Golem Foundry
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast an artifact spell, you may put a charge counter on Golem Foundry.
+Remove three charge counters from Golem Foundry: Put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Golem's Heart
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever a player casts an artifact spell, you may gain 1 life.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Grafted Exoskeleton
+Cost:	 4
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Grand Architect
+Cost:	 1UU
+Type:	 Creature — Vedalken Artificer
+Pow/Tgh:	 (1/3)
+Rules Text:	 Other blue creatures you control get +1/+1.
+{U}: Target artifact creature becomes blue until end of turn.
+Tap an untapped blue creature you control: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Grasp of Darkness
+Cost:	 BB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -4/-4 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Grindclock
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Put a charge counter on Grindclock.
+{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Halt Order
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target artifact spell.
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Hand of the Praetors
+Cost:	 3B
+Type:	 Creature — Zombie
+Pow/Tgh:	 (3/2)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Other creatures you control with infect get +1/+1.
+Whenever you cast a creature spell with infect, target player gets a poison counter.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Heavy Arbalest
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature doesn't untap during its controller's untap step.
+Equipped creature has "{T}: This creature deals 2 damage to target creature or player."
+Equip {4}
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Hoard-Smelter Dragon
+Cost:	 4RR
+Type:	 Creature — Dragon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Horizon Spellbomb
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {2}, {T}, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay {G}. If you do, draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Ichor Rats
+Cost:	 1BB
+Type:	 Creature — Rat
+Pow/Tgh:	 (2/1)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Ichor Rats enters the battlefield, each player gets a poison counter.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Ichorclaw Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Indomitable Archangel
+Cost:	 2WW
+Type:	 Creature — Angel
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Metalcraft — Artifacts you control have shroud as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Inexorable Tide
+Cost:	 3UU
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a spell, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Infiltration Lens
+Cost:	 1
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Whenever equipped creature becomes blocked by a creature, you may draw two cards.
+Equip {1}
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Instill Infection
+Cost:	 3B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Put a -1/-1 counter on target creature.
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Iron Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {R} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common, Planechase Common, Mirrodin Common
+
+Name:	Island
+Cost:	
+Type:	 Basic Land — Island
+Pow/Tgh:	
+Rules Text:	 U
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Kemba, Kha Regent
+Cost:	 1WW
+Type:	 Legendary Creature — Cat Cleric
+Pow/Tgh:	 (2/4)
+Rules Text:	 At the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Kemba's Skyguard
+Cost:	 1WW
+Type:	 Creature — Cat Knight
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+When Kemba's Skyguard enters the battlefield, you gain 2 life.
+Set/Rarity:	 Scars of Mirrodin Common, Duel Decks: Elspeth vs. Tezzeret Common
+
+Name:	Koth of the Hammer
+Cost:	 2RR
+Type:	 Planeswalker — Koth
+Loyalty:	 (3)
+Rules Text:	 +1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+-2: Add {R} to your mana pool for each Mountain you control.
+-5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'"
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Kuldotha Forgemaster
+Cost:	 5
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (3/5)
+Rules Text:	 {T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Kuldotha Phoenix
+Cost:	 2RRR
+Type:	 Creature — Phoenix
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying, haste
+Metalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Kuldotha Rebirth
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.
+Put three 1/1 red Goblin creature tokens onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Leaden Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {B} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common, Planechase Common, Mirrodin Common
+
+Name:	Leonin Arbiter
+Cost:	 1W
+Type:	 Creature — Cat Cleric
+Pow/Tgh:	 (2/2)
+Rules Text:	 Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Liege of the Tangle
+Cost:	 6GG
+Type:	 Creature — Elemental
+Pow/Tgh:	 (8/8)
+Rules Text:	 Trample
+Whenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Lifesmith
+Cost:	 1G
+Type:	 Creature — Human Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an artifact spell, you may pay {1}. If you do, you gain 3 life.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Liquimetal Coating
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Target permanent becomes an artifact in addition to its other types until end of turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Livewire Lash
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+0 and has "Whenever this creature becomes the target of a spell, this creature deals 2 damage to target creature or player."
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Loxodon Wayfarer
+Cost:	 2W
+Type:	 Creature — Elephant Monk
+Pow/Tgh:	 (1/5)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Lumengrid Drake
+Cost:	 3U
+Type:	 Creature — Drake
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Metalcraft — When Lumengrid Drake enters the battlefield, if you control three or more artifacts, return target creature to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Lux Cannon
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Put a charge counter on Lux Cannon.
+{T}, Remove three charge counters from Lux Cannon: Destroy target permanent.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Melt Terrain
+Cost:	 2RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target land. Melt Terrain deals 2 damage to that land's controller.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Memnite
+Cost:	 0
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (1/1)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Memoricide
+Cost:	 3B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Mimic Vat
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Imprint — Whenever a nontoken creature is put into a graveyard from the battlefield, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard.
+{3}, {T}: Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Mindslaver
+Cost:	 6
+Type:	 Legendary Artifact
+Pow/Tgh:	
+Rules Text:	 {4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)
+Set/Rarity:	 Scars of Mirrodin Mythic Rare, Mirrodin Rare
+
+Name:	Molder Beast
+Cost:	 4G
+Type:	 Creature — Beast
+Pow/Tgh:	 (5/3)
+Rules Text:	 Trample
+Whenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Molten Psyche
+Cost:	 1RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Metalcraft — If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Molten-Tail Masticore
+Cost:	 4
+Type:	 Artifact Creature — Masticore
+Pow/Tgh:	 (4/4)
+Rules Text:	 At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you discard a card.
+{4}, Exile a creature card from your graveyard: Molten-Tail Masticore deals 4 damage to target creature or player.
+{2}: Regenerate Molten-Tail Masticore.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Moriok Reaver
+Cost:	 2B
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (3/2)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Moriok Replica
+Cost:	 3
+Type:	 Artifact Creature — Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 {1}{B}, Sacrifice Moriok Replica: You draw two cards and lose 2 life.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Mountain
+Cost:	
+Type:	 Basic Land — Mountain
+Pow/Tgh:	
+Rules Text:	 R
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Mox Opal
+Cost:	 0
+Type:	 Legendary Artifact
+Pow/Tgh:	
+Rules Text:	 Metalcraft — {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Myr Battlesphere
+Cost:	 7
+Type:	 Artifact Creature — Myr Construct
+Pow/Tgh:	 (4/7)
+Rules Text:	 When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Myr Galvanizer
+Cost:	 3
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (2/2)
+Rules Text:	 Other Myr creatures you control get +1/+1.
+{1}, {T}: Untap each other Myr you control.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Myr Propagator
+Cost:	 3
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Myr Reservoir
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.
+{3}, {T}: Return target Myr card from your graveyard to your hand.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Myrsmith
+Cost:	 1W
+Type:	 Creature — Human Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Necrogen Censer
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Necrogen Censer enters the battlefield with two charge counters on it.
+{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Necrogen Scudder
+Cost:	 2B
+Type:	 Creature — Horror
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+When Necrogen Scudder enters the battlefield, you lose 3 life.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Necropede
+Cost:	 2
+Type:	 Artifact Creature — Insect
+Pow/Tgh:	 (1/1)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Necropede is put into a graveyard from the battlefield, you may put a -1/-1 counter on target creature.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Necrotic Ooze
+Cost:	 2BB
+Type:	 Creature — Ooze
+Pow/Tgh:	 (4/3)
+Rules Text:	 As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Neurok Invisimancer
+Cost:	 1UU
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/1)
+Rules Text:	 Neurok Invisimancer is unblockable.
+When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Neurok Replica
+Cost:	 3
+Type:	 Artifact Creature — Wizard
+Pow/Tgh:	 (1/4)
+Rules Text:	 {1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Nihil Spellbomb
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Nim Deathmantle
+Cost:	 2
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+2, has intimidate, and is a black Zombie.
+Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach Nim Deathmantle to it.
+Equip {4}
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Ogre Geargrabber
+Cost:	 4RR
+Type:	 Creature — Ogre Warrior
+Pow/Tgh:	 (4/4)
+Rules Text:	 Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Origin Spellbomb
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+When Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Oxidda Daredevil
+Cost:	 1R
+Type:	 Creature — Goblin Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Oxidda Scrapmelter
+Cost:	 3R
+Type:	 Creature — Beast
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Oxidda Scrapmelter enters the battlefield, destroy target artifact.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Painful Quandary
+Cost:	 3BB
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Painsmith
+Cost:	 1B
+Type:	 Creature — Human Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Palladium Myr
+Cost:	 3
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (2/2)
+Rules Text:	 {T}: Add {2} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Panic Spellbomb
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.
+When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Perilous Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Perilous Myr is put into a graveyard from the battlefield, it deals 2 damage to target creature or player.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Plague Stinger
+Cost:	 1B
+Type:	 Creature — Insect Horror
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Plains
+Cost:	
+Type:	 Basic Land — Plains
+Pow/Tgh:	
+Rules Text:	 W
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Plated Seastrider
+Cost:	 UU
+Type:	 Creature — Beast
+Pow/Tgh:	 (1/4)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Platinum Emperion
+Cost:	 8
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (8/8)
+Rules Text:	 Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Precursor Golem
+Cost:	 5
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.
+Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Prototype Portal
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Imprint — When Prototype Portal enters the battlefield, you may exile an artifact card from your hand.
+{X}, {T}: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Psychic Miasma
+Cost:	 1B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Putrefax
+Cost:	 3GG
+Type:	 Creature — Horror
+Pow/Tgh:	 (5/3)
+Rules Text:	 Trample, haste
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of the end step, sacrifice Putrefax.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Quicksilver Gargantuan
+Cost:	 5UU
+Type:	 Creature — Shapeshifter
+Pow/Tgh:	 (7/7)
+Rules Text:	 You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Ratchet Bomb
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Razor Hippogriff
+Cost:	 3WW
+Type:	 Creature — Hippogriff
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Razorfield Thresher
+Cost:	 7
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (6/4)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Razorverge Thicket
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Relic Putrescence
+Cost:	 2B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant artifact
+Whenever enchanted artifact becomes tapped, its controller gets a poison counter.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Revoke Existence
+Cost:	 1W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile target artifact or enchantment.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Riddlesmith
+Cost:	 1U
+Type:	 Creature — Human Artificer
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Rust Tick
+Cost:	 3
+Type:	 Artifact Creature — Insect
+Pow/Tgh:	 (1/3)
+Rules Text:	 You may choose not to untap Rust Tick during your untap step.
+{1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Rusted Relic
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Saberclaw Golem
+Cost:	 5
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (4/2)
+Rules Text:	 {R}: Saberclaw Golem gains first strike until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Salvage Scout
+Cost:	 W
+Type:	 Creature — Human Scout
+Pow/Tgh:	 (1/1)
+Rules Text:	 {W}, Sacrifice Salvage Scout: Return target artifact card from your graveyard to your hand.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Scoria Elemental
+Cost:	 4R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (6/1)
+Rules Text:	
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Scrapdiver Serpent
+Cost:	 5UU
+Type:	 Creature — Serpent
+Pow/Tgh:	 (5/5)
+Rules Text:	 Scrapdiver Serpent is unblockable as long as defending player controls an artifact.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Screeching Silcaw
+Cost:	 1U
+Type:	 Creature — Bird
+Pow/Tgh:	 (1/2)
+Rules Text:	 Flying
+Metalcraft — Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Seachrome Coast
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Seize the Initiative
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+1 and gains first strike until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Semblance Anvil
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand.
+Spells you cast that share a card type with the exiled card cost {2} less to cast.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Shape Anew
+Cost:	 3U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 The controller of target artifact sacrifices it, then reveals cards from the top of his or her library until he or she reveals an artifact card. That player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Shatter
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact.
+Set/Rarity:	 Scars of Mirrodin Common, Magic 2010 Common, Ninth Edition Common, Mirrodin Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Tempest Common, Fifth Edition Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name:	Silver Myr
+Cost:	 2
+Type:	 Artifact Creature — Myr
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {U} to your mana pool.
+Set/Rarity:	 Scars of Mirrodin Common, Duel Decks: Elspeth vs. Tezzeret Common, Planechase Common, Mirrodin Common
+
+Name:	Skinrender
+Cost:	 2BB
+Type:	 Creature — Zombie
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Skinrender enters the battlefield, put three -1/-1 counters on target creature.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Skithiryx, the Blight Dragon
+Cost:	 3BB
+Type:	 Legendary Creature — Dragon Skeleton
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Skithiryx, the Blight Dragon gains haste until end of turn.
+{B}{B}: Regenerate Skithiryx.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Sky-Eel School
+Cost:	 3UU
+Type:	 Creature — Fish
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+When Sky-Eel School enters the battlefield, draw a card, then discard a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Slice in Twain
+Cost:	 2GG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment.
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Snapsail Glider
+Cost:	 3
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (2/2)
+Rules Text:	 Metalcraft — Snapsail Glider has flying as long as you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Soliton
+Cost:	 5
+Type:	 Artifact Creature — Construct
+Pow/Tgh:	 (3/4)
+Rules Text:	 {U}: Untap Soliton.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Soul Parry
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all damage one or two target creatures would deal this turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Spikeshot Elder
+Cost:	 R
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 {1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Steady Progress
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Steel Hellkite
+Cost:	 6
+Type:	 Artifact Creature — Dragon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Stoic Rebuttal
+Cost:	 1UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Metalcraft — Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.
+Counter target spell.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Strata Scythe
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.
+Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
+Equip {3}
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Strider Harness
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +1/+1 and has haste.
+Equip {1}
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Sunblast Angel
+Cost:	 4WW
+Type:	 Creature — Angel
+Pow/Tgh:	 (4/5)
+Rules Text:	 Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Sunspear Shikari
+Cost:	 1W
+Type:	 Creature — Cat Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 As long as Sunspear Shikari is equipped, it has first strike and lifelink.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Swamp
+Cost:	
+Type:	 Basic Land — Swamp
+Pow/Tgh:	
+Rules Text:	 B
+Set/Rarity:	 Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:	Sword of Body and Mind
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +2/+2 and has protection from green and from blue.
+Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.
+Equip {2}
+Set/Rarity:	 Scars of Mirrodin Mythic Rare, From the Vault: Relics Mythic Rare
+
+Name:	Sylvok Lifestaff
+Cost:	 1
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +1/+0.
+Whenever equipped creature is put into a graveyard, you gain 3 life.
+Equip {1}
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Sylvok Replica
+Cost:	 3
+Type:	 Artifact Creature — Shaman
+Pow/Tgh:	 (1/3)
+Rules Text:	 {G}, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Tainted Strike
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+0 and gains infect until end of turn. (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Tangle Angler
+Cost:	 3G
+Type:	 Creature — Horror
+Pow/Tgh:	 (1/5)
+Rules Text:	 Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{G}: Target creature blocks Tangle Angler this turn if able.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Tel-Jilad Defiance
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gains protection from artifacts until end of turn.
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Tel-Jilad Fallen
+Cost:	 2GG
+Type:	 Creature — Elf Warrior
+Pow/Tgh:	 (3/1)
+Rules Text:	 Protection from artifacts
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Tempered Steel
+Cost:	 1WW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Artifact creatures you control get +2/+2.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Throne of Geth
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}, Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Thrummingbird
+Cost:	 1U
+Type:	 Creature — Bird Horror
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Tower of Calamities
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {8}, {T}: Tower of Calamities deals 12 damage to target creature.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Trigon of Corruption
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Trigon of Corruption enters the battlefield with three charge counters on it.
+{B}{B}, {T}: Put a charge counter on Trigon of Corruption.
+{2}, {T}, Remove a charge counter from Trigon of Corruption: Put a -1/-1 counter on target creature.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Trigon of Infestation
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Trigon of Infestation enters the battlefield with three charge counters on it.
+{G}{G}, {T}: Put a charge counter on Trigon of Infestation.
+{2}, {T}, Remove a charge counter from Trigon of Infestation: Put a 1/1 green Insect creature token with infect onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Trigon of Mending
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Trigon of Mending enters the battlefield with three charge counters on it.
+{W}{W}, {T}: Put a charge counter on Trigon of Mending.
+{2}, {T}, Remove a charge counter from Trigon of Mending: Target player gains 3 life.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Trigon of Rage
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Trigon of Rage enters the battlefield with three charge counters on it.
+{R}{R}, {T}: Put a charge counter on Trigon of Rage.
+{2}, {T}, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Trigon of Thought
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Trigon of Thought enters the battlefield with three charge counters on it.
+{U}{U}, {T}: Put a charge counter on Trigon of Thought.
+{2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Trinket Mage
+Cost:	 2U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+Set/Rarity:	 Scars of Mirrodin Uncommon, Duel Decks: Elspeth vs. Tezzeret Common, Fifth Dawn Common
+
+Name:	True Conviction
+Cost:	 3WWW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Creatures you control have double strike and lifelink.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Tumble Magnet
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Tumble Magnet enters the battlefield with three charge counters on it.
+{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Tunnel Ignus
+Cost:	 1R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Turn Aside
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell that targets a permanent you control.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Turn to Slag
+Cost:	 3RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Twisted Image
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Switch target creature's power and toughness until end of turn.
+Draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Untamed Might
+Cost:	 XG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +X/+X until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Vault Skyward
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gains flying until end of turn. Untap it.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Vector Asp
+Cost:	 1
+Type:	 Artifact Creature — Snake
+Pow/Tgh:	 (1/1)
+Rules Text:	 {B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Vedalken Certarch
+Cost:	 U
+Type:	 Creature — Vedalken Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 Metalcraft — {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Venser, the Sojourner
+Cost:	 3WU
+Type:	 Planeswalker — Venser
+Loyalty:	 (3)
+Rules Text:	 +2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.
+-1: Creatures are unblockable this turn.
+-8: You get an emblem with "Whenever you cast a spell, exile target permanent."
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
+
+Name:	Venser's Journal
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 You have no maximum hand size.
+At the beginning of your upkeep, you gain 1 life for each card in your hand.
+Set/Rarity:	 Scars of Mirrodin Rare
+
+Name:	Vigil for the Lost
+Cost:	 3W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control is put into a graveyard from the battlefield, you may pay {X}. If you do, you gain X life.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Viridian Revel
+Cost:	 1GG
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Volition Reins
+Cost:	 3UUU
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant permanent
+When Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.
+You control enchanted permanent.
+Set/Rarity:	 Scars of Mirrodin Uncommon
+
+Name:	Vulshok Heartstoker
+Cost:	 2R
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Vulshok Replica
+Cost:	 3
+Type:	 Artifact Creature — Berserker
+Pow/Tgh:	 (3/1)
+Rules Text:	 {1}{R}, Sacrifice Vulshok Replica: Vulshok Replica deals 3 damage to target player.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Wall of Tanglecord
+Cost:	 2
+Type:	 Artifact Creature — Wall
+Pow/Tgh:	 (0/6)
+Rules Text:	 Defender
+{G}: Wall of Tanglecord gains reach until end of turn. (It can block creatures with flying.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Whitesun's Passage
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 You gain 5 life.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Wing Puncture
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control deals damage equal to its power to target creature with flying.
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Withstand Death
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature is indestructible this turn. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Set/Rarity:	 Scars of Mirrodin Common
+
+Name:	Wurmcoil Engine
+Cost:	 6
+Type:	 Artifact Creature — Wurm
+Pow/Tgh:	 (6/6)
+Rules Text:	 Deathtouch, lifelink
+When Wurmcoil Engine is put into a graveyard from the battlefield, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.
+Set/Rarity:	 Scars of Mirrodin Mythic Rare
