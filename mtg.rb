@@ -99,9 +99,11 @@ get '/search' do
     @cards = Dataset.new(
       [ :card_no, :name, :set_name, :price ],
       q(%Q(
-        SELECT max(name) as name , MAX(set_name) as set_name, price, card_no
-        FROM cards LEFT OUTER JOIN card_prices USING (card_no)
-        WHERE name like ?
+        SELECT max(cards.name) as name , MAX(cardsets.name) as set_name, price, card_no
+        FROM cards 
+        INNER JOIN cardsets on (cardsets.id = cards.cardset_id)
+        LEFT OUTER JOIN card_prices USING (card_no)
+        WHERE cards.name like ? 
         GROUP BY card_no
       ), [  "%#{@q}%" ])
     )
@@ -154,7 +156,7 @@ get '/set' do
     [ :set_name, :cards_in_set, :avg_rare_price, :rare_volume, :avg_uncommon_price, :uncommon_volume ],
     q(%Q(
       SELECT
-        set_name,
+        cardsets.name as set_name,
         count(card_no) as cards_in_set,
         sum(case when rarity = 'Rare' then price else 0 end) / 
         sum(case when rarity = 'Rare' then xtns else 0 end) as avg_rare_price,
@@ -165,11 +167,11 @@ get '/set' do
         sum(case when rarity = 'Uncommon' then xtns else 0 end) as uncommon_volume
 
       FROM
-        cards LEFT OUTER JOIN
+        cards INNER JOIN cardsets on (cardsets.id = cards.cardset_id) LEFT OUTER JOIN
         xtns_by_card_day USING (card_no)
       WHERE
         date >= date_sub(curdate(), interval 16 day)
-      GROUP BY set_name
+      GROUP BY cardsets.name
       ORDER BY 3 desc)
     )
   )
@@ -184,14 +186,14 @@ get '/set/:set_name' do
   @sets = Dataset.new(
     [ :card_no, :name, :set_name, :price ],
     q(%Q(
-      SELECT card_no, name, set_name, sum(price)/sum(xtns) as price
+      SELECT card_no, cards.name, cardsets.name as set_name, sum(price)/sum(xtns) as price
       FROM
-        cards LEFT OUTER JOIN
+        cards INNER JOIN cardsets on (cardsets.id = cards.cardset_id) LEFT OUTER JOIN
         xtns_by_card_day USING (card_no)
       WHERE
-        set_name = ?
+        cardsets.name = ?
         AND date >= date_sub(curdate(), interval 16 day)
-      GROUP BY name
+      GROUP BY cards.name
       ORDER BY price desc), [ params[:set_name] ])
     )
 
@@ -221,12 +223,13 @@ def most_expensive_cards(set_name = false)
     SELECT
       card_no,
       c.name as name,
-      c.set_name,
+      cardsets.name as set_name,
       price as price
     FROM
       card_prices INNER JOIN
-      cards c USING (card_no)
-    #{ set_name ? " WHERE set_name = ? " : "" }
+      cards c USING (card_no) INNER JOIN 
+      cardsets on (c.cardset_id = cardsets.id)
+    #{ set_name ? " WHERE cardsets.name = ? " : "" }
     ORDER BY price DESC
     LIMIT 20  }, set_name ? [ set_name ] : [])
   d = Dataset.new([ :card_no, :name, :set_name, :price ], cards)
@@ -247,7 +250,7 @@ def highest_volume_cards
     SELECT
       card_no,
       max(c.name) as name,
-      max(c.set_name) as set_name,
+      max(cardsets.name) as set_name,
       max(price/xtns) as max,
       min(price/xtns) as min,
       sum(price) / sum(xtns) as avg,
@@ -255,6 +258,7 @@ def highest_volume_cards
     FROM
       xtns_by_card_day INNER JOIN
       cards c USING (card_no)
+      INNER JOIN cardsets on (cardsets.id = c.cardset_id)
     WHERE
       date >= date_sub(curdate(), interval 16 day)
     GROUP BY c.card_no
