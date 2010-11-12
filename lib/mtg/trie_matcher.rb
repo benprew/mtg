@@ -1,13 +1,11 @@
 require 'trie'
 require 'set'
 require 'mtg/keyword'
-require 'mtg/sql_db'
+require 'mtg/sql_card'
 
 class TrieMatcher
 
   include Keyword
-
-  include SqlDb
 
   def initialize(log)
     @log = log
@@ -17,9 +15,9 @@ class TrieMatcher
   def _build_cards_trie()
     @valid_keywords = {}
     @cards_trie = Trie.new
-    db[:cards].all do |card|
+    Card.all do |card|
       name_keywords = keywords_from_string(card[:name])
-      set_keywords = keywords_from_string(card[:set_name])
+      set_keywords = keywords_from_string(card.cardset.name)
       all_keywords = [ name_keywords, set_keywords ].flatten
   
       all_keywords.each { |k| @valid_keywords[k] = 1 }
