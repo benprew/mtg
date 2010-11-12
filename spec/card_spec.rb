@@ -14,9 +14,10 @@ describe Card do
 
   before(:each) do
     db.run('begin transaction')
+    Cardset.insert(:name => 'test set', :cardset_import_id => 'TEST_SET')
     Card.insert(
       :name => 'test card',
-      :set_name => 'test set',
+      :cardset_id => Cardset.first.id,
       :collector_no => 25 )
     @new_card = Card.first
   end

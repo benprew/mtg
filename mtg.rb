@@ -10,6 +10,7 @@ require 'sinatra'
 require 'dm-core'
 require 'mtg/dataset'
 require 'mtg/sql_db'
+require 'mtg/cardset'
 require 'mtg/sql_card'
 require 'mtg/sql_external_item'
 require 'sass'
@@ -60,8 +61,9 @@ end
 get '/match_auction/:external_item_id' do
 
   query = db[:possible_matches].
-        select( :possible_matches__card_no, :name, :set_name, :cards_in_item, :score ).
+        select( :possible_matches__card_no, :cards__name, :cardsets__name, :cards_in_item, :score ).
         inner_join( :cards, :card_no => :card_no ).
+        inner_join( :cardsets, :id => :cardset_id ).
         inner_join( :external_items, :external_item_id => :possible_matches__external_item_id ).
         filter( :external_items__external_item_id => params[:external_item_id]).
         reverse_order( :score )

@@ -16,6 +16,7 @@ end.parse!
 
 # have to require the db after setting the environment
 require 'mtg/sql_card'
+require 'mtg/cardset'
 
 cards_built = 0
 card = {}
@@ -26,7 +27,7 @@ open(@cardset_file) do |f|
     line.chop!
     next unless line.match(/\w/)
     
-    (key, val) = line.split(/:\s+/)
+    (key, val) = line.split(/:\s+/, 2)
 
     key.strip!
     key.downcase!
@@ -59,15 +60,22 @@ open(@cardset_file) do |f|
     end
 
     if is_full_card
-      warn "Building card #{card[:cardname]}"
+      warn "Building card: #{card[:cardname]}"
       card[:set_rarity].split(/, /).each do |sr|
         arr = sr.split(/\s+/)
         rarity = arr.pop
         if rarity == 'Rare' && arr[-1] == 'Mythic'
           rarity = arr.pop + rarity
         end
-        set = arr.join(" ")
-        c = Card.find_or_create(:name => card[:cardname], :set_name => set)
+        set = arr.join(" ").upcase.gsub(/\W+/, '_')
+
+        cs = Cardset.find(:cardset_import_id => set)
+
+	unless cs
+          warn "No set named #{set}"
+          next
+	end
+        c = Card.find_or_create(:name => card[:cardname], :cardset_id => cs.id)
 
         c.update(
           :type => card[:type],
