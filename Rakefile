@@ -4,7 +4,6 @@ require 'rspec/core/rake_task'
 
 desc "Run all specs"
 RSpec::Core::RakeTask.new() do |t|
-  ENV['RACK_ENV'] = 'test' unless ENV['RACK_ENV']
   t.rspec_opts = ["-Ilib" ]
 end
 
