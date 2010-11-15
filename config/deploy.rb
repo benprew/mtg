@@ -1,5 +1,5 @@
-# role :app, 'throwingbones.com'
-role :app, '74.207.254.50'
+role :app, 'throwingbones.com'
+role :db, 'throwingbones.com', :primary => true
 
 set :application, "mtg"
 set :user, 'throwingbones'
