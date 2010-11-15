@@ -120,7 +120,6 @@ end
 get '/card/:card_id' do
   @card = Card.first(:card_no => params[:card_id])
 
-  
   @auctions_matched_to_card = auctions_matched_to_card(@card)
 
   query = 
@@ -135,10 +134,9 @@ get '/card/:card_id' do
     group_by( :date ).
     order_by( :date )
   
-  latest_price = db[:xtns_by_card_day].
-    select((:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price)).from(query).first
+  latest_price = db[:card_prices].select(:price).filter(:card_no => params[:card_id]).first
 
-  @avg_price = latest_price && latest_price[:avg_price] ? latest_price[:avg_price] : 0
+  @card_price = latest_price && latest_price[:price] ? latest_price[:price] : 0
 
   @card_prices = Dataset.new(
     [ :date, :avg_price ],

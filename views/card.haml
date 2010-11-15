@@ -5,7 +5,7 @@
 .grid_2
   %strong Price
   
-  %h2= sprintf("$%.2f", @avg_price)
+  %h2= sprintf("$%.2f", @card_price)
 
 .grid_5
   = @card_prices.to_line_chart(:title => 'Price per day (rolling month)')
