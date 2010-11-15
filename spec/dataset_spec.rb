@@ -1,3 +1,4 @@
+require 'spec_helper'
 require 'mtg/dataset'
 
 describe Dataset do

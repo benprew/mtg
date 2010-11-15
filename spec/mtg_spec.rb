@@ -1,3 +1,4 @@
+require 'spec_helper'
 require 'rack/test'
 require 'mtg'
 require 'mtg/sql_db'
@@ -13,7 +14,6 @@ describe Card do
 
   it "should do" do
     puts %Q{
-      [ ] fix RACK_ENV bug
       [ ] fix rise from the grave auctions
       [ ] create way to embded datasets possibly by just using div-id?  ie http://mtg.throwingbones.com/datasets/cards-by-price?cardset_id=123  Then the div named cards-by-price would call that dataset
       [ ] prices on dashboard should all be using card_prices

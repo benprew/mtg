@@ -1,3 +1,5 @@
+require 'spec_helper'
+require 'mtg'
 require 'mtg/trie_matcher'
 require 'mtg/sql_card'
 

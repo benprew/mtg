@@ -1,3 +1,5 @@
+require 'spec_helper'
+require 'mtg'
 require 'mtg/xtn_matcher'
 
 describe XtnMatcher do
