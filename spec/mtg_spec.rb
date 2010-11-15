@@ -14,6 +14,7 @@ describe Card do
 
   it "should do" do
     puts %Q{
+      [ ] create foil cards for rise of eldrazi and scars of mirrodin
       [ ] fix rise from the grave auctions
       [ ] create way to embded datasets possibly by just using div-id?  ie http://mtg.throwingbones.com/datasets/cards-by-price?cardset_id=123  Then the div named cards-by-price would call that dataset
       [ ] prices on dashboard should all be using card_prices
