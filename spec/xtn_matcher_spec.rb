@@ -1,4 +1,3 @@
-require File.dirname(__FILE__) + '/base'
 require 'mtg/xtn_matcher'
 
 describe XtnMatcher do

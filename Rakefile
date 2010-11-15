@@ -4,7 +4,7 @@ require 'rspec/core/rake_task'
 
 desc "Run all specs"
 RSpec::Core::RakeTask.new() do |t|
-  ENV['RACK_ENV'] = 'test'
+  ENV['RACK_ENV'] = 'test' unless ENV['RACK_ENV']
   t.rspec_opts = ["-Ilib" ]
 end
 
@@ -16,6 +16,10 @@ namespace :db do
       puts `sqlite3 /tmp/mtg_test_db < config/schema.sql`
       puts `sequel -m migrations sqlite:///tmp/mtg_test_db`
     end
+  end
+
+  task :migrate do
+    puts `sequel -e #{ENV['RACK_ENV']} -m migrations config/database.yml `
   end
 end
 

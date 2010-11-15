@@ -1,4 +1,3 @@
-require File.dirname(__FILE__) + '/base'
 require 'mtg/trie_matcher'
 require 'mtg/sql_card'
 

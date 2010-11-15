@@ -12,8 +12,9 @@ gem "mysql"
 gem "rest-client"
 gem "railsless-deploy"
 
+gem "rspec"
+
 group :test do
   gem "rack-test"
   gem "sqlite3-ruby"
-  gem "rspec"
 end

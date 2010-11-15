@@ -1,4 +1,3 @@
-require File.dirname(__FILE__) + '/base'
 require 'rack/test'
 require 'mtg'
 require 'mtg/sql_db'
