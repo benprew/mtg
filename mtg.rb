@@ -105,7 +105,7 @@ get '/search' do
         LEFT OUTER JOIN card_prices USING (card_no)
         WHERE cards.name like ? 
         GROUP BY card_no
-      ), [  "%#{@q}%" ])
+      ), [  "%#{@q.split(/ /).join('%')}%" ])
     )
 
     @cards.add_decorator(
