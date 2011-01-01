@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     addressable (2.2.2)
+    daemons (1.1.0)
     data_mapper (1.0.2)
       dm-aggregates (= 1.0.2)
       dm-constraints (= 1.0.2)
@@ -85,6 +86,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  daemons
   data_mapper
   dictionary
   dm-mysql-adapter

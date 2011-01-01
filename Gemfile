@@ -11,6 +11,7 @@ gem "sequel"
 gem "mysql"
 gem "rest-client"
 gem "railsless-deploy"
+gem "daemons"
 
 gem "rspec"
 
