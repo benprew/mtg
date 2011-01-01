@@ -8,9 +8,6 @@ include FileUtils
 
 puts %q{#!/usr/bin/ruby
 
-require 'rubygems'
-require 'daemons'
-
 pwd = "%s"
 executable = "%s"
 extra_options = "%s"
