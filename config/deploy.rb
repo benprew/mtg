@@ -1,10 +1,10 @@
-role :app, 'throwingbones.com'
-role :db, 'throwingbones.com', :primary => true
+set :stages, %w(staging production)
+set :default_stage, "production"
+require 'capistrano/ext/multistage'
 
 set :application, "mtg"
 set :user, 'throwingbones'
 
-# set :domain, "#{user}@throwingbones.com"
 set :deploy_to, "/var/www/mtg"
 
 set :scm, :git
@@ -22,4 +22,5 @@ set :use_sudo, false
 set :shared_files, [ 'sets', 'config/database.yml' ] 
 
 default_environment["PATH"] =
-  "/bin:/usr/bin:/usr/local/ruby/bin/:/usr/local/bin:/usr/sbin"
+  "/bin:/usr/bin:/usr/local/ruby/bin/:/usr/local/bin:/usr/sbin:/var/lib/gems/1.8/bin/"
+

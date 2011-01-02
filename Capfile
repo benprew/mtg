@@ -38,23 +38,26 @@ end
 
 
 namespace :deploy do
+  spinner = "bin/spinner_for_#{app_name}"
+
   task :start, :roles => :app, :except => { :no_release => true } do
-    run "/etc/init.d/#{app_name} start"
+    run "cd #{release_path} && bundle exec #{spinner} start"
   end
 
   task :stop, :roles => :app, :except => { :no_release => true } do
-    run "/etc/init.d/#{app_name} stop"
+    run "cd #{release_path} && bundle exec #{spinner} stop"
   end
   task :restart, :roles => :app, :except => { :no_release => true } do
-    run "/etc/init.d/#{app_name} restart"
+    run "cd #{release_path} && bundle exec #{spinner} restart"
   end
 
 end
 
 task :daemonize do
-  run "#{release_path}/bin/create_spinner.rb '#{deploy_to}/current' '#{app_name}' '#{app_port}' >/tmp/spin"
-  run "cp /tmp/spin /etc/init.d/#{app_name} && rm /tmp/spin"
-  run "chmod +x /etc/init.d/#{app_name}"
+  spinner = "#{release_path}/bin/spinner_for_#{app_name}"
+  run "#{release_path}/bin/create_spinner.rb '#{deploy_to}/current' '#{app_name}' '#{app_port}' >#{spinner}"
+  run "chmod +x #{spinner}"
+  run "ln -sf #{spinner} /etc/init.d/#{app_name}"
   run "update-rc.d #{app_name} defaults || echo 'Already in rc.d'"
 end
 
