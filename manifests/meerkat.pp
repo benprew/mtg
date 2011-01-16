@@ -7,7 +7,7 @@ package { "git": ensure => installed }
 package { "vim": ensure => installed }
 package { "libshadow-ruby1.8": ensure => installed }
 package { "libmysqlclient-dev": ensure => installed }
-
+package { "libsqlite3-dev": ensure => installed }
 
 exec { "gem install bundler": }
 
@@ -49,11 +49,8 @@ file { "/var/www/mtg":
   require => User["throwingbones"],
 }
 
-mysql_database { "mtg":
-  defaults => "/etc/mysql/debian.cnf",
-  name => 'mtg',
-  ensure => present
-}
+
+# databases
 
 mysql_user { "mtg":
   defaults => "/etc/mysql/debian.cnf",
@@ -62,7 +59,24 @@ mysql_user { "mtg":
   ensure => present
 }
 
+mysql_database { "mtg":
+  defaults => "/etc/mysql/debian.cnf",
+  name => 'mtg',
+  ensure => present
+}
+
 mysql_grant { "mtg@localhost/mtg":
+  defaults => "/etc/mysql/debian.cnf",
+  privileges => 'all',
+}
+
+mysql_database { "mtgtest":
+  defaults => "/etc/mysql/debian.cnf",
+  name => 'mtgtest',
+  ensure => present
+}
+
+mysql_grant { "mtg@localhost/mtgtest":
   defaults => "/etc/mysql/debian.cnf",
   privileges => 'all',
 }
