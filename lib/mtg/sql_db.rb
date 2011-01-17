@@ -1,10 +1,11 @@
 require 'rubygems'
 require 'sequel'
 require 'yaml'
+require 'sinatra/base'
+
+include Sinatra::Delegator
 
 module SqlDb
-  module_function
-
   DB_CONFIG = YAML::load File.open(File.dirname(__FILE__) + '/../../config/database.yml')
 
   def db
@@ -15,10 +16,12 @@ module SqlDb
     db_info = DB_CONFIG[environment.to_s]
     return sprintf "%s://%s:%s@localhost/%s", db_info['adapter'], db_info['username'], db_info['password'], db_info['database']
   end
+
+  module_function :db, :build_connect_string_for
 end
 
 if test?
-  DB = Sequel.connect('sqlite:///tmp/mtg_test_db')
+  DB = Sequel.sqlite
 elsif production?
   DB = Sequel.connect(SqlDb.build_connect_string_for(:production))
 else

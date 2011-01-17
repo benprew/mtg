@@ -12,15 +12,6 @@ describe Cardset do
     Sinatra::Application
   end
 
-  before(:each) do
-    db.run('begin transaction')
-  end
-
-  after(:each) do
-    db.run('rollback')
-  end
-
-
   it "has a set_id that can be different from the set name" do
     Cardset.insert(
       :name => 'M10',

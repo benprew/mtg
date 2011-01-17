@@ -3,6 +3,7 @@ require 'mtg'
 require 'mtg/xtn_summarizer'
 require 'mtg/sql_db'
 require 'mtg/sql_external_item'
+require 'mtg/sql_card'
 require 'time'
 require 'date'
 
@@ -11,19 +12,15 @@ describe XtnSummarizer do
   include SqlDb
 
   before(:each) do
-    db.run('begin transaction')
+    Card.insert(:id => 123)
     ExternalItem.insert(
       :external_item_id => 'ABC',
       :price => 5.0,
       :end_time => Time.now() - 1,
       :last_updated => Time.now() - 1,
-      :card_no => 123,
+      :card_id => 123,
       :cards_in_item => 1 )
     @summarizer = XtnSummarizer.new();
-  end
-
-  after(:each) do
-    db.run('rollback')
   end
 
   it "should summarize xtns" do
@@ -40,7 +37,7 @@ describe XtnSummarizer do
       :price => 40.0,
       :end_time => (Date.today() << 1) - 1,
       :last_updated => Time.now(),
-      :card_no => 123,
+      :card_id => 123,
       :cards_in_item => 1 )
 
     @summarizer.run()
