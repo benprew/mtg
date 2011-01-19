@@ -35,7 +35,7 @@ get '/style.css' do
 end
 
 get '/' do
-  @most_expensive_cards = most_expensive_cards()
+  @most_expensive_cards = most_expensive_cards('Scars of Mirrodin')
   @most_expensive_alara_reborn_cards = most_expensive_cards('Alara Reborn')
   @highest_volume_cards = highest_volume_cards()
 
