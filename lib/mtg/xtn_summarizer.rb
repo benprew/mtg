@@ -18,10 +18,10 @@ class XtnSummarizer < Logger::Application
 
     @log.info "Inserting new xtns"
     ext_items = db[:external_items].
-      select(:card_no, :end_time, :external_item_id, :price, 'AUCTION', :cards_in_item).
-      filter( ~:card_no => nil, ~:price => nil, ~:cards_in_item => 0)
+      select(:card_id, :end_time, :external_item_id, :price, 'AUCTION', :cards_in_item).
+      filter( ~:card_id => nil, ~:price => nil, ~:cards_in_item => 0)
     
-    db[:xtns].insert([:card_no, :date, :external_item_id, :price, :xtn_type_id, :xtns], ext_items)
+    db[:xtns].insert([:card_id, :date, :external_item_id, :price, :xtn_type_id, :xtns], ext_items)
 
     @log.info "Deleting xtns_by_card_day"
     db << "DELETE FROM xtns_by_card_day"
@@ -29,20 +29,20 @@ class XtnSummarizer < Logger::Application
     @log.info "Inserting into xtns_by_card_day"
     db << %Q{
     INSERT INTO xtns_by_card_day
-      SELECT card_no, date, sum(price) as price, sum(xtns) as xtns
+      SELECT card_id, date, sum(price) as price, sum(xtns) as xtns
       FROM xtns
-      GROUP BY card_no, date}
+      GROUP BY card_id, date}
 
     @log.info "Deleting card_prices"
     db << "DELETE FROM card_prices"
 
     @log.info "Inserting into card_prices"
     db[:card_prices].insert(
-      [:card_no, :price], 
+      [:card_id, :price], 
       db[:xtns_by_card_day].
-        select(:card_no, :SUM.sql_function(:price) / :SUM.sql_function(:xtns)).
+        select(:card_id, :SUM.sql_function(:price) / :SUM.sql_function(:xtns)).
         filter( :date >= Date.today << 1 ).
-        group_by(:card_no))
+        group_by(:card_id))
   end
 
 end

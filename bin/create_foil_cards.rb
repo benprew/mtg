@@ -19,7 +19,7 @@ File.new(ARGV[0]).readlines.each do |line|
     c = Card.get(match[0])
     next if c.name == 'Foil'
     next if h.has_key?(c.name)
-    h[c.card_no] = match[1]
+    h[c.id] = match[1]
   end
   if h.keys.length == 1
     c = Card.get(h.keys[0])

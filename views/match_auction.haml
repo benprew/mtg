@@ -8,7 +8,7 @@
   %form{ :action => '/match_auction', :method => 'post' }
     Card #
     %input{ :type => 'hidden', :name=>'external_item_id', :value => @e[:external_item_id] }
-    %input{ :type => 'text', :name => 'card_no' }
+    %input{ :type => 'text', :name => 'card_id' }
     Number of Cards in auction
     %input{ :type => 'text', :name => 'cards_in_item', :size => 3 } 
     %input{ :type => 'submit', :value => 'Match' }
@@ -18,7 +18,7 @@
 
   %form{ :action => '/match_auction', :method => 'post' }
     %input{ :type => 'hidden', :name =>'external_item_id', :value => @e[:external_item_id] }
-    %input{ :type => 'hidden', :name =>'card_no', :value => -1 }
+    %input{ :type => 'hidden', :name =>'card_id', :value => -1 }
     %input{ :type => 'hidden', :name =>'cards_in_item', :value => 0 }
     %input{ :type => 'submit', :value => 'Not a Card' }
   

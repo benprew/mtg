@@ -27,10 +27,10 @@ WHOLESALE_COST_PER_BOX = 80
 
 include SqlDb
 
-@cards = db[:cards].left_outer_join(:card_prices, :card_no => :id ).select(:name, :price).filter(:set_name => set_name).filter(~:name.like('%Foil%'))
+@cards = db[:cards].left_outer_join(:card_prices, :card_id => :id ).select(:name, :price).filter(:set_name => set_name).filter(~:name.like('%Foil%'))
 @rares = @cards.filter(:rarity => 'Rare').all
 @uncommons = @cards.filter(:rarity => 'Uncommon').all
-@foils = db[:cards].left_outer_join(:card_prices, :card_no => :id ).select(:name, :price).filter(:set_name => set_name).filter(:name.like('%Foil%')).filter(~:rarity => 'Mythic Rare').all
+@foils = db[:cards].left_outer_join(:card_prices, :card_id => :id ).select(:name, :price).filter(:set_name => set_name).filter(:name.like('%Foil%')).filter(~:rarity => 'Mythic Rare').all
 
 class Array
   def random_element

@@ -22,11 +22,11 @@ class TrieMatcher
   
       all_keywords.each { |k| @valid_keywords[k] = 1 }
   
-      @cards_trie.insert((name_keywords + set_keywords).join(" "), card[:card_no])
-      @cards_trie.insert((set_keywords + name_keywords).join(" "), card[:card_no])
+      @cards_trie.insert((name_keywords + set_keywords).join(" "), card[:id])
+      @cards_trie.insert((set_keywords + name_keywords).join(" "), card[:id])
       if name_keywords[0] == 'foil'
         name_keywords.shift
-        @cards_trie.insert( (['foil'] + set_keywords + name_keywords).join(" "), card[:card_no])
+        @cards_trie.insert( (['foil'] + set_keywords + name_keywords).join(" "), card[:id])
       end
     end
   end
@@ -54,9 +54,9 @@ class TrieMatcher
       ct2 = ct2.find_prefix(keyword)
   
       if ct2.size == 1
-        card_no = ''
-        ct2.each_value { |v| card_no = v }
-        possible_matches << card_no
+        card_id = ''
+        ct2.each_value { |v| card_id = v }
+        possible_matches << card_id
         break
       elsif ct2.size == 0
         prev_matches.each_value { |v| possible_matches << v }

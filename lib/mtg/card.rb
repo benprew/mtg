@@ -5,7 +5,7 @@ class Card
   include DataMapper::Resource
   include Keyword
   
-  property :card_no, Serial, :key => true
+  property :id, Serial, :key => true
   property :name, String, :length => 256
   property :casting_cost, String
   property :type, String

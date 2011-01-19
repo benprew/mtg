@@ -9,7 +9,7 @@ class ExternalItem
   property :end_time, DateTime
   property :auction_price, Float
   property :buy_it_now_price, Float
-  property :card_no, Integer
+  property :card_id, Integer
   property :last_updated, DateTime, :required => true
   property :cards_in_item, Integer, :required => true, :default => 1
   property :price, Float

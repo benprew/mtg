@@ -48,9 +48,9 @@ class XtnMatcher < Logger::Application
     @log.info("Possible Match: #{possible_match}")
   end
 
-  def _match_card(item, card_no)
+  def _match_card(item, card_id)
     e = db[:external_items].filter(:external_item_id => item[:external_item_id])
-    e.update(:card_no => card_no, :cards_in_item => _cards_in_description(item[:description]))
+    e.update(:card_id => card_id, :cards_in_item => _cards_in_description(item[:description]))
   end
 
   def _cards_in_description(description)
@@ -70,7 +70,7 @@ class XtnMatcher < Logger::Application
     db[:possible_matches].filter(:external_item_id => ext_item_id).delete
     @log.debug "inserting new matches"
     possible_matches.each do |pm|
-      db[:possible_matches].insert(:external_item_id => ext_item_id, :card_no => pm, :score => 1)
+      db[:possible_matches].insert(:external_item_id => ext_item_id, :card_id => pm, :score => 1)
     end
   end
 end
