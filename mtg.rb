@@ -7,7 +7,6 @@ require 'bundler'
 Bundler.setup
 
 require 'sinatra'
-require 'dm-core'
 require 'mtg/dataset'
 require 'mtg/sql_db'
 require 'mtg/cardset'
@@ -205,10 +204,16 @@ get '/set/:set_name' do
 end
 
 def auctions_matched_to_card(card)
+
   d = Dataset.new(
     [ :date, :description, :price, :cards_in_item, :external_item_id ],
-    db[:external_items].select(:description, :price, :cards_in_item, :external_item_id, :end_time.as(:date)).filter( :card_id => card.id ).all
-    )
+    db[:external_items].
+    select(:description, :price, :cards_in_item, :external_item_id, :end_time.as(:date)).
+    filter(:card_id => card.id).
+    filter(:end_time >= Date.today << 1).
+    filter(:price > 0).
+    order(:end_time.desc)
+  )
       
   d.add_decorator(
     :external_item_id,
@@ -289,7 +294,7 @@ helpers do
 
   def card_link_decorator(val, row)
   end
-
+p
   def set_link_decorator
     lambda { |val, row| %Q(<a href="/set/#{row[:set_name]}">#{val}</a>) }
   end
