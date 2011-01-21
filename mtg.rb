@@ -97,14 +97,12 @@ get '/search' do
 
     @cards = Dataset.new(
       [ :card_id, :name, :set_name, :price ],
-      q(%Q(
-        SELECT max(cards.name) as name , MAX(cardsets.name) as set_name, price, card_id
-        FROM cards 
-        INNER JOIN cardsets on (cardsets.id = cards.cardset_id)
-        LEFT OUTER JOIN card_prices USING (card_id)
-        WHERE cards.name like ?
-        GROUP BY card_id
-      ), [  "%#{@q.split(/ /).join('%')}%" ])
+      db[:cards].
+      select( :cards__name, :cardsets__name.as(:set_name), :price, :card_id).
+      inner_join( :cardsets, :id => :cardset_id).
+      left_outer_join( :card_prices, :card_id => :cards__id ).
+      where( :cards__name.ilike "%#{@q.split(/ /).join('%')}%" ).
+      group( :card_id ).all
     )
 
     @cards.add_decorator(

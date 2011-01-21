@@ -2,6 +2,8 @@ require 'spec_helper'
 require 'rack/test'
 require 'mtg'
 require 'mtg/sql_db'
+require 'mtg/sql_card'
+require 'mtg/cardset'
 
 describe Card do
 
@@ -10,6 +12,16 @@ describe Card do
 
   def app
     Sinatra::Application
+  end
+
+  it "should search" do
+    Cardset.insert( :name => 'test set' )
+    Card.insert(
+      :name => "Uwezima's Jitte",
+      :cardset_id => Cardset.first.id
+    )
+    get '/search', :q => 'Jitte'
+    last_response.body.should =~ /Jitte/
   end
 
   it "should do" do
