@@ -25,12 +25,11 @@ Vagrant::Config.run do |config|
   # an identifier, the second is the path on the guest to mount the
   # folder, and the third is the path on the host to the actual folder.
   config.vm.share_folder("v-data", "/home/vagrant/src", "..", :nfs => true)
-
+  config.vm.forward_port("web", 3000, 3000)
 
 #### Provision with Puppet #####
 
-  config.vm.provisioner = :puppet
-  config.puppet.options = ["--modulepath", "/tmp/vagrant-puppet/modules", "--verbose" ]
+  config.vm.provision :puppet, :module_path => "~/src/mtg/manifests/modules", :options => [ "--verbose" ]
 
 #### Provision with Chef #####
 # 
