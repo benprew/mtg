@@ -98,7 +98,7 @@ get '/search' do
     @cards = Dataset.new(
       [ :card_id, :name, :set_name, :price ],
       db[:cards].
-      select( :cards__name, :cardsets__name.as(:set_name), :price, :card_id).
+      select( :cards__name, :cardsets__name.as(:set_name), :price, :cards__id.as(:card_id)).
       inner_join( :cardsets, :id => :cardset_id).
       left_outer_join( :card_prices, :card_id => :cards__id ).
       where( :cards__name.ilike "%#{@q.split(/ /).join('%')}%" ).
