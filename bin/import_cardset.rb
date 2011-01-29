@@ -7,12 +7,21 @@ require 'optparse'
 require 'sinatra/base'
 include Sinatra::Delegator
 
-options = {}
+opts = OptionParser.new do |op|
+	op.banner = "Usage: import_cardset.rb [options]"
 
-OptionParser.new do |op|
-  op.on("-c cardset", "filename containing the cardset (text spoiler)") { |val| @cardset_file = val }
+
+  op.on("-c cardset", "--cardset CARDSET", "filename containing the cardset (text spoiler)") { |val| @cardset_file = val }
   op.on('-e env')    { |val| set :environment, val.to_sym }
-end.parse!
+end
+
+opts.parse!
+
+if !@cardset_file
+	puts "Missing option: CARDSET"
+	puts opts
+	exit
+end
 
 # have to require the db after setting the environment
 require 'mtg/sql_card'
@@ -37,7 +46,7 @@ open(@cardset_file) do |f|
     is_full_card = false
 
     if (prev_key == :rules_text && key != :set_rarity)
-      card[prev_key] += line
+      card[prev_key] += "\n" + line
       next
     end
 
@@ -78,7 +87,7 @@ open(@cardset_file) do |f|
         c = Card.find_or_create(:name => card[:cardname], :cardset_id => cs.id)
 
         c.update(
-          :type => card[:type],
+          :card_type => card[:type],
           :casting_cost => card[:cost],
           :rules_text => card[:rules_text],
           :pow_tgh => card[:pow_tgh],
