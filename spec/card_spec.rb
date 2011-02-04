@@ -19,7 +19,7 @@ describe Card do
   end
 
   it "has a path to an image" do
-    @new_card.picture.should == '/sets/test_set/25.jpeg'
+    @new_card.picture.should == '/sets/testset/testcard.jpg'
   end
 
   it "can get card details" do

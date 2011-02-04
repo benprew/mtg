@@ -7,6 +7,7 @@ class Card < Sequel::Model
   many_to_one :cardset
 
   def picture
-    '/sets/' + cardset.name.downcase.gsub(/\s/, '_') + '/' + collector_no.to_s + '.jpeg'
+    m = /[^a-z0-9]/;
+    '/sets/' + cardset.name.downcase.gsub(m, '') + '/' + name.downcase.gsub(m, '') + '.jpg'
   end
 end
