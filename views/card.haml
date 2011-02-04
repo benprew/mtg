@@ -39,8 +39,8 @@
     = @card.rules_text
 
 .grid_6
-  - if File.exists?(@card.picture)
-  %img{ :src => @card.picture }
+  - if File.exists?(settings.public + @card.picture)
+    %img{ :src => @card.picture }
 
 .clear &nbsp;
 .grid_12
