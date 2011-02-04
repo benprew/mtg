@@ -1,5 +1,6 @@
 import "mysql"
 import "mtg"
+import "postgres"
 
 Exec { path => "/usr/bin:/bin" }
 
@@ -12,6 +13,18 @@ package { "libmysqlclient-dev": ensure => installed }
 package { "libsqlite3-dev": ensure => installed }
 package { "libxml2-dev": ensure => installed }
 package { "libxslt1-dev": ensure => installed }
+package { "postgresql-8.4": ensure => installed }
+
+postgres::database { "mtg":
+  ensure => present,
+  name => 'mtg',
+  require => Package['postgresql-8.4'],
+}
+
+postgres::role { "mtg":
+  password => "*6F6FAA28F5A830A76C08AA0EDB4E4DF5B0A36C35",
+  ensure => present,
+}
 
 exec { "gem install bundler": }
 
