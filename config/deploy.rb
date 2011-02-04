@@ -19,7 +19,7 @@ set :app_name, 'mtg.rb'
 set :web, "apache"
 set :use_sudo, false
 
-set :shared_files, [ 'sets', 'config/database.yml' ] 
+set :shared_files, [ 'public/sets', 'config/database.yml' ]
 
 default_environment["PATH"] =
   "/bin:/usr/bin:/usr/local/ruby/bin/:/usr/local/bin:/usr/sbin:/var/lib/gems/1.8/bin/"
