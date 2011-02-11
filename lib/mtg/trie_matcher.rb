@@ -65,7 +65,6 @@ class TrieMatcher
   
       ct2 = ct2.find_prefix(" ")
     end
-    []
-    # return possible_matches.to_a[0..2]
+    possible_matches.to_a[0..2]
   end
 end

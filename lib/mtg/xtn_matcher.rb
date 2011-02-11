@@ -36,7 +36,7 @@ class XtnMatcher < Logger::Application
         match += 1
       else
         @log.debug "saving #{possible_matches.length} possible matches"
-        _save_possible_matches(item[:external_item_id], possible_matches)
+        # _save_possible_matches(item[:external_item_id], possible_matches)
         possible_match += 1
       end
 
