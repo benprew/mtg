@@ -1,6 +1,7 @@
 require 'logger'
 require 'mtg/trie_matcher'
 require 'mtg/sql_db'
+require 'mtg/sql_external_item'
 
 class XtnMatcher < Logger::Application
   include SqlDb
@@ -32,8 +33,12 @@ class XtnMatcher < Logger::Application
         no_match += 1
       elsif possible_matches.length == 1
         @log.debug "matching card: #{possible_matches[0]}"
-        _match_card(item, possible_matches[0])
-        match += 1
+        begin
+          _match_card(item, possible_matches[0])
+        rescue RuntimeError => e
+          @log.debug "Not matching card: " + e
+          match += 1
+        end
       else
         @log.debug "saving #{possible_matches.length} possible matches"
         # _save_possible_matches(item[:external_item_id], possible_matches)
@@ -49,8 +54,13 @@ class XtnMatcher < Logger::Application
   end
 
   def _match_card(item, card_id)
-    e = db[:external_items].filter(:external_item_id => item[:external_item_id])
-    e.update(:card_id => card_id, :cards_in_item => _cards_in_description(item[:description]))
+    item_cards = _cards_in_description(item[:description])
+    i = ExternalItem.first :external_item_id => item[:external_item_id]
+    c = Card.first :id => card_id
+    if c.price && c.price > 0 && (i.price / item_cards ) > (c.price * 4)
+      raise "auction is too expensive"
+    end
+    i.update :card_id => card_id, :cards_in_item => item_cards
   end
 
   def _cards_in_description(description)
