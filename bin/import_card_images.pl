@@ -10,16 +10,14 @@ my $cnt = 0;
 # 2. dump the cards for that set to a file
 # 3. Run this script with the card names as input
 
-chdir "/home/benprew/Downloads/MB" or die $!;
+while ( my $line = <> ) {
+    $line = lc $line;
+    $line =~ s/[^a-z0-9]//g;
 
-while( my $line = <> ) {
-	$line = lc $line;
-	$line =~ s/[^a-z0-9]//g;
+    my $file = $cnt == 0 ? "Image.ashx" : "Image($cnt).ashx";
 
-  my $file = "Image($cnt).jpeg";
+    rename $file, "$line.jpg" or die "$file: $!";
 
-	rename $file, "$line.jpg" or die "$file: $!";
-
-	$cnt++;
+    $cnt++;
 }
 
