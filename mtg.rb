@@ -287,12 +287,15 @@ helpers do
     else
       return db[sql].all
     end
-      
+  end
+
+  def simple_format(text)
+    text && text.gsub(/\n/, "<br/>")
   end
 
   def card_link_decorator(val, row)
   end
-p
+
   def set_link_decorator
     lambda { |val, row| %Q(<a href="/set/#{row[:set_name]}">#{val}</a>) }
   end

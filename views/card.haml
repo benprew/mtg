@@ -1,47 +1,44 @@
-.grid_12
+.grid_3
   %h3= @card.name
+.grid_9
+  %h3= sprintf("$%.2f", @card_price)
 .clear
 
-.grid_2
-  %strong Price
-  
-  %h2= sprintf("$%.2f", @card_price)
-
-.grid_5
-  = @card_prices.to_line_chart(:title => 'Price per day (rolling month)')
-
-.grid_5
-  = @card_xtns.to_line_chart(:title => 'Sales per day (rolling month)')
-
-.clear
-
-.grid_6
-  %p
-    %strong Name:
-    = @card.name
-  %p
-    %strong Set:
-    = @card.cardset.name
-  %p
-    %strong Casting Cost:
-    = @card.casting_cost
-  %p
-    %strong Power/Toughness:
-    = @card.pow_tgh
-  %p
-    %strong Type:
-    = @card[:card_type]
-  %p
-    %strong Rarity:
-    = @card.rarity
-  %p
-    %strong Rules Text:
-    = @card.rules_text
-
-.grid_6
+.grid_3
   - if File.exists?(settings.public + @card.picture)
     %img{ :src => @card.picture }
 
-.clear &nbsp;
+.grid_9
+  %table.card_info
+    %tbody
+      %tr
+        %td.header Name:
+        %td= @card.name
+      %tr
+        %td.header Set:
+        %td= @card.cardset.name
+      %tr
+        %td.header Casting Cost:
+        %td= @card.casting_cost
+      %tr
+        %td.header Power/Toughness:
+        %td= @card.pow_tgh
+      %tr
+        %td.header Type:
+        %td= @card[:card_type]
+      %tr
+        %td.header Rarity:
+        %td= @card.rarity
+      %tr
+        %td.header Rules Text:
+        %td= simple_format @card.rules_text
+.clear
+.grid_6
+  = @card_prices.to_line_chart(:title => 'Price per day (rolling month)')
+
+.grid_6
+  = @card_xtns.to_line_chart(:title => 'Sales per day (rolling month)')
+.clear
+
 .grid_12
   = @auctions_matched_to_card.to_table(:title => "Auctions associated with this card")
