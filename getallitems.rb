@@ -6,12 +6,10 @@ require 'rubygems'
 require 'rest_client'
 require 'uri'
 require 'json'
-require 'mtg/db'
-require 'mtg/external_item'
+require 'mtg/models/external_item'
 
 dev_id = 'f36af579-ed91-4c03-b429-0507fae12064'
 cert = 'efd1bf35-147f-4584-8922-b89a3e3c3673'
-
 
 def url_ify(gateway, params)
   url = gateway + params.inject('?') { |r, e| r + "#{e[0]}=#{URI.escape e[1].to_s}&" }
@@ -35,7 +33,7 @@ def item_details(external_item_id)
   return RestClient.get(url)
 end
 
-ExternalItem.all(:order => [:end_time.desc]).each do |e|
+ExternalItem.order(:end_time.desc).each do |e|
   next if File.exist?('items/' + e.external_item_id)
   File.new('items/' + e.external_item_id, 'w').puts(item_details(e.external_item_id))
 end

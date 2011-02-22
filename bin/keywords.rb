@@ -4,7 +4,7 @@ $:.unshift File.dirname(__FILE__) + '/../lib'
 
 require 'mtg'
 require 'mtg/keyword'
-require 'mtg/sql_card'
+require 'mtg/models/card'
 
 include Keyword
 

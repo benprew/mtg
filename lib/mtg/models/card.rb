@@ -1,8 +1,8 @@
 require 'rubygems'
 require 'sequel'
 require 'mtg/sql_db'
-require 'mtg/cardset'
-require 'mtg/card_price'
+require 'mtg/models/cardset'
+require 'mtg/models/card_price'
 
 class Card < Sequel::Model
   many_to_one :cardset

@@ -2,8 +2,6 @@ require 'spec_helper'
 require 'rack/test'
 require 'mtg'
 require 'mtg/sql_db'
-require 'mtg/sql_card'
-require 'mtg/cardset'
 
 describe Card do
 
@@ -29,9 +27,8 @@ describe Card do
       [ ] create foil cards for rise of eldrazi and scars of mirrodin
       [ ] fix rise from the grave auctions
 
-      [ ] should use Sequel for everything
-
-      [ ] store stddev on card_prices for more accurate matching
+      [ ] refactor ebay api interactions (make testable, etc)
+      [ ] edit pages for card, cardset and external_item
 
       [ ] create way to embded datasets possibly by just using div-id?  ie http://mtg.throwingbones.com/datasets/cards-by-price?cardset_id=123  Then the div named cards-by-price would call that dataset
       [ ] prices on dashboard should all be using card_prices

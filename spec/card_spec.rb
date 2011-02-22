@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'mtg/sql_card'
+require 'mtg/models/card'
 
 describe Card do
 

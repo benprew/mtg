@@ -1,7 +1,7 @@
 require 'logger'
 require 'mtg/trie_matcher'
 require 'mtg/sql_db'
-require 'mtg/sql_external_item'
+require 'mtg/models/external_item'
 
 class XtnMatcher < Logger::Application
   include SqlDb

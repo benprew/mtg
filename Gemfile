@@ -1,7 +1,5 @@
 source "http://rubygems.org"
 
-gem "data_mapper"
-gem "dm-mysql-adapter"
 gem "sinatra"
 gem "haml"
 gem "maruku"
@@ -14,6 +12,7 @@ gem "railsless-deploy"
 gem "capistrano-ext"
 gem "capistrano"
 gem "daemons"
+gem 'json'
 
 gem "rspec"
 

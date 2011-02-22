@@ -15,7 +15,7 @@ OptionParser.new do |op|
 end.parse!
 
 # have to require the db after setting the environment
-require 'mtg/sql_card'
+require 'mtg/models/card'
 
 File.new(@cardset_file).readlines.each do |line|
   next if line.match /^#/	

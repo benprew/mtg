@@ -1,8 +1,8 @@
 require 'spec_helper'
 require 'mtg'
 require 'mtg/xtn_matcher'
-require 'mtg/card_price'
-require 'mtg/sql_card'
+require 'mtg/models/card_price'
+require 'mtg/models/card'
 
 describe XtnMatcher do
   before(:each) do

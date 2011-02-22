@@ -1,7 +1,7 @@
 require 'trie'
 require 'set'
 require 'mtg/keyword'
-require 'mtg/sql_card'
+require 'mtg/models/card'
 
 class TrieMatcher
 

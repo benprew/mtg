@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'mtg'
 require 'mtg/trie_matcher'
-require 'mtg/sql_card'
+require 'mtg/models/card'
 
 describe TrieMatcher do
   it 'can build a trie' do

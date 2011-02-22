@@ -11,7 +11,8 @@
       for a complete list
 
 
-.grid_6
-  = @highest_volume_cards.to_table(:title => "Most Auctioned Cards")
-.grid_6
+.grid_12
   = @most_expensive_cards.to_table(:title => "Mirrodin Besieged")
+.clear
+.grid_12
+  = @highest_volume_cards.to_table(:title => "Most Auctioned Cards")

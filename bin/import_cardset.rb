@@ -24,8 +24,8 @@ if !@cardset_file
 end
 
 # have to require the db after setting the environment
-require 'mtg/sql_card'
-require 'mtg/cardset'
+require 'mtg/models/card'
+require 'mtg/models/cardset'
 
 cards_built = 0
 card = {}

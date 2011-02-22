@@ -7,9 +7,7 @@ require 'bundler/setup'
 require 'rest_client'
 require 'uri'
 require 'json'
-require 'dm-core'
-require 'mtg/db'
-require 'mtg/external_item'
+require 'mtg/models/external_item'
 
 app_id = 'BenPrew2f-def9-421f-87b8-55dc6a53837'
 ebay_api_version = 595
@@ -20,15 +18,14 @@ def url_ify(gateway, params)
   url.chop
 end
 
-@@current_time = JSON.parse(RestClient.get(url_ify( gateway,
+@@current_time = Time.parse(JSON.parse(RestClient.get(url_ify( gateway,
                         :appid => app_id,
                         :version => ebay_api_version,
                         :responseencoding => 'JSON',
-                        :callname => 'GeteBayTime' )))['Timestamp']
+                        :callname => 'GeteBayTime' )))['Timestamp'])
 
-@@current_time = Time.parse(@@current_time)
-
-items = ExternalItem.all(:end_time.lt => @@current_time - 24 * 60 * 60, :has_been_finalized => false)
+items = ExternalItem.filter('end_time < ?', @@current_time - 24 * 60 * 60).
+  filter(:has_been_finalized => false).all
 
 while (items.length > 0) do
   warn "getting 20 items " + items.length.to_s

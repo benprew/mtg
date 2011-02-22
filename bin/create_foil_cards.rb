@@ -3,11 +3,10 @@
 $:.unshift File.dirname(__FILE__) + '/../lib'
 
 require 'rubygems'
-require 'mtg/matcher'
-require 'mtg/sql_card'
-require 'mtg/db'
+require 'mtg/trie_matcher'
+require 'mtg/models/card'
 
-m = Matcher.new()
+m = TrieMatcher.new()
 
 File.new(ARGV[0]).readlines.each do |line|
   matches = m.match(line)
