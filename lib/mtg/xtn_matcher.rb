@@ -57,6 +57,8 @@ class XtnMatcher < Logger::Application
     item_cards = _cards_in_description(item[:description])
     i = ExternalItem.first :external_item_id => item[:external_item_id]
     c = Card.first :id => card_id
+    raise "No card" unless c
+    raise "No item" unless i
     if c.price && c.price > 0 && (i.price / item_cards ) > (c.price * 4)
       raise "auction is too expensive"
     end
