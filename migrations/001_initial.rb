@@ -30,7 +30,7 @@ class Initial < Sequel::Migration
     end
     
     create_table(:external_items, :ignore_index_errors=>true) do
-      String :external_item_id, :null=>false, :size=>50
+      String :external_item_id, :null=>false, :size=>50, :primary_key => true
       String :description, :size=>512
       DateTime :end_time
       Float :auction_price
@@ -41,8 +41,6 @@ class Initial < Sequel::Migration
       Float :price
       Integer :has_been_finalized, :default=>0
       Integer :has_match_been_attempted, :default=>0, :null=>false
-      
-      primary_key [:external_item_id]
       
       index [:external_item_id], :unique=>true, :name=>:unq_external_items__external_items_id
     end

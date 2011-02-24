@@ -5,14 +5,13 @@ require 'rack/test'
 describe ExternalItem do
 
   include Rack::Test::Methods
-  include SqlDb
 
   def app
     Sinatra::Application
   end
 
   it "can get an auction to match" do
-    db[:external_items].insert(
+    ExternalItem.create(
       :external_item_id => 1234,
       :price => 20,
       :last_updated => '20090101' )
@@ -23,7 +22,7 @@ describe ExternalItem do
   end
 
   it "can show an auction to match properly" do
-    db[:external_items].insert(
+    ExternalItem.create(
       :external_item_id => 1234,
       :price => 20,
       :last_updated => '20090101' )

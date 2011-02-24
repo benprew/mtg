@@ -1,12 +1,10 @@
 require 'spec_helper'
 require 'rack/test'
 require 'mtg'
-require 'mtg/sql_db'
 
 describe Cardset do
 
   include Rack::Test::Methods
-  include SqlDb
 
   def app
     Sinatra::Application
