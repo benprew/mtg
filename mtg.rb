@@ -3,9 +3,7 @@
 $:.unshift File.dirname(__FILE__) + '/lib'
 
 require 'rubygems'
-require 'bundler'
-Bundler.setup
-
+require 'bundler/setup'
 require 'sinatra'
 require 'mtg/dataset'
 require 'mtg/sql_db'
