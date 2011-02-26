@@ -14,7 +14,12 @@ gem "capistrano"
 gem "daemons"
 gem 'json'
 
+gem 'ruby-prof'
 gem "rspec"
+
+group :development do
+  gem 'shotgun'
+end
 
 group :test do
   gem "rack-test"
