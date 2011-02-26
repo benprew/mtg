@@ -10,7 +10,7 @@ timeout 30
 
 # Specify path to socket unicorn listens to, 
 # we will use this in our nginx.conf later
-listen "127.0.0.1:10000", :backlog => 2048
+listen "0.0.0.0:10000", :backlog => 2048
 
 # Set process id path
 pid "tmp/pids/unicorn.pid"
