@@ -39,7 +39,7 @@ while (items.length > 0) do
   )))
 
   data['Item'].each do |i|
-    e = ExternalItem.get(i['ItemID'])
+    e = ExternalItem.first(i['ItemID'])
     e.has_been_finalized = true
     e.last_updated = @@current_time
     
