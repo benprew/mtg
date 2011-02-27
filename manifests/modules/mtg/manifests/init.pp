@@ -3,6 +3,11 @@ file { "/etc/nginx/conf.d/sites.conf":
   ensure => file,
 }
 
+file { "/etc/init.d/mtg_app":
+  source => "puppet:///modules/mtg/mtg_app",
+  ensure => file,
+}
+
 package { "nginx": ensure => installed }
 
 service { "nginx":
