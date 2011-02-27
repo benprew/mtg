@@ -4,7 +4,7 @@
 
 @app_root = "/var/www/mtg/current/"
 
-user throwingbones
+user "throwingbones"
 worker_processes 2
 working_directory @app_root
 
