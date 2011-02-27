@@ -7,9 +7,6 @@ load    'config/deploy'
 
 after 'deploy:update', :link_shared_files
 
-after 'deploy', 'deploy:restart'
-
-
 task :link_shared_files do
   shared_files.each do |file|
     run "ln -fs #{shared_path}/#{file} #{release_path}/#{file}"
@@ -51,11 +48,11 @@ namespace :deploy do
   end
 
   task :restart, :roles => :app, :except => { :no_release => true } do
-    run "cd #{release_path} && kill -s USR2 `cat tmp/pids/unicorn.pid`"
+    run "/etc/init.d/#{application}_app restart"
   end
 
   task :start, :roles => :app, :except => { :no_release => true } do
-    run "cd #{release_path} && bundle exec unicorn -c config/unicorn.rb -D -E production config.ru"
+    run "/etc/init.d/#{application}_app start"
   end
 
   namespace :rollback do
