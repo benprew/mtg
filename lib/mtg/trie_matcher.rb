@@ -36,14 +36,14 @@ class TrieMatcher
     # There are a lot of "extended art" cards on ebay now, and they sell for a
     # lot more then the actual card, so we want to match them to "not a card"
     if description.match(/(extended|altered).*art/i)
-      return [-1]
+      return []
     end
 
     # FBB apparently means "Foreign/Black-bordered", so I skip them for
     # now, since they don't list very well and I don't want to try and
     # match them yet
     if description.match(/(fbb|foreign)/i)
-      return [-1]
+      return []
     end
  
     possible_matches = Set.new()

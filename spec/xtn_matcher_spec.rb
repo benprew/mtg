@@ -28,7 +28,7 @@ describe XtnMatcher do
       :external_item_id => '1',
       :last_updated => Time.now())
     @matchable_item = ExternalItem.first
-    @matcher._match_card(@matchable_item, @card.id)
+    @matcher._match_card(@matchable_item, @card)
 
     @matchable_item.reload.card_id.should == @card.id
     
@@ -45,6 +45,6 @@ describe XtnMatcher do
       :last_updated => Time.now())
     @unmatchable_item = ExternalItem.first
 
-    lambda { @matcher._match_card(@unmatchable_item, @priced_card.id) }.should raise_error RuntimeError
+    lambda { @matcher._match_card(@unmatchable_item, @priced_card) }.should raise_error RuntimeError
   end
 end
