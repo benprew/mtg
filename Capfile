@@ -48,11 +48,11 @@ namespace :deploy do
   end
 
   task :restart, :roles => :app, :except => { :no_release => true } do
-    run "/etc/init.d/#{application}_app restart"
+    sudo "/etc/init.d/#{application}_app restart"
   end
 
   task :start, :roles => :app, :except => { :no_release => true } do
-    run "/etc/init.d/#{application}_app start"
+    sudo "/etc/init.d/#{application}_app start"
   end
 
   namespace :rollback do

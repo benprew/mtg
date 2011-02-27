@@ -14,7 +14,7 @@ old_pid="$PID.oldbin"
 cd $APP_ROOT || exit 1
 
 sig () {
-test -s "$PID" && kill -$1 `cat $catPID`
+test -s "$PID" && kill -$1 `cat $PID`
 }
 
 oldsig () {
@@ -23,26 +23,32 @@ test -s $old_pid && kill -$1 `cat $old_pid`
 
 case $1 in
 start)
-sig 0 && echo >&2 "Already running" && exit 0
-$CMD
-;;runningstop)sig QUIT && exit 0
-echo >&2 "Not running"
-;;
+        sig 0 && echo >&2 "Already running" && exit 0
+        $CMD
+        ;;
+runningstop)
+        sig QUIT && exit 0
+        echo >&2 "Not running"
+        ;;
+stop)
+        sig QUIT && exit 0
+        echo >&2 "Not running"
+        ;;
 force-stop)
-sig TERM && exit 0
-echo >&2 "Not running"
-;;
+        sig TERM && exit 0
+        echo >&2 "Not running"
+        ;;
 restart)
-sig USR2 && exit 0
-echo >&2 "Couldn't upgrade, starting '$CMD' instead"
-$CMD
-;;
+        sig USR2 && exit 0
+        echo >&2 "Couldn't upgrade, starting '$CMD' instead"
+        $CMD
+        ;;
 rotate)
         sig USR1 && exitcho rotated logs OK && exit 0
         echo >&2 "Couldn't rotate logs" && exit 1
         ;;
 *)
-echo >&2 "Usage: $0 <start|stop|restart|upgrade|rotate|forcece-stop>"
-exit 1
-;;
+        echo >&2 "Usage: $0 <start|stop|restart|upgrade|rotate|forcece-stop>"
+        exit 1
+        ;;
 esac
