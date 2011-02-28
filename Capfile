@@ -30,7 +30,7 @@ namespace :deploy do
 
   desc "Setup a GitHub-style deployment."
   task :setup, :except => { :no_release => true } do
-    dirs = [deploy_to, shared_path]
+    dirs = [ deploy_to, shared_path, "#{shared_path}/tmp/pids", "#{shared_path}/tmp/sockets", "#{shared_path}/log" ]
     dirs += shared_children.map { |d| File.join(shared_path, d) }
     run "#{try_sudo} mkdir -p #{dirs.join(' ')} && #{try_sudo} chmod g+w #{dirs.join(' ')}"
     run "git clone #{repository} #{current_path}"
