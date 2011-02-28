@@ -40,7 +40,7 @@ while (items.length > 0) do
 
   data['Item'].each do |i|
     e = ExternalItem.first(i['ItemID'])
-    e.has_been_finalized = true
+    e.has_been_finalized = 1
     e.last_updated = @@current_time
     
     if i.has_key?('BidCount') && i['BidCount'] > 0
