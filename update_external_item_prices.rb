@@ -25,7 +25,7 @@ end
                         :callname => 'GeteBayTime' )))['Timestamp'])
 
 items = ExternalItem.filter('end_time < ?', @@current_time - 24 * 60 * 60).
-  filter(:has_been_finalized => false).all
+  filter(:has_been_finalized => 0).all
 
 while (items.length > 0) do
   warn "getting 20 items " + items.length.to_s
@@ -39,12 +39,12 @@ while (items.length > 0) do
   )))
 
   data['Item'].each do |i|
-    e = ExternalItem.first(i['ItemID'])
+    e = ExternalItem[i['ItemID']]
     e.has_been_finalized = 1
     e.last_updated = @@current_time
     
     if i.has_key?('BidCount') && i['BidCount'] > 0
-      warn "updating price for #{i['ItemID']}"
+      warn "updating price for #{i['ItemID']} #{i['ConvertedCurrentPrice']['Value']}"
       e.price = i['ConvertedCurrentPrice']['Value']
     end
 
