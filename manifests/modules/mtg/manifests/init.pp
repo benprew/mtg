@@ -8,6 +8,20 @@ file { "/etc/init.d/mtg_app":
   ensure => file,
 }
 
+file { "/etc/sudoers.d/throwingbones.sudo":
+  source => "puppet:///modules/mtg/throwingbones.sudo",
+  mode => 440,
+  owner   => root,
+  group   => root,
+  ensure => file,
+}
+
+exec { "update-rc.d mtg_app defaults":
+  require => File["/etc/init.d/mtg_app"]
+}
+
+# exec { "echo 'includedir /etc/sudoers.d' >> /etc/sudoers": }
+
 package { "nginx": ensure => installed }
 
 service { "nginx":

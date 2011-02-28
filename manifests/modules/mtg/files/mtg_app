@@ -7,7 +7,8 @@ set -e
 # Feel free to change any of the following variables for your app:
 APP_ROOT=/var/www/mtg/current/
 PID=$APP_ROOT/tmp/pids/unicorn.pid
-CMD='/usr/bin/bundle exec /usr/bin/unicorn -D -E production -c config/unicorn.rb'
+CMD='/usr/bin/bundle exec unicorn -D -E production -c config/unicorn.rb'
+PATH=$PATH:$APP_ROOT/vendor/bundle/ruby/1.8/bin/unicorn
 
 old_pid="$PID.oldbin"
 
