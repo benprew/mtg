@@ -24,9 +24,6 @@ describe Card do
 
   it "should do" do
     puts %Q{
-      [ ] create foil cards for rise of eldrazi and scars of mirrodin
-      [ ] fix rise from the grave auctions
-
       [ ] refactor ebay api interactions (make testable, etc)
       [ ] edit pages for card, cardset and external_item
 
