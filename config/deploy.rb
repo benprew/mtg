@@ -15,7 +15,7 @@ set :branch, 'origin/master'
 
 set :use_sudo, false
 
-set :shared_files, [ 'public/sets', 'config/database.yml', 'logs', 'tmp' ]
+set :shared_files, [ 'public/sets', 'config/database.yml', 'log', 'tmp' ]
 
 default_environment["PATH"] =
   "/bin:/usr/bin:/usr/local/ruby/bin/:/usr/local/bin:/usr/sbin:/var/lib/gems/1.8/bin/"
