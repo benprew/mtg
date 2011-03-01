@@ -19,9 +19,9 @@ include SqlDb
 configure :production do
   error do
     @error = request.env['sinatra.error']
-  
+
     warn @error
-  
+
     status 500
     haml "Internal Server Error"
   end
@@ -33,8 +33,7 @@ get '/style.css' do
 end
 
 get '/' do
-  @most_expensive_cards = most_expensive_cards('Mirrodin Besieged')
-  @most_expensive_alara_reborn_cards = most_expensive_cards('Alara Reborn')
+  @latest_block = mirrodin_block_cards()
   @highest_volume_cards = highest_volume_cards()
 
   haml :index
@@ -217,7 +216,7 @@ def auctions_matched_to_card(card)
   return d
 end
 
-def most_expensive_cards(set_name = false)
+def mirrodin_block_cards(set_name = false)
   cards = q(%Q{
     SELECT
       c.id as card_id,
@@ -226,11 +225,13 @@ def most_expensive_cards(set_name = false)
       price as price
     FROM
       card_prices INNER JOIN
-      cards c ON (c.id = card_prices.card_id) INNER JOIN 
+      cards c ON (c.id = card_prices.card_id) INNER JOIN
       cardsets on (c.cardset_id = cardsets.id)
-    #{ set_name ? " WHERE cardsets.name = ? " : "" }
+    WHERE
+      cardsets.name = 'Mirrodin Besieged'
+      OR cardsets.name = 'Scars of Mirrodin'
     ORDER BY price DESC
-    LIMIT 20  }, set_name ? [ set_name ] : [])
+    LIMIT 20  }, [] )
   d = Dataset.new([ :card_id, :name, :set_name, :price ], cards)
 
   d.add_decorator(
