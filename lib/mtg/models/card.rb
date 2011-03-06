@@ -10,7 +10,7 @@ class Card < Sequel::Model
 
   def picture
     m = /[^a-z0-9]/;
-    '/sets/' + cardset.name.downcase.gsub(m, '') + '/' + name.downcase.gsub(m, '') + '.jpg'
+    '/sets/' + cardset.name.downcase.gsub(m, '') + '/' + name.downcase.gsub('foil', '').gsub(m, '') + '.jpg'
   end
 
   def price
