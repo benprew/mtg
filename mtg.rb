@@ -209,7 +209,7 @@ def auctions_matched_to_card(card)
     filter(:price > 0).
     order(:end_time.desc)
   )
-      
+
   d.add_decorator(
     :external_item_id,
     lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting

@@ -16,4 +16,8 @@ module ImporterUtils
     'http://open.api.ebay.com/shopping'
   end
 
+  def finding_gateway
+    'http://svcs.ebay.com/services/search/FindingService/v1'
+  end
+
 end
