@@ -8,9 +8,11 @@ load    'config/deploy'
 after 'deploy:update', :link_shared_files
 
 task :link_shared_files do
-  shared_files.each do |file|
-    run "ln -fs #{shared_path}/#{file} #{release_path}/#{file}"
-  end
+
+  command = shared_files.map do |file|
+    "ln -fs #{shared_path}/#{file} #{release_path}/#{file}"
+  end.join " && "
+  run command
 end
 
 set(:latest_release)  { fetch(:current_path) }
