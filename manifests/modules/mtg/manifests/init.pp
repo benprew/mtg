@@ -8,8 +8,8 @@ file { "/etc/init.d/mtg_app":
   ensure => file,
 }
 
-file { "/etc/sudoers.d/throwingbones.sudo":
-  source => "puppet:///modules/mtg/throwingbones.sudo",
+file { "/etc/sudoers.d/mtg.sudo":
+  source => "puppet:///modules/mtg/mtg.sudo",
   mode => 440,
   owner   => root,
   group   => root,
