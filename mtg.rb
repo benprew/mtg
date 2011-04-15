@@ -205,8 +205,8 @@ def auctions_matched_to_card(card)
     db[:external_items].
     select(:description, :price, :cards_in_item, :external_item_id, :end_time.as(:date)).
     filter(:card_id => card.id).
-    filter(:end_time >= Date.today << 1).
-    filter(:price > 0).
+    filter('end_time >= ?', Date.today << 1).
+    filter('price > 0').
     order(:end_time.desc)
   )
 

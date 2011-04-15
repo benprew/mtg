@@ -41,7 +41,7 @@ class XtnSummarizer < Logger::Application
       [:card_id, :price], 
       db[:xtns_by_card_day].
         select(:card_id, :SUM.sql_function(:price) / :SUM.sql_function(:xtns)).
-        filter( :date >= Date.today << 1 ).
+        filter('date >= ?', Date.today << 1 ).
         group_by(:card_id))
   end
 
