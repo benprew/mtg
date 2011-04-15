@@ -23,6 +23,7 @@ class EbayAuctionImporter < Logger::Application
     set_log("/tmp/#{File.basename $0}.log", 10, 2048000)
     @current_page = 0
     @items = []
+    @categories_to_check = %W{ 19107 49181 38292 158754 158755 158756 158757 158758 158759 158760 19115 }
 
     # from http://pages.ebay.com/categorychanges/toys.html
     # mtg_singles_cat_id = 38292
@@ -31,7 +32,6 @@ class EbayAuctionImporter < Logger::Application
       'OPERATION-NAME' => 'findItemsAdvanced',
       'SERVICE-VERSION' => '1.9.0',
       'RESPONSE-DATA-FORMAT' => 'JSON',
-      :categoryId => 38292,
       :MaxEntries => 100,
       :sortOrder => 'StartTimeNewest'
     }
@@ -49,11 +49,14 @@ class EbayAuctionImporter < Logger::Application
     @log.info "Current Time: " + @current_time
     total_items_created = 0
     total_items = 0
-    begin
-      item = next_item
-      total_items_created += 1 if import_item(item)
-      total_items += 1
-    end while has_more_items?
+    while @categories_to_check.length > 0 do
+      @items_params[:categoryId] = @categories_to_check.shift
+      begin
+        item = next_item
+        total_items_created += 1 if import_item(item)
+        total_items += 1
+      end while has_more_items?
+    end
 
     @log.info "Total Items: #{total_items} (created #{total_items_created} new items)"
   end
