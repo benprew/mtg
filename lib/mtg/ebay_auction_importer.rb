@@ -51,6 +51,8 @@ class EbayAuctionImporter < Logger::Application
     total_items = 0
     while @categories_to_check.length > 0 do
       @items_params[:categoryId] = @categories_to_check.shift
+      @total_pages = nil
+      @current_page = 0
       begin
         item = next_item
         total_items_created += 1 if import_item(item)
