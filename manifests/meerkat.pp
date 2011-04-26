@@ -14,6 +14,7 @@ package { "libsqlite3-dev": ensure => installed }
 package { "libxml2-dev": ensure => installed }
 package { "libxslt1-dev": ensure => installed }
 package { "postgresql-8.4": ensure => installed, require => Exec["apt-update"] }
+package { "rake": ensure => installed }
 
 postgres::database { "mtg":
   ensure => present,
@@ -30,7 +31,6 @@ exec { "apt-update":
         command     => "/usr/bin/apt-get update",
         refreshonly => true;
 }
-
 
 exec { "gem install bundler": }
 
