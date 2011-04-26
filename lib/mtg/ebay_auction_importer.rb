@@ -4,6 +4,7 @@ require 'mtg/models/external_item'
 require 'rest_client'
 require 'uri'
 require 'json'
+require 'pp'
 
 
 class String
@@ -14,31 +15,32 @@ end
 
 class EbayAuctionImporter < Logger::Application
 
+  MAX_PAGES = 100;
+
   include ImporterUtils
 
   attr_accessor :current_time
 
-  def initialize
+  def initialize(options = OpenStruct.new)
     super(self.class)
     set_log("/tmp/#{File.basename $0}.log", 10, 2048000)
     @current_page = 0
     @items = []
-    @categories_to_check = %W{ 19107 49181 38292 158754 158755 158756 158757 158758 158759 158760 19115 }
+    @categories_to_check = options.categories || []
+    @output_file = options.outputfile
+    @log.level = options.debug ? Logger::DEBUG : Logger::INFO;
 
-    # from http://pages.ebay.com/categorychanges/toys.html
-    # mtg_singles_cat_id = 38292
     @items_params = {
       'SECURITY-APPNAME' => app_id,
       'OPERATION-NAME' => 'findItemsAdvanced',
       'SERVICE-VERSION' => '1.9.0',
       'RESPONSE-DATA-FORMAT' => 'JSON',
-      :MaxEntries => 100,
+      'paginationInput.entriesPerPage' => 100,
       :sortOrder => 'StartTimeNewest'
     }
   end
 
   def run
-    @log.level = Logger::INFO
 
     @current_time = JSON.parse(RestClient.get(url_ify( gateway,
           :appid => app_id,
@@ -87,13 +89,13 @@ class EbayAuctionImporter < Logger::Application
 
   def has_more_items?
     @total_pages ||= total_pages_from_query(@items_params)
-    @current_page < @total_pages
+    @items.length > 0 || @current_page < [ MAX_PAGES, @total_pages ].min
   end
 
   def next_item
     if @items.length == 0
       @current_page += 1
-      @items_params[:PageNumber] = @current_page
+      @items_params['paginationInput.pageNumber'] = @current_page
       @items += items_from_query(@items_params)
     end
     @items.shift
@@ -101,6 +103,9 @@ class EbayAuctionImporter < Logger::Application
 
   def items_from_query(params)
     result = parsed_result(url_ify(finding_gateway, params))
+    if @output_file
+      File.open(@output_file, 'a') { |f| f << result.pretty_inspect }
+    end
     result['findItemsAdvancedResponse'][0]['searchResult'][0]['item']
   end
 
@@ -110,7 +115,15 @@ class EbayAuctionImporter < Logger::Application
   end
 
   def parsed_result(url)
-    JSON.parse(RestClient.get(url).to_s)
+    @log.debug(url)
+    result = ''
+    begin
+      result = RestClient.get(url).to_s
+    rescue RestClient::BadRequest
+      @log.fatal("Error processing request: #{url}")
+      raise
+    end
+    JSON.parse(result)
   end
 
 end
