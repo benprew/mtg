@@ -1,7 +1,22 @@
-require 'trie'
 require 'set'
 require 'mtg/keyword'
 require 'mtg/models/card'
+
+class Hash
+  def insert_as_trie(string, id)
+    words = string.split(/\s+/)
+    Hash.add_trie_entries(self, words, id)
+  end
+
+  protected
+  def self.add_trie_entries(hsh, words, id)
+    return { :id => id } if words.length == 0
+
+    hsh[words[0]] ||= { :ids => []}
+    hsh[words[0]][:ids].push(id)
+    hsh[words[0]].merge(add_trie_entries(hsh[words[0]], words[1..-1], id))
+  end
+end
 
 class TrieMatcher
 
@@ -14,7 +29,7 @@ class TrieMatcher
 
   def _build_cards_trie()
     @valid_keywords = {}
-    @cards_trie = Trie.new
+    @cards_trie = {}
     Card.all do |card|
       name_keywords = keywords_from_string(card[:name])
       set_keywords = keywords_from_string(card.cardset.name)
@@ -22,11 +37,11 @@ class TrieMatcher
   
       all_keywords.each { |k| @valid_keywords[k] = 1 }
   
-      @cards_trie.insert((name_keywords + set_keywords).join(" "), card[:id])
-      @cards_trie.insert((set_keywords + name_keywords).join(" "), card[:id])
+      @cards_trie.insert_as_trie((name_keywords + set_keywords).join(" "), card[:id])
+      @cards_trie.insert_as_trie((set_keywords + name_keywords).join(" "), card[:id])
       if name_keywords[0] == 'foil'
         name_keywords.shift
-        @cards_trie.insert( (['foil'] + set_keywords + name_keywords).join(" "), card[:id])
+        @cards_trie.insert_as_trie( (['foil'] + set_keywords + name_keywords).join(" "), card[:id])
       end
     end
   end
@@ -42,7 +57,7 @@ class TrieMatcher
     # FBB apparently means "Foreign/Black-bordered", so I skip them for
     # now, since they don't list very well and I don't want to try and
     # match them yet
-    if description.match(/(fbb|foreign)/i)
+    if description.match(/(fbb|foreign|japanese)/i)
       return []
     end
  
@@ -51,19 +66,18 @@ class TrieMatcher
     keywords = keywords_from_string(description).select { |i| @valid_keywords[i] }
     keywords.each do |keyword|
       prev_matches = ct2
-      ct2 = ct2.find_prefix(keyword)
+      ct2 = ct2[keyword]
   
-      if ct2.size == 1
-        card_id = ''
-        ct2.each_value { |v| card_id = v }
-        possible_matches << card_id
+      if !ct2
+        possible_matches = prev_matches[:ids]
         break
-      elsif ct2.size == 0
-        prev_matches.each_value { |v| possible_matches << v }
+      elsif ct2[:ids].length == 1
+        card_id = ''
+        possible_matches = ct2[:ids]
         break
       end
+
   
-      ct2 = ct2.find_prefix(" ")
     end
     possible_matches.to_a[0..2]
   end
