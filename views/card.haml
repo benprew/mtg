@@ -42,4 +42,4 @@
 .clear
 
 .grid_12
-  = @auctions_matched_to_card.to_table(:title => "Auctions associated with this card")
+  = to_js_table @auctions_matched_to_card, :title => "Auctions associated with this card"

@@ -1,3 +1,14 @@
-.report
-  .ds_header= @dataset_title
-  = @dataset.to_table
+= @dataset.to_table(@options)
+%noscript
+  %table
+    %thead
+      %tr
+        - @dataset.header.each do |h|
+          %th
+            = h[:title]
+    %tbody
+      - @dataset.rows.each do |row|
+        %tr
+          - row.each_value do |field|
+            %td
+              = field

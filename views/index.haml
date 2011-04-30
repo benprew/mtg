@@ -11,7 +11,7 @@
 
 
 .grid_12
-  = @latest_block.to_table(:title => "Scars of Mirrodin Block")
+  = to_js_table @latest_block, :title => 'Scars Block'
 .clear
 .grid_12
-  = @highest_volume_cards.to_table(:title => "Most Auctioned Cards")
+  = to_js_table @highest_volume_cards, :title => 'Most Auctioned Cards'

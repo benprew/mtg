@@ -288,6 +288,12 @@ helpers do
     end
   end
 
+  def to_js_table(dataset, options={})
+    @dataset = dataset
+    @options = options
+    haml :dataset, :layout => false
+  end
+
   def simple_format(text)
     text && text.gsub(/\n/, "<br/>")
   end

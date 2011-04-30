@@ -5,10 +5,12 @@
     %meta{ :name => 'description', :content => @description }
     %meta{ "http-equiv" => "Content-Type", :content => "text/html; charset=utf-8" }
     %link{ :rel => "stylesheet", :href => "/style.css", :type => "text/css" }
-    %script{ :type=>"text/javascript", :src=>"http://www.google.com/jsapi" }
+    %link{ :rel => "stylesheet", :href => "/grid.css", :type => "text/css" }
+    %script{ :type=>"text/javascript", :src=>"http://www.google.com/jsapi?key=ABQIAAAA4u0uHzGoNpekjbUPMq04CxTeCfcHUXiWdKuX84-GuE3H8i3CKRTQkzl56AMPpwKltJjqbJh1PFWqrg" }
     %script{ :type=>"text/javascript" }
       google.load('visualization', '1', {packages: ['table', 'linechart']});
-    %link{ :rel => "stylesheet", :href => "/grid.css", :type => "text/css" }
+      google.load("jquery", "1.5.2");
+      google.load("jqueryui", "1.8.12");
   %body
     .header
       %div{ :style => 'float: right' }
