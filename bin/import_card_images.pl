@@ -9,6 +9,7 @@ my $cnt = 0;
 # 1. Download visual spoiler, sorted by card name
 # 2. dump the cards for that set to a file
 # 3. Run this script with the card names as input
+# 4. Copy the directory (ex. newphyrexia) to public/sets
 
 while ( my $line = <> ) {
     $line = lc $line;
