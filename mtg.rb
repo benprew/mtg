@@ -221,6 +221,7 @@ def mirrodin_block_cards(set_name = false)
     WHERE
       cardsets.name = 'Mirrodin Besieged'
       OR cardsets.name = 'Scars of Mirrodin'
+      OR cardsets.name = 'New Phyrexia'
     ORDER BY price DESC
     LIMIT 20  }, [] )
   d = Dataset.new([ :card_id, :name, :set_name, :price ], cards)
