@@ -145,24 +145,17 @@ end
 
 get '/set' do
   @sets = Dataset.new(
-    [ :set_name, :cards_in_set, :avg_rare_price, :rare_volume, :avg_uncommon_price, :uncommon_volume ],
+    [ :set_name, :cards_in_set, :release_date, :avg_rare_price, :avg_uncommon_price ],
     q(%Q(
       SELECT
         cardsets.name as set_name,
-        count(card_id) as cards_in_set,
-        sum(case when rarity = 'Rare' then price else 0 end) / 
-        sum(case when rarity = 'Rare' then xtns else 0 end) as avg_rare_price,
-        sum(case when rarity = 'Rare' then xtns else 0 end) as rare_volume,
-
-        sum(case when rarity = 'Uncommon' then price else 0 end) / 
-        sum(case when rarity = 'Uncommon' then xtns else 0 end) as avg_uncommon_price,
-        sum(case when rarity = 'Uncommon' then xtns else 0 end) as uncommon_volume
-
+        count(cards.id) as cards_in_set,
+        release_date,
+        avg(case when rarity = 'Rare' then price else 0 end) as avg_rare_price,
+        avg(case when rarity = 'Uncommon' then price else 0 end) as avg_uncommon_price
       FROM
         cards INNER JOIN cardsets on (cardsets.id = cards.cardset_id) LEFT OUTER JOIN
-        xtns_by_card_day ON (cards.id = xtns_by_card_day.card_id)
-      WHERE
-        date >= date_sub(curdate(), interval 16 day)
+        card_prices ON (cards.id = card_prices.card_id)
       GROUP BY cardsets.name
       ORDER BY 3 desc)
     )
@@ -178,14 +171,12 @@ get '/set/:set_name' do
   @sets = Dataset.new(
     [ :card_id, :name, :set_name, :price ],
     q(%Q(
-      SELECT card_id, cards.name, cardsets.name as set_name, sum(price)/sum(xtns) as price
+      SELECT cards.id as card_id, cards.name, cardsets.name as set_name, price
       FROM
         cards INNER JOIN cardsets on (cardsets.id = cards.cardset_id) LEFT OUTER JOIN
-        xtns_by_card_day ON cards.id = xtns_by_card_day.card_id
+        card_prices ON cards.id = card_prices.card_id
       WHERE
         cardsets.name = ?
-        AND date >= date_sub(curdate(), interval 16 day)
-      GROUP BY cards.name
       ORDER BY price desc), [ params[:set_name] ])
     )
 
