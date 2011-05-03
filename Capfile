@@ -10,7 +10,8 @@ after 'deploy:update', :link_shared_files
 task :link_shared_files do
 
   command = shared_files.map do |file|
-    "ln -fs #{shared_path}/#{file} #{release_path}/#{file}"
+    "rm -f #{release_path}/#{file} && \
+    ln -s #{shared_path}/#{file} #{release_path}/#{file}"
   end.join " && "
   run command
 end
