@@ -99,13 +99,10 @@ get '/search' do
       inner_join( :cardsets, :id => :cardset_id).
       left_outer_join( :card_prices, :card_id => :cards__id ).
       where( :cards__name.ilike "%#{@q.split(/ /).join('%')}%" ).
-      group( :card_id ).all
+      group( :cards__id ).all
     )
 
-    @cards.add_decorator(
-      :name,
-      lambda { |val, row| %Q(<a href="/card/#{row[:card_id]}">#{val}</a>) }
-    )
+    @cards.add_decorator( :name, card_link_decorator )
   end
     
   haml :search
@@ -290,7 +287,8 @@ helpers do
     text && text.gsub(/\n/, "<br/>")
   end
 
-  def card_link_decorator(val, row)
+  def card_link_decorator
+    lambda { |val, row| %Q(<a href="/card/#{row[:card_id]}">#{val}</a>) }
   end
 
   def set_link_decorator
