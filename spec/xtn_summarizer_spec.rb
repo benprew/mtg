@@ -44,6 +44,7 @@ describe XtnSummarizer do
     
     db[:xtns].count.should == 2
     db[:card_prices].count.should == 1
+    db[:card_prices].first[:volume].should == 1
     db[:card_prices].first[:price].should == 5.0
   end
 end

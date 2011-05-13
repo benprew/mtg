@@ -37,12 +37,14 @@ class XtnSummarizer < Logger::Application
     db << "DELETE FROM card_prices"
 
     @log.info "Inserting into card_prices"
-    db[:card_prices].insert(
-      [:card_id, :price], 
-      db[:xtns_by_card_day].
-        select(:card_id, :SUM.sql_function(:price) / :SUM.sql_function(:xtns)).
-        filter('date >= ?', Date.today << 1 ).
-        group_by(:card_id))
+    db << %Q{
+      INSERT INTO card_prices
+        SELECT card_id, sum(price) / sum(xtns), sum(xtns)
+        FROM xtns_by_card_day
+        WHERE date > '#{ Date.today << 1 }'
+        GROUP BY card_id
+    }
+    true
   end
 
 end
