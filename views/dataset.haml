@@ -1,6 +1,6 @@
-= @dataset.to_table(@options)
-%noscript
-  %table
+.report
+  .ds_header= @options[:title]
+  %table.dataset
     %thead
       %tr
         - @dataset.header.each do |h|

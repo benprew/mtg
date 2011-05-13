@@ -238,23 +238,18 @@ def highest_volume_cards
   cards = q(%Q{
     SELECT
       c.id as card_id,
-      max(c.name) as name,
-      max(cardsets.name) as set_name,
-      max(price/xtns) as max,
-      min(price/xtns) as min,
-      sum(price) / sum(xtns) as avg,
-      ifnull(sum(xtns), 0) as volume
+      c.name as name,
+      cardsets.name as set_name,
+      x.price,
+      x.volume
     FROM
-      xtns_by_card_day x INNER JOIN
+      card_prices x INNER JOIN
       cards c ON (c.id = x.card_id)
       INNER JOIN cardsets on (cardsets.id = c.cardset_id)
-    WHERE
-      date >= date_sub(curdate(), interval 16 day)
-    GROUP BY c.id
-    ORDER BY sum(xtns) DESC
+    ORDER BY x.volume DESC
     LIMIT 20 })
 
-  d = Dataset.new([ :card_id, :name, :set_name, :max, :min, :avg, :volume ], cards)
+  d = Dataset.new([ :card_id, :name, :set_name, :price, :volume ], cards)
   d.add_decorator(
     :name,
     lambda { |val, row| %Q(<a href="/card/#{row[:card_id]}">#{val}</a>) })
