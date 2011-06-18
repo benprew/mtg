@@ -1,0 +1,170 @@
+Act of Aggression|New Phyrexia
+Alloy Myr|New Phyrexia
+Apostle's Blessing|New Phyrexia
+Argent Mutation|New Phyrexia
+Arm with Aether|New Phyrexia
+Artillerize|New Phyrexia
+Auriok Survivors|New Phyrexia
+Batterskull|New Phyrexia
+Beast Within|New Phyrexia
+Birthing Pod|New Phyrexia
+Blade Splicer|New Phyrexia
+Blighted Agent|New Phyrexia
+Blinding Souleater|New Phyrexia
+Blind Zealot|New Phyrexia
+Bludgeon Brawl|New Phyrexia
+Brutalizer Exarch|New Phyrexia
+Caged Sun|New Phyrexia
+Caress of Phyrexia|New Phyrexia
+Cathedral Membrane|New Phyrexia
+Chained Throatseeker|New Phyrexia
+Chancellor of the Annex|New Phyrexia
+Chancellor of the Dross|New Phyrexia
+Chancellor of the Forge|New Phyrexia
+Chancellor of the Spires|New Phyrexia
+Chancellor of the Tangle|New Phyrexia
+Conversion Chamber|New Phyrexia
+Corrosive Gale|New Phyrexia
+Corrupted Resolve|New Phyrexia
+Darksteel Relic|New Phyrexia
+Death-Hood Cobra|New Phyrexia
+Deceiver Exarch|New Phyrexia
+Defensive Stance|New Phyrexia
+Dementia Bat|New Phyrexia
+Despise|New Phyrexia
+Dismember|New Phyrexia
+Dispatch|New Phyrexia
+Due Respect|New Phyrexia
+Elesh Norn, Grand Cenobite|New Phyrexia
+Enslave|New Phyrexia
+Entomber Exarch|New Phyrexia
+Etched Monstrosity|New Phyrexia
+Evil Presence|New Phyrexia
+Exclusion Ritual|New Phyrexia
+Fallen Ferromancer|New Phyrexia
+Flameborn Viron|New Phyrexia
+Forced Worship|New Phyrexia
+Forest|New Phyrexia
+Fresh Meat|New Phyrexia
+Furnace Scamp|New Phyrexia
+Geosurge|New Phyrexia
+Geth's Verdict|New Phyrexia
+Gitaxian Probe|New Phyrexia
+Glissa's Scorn|New Phyrexia
+Glistener Elf|New Phyrexia
+Glistening Oil|New Phyrexia
+Greenhilt Trainee|New Phyrexia
+Gremlin Mine|New Phyrexia
+Grim Affliction|New Phyrexia
+Gut Shot|New Phyrexia
+Hex Parasite|New Phyrexia
+Hovermyr|New Phyrexia
+Ichor Explosion|New Phyrexia
+Immolating Souleater|New Phyrexia
+Impaler Shrike|New Phyrexia
+Inquisitor Exarch|New Phyrexia
+Insatiable Souleater|New Phyrexia
+Invader Parasite|New Phyrexia
+Island|New Phyrexia
+Isolation Cell|New Phyrexia
+Jin-Gitaxias, Core Augur|New Phyrexia
+Jor Kadeen, the Prevailer|New Phyrexia
+Karn Liberated|New Phyrexia
+Kiln Walker|New Phyrexia
+Lashwrithe|New Phyrexia
+Leeching Bite|New Phyrexia
+Life's Finale|New Phyrexia
+Lost Leonin|New Phyrexia
+Loxodon Convert|New Phyrexia
+Marrow Shards|New Phyrexia
+Master Splicer|New Phyrexia
+Maul Splicer|New Phyrexia
+Melira, Sylvok Outcast|New Phyrexia
+Mental Misstep|New Phyrexia
+Mindcrank|New Phyrexia
+Mindculling|New Phyrexia
+Moltensteel Dragon|New Phyrexia
+Mortis Dogs|New Phyrexia
+Mountain|New Phyrexia
+Mutagenic Growth|New Phyrexia
+Mycosynth Fiend|New Phyrexia
+Mycosynth Wellspring|New Phyrexia
+Myr Superion|New Phyrexia
+Necropouncer|New Phyrexia
+Norn's Annex|New Phyrexia
+Noxious Revival|New Phyrexia
+Numbing Dose|New Phyrexia
+Ogre Menial|New Phyrexia
+Omen Machine|New Phyrexia
+Parasitic Implant|New Phyrexia
+Pestilent Souleater|New Phyrexia
+Phyrexian Hulk|New Phyrexia
+Phyrexian Ingester|New Phyrexia
+Phyrexian Metamorph|New Phyrexia
+Phyrexian Obliterator|New Phyrexia
+Phyrexian Swarmlord|New Phyrexia
+Phyrexian Unlife|New Phyrexia
+Phyrexia's Core|New Phyrexia
+Pith Driller|New Phyrexia
+Plains|New Phyrexia
+Porcelain Legionnaire|New Phyrexia
+Postmortem Lunge|New Phyrexia
+Praetor's Grasp|New Phyrexia
+Priest of Urabrask|New Phyrexia
+Pristine Talisman|New Phyrexia
+Psychic Barrier|New Phyrexia
+Psychic Surgery|New Phyrexia
+Puresteel Paladin|New Phyrexia
+Rage Extractor|New Phyrexia
+Razor Swine|New Phyrexia
+Reaper of Sheoldred|New Phyrexia
+Remember the Fallen|New Phyrexia
+Rotted Hystrix|New Phyrexia
+Ruthless Invasion|New Phyrexia
+Scrapyard Salvo|New Phyrexia
+Sensor Splicer|New Phyrexia
+Shattered Angel|New Phyrexia
+Sheoldred, Whispering One|New Phyrexia
+Shriek Raptor|New Phyrexia
+Shrine of Boundless Growth|New Phyrexia
+Shrine of Burning Rage|New Phyrexia
+Shrine of Limitless Power|New Phyrexia
+Shrine of Loyal Legions|New Phyrexia
+Shrine of Piercing Vision|New Phyrexia
+Sickleslicer|New Phyrexia
+Slag Fiend|New Phyrexia
+Slash Panther|New Phyrexia
+Soul Conduit|New Phyrexia
+Spellskite|New Phyrexia
+Spinebiter|New Phyrexia
+Spined Thopter|New Phyrexia
+Spire Monitor|New Phyrexia
+Surge Node|New Phyrexia
+Surgical Extraction|New Phyrexia
+Suture Priest|New Phyrexia
+Swamp|New Phyrexia
+Sword of War and Peace|New Phyrexia
+Tezzeret's Gambit|New Phyrexia
+Thundering Tanadon|New Phyrexia
+Tormentor Exarch|New Phyrexia
+Torpor Orb|New Phyrexia
+Toxic Nim|New Phyrexia
+Trespassing Souleater|New Phyrexia
+Triumph of the Hordes|New Phyrexia
+Unwinding Clock|New Phyrexia
+Urabrask, the Hidden|New Phyrexia
+Vapor Snag|New Phyrexia
+Vault Skirge|New Phyrexia
+Victorious Destruction|New Phyrexia
+Viral Drake|New Phyrexia
+Viridian Betrayers|New Phyrexia
+Viridian Harvest|New Phyrexia
+Vital Splicer|New Phyrexia
+Volt Charge|New Phyrexia
+Vorinclex, Voice of Hunger|New Phyrexia
+Vulshok Refugee|New Phyrexia
+War Report|New Phyrexia
+Whipflare|New Phyrexia
+Whispering Specter|New Phyrexia
+Wing Splicer|New Phyrexia
+Xenograft|New Phyrexia
