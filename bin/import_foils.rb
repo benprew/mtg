@@ -5,6 +5,10 @@ $:.unshift File.dirname(__FILE__) + '/../lib'
 require 'rubygems'
 require 'mtg'
 
+# Note: Usually get checklist from http://www.abugames.com/set240/
+# format should be card_name|set_name ex
+# Library of Alexandria|Arabian Nights
+
 File.open(ARGV[0]).each do |line|
   next if line.match /^#/
   (card_name, set_name) = line.split(/\|/)
