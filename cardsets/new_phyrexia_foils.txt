@@ -152,7 +152,7 @@ Toxic Nim|New Phyrexia
 Trespassing Souleater|New Phyrexia
 Triumph of the Hordes|New Phyrexia
 Unwinding Clock|New Phyrexia
-Urabrask, the Hidden|New Phyrexia
+Urabrask the Hidden|New Phyrexia
 Vapor Snag|New Phyrexia
 Vault Skirge|New Phyrexia
 Victorious Destruction|New Phyrexia
