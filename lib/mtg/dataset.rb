@@ -5,7 +5,7 @@ require 'json'
 
 class Dataset
 
-  attr_accessor :rows, :header
+  attr_accessor :header
 
   def initialize(header, rows)
     @decorators = {}
@@ -14,9 +14,13 @@ class Dataset
     _rebuild_dataset(header, rows)
   end
 
+  def rows
+    @rows_decorated
+  end
+
   def _rebuild_dataset(header, rows)
     @header = []
-    @rows = []
+    @rows_undecorated = []
 
     header.each { |h| @header << Headers.find(h) }
 
@@ -26,15 +30,20 @@ class Dataset
         value = _is_object_row?(h, row) ? _build_object_row(h, row) : _build_struct_row(h, row)
         myrow << [ h[:name], value ]
       end
-      @rows << myrow
+      @rows_undecorated << myrow
     end
+    @rows_decorated = @rows_undecorated
   end
 
   def _decorate_dataset
-    @rows.each do |row|
-      @decorators.each do |header, func_list|
-        row[header] = func_list.inject(row[header]) { |r, f| f.call(r, row) }
+    @rows_decorated = []
+    @rows_undecorated.each do |row|
+      decorated_row = {}
+      decorated_row.replace(row)
+      @decorators.each do |field, func_list|
+        decorated_row[field] = func_list.inject(row[field]) { |r, f| f.call(r, row) }
       end
+      @rows_decorated << decorated_row
     end
   end
 
@@ -100,7 +109,7 @@ class Dataset
       { :label => h[:title], :name => h[:name], :type => h[:type] }
     end
 
-    @rows.each do |row|
+    @rows_decorated.each do |row|
       row2 = @header.map { |col| { :v => row[col[:name].to_sym] } }
       json_format[:rows] << { :c => row2 }
     end

@@ -9,6 +9,6 @@
     %tbody
       - @dataset.rows.each do |row|
         %tr
-          - row.each_value do |field|
+          - @dataset.header.each do |h|
             %td
-              = field
+              = row[h[:name]]

@@ -199,8 +199,20 @@ def auctions_matched_to_card(card)
   )
 
   d.add_decorator(
+    :description,
+                  lambda { |val, row| %Q( <a target="blank" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">#{row[:description]}</a> ) } )
+
+  d.add_decorator(
     :external_item_id,
-    lambda { |val, row| %Q( <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">auction</a> <a href="/match_auction/#{row[:external_item_id]}">re-match</a> ) }) # "<-- for emacs highlighting
+    lambda do |val, row| 
+      %Q( <form action="/match_auction" method="post">
+            <input type="hidden" name="external_item_id" value="#{row[:external_item_id]}" />
+            <input type="hidden" name="card_id" value="-1" />
+            <input type="hidden" name="cards_in_item" value="0" />
+            <input type="submit" value="Exclude" />
+          </form> )
+  end )
+
   return d
 end
 
