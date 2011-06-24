@@ -18,7 +18,7 @@ describe ExternalItem do
 
     get '/match_auction'
 
-    last_response.headers["Location"].should == '/match_auction/1234'
+    last_response.headers["Location"].should == 'http://example.org/match_auction/1234'
   end
 
   it "can show an auction to match properly" do

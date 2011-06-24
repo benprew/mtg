@@ -13,6 +13,7 @@ gem "capistrano"
 gem "daemons"
 gem 'json'
 gem "unicorn"
+gem "sass"
 
 gem 'ruby-prof'
 gem "rspec"
