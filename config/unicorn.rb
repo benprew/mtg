@@ -43,5 +43,19 @@ before_fork do |server, worker|
       # someone else did our job for us
     end
   end
+  # the master process doesn't need to hold open a connection
+  DB.disconnect
+end
+
+after_fork do |server, worker|
+  if test?
+    DB = Sequel.sqlite
+  elsif production?
+    DB = Sequel.connect(SqlDb.build_connect_string_for(:production))
+    DB.logger = Logger.new(STDOUT)
+  else
+    DB = Sequel.connect(SqlDb.build_connect_string_for(:development))
+    DB.logger = Logger.new(STDOUT)
+  end
 end
 
