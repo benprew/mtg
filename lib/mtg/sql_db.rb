@@ -25,9 +25,9 @@ if test?
   DB = Sequel.sqlite
 elsif production?
   DB = Sequel.connect(SqlDb.build_connect_string_for(:production))
-  DB.logger = Logger.new(STDOUT)
 else
-  DB = Sequel.connect(SqlDb.build_connect_string_for(:development))
-  DB.logger = Logger.new(STDOUT)
+  DB = Sequel.connect(
+    SqlDb.build_connect_string_for(:development),
+    :logger => Logger.new(STDOUT))
 end
 
