@@ -1,5 +1,12 @@
 $LOAD_PATH << '.'
 require 'mtg'
+require 'user'
 
-run Sinatra::Application
+path '/user' do
+     run User
+end
+
+path  '/' do
+    run Sinatra::Application
+end
 

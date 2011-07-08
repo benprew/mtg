@@ -65,7 +65,7 @@ get '/match_auction/:external_item_id' do
         reverse_order( :score )
 
   @e = db[:external_items].filter( :external_item_id => params[:external_item_id]).first
-  @possible_matches = 
+  @possible_matches =
     Dataset.new(
       [ :card_id, :name, :set_name, :score, :cards_in_item ],
       query.all
@@ -73,7 +73,7 @@ get '/match_auction/:external_item_id' do
 
   @possible_matches.add_decorator(
     :cards_in_item,
-    lambda do |val, row| 
+    lambda do |val, row|
       @row = row
       haml %Q(
 %form{ :action=> "/match_auction",  :method=>'post' }
@@ -104,7 +104,7 @@ get '/search' do
 
     @cards.add_decorator( :name, card_link_decorator )
   end
-    
+
   haml :search
 end
 
@@ -113,7 +113,7 @@ get '/card/:card_id' do
 
   @auctions_matched_to_card = auctions_matched_to_card(@card)
 
-  query = 
+  query =
     db[:xtns_by_card_day].
     select(
       (:SUM.sql_function(:price) / :SUM.sql_function(:xtns)).as(:avg_price),
@@ -124,7 +124,7 @@ get '/card/:card_id' do
     filter{|o| o.date > Date.today << 1}.
     group_by( :date ).
     order_by( :date )
-  
+
   latest_price = db[:card_prices].select(:price).filter(:card_id => params[:card_id]).first
 
   @card_price = latest_price && latest_price[:price] ? latest_price[:price] : 0
@@ -136,7 +136,7 @@ get '/card/:card_id' do
   @card_xtns = Dataset.new(
     [ :date, :xtns ],
     query.all )
-  
+
   haml :card
 end
 
@@ -159,7 +159,7 @@ get '/set' do
   )
 
   @sets.add_decorator(:set_name, set_link_decorator())
-  
+
   haml :set
 end
 
@@ -200,17 +200,20 @@ def auctions_matched_to_card(card)
 
   d.add_decorator(
     :description,
-                  lambda { |val, row| %Q( <a target="blank" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">#{row[:description]}</a> ) } )
+    lambda { |val, row| %Q( <a target="blank" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">#{row[:description]}</a> ) } )
 
   d.add_decorator(
     :external_item_id,
-    lambda do |val, row| 
-      %Q( <form action="/match_auction" method="post">
-            <input type="hidden" name="external_item_id" value="#{row[:external_item_id]}" />
-            <input type="hidden" name="card_id" value="-1" />
-            <input type="hidden" name="cards_in_item" value="0" />
-            <input type="submit" value="Exclude" />
-          </form> )
+    lambda do |val, row|
+      %Q{
+        $('##{row[:external_item_id]}').click(function() {
+          $.post('/match_auction', {
+            external_item_id: #{row[:external_item_id]},
+            card_id: 1,
+            cards_in_item: 0
+          })
+        })
+      }
   end )
 
   return d

@@ -1,0 +1,21 @@
+%form{ :method => "post", :action => "login" }
+  .grid_1 &nbsp
+  .grid_7{ :style => "padding-bottom: 8px;" }
+    %p
+      %label{ :for => "username" } Username
+      %br
+      %input{ :type => "text", :name => "username" }
+  .clear &nbsp;
+  .grid_1 &nbsp;
+  .grid_7{ :style => "padding-bottom: 8px;" }
+    %p
+       %label{ :for => "password" } Password
+       %br
+       %input{ :type => "password", :name => "password" }
+       %a{ :href => "/forgot_password" } Forgot Password?
+  .clear &nbsp;
+  .grid_1 &nbsp;
+  .grid_7
+     %input{ :type => "submit", :value => "Login" }
+   .clear
+
