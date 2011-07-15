@@ -22,7 +22,7 @@ module SqlDb
 end
 
 if test?
-  DB = Sequel.sqlite
+  DB = Sequel.connect(SqlDb.build_connect_string_for(:test))
 elsif production?
   DB = Sequel.connect(SqlDb.build_connect_string_for(:production))
 else

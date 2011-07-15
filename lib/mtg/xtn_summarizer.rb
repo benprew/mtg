@@ -20,7 +20,7 @@ class XtnSummarizer < Logger::Application
     ext_items = db[:external_items].
       select(:card_id, :end_time, :external_item_id, :price, 'AUCTION', :cards_in_item).
       filter( ~:card_id => nil, ~:price => nil, ~:cards_in_item => 0)
-    
+
     db[:xtns].insert([:card_id, :date, :external_item_id, :price, :xtn_type_id, :xtns], ext_items)
 
     @log.info "Deleting xtns_by_card_day"
@@ -39,9 +39,16 @@ class XtnSummarizer < Logger::Application
     @log.info "Inserting into card_prices"
     db << %Q{
       INSERT INTO card_prices
-        SELECT card_id, sum(price) / sum(xtns), sum(xtns)
-        FROM xtns_by_card_day
-        WHERE date > '#{ Date.today << 1 }'
+        SELECT
+            card_id,
+            -- calculate price using median instead of average
+            substring_index(substring_index(group_concat(avg_daily_price ORDER BY avg_daily_price), ',', (count(avg_daily_price) / 2)), ',', -1) AS price,
+            sum(daily_volume) AS volume
+        FROM (
+            SELECT card_id, sum(price) / sum(xtns) AS avg_daily_price, sum(xtns) AS daily_volume
+            FROM xtns_by_card_day
+            WHERE date > '#{ Date.today << 1 }'
+            GROUP BY card_id, date ) x
         GROUP BY card_id
     }
     true
