@@ -14,6 +14,7 @@ gem "daemons"
 gem 'json'
 gem "unicorn"
 gem "sass"
+gem "bcrypt-ruby"
 
 gem 'ruby-prof'
 gem "rspec"

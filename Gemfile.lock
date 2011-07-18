@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    bcrypt-ruby (2.1.4)
     capistrano (2.6.0)
       highline
       net-scp (>= 1.0.0)
@@ -62,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt-ruby
   capistrano
   capistrano-ext
   daemons
