@@ -1,5 +1,4 @@
 require 'rubygems'
-require 'dictionary'
 require 'mtg/headers'
 require 'json'
 
@@ -25,10 +24,10 @@ class Dataset
     header.each { |h| @header << Headers.find(h) }
 
     rows.each do |row|
-      myrow = Dictionary.new
+      myrow = {}
       @header.each do |h|
         value = _is_object_row?(h, row) ? _build_object_row(h, row) : _build_struct_row(h, row)
-        myrow << [ h[:name], value ]
+        myrow[ h[:name] ] = value
       end
       @rows_undecorated << myrow
     end
