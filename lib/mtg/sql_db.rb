@@ -15,7 +15,11 @@ module SqlDb
 
   def build_connect_string_for(environment)
     db_info = DB_CONFIG[environment.to_s]
-    return sprintf "%s://%s:%s@localhost/%s", db_info['adapter'], db_info['username'], db_info['password'], db_info['database']
+    if db_info['adapter'] == 'sqlite'
+      return sprintf "%s:/%s", db_info['adapter'], db_info['database']
+    else
+      return sprintf "%s://%s:%s@localhost/%s", db_info['adapter'], db_info['username'], db_info['password'], db_info['database']
+    end
   end
 
   module_function :db, :build_connect_string_for
