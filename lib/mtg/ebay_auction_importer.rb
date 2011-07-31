@@ -9,7 +9,7 @@ require 'pp'
 
 class String
   def remove_non_ascii(replacement="")
-    self.gsub(/[\x80-\xff]/,replacement)
+    self.gsub(/\P{ASCII}/,replacement)
   end
 end
 
