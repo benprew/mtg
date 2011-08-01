@@ -202,19 +202,21 @@ def auctions_matched_to_card(card)
     :description,
     lambda { |val, row| %Q( <a target="blank" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=#{row[:external_item_id]}">#{row[:description]}</a> ) } )
 
-  d.add_decorator(
-    :external_item_id,
-    lambda do |val, row|
-      %Q{
-        $('##{row[:external_item_id]}').click(function() {
-          $.post('/match_auction', {
-            external_item_id: #{row[:external_item_id]},
-            card_id: 1,
-            cards_in_item: 0
+  if false
+    d.add_decorator(
+      :external_item_id,
+      lambda do |val, row|
+        %Q{
+          $('##{row[:external_item_id]}').click(function() {
+            $.post('/match_auction', {
+              external_item_id: #{row[:external_item_id]},
+              card_id: 1,
+              cards_in_item: 0
+            })
           })
-        })
-      }
-  end )
+        }
+    end )
+  end
 
   return d
 end
