@@ -15,11 +15,12 @@ describe XtnSummarizer do
     Card.insert(:id => 123)
     ExternalItem.insert(
       :external_item_id => 'ABC',
-      :price => 5.0,
-      :end_time => Time.now() - 1,
-      :last_updated => Time.now() - 1,
-      :card_id => 123,
-      :cards_in_item => 1 )
+      :price            => 5.0,
+      :description      => 'test item',
+      :end_time         => Time.now() - 1,
+      :last_updated     => Time.now() - 1,
+      :card_id          => 123,
+      :cards_in_item    => 1 )
     @summarizer = XtnSummarizer.new();
   end
 
@@ -34,14 +35,14 @@ describe XtnSummarizer do
   it "should use last rolling month for card_prices table" do
     ExternalItem.insert(
       :external_item_id => 'ABC2',
-      :price => 40.0,
-      :end_time => (Date.today() << 1) - 1,
-      :last_updated => Time.now(),
-      :card_id => 123,
-      :cards_in_item => 1 )
+      :price            => 40.0,
+      :description      => 'test item',
+      :end_time         => (Date.today() << 1) - 1,
+      :last_updated     => Time.now(),
+      :card_id          => 123,
+      :cards_in_item    => 1 )
 
     @summarizer.run()
-    
     db[:xtns].count.should == 2
     db[:card_prices].count.should == 1
     db[:card_prices].first[:volume].should == 1

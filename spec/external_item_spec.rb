@@ -13,8 +13,9 @@ describe ExternalItem do
   it "can get an auction to match" do
     ExternalItem.create(
       :external_item_id => 1234,
-      :price => 20,
-      :last_updated => '20090101' )
+      :price            => 20,
+      :description      => 'test item',
+      :last_updated     => '20090101' )
 
     get '/match_auction'
 
@@ -24,8 +25,9 @@ describe ExternalItem do
   it "can show an auction to match properly" do
     ExternalItem.create(
       :external_item_id => 1234,
-      :price => 20,
-      :last_updated => '20090101' )
+      :price            => 20,
+      :description      => 'test item',
+      :last_updated     => '20090101' )
 
     get '/match_auction/1234'
 

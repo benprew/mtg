@@ -73,6 +73,7 @@ class EbayAuctionImporter < Logger::Application
     unless item
       item = ExternalItem.create(
         :external_item_id => item_info['itemId'][0],
+        :description => item_info['title'][0].remove_non_ascii,
         :last_updated => @current_time )
       item_created = true
     end
