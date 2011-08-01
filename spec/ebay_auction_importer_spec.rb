@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'time'
 require 'mtg/ebay_auction_importer'
 require 'mtg/models/external_item'
 
@@ -26,7 +27,20 @@ describe EbayAuctionImporter do
     @i.import_item(item_info)
     ExternalItem.count.should == 1
     @e = ExternalItem.first
-    @e.auction_price.should == 2
+    @e.should == ExternalItem.new(
+      :id                       => 1,
+      :external_item_id         => '123456',
+      :description              => 'test item',
+      :end_time                 => Time.local(2010, 01, 01, 0, 0, 0),
+      :auction_price            => 2,
+      :buy_it_now_price         => nil,
+      :card_id                  => nil,
+      :last_updated             => @e.last_updated,
+      :cards_in_item            => 1,
+      :price                    => nil,
+      :has_been_finalized       => 0,
+      :has_match_been_attempted => 0
+    )
   end
 
   it "has more items" do
