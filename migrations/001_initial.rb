@@ -33,7 +33,7 @@ class Initial < Sequel::Migration
       primary_key :id
 
       String :external_item_id, :null=>false, :size=>50
-      String :description, :size=>512
+      String :description, :size=>512, :null=>false
       DateTime :end_time
       Float :auction_price
       Float :buy_it_now_price
