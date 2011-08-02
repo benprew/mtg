@@ -6,13 +6,14 @@ require 'rubygems'
 require 'optparse'
 require 'sinatra/base'
 include Sinatra::Delegator
+require 'mtg/models/card'
+require 'mtg/models/cardset'
+require 'iconv'
 
 opts = OptionParser.new do |op|
 	op.banner = "Usage: import_cardset.rb [options]"
-
-
   op.on("-c cardset", "--cardset CARDSET", "filename containing the cardset (text spoiler)") { |val| @cardset_file = val }
-  op.on('-e env')    { |val| set :environment, val.to_sym }
+  op.on('-e env')    { |val| warn "Do not use -e. Set environment with RACK_ENV"; exit 1}
 end
 
 opts.parse!
@@ -23,10 +24,6 @@ if !@cardset_file
 	exit
 end
 
-# have to require the db after setting the environment
-require 'mtg/models/card'
-require 'mtg/models/cardset'
-
 cards_built = 0
 card = {}
 
@@ -35,7 +32,9 @@ open(@cardset_file) do |f|
   f.each do |line|
     line.chop!
     next unless line.match(/\w/)
-    
+
+    line = Iconv.iconv('ASCII//TRANSLIT', 'UTF-8', line).join
+
     (key, val) = line.split(/:\s+/, 2)
 
     key.strip!
@@ -58,14 +57,14 @@ open(@cardset_file) do |f|
       if (card.has_key?(:name) && !card.has_key?(:cardname))
         card[:cardname] = card[:name]
       end
-        
+
       %w(cardname set_rarity cost type rules_text).each do |required_key|
         if !card.has_key?(required_key.to_sym)
           p card
           warn "missing key #{required_key}"
           exit
         end
-      end  
+      end
     end
 
     if is_full_card
@@ -80,10 +79,10 @@ open(@cardset_file) do |f|
 
         cs = Cardset.find(:cardset_import_id => set)
 
-	unless cs
+        unless cs
           warn "No set named #{set}"
           next
-	end
+        end
         c = Card.find_or_create(:name => card[:cardname], :cardset_id => cs.id)
 
         c.update(
@@ -97,7 +96,7 @@ open(@cardset_file) do |f|
       card = {}
     end
   end
-      
+
 end
 
 puts "Built #{cards_built} cards"

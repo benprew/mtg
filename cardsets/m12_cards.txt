@@ -1,0 +1,1745 @@
+Name: Acidic Slime
+Cost:  3GG
+Type:  Creature — Ooze
+Pow/Tgh:   (2/2)
+Rules Text:  Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+Set/Rarity:  Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon
+
+Name: Act of Treason
+Cost:  2R
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Uncommon
+
+Name: Adaptive Automaton
+Cost:  3
+Type:  Artifact Creature — Construct
+Pow/Tgh:   (2/2)
+Rules Text:  As Adaptive Automaton enters the battlefield, choose a creature type.
+Adaptive Automaton is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Aegis Angel
+Cost:  4WW
+Type:  Creature — Angel
+Pow/Tgh:   (5/5)
+Rules Text:  Flying
+When Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)
+Set/Rarity:  Magic 2012 Rare
+
+Name: Æther Adept
+Cost:  1UU
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/2)
+Rules Text:  When Æther Adept enters the battlefield, return target creature to its owner's hand.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Alabaster Mage
+Cost:  1W
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/1)
+Rules Text:  {1}{W}: Target creature you control gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Alluring Siren
+Cost:  1U
+Type:  Creature — Siren
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Target creature an opponent controls attacks you this turn if able.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon
+
+Name: Amphin Cutthroat
+Cost:  3U
+Type:  Creature — Salamander Rogue
+Pow/Tgh:   (2/4)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common
+
+Name: Angelic Destiny
+Cost:  2WW
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.
+When enchanted creature dies, return Angelic Destiny to its owner's hand.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Angel's Feather
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  Whenever a player casts a white spell, you may gain 1 life.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: Angel's Mercy
+Cost:  2WW
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  You gain 7 life.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Arachnus Spinner
+Cost:  5G
+Type:  Creature — Spider
+Pow/Tgh:   (5/7)
+Rules Text:  Reach (This creature can block creatures with flying.)
+Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Arachnus Web
+Cost:  2G
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.
+Set/Rarity:  Magic 2012 Common
+
+Name: Arbalest Elite
+Cost:  2WW
+Type:  Creature — Human Archer
+Pow/Tgh:   (2/3)
+Rules Text:  {2}{W}, {T}: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Archon of Justice
+Cost:  3WW
+Type:  Creature — Archon
+Pow/Tgh:   (4/4)
+Rules Text:  Flying
+When Archon of Justice dies, exile target permanent.
+Set/Rarity:  Magic 2012 Rare, Eventide Rare
+
+Name: Armored Warhorse
+Cost:  WW
+Type:  Creature — Horse
+Pow/Tgh:   (2/3)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common
+
+Name: Assault Griffin
+Cost:  3W
+Type:  Creature — Griffin
+Pow/Tgh:   (3/2)
+Rules Text:  Flying
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Auramancer
+Cost:  2W
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/2)
+Rules Text:  When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+Set/Rarity:  Magic 2012 Common, Odyssey Common
+
+Name: Autumn's Veil
+Cost:  G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon
+
+Name: Aven Fleetwing
+Cost:  3U
+Type:  Creature — Bird Soldier
+Pow/Tgh:   (2/2)
+Rules Text:  Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Azure Mage
+Cost:  1U
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/1)
+Rules Text:  {3}{U}: Draw a card.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Belltower Sphinx
+Cost:  4U
+Type:  Creature — Sphinx
+Pow/Tgh:   (2/5)
+Rules Text:  Flying
+Whenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.
+Set/Rarity:  Magic 2012 Uncommon, Ravnica: City of Guilds Uncommon
+
+Name: Benalish Veteran
+Cost:  2W
+Type:  Creature — Human Soldier
+Pow/Tgh:   (2/2)
+Rules Text:  Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Birds of Paradise
+Cost:  G
+Type:  Creature — Bird
+Pow/Tgh:   (0/1)
+Rules Text:  Flying
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare, Tenth Edition Rare, Ravnica: City of Guilds Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: Blood Ogre
+Cost:  2R
+Type:  Creature — Ogre Warrior
+Pow/Tgh:   (2/2)
+Rules Text:  Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Blood Seeker
+Cost:  1B
+Type:  Creature — Vampire Shaman
+Pow/Tgh:   (1/1)
+Rules Text:  Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+Set/Rarity:  Magic 2012 Common, Zendikar Common
+
+Name: Bloodlord of Vaasgoth
+Cost:  3BB
+Type:  Creature — Vampire Warrior
+Pow/Tgh:   (3/3)
+Rules Text:  Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Flying
+Whenever you cast a Vampire creature spell, it gains bloodthirst 3.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Bloodrage Vampire
+Cost:  2B
+Type:  Creature — Vampire
+Pow/Tgh:   (3/1)
+Rules Text:  Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Bonebreaker Giant
+Cost:  4R
+Type:  Creature — Giant
+Pow/Tgh:   (4/4)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common
+
+Name: Bountiful Harvest
+Cost:  4G
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  You gain 1 life for each land you control.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Brindle Boar
+Cost:  2G
+Type:  Creature — Boar
+Pow/Tgh:   (2/2)
+Rules Text:  Sacrifice Brindle Boar: You gain 4 life.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Brink of Disaster
+Cost:  2BB
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.
+Set/Rarity:  Magic 2012 Common, Worldwake Common
+
+Name: Buried Ruin
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  {T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Call to the Grave
+Cost:  4B
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.
+At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.
+Set/Rarity:  Magic 2012 Rare, Scourge Rare
+
+Name: Cancel
+Cost:  1UU
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Counter target spell.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Zendikar Common, Magic 2010 Common, Shards of Alara Common, Tenth Edition Common, Time Spiral Common
+
+Name: Carnage Wurm
+Cost:  6G
+Type:  Creature — Wurm
+Pow/Tgh:   (6/6)
+Rules Text:  Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Celestial Purge
+Cost:  1W
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Exile target black or red permanent.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Conflux Uncommon
+
+Name: Cemetery Reaper
+Cost:  1BB
+Type:  Creature — Zombie
+Pow/Tgh:   (2/2)
+Rules Text:  Other Zombie creatures you control get +1/+1.
+{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity:  Magic 2012 Rare, Archenemy Rare, Magic 2010 Rare
+
+Name: Chandra, the Firebrand
+Cost:  3R
+Type:  Planeswalker — Chandra
+Loyalty:   (3)
+Rules Text:  +1: Chandra, the Firebrand deals 1 damage to target creature or player.
+-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+-6: Chandra, the Firebrand deals 6 damage to each of up to six target creatures and/or players.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Chandra's Outrage
+Cost:  2RR
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Archenemy Common
+
+Name: Chandra's Phoenix
+Cost:  1RR
+Type:  Creature — Phoenix
+Pow/Tgh:   (2/2)
+Rules Text:  Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Chasm Drake
+Cost:  4U
+Type:  Creature — Drake
+Pow/Tgh:   (3/3)
+Rules Text:  Flying
+Whenever Chasm Drake attacks, target creature you control gains flying until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Child of Night
+Cost:  1B
+Type:  Creature — Vampire
+Pow/Tgh:   (2/1)
+Rules Text:  Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Circle of Flame
+Cost:  1R
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Combust
+Cost:  1R
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Combust can't be countered by spells or abilities.
+Combust deals 5 damage to target white or blue creature. The damage can't be prevented.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon
+
+Name: Consume Spirit
+Cost:  X1B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.
+Set/Rarity:  Magic 2012 Uncommon, Planechase Uncommon, Magic 2010 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Common
+
+Name: Coral Merfolk
+Cost:  1U
+Type:  Creature — Merfolk
+Pow/Tgh:   (2/1)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common, Seventh Edition Common, Urza's Saga Common
+
+Name: Crimson Mage
+Cost:  1R
+Type:  Creature — Human Shaman
+Pow/Tgh:   (2/1)
+Rules Text:  {R}: Target creature you control gains haste until end of turn. (It can attack and {T} this turn.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Crown of Empires
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {3}, {T}: Tap target creature. Gain control of that creature instead if you control artifacts named Scepter of Empires and Throne of Empires.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Crumbling Colossus
+Cost:  5
+Type:  Artifact Creature — Golem
+Pow/Tgh:   (7/4)
+Rules Text:  Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+When Crumbling Colossus attacks, sacrifice it at end of combat.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Cudgel Troll
+Cost:  2GG
+Type:  Creature — Troll
+Pow/Tgh:   (4/3)
+Rules Text:  {G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon
+
+Name: Dark Favor
+Cost:  1B
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+When Dark Favor enters the battlefield, you lose 1 life.
+Enchanted creature gets +3/+1.
+Set/Rarity:  Magic 2012 Common
+
+Name: Day of Judgment
+Cost:  2WW
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Destroy all creatures.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Zendikar Rare
+
+Name: Deathmark
+Cost:  B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Destroy target green or white creature.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Coldsnap Uncommon
+
+Name: Demon's Horn
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  Whenever a player casts a black spell, you may gain 1 life.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: Demystify
+Cost:  W
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Destroy target enchantment.
+Set/Rarity:  Magic 2012 Common, Rise of the Eldrazi Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name: Devouring Swarm
+Cost:  1BB
+Type:  Creature — Insect
+Pow/Tgh:   (2/1)
+Rules Text:  Flying
+Sacrifice a creature: Devouring Swarm gets +1/+1 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Diabolic Tutor
+Cost:  2BB
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity:  Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+Name: Disentomb
+Cost:  B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Return target creature card from your graveyard to your hand.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Distress
+Cost:  BB
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.
+Set/Rarity:  Magic 2012 Common, Tenth Edition Common, Champions of Kamigawa Common
+
+Name: Divination
+Cost:  2U
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Draw two cards.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Divine Favor
+Cost:  1W
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+When Divine Favor enters the battlefield, you gain 3 life.
+Enchanted creature gets +1/+3.
+Set/Rarity:  Magic 2012 Common
+
+Name: Djinn of Wishes
+Cost:  3UU
+Type:  Creature — Djinn
+Pow/Tgh:   (4/4)
+Rules Text:  Flying
+Djinn of Wishes enters the battlefield with three wish counters on it.
+{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
+Set/Rarity:  Magic 2012 Rare, Magic 2010 Rare
+
+Name: Doom Blade
+Cost:  1B
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Destroy target nonblack creature.
+Set/Rarity:  Magic 2012 Common, Magic: The Gathering-Commander Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Doubling Chant
+Cost:  5G
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Dragon's Claw
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  Whenever a player casts a red spell, you may gain 1 life.
+Set/Rarity:  Magic 2012 Uncommon, Duel Decks: Knights vs. Dragons Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: Dragonskull Summit
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Drifting Shade
+Cost:  3B
+Type:  Creature — Shade
+Pow/Tgh:   (1/1)
+Rules Text:  Flying
+{B}: Drifting Shade gets +1/+1 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Drowned Catacomb
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Druidic Satchel
+Cost:  3
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {2}, {T}: Reveal the top card of your library. If it's a creature card, put a 1/1 green Saproling creature token onto the battlefield. If it's a land card, put that card onto the battlefield under your control. If it's a noncreature, nonland card, you gain 2 life.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Dungrove Elder
+Cost:  2G
+Type:  Creature — Treefolk
+Pow/Tgh:   (*/*)
+Rules Text:  Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Dungrove Elder's power and toughness are each equal to the number of Forests you control.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Duskhunter Bat
+Cost:  1B
+Type:  Creature — Bat
+Pow/Tgh:   (1/1)
+Rules Text:  Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Flying
+Set/Rarity:  Magic 2012 Common
+
+Name: Elite Vanguard
+Cost:  W
+Type:  Creature — Human Soldier
+Pow/Tgh:   (2/1)
+Rules Text: 
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon, Magic 2010 Uncommon
+
+Name: Elixir of Immortality
+Cost:  1
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Duel Decks: Elspeth vs. Tezzeret Uncommon
+
+Name: Elvish Archdruid
+Cost:  1GG
+Type:  Creature — Elf Druid
+Pow/Tgh:   (2/2)
+Rules Text:  Other Elf creatures you control get +1/+1.
+{T}: Add {G} to your mana pool for each Elf you control.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Fiery Hellhound
+Cost:  1RR
+Type:  Creature — Elemental Hound
+Pow/Tgh:   (2/2)
+Rules Text:  {R}: Fiery Hellhound gets +1/+0 until end of turn.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Fireball
+Cost:  XR
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.
+Set/Rarity:  Magic 2012 Uncommon, Premium Deck Series: Fire and Lightning Uncommon, Masters Edition IV Uncommon, Magic 2011 Uncommon, Archenemy Uncommon, Magic 2010 Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Darksteel Uncommon, Beatdown Box Set Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Firebreathing
+Cost:  R
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Flameblast Dragon
+Cost:  4RR
+Type:  Creature — Dragon
+Pow/Tgh:   (5/5)
+Rules Text:  Flying
+Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.
+Set/Rarity:  Magic 2012 Rare, Archenemy Rare, Shards of Alara Rare
+
+Name: Flashfreeze
+Cost:  1U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Counter target red or green spell.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Coldsnap Uncommon
+
+Name: Flight
+Cost:  U
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature has flying.
+Set/Rarity:  Magic 2012 Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Fling
+Cost:  1R
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Stronghold Common
+
+Name: Fog
+Cost:  G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Prevent all combat damage that would be dealt this turn.
+Set/Rarity:  Magic 2012 Common, Masters Edition IV Common, Magic 2011 Common, Archenemy Common, Magic 2010 Common, Seventh Edition Common, Beatdown Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Forest
+Cost: 
+Type:  Basic Land — Forest
+Pow/Tgh:  
+Rules Text:  G
+Set/Rarity:  Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: Frost Breath
+Cost:  2U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Set/Rarity:  Magic 2012 Common
+
+Name: Frost Titan
+Cost:  4UU
+Type:  Creature — Giant
+Pow/Tgh:   (6/6)
+Rules Text:  Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.
+Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Furyborn Hellkite
+Cost:  4RRR
+Type:  Creature — Dragon
+Pow/Tgh:   (6/6)
+Rules Text:  Bloodthirst 6 (If an opponent was dealt damage this turn, this creature enters the battlefield with six +1/+1 counters on it.)
+Flying
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Garruk, Primal Hunter
+Cost:  2GGG
+Type:  Planeswalker — Garruk
+Loyalty:   (3)
+Rules Text:  +1: Put a 3/3 green Beast creature token onto the battlefield.
+-3: Draw cards equal to the greatest power among creatures you control.
+-6: Put a 6/6 green Wurm creature token onto the battlefield for each land you control.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Garruk's Companion
+Cost:  GG
+Type:  Creature — Beast
+Pow/Tgh:   (3/2)
+Rules Text:  Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Garruk's Horde
+Cost:  5GG
+Type:  Creature — Beast
+Pow/Tgh:   (7/7)
+Rules Text:  Trample 
+Play with the top card of your library revealed.
+You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)
+Set/Rarity:  Magic 2012 Rare
+
+Name: Giant Spider
+Cost:  3G
+Type:  Creature — Spider
+Pow/Tgh:   (2/4)
+Rules Text:  Reach (This creature can block creatures with flying.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Gideon Jura
+Cost:  3WW
+Type:  Planeswalker — Gideon
+Loyalty:   (6)
+Rules Text:  +2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+-2: Destroy target tapped creature.
+0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+Set/Rarity:  Magic 2012 Mythic Rare, Rise of the Eldrazi Mythic Rare
+
+Name: Gideon's Avenger
+Cost:  1WW
+Type:  Creature — Human Soldier
+Pow/Tgh:   (2/2)
+Rules Text:  Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Gideon's Lawkeeper
+Cost:  W
+Type:  Creature — Human Soldier
+Pow/Tgh:   (1/1)
+Rules Text:  {W}, {T}: Tap target creature.
+Set/Rarity:  Magic 2012 Common
+
+Name: Glacial Fortress
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Gladecover Scout
+Cost:  G
+Type:  Creature — Elf Scout
+Pow/Tgh:   (1/1)
+Rules Text:  Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Goblin Arsonist
+Cost:  R
+Type:  Creature — Goblin Shaman
+Pow/Tgh:   (1/1)
+Rules Text:  When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.
+Set/Rarity:  Magic 2012 Common, Rise of the Eldrazi Common
+
+Name: Goblin Bangchuckers
+Cost:  2RR
+Type:  Creature — Goblin Warrior
+Pow/Tgh:   (2/2)
+Rules Text:  {T}: Flip a coin. If you win the flip, Goblin Bangchuckers deals 2 damage to target creature or player. If you lose the flip, Goblin Bangchuckers deals 2 damage to itself.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Goblin Chieftain
+Cost:  1RR
+Type:  Creature — Goblin
+Pow/Tgh:   (2/2)
+Rules Text:  Haste (This creature can attack and {T} as soon as it comes under your control.)
+Other Goblin creatures you control get +1/+1 and have haste.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Goblin Fireslinger
+Cost:  R
+Type:  Creature — Goblin Warrior
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Goblin Fireslinger deals 1 damage to target player.
+Set/Rarity:  Magic 2012 Common
+
+Name: Goblin Grenade
+Cost:  R
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  As an additional cost to cast Goblin Grenade, sacrifice a Goblin.
+Goblin Grenade deals 5 damage to target creature or player.
+Set/Rarity:  Magic 2012 Uncommon, Masters Edition Uncommon, Fallen Empires Common, Fallen Empires Common, Fallen Empires Common
+
+Name: Goblin Piker
+Cost:  1R
+Type:  Creature — Goblin Warrior
+Pow/Tgh:   (2/1)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Portal Second Age Common
+
+Name: Goblin Tunneler
+Cost:  1R
+Type:  Creature — Goblin Rogue
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Target creature with power 2 or less is unblockable this turn.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Rise of the Eldrazi Common
+
+Name: Goblin War Paint
+Cost:  1R
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature gets +2/+2 and has haste. (It can attack and {T} no matter when it came under its controller's control.)
+Set/Rarity:  Magic 2012 Common, Zendikar Common
+
+Name: Gorehorn Minotaurs
+Cost:  2RR
+Type:  Creature — Minotaur Warrior
+Pow/Tgh:   (3/3)
+Rules Text:  Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Grand Abolisher
+Cost:  WW
+Type:  Creature — Human Cleric
+Pow/Tgh:   (2/2)
+Rules Text:  During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Grave Titan
+Cost:  4BB
+Type:  Creature — Giant
+Pow/Tgh:   (6/6)
+Rules Text:  Deathtouch
+Whenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Gravedigger
+Cost:  3B
+Type:  Creature — Zombie
+Pow/Tgh:   (2/2)
+Rules Text:  When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Set/Rarity:  Magic 2012 Common, Magic: The Gathering-Commander Common, Magic 2011 Common, Planechase Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common, Seventh Edition Common, Beatdown Box Set Common, Starter 1999 Uncommon, Classic Sixth Edition Common, Tempest Common, Portal Uncommon
+
+Name: Greater Basilisk
+Cost:  3GG
+Type:  Creature — Basilisk
+Pow/Tgh:   (3/5)
+Rules Text:  Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Greatsword
+Cost:  3
+Type:  Artifact — Equipment
+Pow/Tgh:  
+Rules Text:  Equipped creature gets +3/+0.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Griffin Rider
+Cost:  1W
+Type:  Creature — Human Knight
+Pow/Tgh:   (1/1)
+Rules Text:  As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.
+Set/Rarity:  Magic 2012 Common
+
+Name: Griffin Sentinel
+Cost:  2W
+Type:  Creature — Griffin
+Pow/Tgh:   (1/3)
+Rules Text:  Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Grim Lavamancer
+Cost:  R
+Type:  Creature — Human Wizard
+Pow/Tgh:   (1/1)
+Rules Text:  {R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+Set/Rarity:  Magic 2012 Rare, Premium Deck Series: Fire and Lightning Rare, Torment Rare
+
+Name: Guardians' Pledge
+Cost:  1WW
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  White creatures you control get +2/+2 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Harbor Serpent
+Cost:  4UU
+Type:  Creature — Serpent
+Pow/Tgh:   (5/5)
+Rules Text:  Islandwalk (This creature is unblockable as long as defending player controls an Island.)
+Harbor Serpent can't attack unless there are five or more Islands on the battlefield.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Hideous Visage
+Cost:  2B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Honor of the Pure
+Cost:  1W
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  White creatures you control get +1/+1.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Hunter's Insight
+Cost:  2G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Ice Cage
+Cost:  1U
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Incinerate
+Cost:  1R
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+Set/Rarity:  Magic 2012 Common, Duel Decks: Jace vs. Chandra Common, Masters Edition II Common, Tenth Edition Common, Fifth Edition Common, Mirage Common, Ice Age Common
+
+Name: Inferno Titan
+Cost:  4RR
+Type:  Creature — Giant
+Pow/Tgh:   (6/6)
+Rules Text:  {R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Island
+Cost: 
+Type:  Basic Land — Island
+Pow/Tgh:  
+Rules Text:  U
+Set/Rarity:  Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: Jace, Memory Adept
+Cost:  3UU
+Type:  Planeswalker — Jace
+Loyalty:   (4)
+Rules Text:  +1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.
+0: Target player puts the top ten cards of his or her library into his or her graveyard.
+-7: Any number of target players each draw twenty cards.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Jace's Archivist
+Cost:  1UU
+Type:  Creature — Vedalken Wizard
+Pow/Tgh:   (2/2)
+Rules Text:  {U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Jace's Erasure
+Cost:  1U
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Jade Mage
+Cost:  1G
+Type:  Creature — Human Shaman
+Pow/Tgh:   (2/1)
+Rules Text:  {2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Kite Shield
+Cost:  0
+Type:  Artifact — Equipment
+Pow/Tgh:  
+Rules Text:  Equipped creature gets +0/+3.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Kraken's Eye
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  Whenever a player casts a blue spell, you may gain 1 life.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: Lava Axe
+Cost:  4R
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Lava Axe deals 5 damage to target player.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Starter 1999 Common, Urza's Legacy Common, Portal Second Age Common, Portal Common
+
+Name: Levitation
+Cost:  2UU
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Creatures you control have flying.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2010 Uncommon, Ninth Edition Uncommon, Seventh Edition Uncommon, Urza's Legacy Uncommon
+
+Name: Lifelink
+Cost:  W
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Lightning Elemental
+Cost:  3R
+Type:  Creature — Elemental
+Pow/Tgh:   (4/1)
+Rules Text:  Haste (This creature can attack and {T} as soon as it comes under your control.)
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Battle Royale Box Set Common, Tempest Common
+
+Name: Llanowar Elves
+Cost:  G
+Type:  Creature — Elf Druid
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Add {G} to your mana pool.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Duel Decks: Elves vs. Goblins Common, Tenth Edition Common, Ninth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Lord of the Unreal
+Cost:  UU
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/2)
+Rules Text:  Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+Set/Rarity:  Magic 2012 Rare
+
+Name: Lure
+Cost:  1GG
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+All creatures able to block enchanted creature do so.
+Set/Rarity:  Magic 2012 Uncommon, Tenth Edition Uncommon, Champions of Kamigawa Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Mercadian Masques Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Ice Age Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: Lurking Crocodile
+Cost:  2G
+Type:  Creature — Crocodile
+Pow/Tgh:   (2/2)
+Rules Text:  Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Islandwalk (This creature is unblockable as long as defending player controls an Island.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Mana Leak
+Cost:  1U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Counter target spell unless its controller pays {3}.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Ninth Edition Common, Eighth Edition Common, Battle Royale Box Set Common, Stronghold Common
+
+Name: Manabarbs
+Cost:  3R
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Set/Rarity:  Magic 2012 Rare, Magic 2010 Rare, Tenth Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: Manalith
+Cost:  3
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {T}: Add one mana of any color to your mana pool.
+Set/Rarity:  Magic 2012 Common
+
+Name: Manic Vandal
+Cost:  2R
+Type:  Creature — Human Warrior
+Pow/Tgh:   (2/2)
+Rules Text:  When Manic Vandal enters the battlefield, destroy target artifact.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Master Thief
+Cost:  2UU
+Type:  Creature — Human Rogue
+Pow/Tgh:   (2/2)
+Rules Text:  When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Merfolk Looter
+Cost:  1U
+Type:  Creature — Merfolk Rogue
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Draw a card, then discard a card.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common, Tenth Edition Common, Seventh Edition Uncommon, Exodus Common
+
+Name: Merfolk Mesmerist
+Cost:  1U
+Type:  Creature — Merfolk Wizard
+Pow/Tgh:   (1/2)
+Rules Text:  {U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:  Magic 2012 Common
+
+Name: Mesa Enchantress
+Cost:  1WW
+Type:  Creature — Human Druid
+Pow/Tgh:   (0/2)
+Rules Text:  Whenever you cast an enchantment spell, you may draw a card.
+Set/Rarity:  Magic 2012 Rare, Magic 2010 Rare, Planar Chaos Rare
+
+Name: Mighty Leap
+Cost:  1W
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature gets +2/+2 and gains flying until end of turn.
+Set/Rarity:  Magic 2012 Common, Duel Decks: Knights vs. Dragons Common, Magic 2011 Common, Duel Decks: Elspeth vs. Tezzeret Common
+
+Name: Mind Control
+Cost:  3UU
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+You control enchanted creature.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon
+
+Name: Mind Rot
+Cost:  2B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Target player discards two cards.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Portal Second Age Common, Portal Common
+
+Name: Mind Unbound
+Cost:  4UU
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  At the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Monomania
+Cost:  3BB
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Target player chooses a card in his or her hand and discards the rest.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Mountain
+Cost: 
+Type:  Basic Land — Mountain
+Pow/Tgh:  
+Rules Text:  R
+Set/Rarity:  Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: Naturalize
+Cost:  1G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Destroy target artifact or enchantment.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Rise of the Eldrazi Common, Magic 2010 Common, Shards of Alara Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name: Negate
+Cost:  1U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Counter target noncreature spell.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Morningtide Common
+
+Name: Oblivion Ring
+Cost:  2W
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Set/Rarity:  Magic 2012 Uncommon, Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Archenemy Common, Planechase Common, Shards of Alara Common, Lorwyn Common
+
+Name: Onyx Mage
+Cost:  1B
+Type:  Creature — Human Wizard
+Pow/Tgh:   (2/1)
+Rules Text:  {1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Overrun
+Cost:  2GGG
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:  Magic 2012 Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Odyssey Uncommon, Tempest Uncommon
+
+Name: Pacifism
+Cost:  1W
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature can't attack or block.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Duel Decks: Divine vs. Demonic Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common, Seventh Edition Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Urza's Saga Common, Tempest Common, Mirage Common
+
+Name: Pentavus
+Cost:  7
+Type:  Artifact Creature — Construct
+Pow/Tgh:   (0/0)
+Rules Text:  Pentavus enters the battlefield with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.
+{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+Set/Rarity:  Magic 2012 Rare, Duel Decks: Elspeth vs. Tezzeret Rare, Planechase Rare, Mirrodin Rare
+
+Name: Peregrine Griffin
+Cost:  4W
+Type:  Creature — Griffin
+Pow/Tgh:   (2/4)
+Rules Text:  Flying
+First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Personal Sanctuary
+Cost:  2W
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  During your turn, prevent all damage that would be dealt to you.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Phantasmal Bear
+Cost:  U
+Type:  Creature — Bear Illusion
+Pow/Tgh:   (2/2)
+Rules Text:  When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.
+Set/Rarity:  Magic 2012 Common
+
+Name: Phantasmal Dragon
+Cost:  2UU
+Type:  Creature — Dragon Illusion
+Pow/Tgh:   (5/5)
+Rules Text:  Flying
+When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Phantasmal Image
+Cost:  1U
+Type:  Creature — Illusion
+Pow/Tgh:   (0/0)
+Rules Text:  You may have Phantasmal Image enter the battlefield as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it gains "When this creature becomes the target of a spell or ability, sacrifice it."
+Set/Rarity:  Magic 2012 Rare
+
+Name: Plains
+Cost: 
+Type:  Basic Land — Plains
+Pow/Tgh:  
+Rules Text:  W
+Set/Rarity:  Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: Plummet
+Cost:  1G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Destroy target creature with flying.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Archenemy Common
+
+Name: Ponder
+Cost:  U
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common, Lorwyn Common
+
+Name: Pride Guardian
+Cost:  W
+Type:  Creature — Cat Monk
+Pow/Tgh:   (0/3)
+Rules Text:  Defender (This creature can't attack.)
+Whenever Pride Guardian blocks, you gain 3 life.
+Set/Rarity:  Magic 2012 Common
+
+Name: Primeval Titan
+Cost:  4GG
+Type:  Creature — Giant
+Pow/Tgh:   (6/6)
+Rules Text:  Trample
+Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Primordial Hydra
+Cost:  XGG
+Type:  Creature — Hydra
+Pow/Tgh:   (0/0)
+Rules Text:  Primordial Hydra enters the battlefield with X +1/+1 counters on it.
+At the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.
+Primordial Hydra has trample as long as it has ten or more +1/+1 counters on it.
+Set/Rarity:  Magic 2012 Mythic Rare
+
+Name: Quicksilver Amulet
+Cost:  4
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {4}, {T}: You may put a creature card from your hand onto the battlefield.
+Set/Rarity:  Magic 2012 Rare, Urza's Legacy Rare
+
+Name: Rampant Growth
+Cost:  1G
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:  Magic 2012 Common, Planechase Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Classic Sixth Edition Common, Tempest Common, Mirage Common
+
+Name: Reassembling Skeleton
+Cost:  1B
+Type:  Creature — Skeleton Warrior
+Pow/Tgh:   (1/1)
+Rules Text:  {1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Archenemy Uncommon
+
+Name: Reclaim
+Cost:  G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Put target card from your graveyard on top of your library.
+Set/Rarity:  Magic 2012 Common, Ninth Edition Common, Seventh Edition Common, Exodus Common
+
+Name: Redirect
+Cost:  UU
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  You may choose new targets for target spell.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare
+
+Name: Reverberate
+Cost:  RR
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Copy target instant or sorcery spell. You may choose new targets for the copy.
+Set/Rarity:  Magic 2012 Rare, Premium Deck Series: Fire and Lightning Rare, Magic 2011 Rare
+
+Name: Rites of Flourishing
+Cost:  2G
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  At the beginning of each player's draw step, that player draws an additional card.
+Each player may play an additional land on each of his or her turns.
+Set/Rarity:  Magic 2012 Rare, Future Sight Rare
+
+Name: Roc Egg
+Cost:  2W
+Type:  Creature — Bird
+Pow/Tgh:   (0/3)
+Rules Text:  Defender (This creature can't attack.)
+When Roc Egg dies, put a 3/3 white Bird creature token with flying onto the battlefield.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon
+
+Name: Rootbound Crag
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Premium Deck Series: Slivers Rare, Magic 2010 Rare
+
+Name: Royal Assassin
+Cost:  1BB
+Type:  Creature — Human Assassin
+Pow/Tgh:   (1/1)
+Rules Text:  {T}: Destroy target tapped creature.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name: Runeclaw Bear
+Cost:  1G
+Type:  Creature — Bear
+Pow/Tgh:   (2/2)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Rune-Scarred Demon
+Cost:  5BB
+Type:  Creature — Demon
+Pow/Tgh:   (6/6)
+Rules Text:  Flying
+When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Rusted Sentinel
+Cost:  4
+Type:  Artifact Creature — Golem
+Pow/Tgh:   (3/4)
+Rules Text:  Rusted Sentinel enters the battlefield tapped.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Sacred Wolf
+Cost:  2G
+Type:  Creature — Wolf
+Pow/Tgh:   (3/1)
+Rules Text:  Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common
+
+Name: Scepter of Empires
+Cost:  3
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {T}: Scepter of Empires deals 1 damage to target player. It deals 3 damage to that player instead if you control artifacts named Crown of Empires and Throne of Empires.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Scrambleverse
+Cost:  6RR
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which he or she was chosen. Untap those permanents.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Sengir Vampire
+Cost:  3BB
+Type:  Creature — Vampire
+Pow/Tgh:   (4/4)
+Rules Text:  Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+Set/Rarity:  Magic 2012 Uncommon, Masters Edition IV Uncommon, Tenth Edition Rare, Ninth Edition Rare, Torment Rare, Beatdown Box Set Uncommon, Battle Royale Box Set Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: Serra Angel
+Cost:  3WW
+Type:  Creature — Angel
+Pow/Tgh:   (4/4)
+Rules Text:  Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:  Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Masters Edition IV Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Duel Decks: Divine vs. Demonic Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name: Shock
+Cost:  R
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Shock deals 2 damage to target creature or player.
+Set/Rarity:  Magic 2012 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Classic Sixth Edition Common, Stronghold Common
+
+Name: Siege Mastodon
+Cost:  4W
+Type:  Creature — Elephant
+Pow/Tgh:   (3/5)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Skinshifter
+Cost:  1G
+Type:  Creature — Human Shaman
+Pow/Tgh:   (1/1)
+Rules Text:  {G}: Choose one — Until end of turn, Skinshifter becomes a 4/4 Rhino and gains trample; or until end of turn, Skinshifter becomes a 2/2 Bird and gains flying; or until end of turn, Skinshifter becomes a 0/8 Plant. Activate this ability only once each turn.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Skywinder Drake
+Cost:  2U
+Type:  Creature — Drake
+Pow/Tgh:   (3/1)
+Rules Text:  Flying
+Skywinder Drake can block only creatures with flying.
+Set/Rarity:  Magic 2012 Common
+
+Name: Slaughter Cry
+Cost:  2R
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Set/Rarity:  Magic 2012 Common, Zendikar Common
+
+Name: Smallpox
+Cost:  BB
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.
+Set/Rarity:  Magic 2012 Uncommon, Time Spiral Uncommon
+
+Name: Solemn Simulacrum
+Cost:  4
+Type:  Artifact Creature — Golem
+Pow/Tgh:   (2/2)
+Rules Text:  When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+When Solemn Simulacrum dies, you may draw a card.
+Set/Rarity:  Magic 2012 Rare, Magic: The Gathering-Commander Rare, Mirrodin Rare
+
+Name: Sorin Markov
+Cost:  3BBB
+Type:  Planeswalker — Sorin
+Loyalty:   (4)
+Rules Text:  +2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.
+-3: Target opponent's life total becomes 10.
+-7: You control target player during that player's next turn.
+Set/Rarity:  Magic 2012 Mythic Rare, Zendikar Mythic Rare
+
+Name: Sorin's Thirst
+Cost:  BB
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Sorin's Thirst deals 2 damage to target creature and you gain 2 life.
+Set/Rarity:  Magic 2012 Common
+
+Name: Sorin's Vengeance
+Cost:  4BBB
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Sorin's Vengeance deals 10 damage to target player and you gain 10 life.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Sphinx of Uthuun
+Cost:  5UU
+Type:  Creature — Sphinx
+Pow/Tgh:   (5/6)
+Rules Text:  Flying
+When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Spirit Mantle
+Cost:  1W
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature gets +1/+1 and has protection from creatures. (It can't be blocked, targeted, or dealt damage by creatures.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Stampeding Rhino
+Cost:  4G
+Type:  Creature — Rhino
+Pow/Tgh:   (4/4)
+Rules Text:  Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Stave Off
+Cost:  W
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Stingerfling Spider
+Cost:  4G
+Type:  Creature — Spider
+Pow/Tgh:   (2/5)
+Rules Text:  Reach (This creature can block creatures with flying.)
+When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Stonehorn Dignitary
+Cost:  3W
+Type:  Creature — Rhino Soldier
+Pow/Tgh:   (1/4)
+Rules Text:  When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.
+Set/Rarity:  Magic 2012 Common
+
+Name: Stormblood Berserker
+Cost:  1R
+Type:  Creature — Human Berserker
+Pow/Tgh:   (1/1)
+Rules Text:  Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Stormblood Berserker can't be blocked except by two or more creatures.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Stormfront Pegasus
+Cost:  1W
+Type:  Creature — Pegasus
+Pow/Tgh:   (2/1)
+Rules Text:  Flying
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common
+
+Name: Sun Titan
+Cost:  4WW
+Type:  Creature — Giant
+Pow/Tgh:   (6/6)
+Rules Text:  Vigilance
+Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Sundial of the Infinite
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {1}, {T}: End the turn. Activate this ability only during your turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+Set/Rarity:  Magic 2012 Rare
+
+Name: Sunpetal Grove
+Cost: 
+Type:  Land
+Pow/Tgh:  
+Rules Text:  Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity:  Magic 2012 Rare, Magic 2011 Rare, Magic 2010 Rare
+
+Name: Sutured Ghoul
+Cost:  4BBB
+Type:  Creature — Zombie
+Pow/Tgh:   (*/*)
+Rules Text:  Trample
+As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.
+Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+Set/Rarity:  Magic 2012 Rare, Judgment Rare
+
+Name: Swamp
+Cost: 
+Type:  Basic Land — Swamp
+Pow/Tgh:  
+Rules Text:  B
+Set/Rarity:  Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name: Swiftfoot Boots
+Cost:  2
+Type:  Artifact — Equipment
+Pow/Tgh:  
+Rules Text:  Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control, and it can attack and {T} as soon as it comes under your control.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Taste of Blood
+Cost:  B
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Taste of Blood deals 1 damage to target player and you gain 1 life.
+Set/Rarity:  Magic 2012 Common
+
+Name: Tectonic Rift
+Cost:  3R
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Destroy target land. Creatures without flying can't block this turn.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Thran Golem
+Cost:  5
+Type:  Artifact Creature — Golem
+Pow/Tgh:   (3/3)
+Rules Text:  As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
+Set/Rarity:  Magic 2012 Uncommon, Ninth Edition Rare, Urza's Destiny Rare
+
+Name: Throne of Empires
+Cost:  4
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  {1}, {T}: Put a 1/1 white Soldier creature token onto the battlefield. Put five of those tokens onto the battlefield instead if you control artifacts named Crown of Empires and Scepter of Empires.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Time Reversal
+Cost:  3UU
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.
+Set/Rarity:  Magic 2012 Mythic Rare, Magic 2011 Mythic Rare
+
+Name: Timely Reinforcements
+Cost:  2W
+Type:  Sorcery
+Pow/Tgh:  
+Rules Text:  If you have less life than an opponent, you gain 6 life. If you control fewer creatures than an opponent, put three 1/1 white Soldier creature tokens onto the battlefield.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Titanic Growth
+Cost:  1G
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature gets +4/+4 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Tormented Soul
+Cost:  B
+Type:  Creature — Spirit
+Pow/Tgh:   (1/1)
+Rules Text:  Tormented Soul can't block and is unblockable.
+Set/Rarity:  Magic 2012 Common
+
+Name: Trollhide
+Cost:  2G
+Type:  Enchantment — Aura
+Pow/Tgh:  
+Rules Text:  Enchant creature
+Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Turn to Frog
+Cost:  1U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature loses all abilities and becomes a 1/1 blue Frog until end of turn.
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Unsummon
+Cost:  U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Return target creature to its owner's hand.
+Set/Rarity:  Magic 2012 Common, Magic 2011 Common, Magic 2010 Common, Conflux Common, Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+Name: Vampire Outcasts
+Cost:  2BB
+Type:  Creature — Vampire
+Pow/Tgh:   (2/2)
+Rules Text:  Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:  Magic 2012 Uncommon
+
+Name: Vastwood Gorger
+Cost:  5G
+Type:  Creature — Wurm
+Pow/Tgh:   (5/6)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Zendikar Common
+
+Name: Vengeful Pharaoh
+Cost:  2BBB
+Type:  Creature — Zombie
+Pow/Tgh:   (5/4)
+Rules Text:  Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever combat damage is dealt to you or a planeswalker you control, if Vengeful Pharaoh is in your graveyard, destroy target attacking creature, then put Vengeful Pharaoh on top of your library.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Visions of Beyond
+Cost:  U
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Volcanic Dragon
+Cost:  4RR
+Type:  Creature — Dragon
+Pow/Tgh:   (4/4)
+Rules Text:  Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Set/Rarity:  Magic 2012 Uncommon, Starter 1999 Rare, Classic Sixth Edition Rare, Portal Rare, Mirage Rare
+
+Name: Wall of Torches
+Cost:  1R
+Type:  Creature — Wall
+Pow/Tgh:   (4/1)
+Rules Text:  Defender (This creature can't attack.)
+Set/Rarity:  Magic 2012 Common
+
+Name: Warpath Ghoul
+Cost:  2B
+Type:  Creature — Zombie
+Pow/Tgh:   (3/2)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Warstorm Surge
+Cost:  5R
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Whenever a creature enters the battlefield under your control, it deals damage equal to its power to target creature or player.
+Set/Rarity:  Magic 2012 Rare
+
+Name: Worldslayer
+Cost:  5
+Type:  Artifact — Equipment
+Pow/Tgh:  
+Rules Text:  Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:  Magic 2012 Rare, Mirrodin Rare
+
+Name: Wring Flesh
+Cost:  B
+Type:  Instant
+Pow/Tgh:  
+Rules Text:  Target creature gets -3/-1 until end of turn.
+Set/Rarity:  Magic 2012 Common
+
+Name: Wurm's Tooth
+Cost:  2
+Type:  Artifact
+Pow/Tgh:  
+Rules Text:  Whenever a player casts a green spell, you may gain 1 life.
+Set/Rarity:  Magic 2012 Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+Name: Zombie Goliath
+Cost:  4B
+Type:  Creature — Zombie Giant
+Pow/Tgh:   (4/3)
+Rules Text: 
+Set/Rarity:  Magic 2012 Common, Magic 2010 Common
+
+Name: Zombie Infestation
+Cost:  1B
+Type:  Enchantment
+Pow/Tgh:  
+Rules Text:  Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity:  Magic 2012 Uncommon, Archenemy Uncommon, Odyssey Uncommon
