@@ -33,7 +33,7 @@ get '/style.css' do
 end
 
 get '/' do
-  @latest_block = mirrodin_block_cards()
+  @latest_block = type2_cards()
   @highest_volume_cards = highest_volume_cards()
 
   haml :index
@@ -221,7 +221,7 @@ def auctions_matched_to_card(card)
   return d
 end
 
-def mirrodin_block_cards(set_name = false)
+def type2_cards(set_name = false)
   cards = q(%Q{
     SELECT
       c.id as card_id,
@@ -236,6 +236,10 @@ def mirrodin_block_cards(set_name = false)
       cardsets.name = 'Mirrodin Besieged'
       OR cardsets.name = 'Scars of Mirrodin'
       OR cardsets.name = 'New Phyrexia'
+      OR cardsets.name = 'M12'
+      OR cardsets.name = 'Zendikar'
+      OR cardsets.name = 'Worldwake'
+      OR cardsets.name = 'Rise of the Eldrazi'
     ORDER BY price DESC
     LIMIT 20  }, [] )
   d = Dataset.new([ :card_id, :name, :set_name, :price ], cards)
