@@ -164,7 +164,7 @@ get '/set' do
 end
 
 get '/set/:set_name' do
-  set_name = params[:set_name]
+  @set_name = params[:set_name]
   @sets = Dataset.new(
     [ :card_id, :name, :set_name, :price ],
     q(%Q(
@@ -174,7 +174,7 @@ get '/set/:set_name' do
         card_prices ON cards.id = card_prices.card_id
       WHERE
         cardsets.name = ?
-      ORDER BY price desc), [ params[:set_name] ])
+      ORDER BY price desc), [ @set_name ])
     )
 
   @sets.add_decorator(

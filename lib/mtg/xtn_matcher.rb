@@ -41,7 +41,7 @@ class XtnMatcher < Logger::Application
             _match_card(item, Card.first(:id => possible_matches[0]))
             match += 1
           rescue NoMethodError, RuntimeError => e
-            @log.warn "Error matching card: item: #{item} match: #{possible_matches[0]} error:" + e
+            @log.warn "Error matching card: ext_item_id: #{item.external_item_id} match card_id: #{possible_matches[0]} error: #{e.to_s}"
           end
 
         else

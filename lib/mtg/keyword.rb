@@ -17,7 +17,7 @@ module Keyword
     '10th' => 'tenth',
     '11th' => 'eleventh'
   }
-  
+
   def keywords_from_string(string)
     str = string.gsub(/ s /, 's ')
     str = str.gsub(/'/, '')
