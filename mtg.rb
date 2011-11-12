@@ -237,9 +237,7 @@ def type2_cards(set_name = false)
       OR cardsets.name = 'Scars of Mirrodin'
       OR cardsets.name = 'New Phyrexia'
       OR cardsets.name = 'M12'
-      OR cardsets.name = 'Zendikar'
-      OR cardsets.name = 'Worldwake'
-      OR cardsets.name = 'Rise of the Eldrazi'
+      OR cardsets.name = 'Innistrad'
     ORDER BY price DESC
     LIMIT 20  }, [] )
   d = Dataset.new([ :card_id, :name, :set_name, :price ], cards)

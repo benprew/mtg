@@ -1,0 +1,2351 @@
+Name:   Acidic Slime
+Cost:   3GG
+Type:   Creature — Ooze
+Pow/Tgh:  (2/2)
+Rules Text:   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+Set/Rarity:   Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon
+
+Name:   Acorn Catapult
+Cost:   4
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Acorn Catapult deals 1 damage to target creature or player. That creature's controller or that player puts a 1/1 green Squirrel creature token onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Æthersnipe
+Cost:   5U
+Type:   Creature — Elemental
+Pow/Tgh:  (4/4)
+Rules Text:   When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.
+Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Lorwyn Common
+
+Name:   Afterlife
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Mercadian Masques Uncommon, Mirage Uncommon
+
+Name:   Akoum Refuge
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Akoum Refuge enters the battlefield tapped.
+When Akoum Refuge enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Akroma, Angel of Fury
+Cost:   5RRR
+Type:   Legendary Creature — Angel
+Pow/Tgh:  (6/6)
+Rules Text:   Akroma, Angel of Fury can't be countered.
+Flying, trample, protection from white and from blue
+{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.
+Morph {3}{R}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Akroma's Vengeance
+Cost:   4WW
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy all artifacts, creatures, and enchantments.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planechase Rare, Onslaught Rare
+
+Name:   Alliance of Arms
+Cost:   W
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Join forces — Starting with you, each player may pay any amount of mana. Each player puts X 1/1 white Soldier creature tokens onto the battlefield, where X is the total amount of mana paid this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Angel of Despair
+Cost:   3WWBB
+Type:   Creature — Angel
+Pow/Tgh:  (5/5)
+Rules Text:   Flying
+When Angel of Despair enters the battlefield, destroy target permanent.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Guildpact Rare
+
+Name:   Angelic Arbiter
+Cost:   5WW
+Type:   Creature — Angel
+Pow/Tgh:  (5/6)
+Rules Text:   Flying
+Each opponent who cast a spell this turn can't attack with creatures.
+Each opponent who attacked with a creature this turn can't cast spells.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Magic 2011 Rare
+
+Name:   Anger
+Cost:   3R
+Type:   Creature — Incarnation
+Pow/Tgh:  (2/2)
+Rules Text:   Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Judgment Uncommon
+
+Name:   Animar, Soul of Elements
+Cost:   URG
+Type:   Legendary Creature — Elemental
+Pow/Tgh:  (1/1)
+Rules Text:   Protection from white and from black
+Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.
+Creature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Aquastrand Spider
+Cost:   1G
+Type:   Creature — Spider Mutant
+Pow/Tgh:  (0/0)
+Rules Text:   Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. (It can block creatures with flying.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Arbiter of Knollridge
+Cost:   6W
+Type:   Creature — Giant Wizard
+Pow/Tgh:  (5/5)
+Rules Text:   Vigilance
+When Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Lorwyn Rare
+
+Name:   Archangel of Strife
+Cost:   5WW
+Type:   Creature — Angel
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+As Archangel of Strife enters the battlefield, each player chooses war or peace.
+Creatures controlled by players who chose war get +3/+0.
+Creatures controlled by players who chose peace get +0/+3.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Armillary Sphere
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Conflux Common
+
+Name:   Artisan of Kozilek
+Cost:   9
+Type:   Creature — Eldrazi
+Pow/Tgh:  (10/9)
+Rules Text:   When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Rise of the Eldrazi Uncommon
+
+Name:   Attrition
+Cost:   1BB
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   {B}, Sacrifice a creature: Destroy target nonblack creature.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Urza's Destiny Rare
+
+Name:   Aura Shards
+Cost:   1GW
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Invasion Uncommon
+
+Name:   Austere Command
+Cost:   4WW
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Choose two — Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Lorwyn Rare
+
+Name:   Avatar of Fury
+Cost:   6RR
+Type:   Creature — Avatar
+Pow/Tgh:  (6/6)
+Rules Text:   If an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.
+Flying
+{R}: Avatar of Fury gets +1/+0 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Prophecy Rare
+
+Name:   Avatar of Slaughter
+Cost:   6RR
+Type:   Creature — Avatar
+Pow/Tgh:  (8/8)
+Rules Text:   All creatures have double strike and attack each turn if able.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Avatar of Woe
+Cost:   6BB
+Type:   Creature — Avatar
+Pow/Tgh:  (6/5)
+Rules Text:   If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Archenemy Rare, Time Spiral "Timeshifted" Special, Prophecy Rare
+
+Name:   Awakening Zone
+Cost:   2G
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:   Magic: The Gathering-Commander Rare, Rise of the Eldrazi Rare
+
+Name:   Azorius Chancery
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{U} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Azorius Guildmage
+Cost:   (W/U)(W/U)
+Type:   Creature — Vedalken Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   {2}{W}: Tap target creature.
+{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Dissension Uncommon
+
+Name:   Baloth Woodcrasher
+Cost:   4GG
+Type:   Creature — Beast
+Pow/Tgh:  (4/4)
+Rules Text:   Landfall — Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Barren Moor
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Barren Moor enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Duel Decks: Divine vs. Demonic Common, Onslaught Common
+
+Name:   Basandra, Battle Seraph
+Cost:   3RW
+Type:   Legendary Creature — Angel
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+Players can't cast spells during combat.
+{R}: Target creature attacks this turn if able.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Bathe in Light
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Bestial Menace
+Cost:   3GG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Worldwake Uncommon
+
+Name:   Bladewing the Risen
+Cost:   3BBRR
+Type:   Legendary Creature — Zombie Dragon
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.
+{B}{R}: Dragon creatures get +1/+1 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, From the Vault: Dragons Rare, Scourge Rare
+
+Name:   Bojuka Bog
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+{T}: Add {B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Worldwake Common
+
+Name:   Boros Garrison
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Boros Garrison enters the battlefield tapped.
+When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{W} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Ravnica: City of Guilds Common
+
+Name:   Boros Guildmage
+Cost:   (R/W)(R/W)
+Type:   Creature — Human Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   {1}{R}: Target creature gains haste until end of turn.
+{1}{W}: Target creature gains first strike until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Boros Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {R}{W} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Ravnica: City of Guilds Common
+
+Name:   Brainstorm
+Cost:   U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Draw three cards, then put two cards from your hand on top of your library in any order.
+Set/Rarity:   Magic: The Gathering-Commander Common, Masters Edition II Common, Beatdown Box Set Common, Mercadian Masques Common, Fifth Edition Common, Ice Age Common
+
+Name:   Brawn
+Cost:   3G
+Type:   Creature — Incarnation
+Pow/Tgh:  (3/3)
+Rules Text:   Trample
+As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Judgment Uncommon
+
+Name:   Breath of Darigaaz
+Cost:   1R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Knights vs. Dragons Uncommon, Archenemy Uncommon, Invasion Uncommon
+
+Name:   Brion Stoutarm
+Cost:   2RW
+Type:   Legendary Creature — Giant Warrior
+Pow/Tgh:  (4/4)
+Rules Text:   Lifelink
+{R}, {T}, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Lorwyn Rare
+
+Name:   Buried Alive
+Cost:   2B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Odyssey Uncommon, Weatherlight Uncommon
+
+Name:   Butcher of Malakir
+Cost:   5BB
+Type:   Creature — Vampire Warrior
+Pow/Tgh:  (5/4)
+Rules Text:   Flying
+Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Worldwake Rare
+
+Name:   Call the Skybreaker
+Cost:   5(U/R)(U/R)
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put a 5/5 blue and red Elemental creature token with flying onto the battlefield.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)
+Set/Rarity:   Magic: The Gathering-Commander Rare, Eventide Rare
+
+Name:   Celestial Force
+Cost:   5WWW
+Type:   Creature — Elemental
+Pow/Tgh:  (7/7)
+Rules Text:   At the beginning of each upkeep, you gain 3 life.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Chain Reaction
+Cost:   2RR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Worldwake Rare
+
+Name:   Champion's Helm
+Cost:   3
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +2/+2.
+As long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)
+Equip {1}
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Chaos Warp
+Cost:   2R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Chartooth Cougar
+Cost:   5R
+Type:   Creature — Cat Beast
+Pow/Tgh:  (4/4)
+Rules Text:   {R}: Chartooth Cougar gets +1/+0 until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Scourge Common
+
+Name:   Chorus of the Conclave
+Cost:   4GGWW
+Type:   Legendary Creature — Dryad
+Pow/Tgh:  (3/8)
+Rules Text:   Forestwalk
+As an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters the battlefield with that many additional +1/+1 counters on it.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Chromeshell Crab
+Cost:   4U
+Type:   Creature — Crab Beast
+Pow/Tgh:  (3/3)
+Rules Text:   Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Legions Rare
+
+Name:   Cleansing Beam
+Cost:   4R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Radiance — Cleansing Beam deals 2 damage to target creature and each other creature that shares a color with it.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Cobra Trap
+Cost:   4GG
+Type:   Instant — Trap
+Pow/Tgh:  
+Rules Text:   If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.
+Put four 1/1 green Snake creature tokens onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Collective Voyage
+Cost:   G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Join forces — Starting with you, each player may pay any amount of mana. Each player searches his or her library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles his or her library.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Colossal Might
+Cost:   RG
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target creature gets +4/+2 and gains trample until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Alara Reborn Common
+
+Name:   Comet Storm
+Cost:   XRR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare, Worldwake Mythic Rare
+
+Name:   Command Tower
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add to your mana pool one mana of any color in your commander's color identity.
+Set/Rarity:   Magic: The Gathering-Commander Common
+
+Name:   Congregate
+Cost:   3W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target player gains 2 life for each creature on the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Urza's Saga Common
+
+Name:   Conundrum Sphinx
+Cost:   2UU
+Type:   Creature — Sphinx
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+Whenever Conundrum Sphinx attacks, each player names a card. Then each player reveals the top card of his or her library. If the card a player revealed is the card he or she named, that player puts it into his or her hand. If it's not, that player puts it on the bottom of his or her library.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Magic 2011 Rare
+
+Name:   Court Hussar
+Cost:   2U
+Type:   Creature — Vedalken Knight
+Pow/Tgh:  (1/3)
+Rules Text:   Vigilance
+When Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.
+When Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Dissension Uncommon
+
+Name:   Crescendo of War
+Cost:   3W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   At the beginning of each upkeep, put a strife counter on Crescendo of War.
+Attacking creatures get +1/+0 for each strife counter on Crescendo of War.
+Blocking creatures you control get +1/+0 for each strife counter on Crescendo of War.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Cultivate
+Cost:   2G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Magic 2011 Common
+
+Name:   Damia, Sage of Stone
+Cost:   4GUB
+Type:   Legendary Creature — Gorgon Wizard
+Pow/Tgh:  (4/4)
+Rules Text:   Deathtouch
+Skip your draw step.
+At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Dark Hatchling
+Cost:   4BB
+Type:   Creature — Horror
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Urza's Saga Rare
+
+Name:   Darksteel Ingot
+Cost:   3
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   Darksteel Ingot is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Darksteel Common
+
+Name:   Deadly Recluse
+Cost:   1G
+Type:   Creature — Spider
+Pow/Tgh:  (1/2)
+Rules Text:   Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Magic 2010 Common
+
+Name:   Deadwood Treefolk
+Cost:   5G
+Type:   Creature — Treefolk
+Pow/Tgh:  (3/6)
+Rules Text:   Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planar Chaos Uncommon
+
+Name:   Death by Dragons
+Cost:   4RR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each player other than target player puts a 5/5 red Dragon creature token with flying onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Death Mutation
+Cost:   6BG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy target nonblack creature. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Apocalypse Uncommon
+
+Name:   Desecrator Hag
+Cost:   2(B/G)(B/G)
+Type:   Creature — Hag
+Pow/Tgh:  (2/2)
+Rules Text:   When Desecrator Hag enters the battlefield, return to your hand the creature card in your graveyard with the greatest power. If two or more cards are tied for greatest power, you choose one of them.
+Set/Rarity:   Magic: The Gathering-Commander Common, Eventide Common
+
+Name:   Diabolic Tutor
+Cost:   2BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity:   Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+Name:   Dimir Aqueduct
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Dimir Aqueduct enters the battlefield tapped.
+When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Dimir Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {U}{B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Ravnica: City of Guilds Common
+
+Name:   Disaster Radius
+Cost:   5RR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   As an additional cost to cast Disaster Radius, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Rise of the Eldrazi Rare
+
+Name:   Dominus of Fealty
+Cost:   (U/R)(U/R)(U/R)(U/R)(U/R)
+Type:   Creature — Spirit Avatar
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+At the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Eventide Rare
+
+Name:   Doom Blade
+Cost:   1B
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target nonblack creature.
+Set/Rarity:   Magic 2012 Common, Magic: The Gathering-Commander Common, Magic 2011 Common, Magic 2010 Common
+
+Name:   Dragon Whelp
+Cost:   2RR
+Type:   Creature — Dragon
+Pow/Tgh:  (2/3)
+Rules Text:   Flying
+{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Knights vs. Dragons Uncommon, Archenemy Uncommon, Magic 2010 Uncommon, From the Vault: Dragons Rare, Time Spiral "Timeshifted" Special, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name:   Dread Cacodemon
+Cost:   7BBB
+Type:   Creature — Demon
+Pow/Tgh:  (8/8)
+Rules Text:   When Dread Cacodemon enters the battlefield, if you cast it from your hand, destroy all creatures your opponents control, then tap all other creatures you control.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Dreadship Reef
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{1}, {T}: Put a storage counter on Dreadship Reef.
+{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon
+
+Name:   Dreamborn Muse
+Cost:   2UU
+Type:   Creature — Spirit
+Pow/Tgh:  (2/2)
+Rules Text:   At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Tenth Edition Rare, Legions Rare
+
+Name:   Dreamstone Hedron
+Cost:   6
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {T}: Add {3} to your mana pool.
+{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Rise of the Eldrazi Uncommon
+
+Name:   Duergar Hedge-Mage
+Cost:   2(R/W)
+Type:   Creature — Dwarf Shaman
+Pow/Tgh:  (2/2)
+Rules Text:   When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.
+When Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Eventide Uncommon
+
+Name:   Earthquake
+Cost:   XR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Earthquake deals X damage to each creature without flying and each player.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Magic 2010 Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name:   Edric, Spymaster of Trest
+Cost:   1GU
+Type:   Legendary Creature — Elf Rogue
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Electrolyze
+Cost:   1UR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Guildpact Uncommon
+
+Name:   Elvish Aberration
+Cost:   5G
+Type:   Creature — Elf Mutant
+Pow/Tgh:  (4/5)
+Rules Text:   {T}: Add {G}{G}{G} to your mana pool.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Scourge Uncommon
+
+Name:   Eternal Witness
+Cost:   1GG
+Type:   Creature — Human Shaman
+Pow/Tgh:  (2/1)
+Rules Text:   When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Fifth Dawn Uncommon
+
+Name:   Evincar's Justice
+Cost:   2BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Evincar's Justice deals 2 damage to each creature and each player.
+Set/Rarity:   Magic: The Gathering-Commander Common, Tempest Common
+
+Name:   Evolving Wilds
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:   Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Rise of the Eldrazi Common
+
+Name:   Explosive Vegetation
+Cost:   3G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Onslaught Uncommon
+
+Name:   Extractor Demon
+Cost:   4BB
+Type:   Creature — Demon
+Pow/Tgh:  (5/5)
+Rules Text:   Flying
+Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Set/Rarity:   Magic: The Gathering-Commander Rare, Archenemy Rare, Conflux Rare
+
+Name:   Fact or Fiction
+Cost:   3U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Invasion Uncommon
+
+Name:   Fallen Angel
+Cost:   3BB
+Type:   Creature — Angel
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Duel Decks: Divine vs. Demonic Rare, Eighth Edition Rare, Seventh Edition Rare, Beatdown Box Set Rare, Classic Sixth Edition Rare, Fifth Edition Uncommon, Chronicles Uncommon, Legends Uncommon
+
+Name:   False Prophet
+Cost:   2WW
+Type:   Creature — Human Cleric
+Pow/Tgh:  (2/2)
+Rules Text:   When False Prophet dies, exile all creatures.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Urza's Destiny Rare, Promo set for Gatherer Rare
+
+Name:   Faultgrinder
+Cost:   6R
+Type:   Creature — Elemental
+Pow/Tgh:  (4/4)
+Rules Text:   Trample
+When Faultgrinder enters the battlefield, destroy target land.
+Evoke {4}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Lorwyn Common
+
+Name:   Fellwar Stone
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Masters Edition III Common, Ninth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, The Dark Uncommon
+
+Name:   Fertilid
+Cost:   2G
+Type:   Creature — Elemental
+Pow/Tgh:  (0/0)
+Rules Text:   Fertilid enters the battlefield with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Planechase Common, Morningtide Common
+
+Name:   Fierce Empath
+Cost:   2G
+Type:   Creature — Elf
+Pow/Tgh:  (1/1)
+Rules Text:   When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Scourge Common
+
+Name:   Fire // Ice
+Cost:   1R // 1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Fire deals 2 damage divided as you choose among one or two target creatures and/or players.
+//
+Tap target permanent.
+Draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Apocalypse Uncommon, Apocalypse Uncommon
+
+Name:   Firespout
+Cost:   2(R/G)
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Firespout deals 3 damage to each creature without flying if {R} was spent to cast Firespout and 3 damage to each creature with flying if {G} was spent to cast it. (Do both if {R}{G} was spent.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Shadowmoor Uncommon
+
+Name:   Fists of Ironwood
+Cost:   1G
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+When Fists of Ironwood enters the battlefield, put two 1/1 green Saproling creature tokens onto the battlefield.
+Enchanted creature has trample.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Flametongue Kavu
+Cost:   3R
+Type:   Creature — Kavu
+Pow/Tgh:  (4/2)
+Rules Text:   When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Planeshift Uncommon
+
+Name:   Fleshbag Marauder
+Cost:   2B
+Type:   Creature — Zombie Warrior
+Pow/Tgh:  (3/1)
+Rules Text:   When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Shards of Alara Uncommon
+
+Name:   Flusterstorm
+Cost:   U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target instant or sorcery spell unless its controller pays {1}.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Fog Bank
+Cost:   1U
+Type:   Creature — Wall
+Pow/Tgh:  (0/2)
+Rules Text:   Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Urza's Saga Uncommon
+
+Name:   Footbottom Feast
+Cost:   2B
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Common, Lorwyn Common
+
+Name:   Forest
+Cost:   
+Type:   Basic Land — Forest
+Pow/Tgh:  
+Rules Text:   G
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Forgotten Cave
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Forgotten Cave enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+Cycling {R} ({R}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Elves vs. Goblins Common, Onslaught Common
+
+Name:   Fungal Reaches
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{1}, {T}: Put a storage counter on Fungal Reaches.
+{1}, Remove X storage counters from Fungal Reaches: Add X mana in any combination of {R} and/or {G} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon
+
+Name:   Furnace Whelp
+Cost:   2RR
+Type:   Creature — Dragon
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+{R}: Furnace Whelp gets +1/+0 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Duel Decks: Jace vs. Chandra Uncommon, Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+Name:   Garruk Wildspeaker
+Cost:   2GG
+Type:   Planeswalker — Garruk
+Loyalty:  (3)
+Rules Text:   +1: Untap two target lands.
+-1: Put a 3/3 green Beast creature token onto the battlefield.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare, Magic 2011 Mythic Rare, Duel Decks: Garruk vs. Liliana Mythic Rare, Magic 2010 Mythic Rare, Lorwyn Rare
+
+Name:   Ghave, Guru of Spores
+Cost:   2BGW
+Type:   Legendary Creature — Fungus Shaman
+Pow/Tgh:  (0/0)
+Rules Text:   Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from a creature you control: Put a 1/1 green Saproling creature token onto the battlefield.
+{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Ghostly Prison
+Cost:   2W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Champions of Kamigawa Uncommon
+
+Name:   Goblin Cadets
+Cost:   R
+Type:   Creature — Goblin
+Pow/Tgh:  (2/1)
+Rules Text:   Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Urza's Saga Uncommon
+
+Name:   Golgari Guildmage
+Cost:   (B/G)(B/G)
+Type:   Creature — Elf Shaman
+Pow/Tgh:  (2/2)
+Rules Text:   {4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.
+{4}{G}: Put a +1/+1 counter on target creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Golgari Rot Farm
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Golgari Rot Farm enters the battlefield tapped.
+When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{G} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Golgari Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {B}{G} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Gomazoa
+Cost:   2U
+Type:   Creature — Jellyfish
+Pow/Tgh:  (0/3)
+Rules Text:   Defender, flying
+{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Grave Pact
+Cost:   1BBB
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever a creature you control dies, each other player sacrifices a creature.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planechase Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Stronghold Rare
+
+Name:   Gravedigger
+Cost:   3B
+Type:   Creature — Zombie
+Pow/Tgh:  (2/2)
+Rules Text:   When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Set/Rarity:   Magic 2012 Common, Magic: The Gathering-Commander Common, Magic 2011 Common, Planechase Common, Magic 2010 Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common, Seventh Edition Common, Beatdown Box Set Common, Starter 1999 Uncommon, Classic Sixth Edition Common, Tempest Common, Portal Uncommon
+
+Name:   Gruul Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {R}{G} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Guildpact Common
+
+Name:   Gruul Turf
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Gruul Turf enters the battlefield tapped.
+When Gruul Turf enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{G} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Guildpact Common
+
+Name:   Guard Gomazoa
+Cost:   2U
+Type:   Creature — Jellyfish
+Pow/Tgh:  (1/3)
+Rules Text:   Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Rise of the Eldrazi Uncommon
+
+Name:   Gwyllion Hedge-Mage
+Cost:   2(W/B)
+Type:   Creature — Hag Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.
+When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Eventide Uncommon
+
+Name:   Harmonize
+Cost:   2GG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Draw three cards.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Duel Decks: Elves vs. Goblins Uncommon, Planar Chaos Uncommon
+
+Name:   Hex
+Cost:   4BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy six target creatures.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Homeward Path
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{T}: Each player gains control of all creatures he or she owns.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Hornet Queen
+Cost:   4GGG
+Type:   Creature — Insect
+Pow/Tgh:  (2/2)
+Rules Text:   Flying, deathtouch
+When Hornet Queen enters the battlefield, put four 1/1 green Insect creature tokens with flying and deathtouch onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Hour of Reckoning
+Cost:   4WWW
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Convoke (Each creature you tap while casting this spell reduces its cost by {1} or by one mana of that creature's color.)
+Destroy all nontoken creatures.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Howling Mine
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Magic 2010 Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+Name:   Hull Breach
+Cost:   RG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Choose one — Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Planeshift Common
+
+Name:   Hunting Pack
+Cost:   5GG
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Put a 4/4 green Beast creature token onto the battlefield.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Scourge Uncommon
+
+Name:   Hydra Omnivore
+Cost:   4GG
+Type:   Creature — Hydra
+Pow/Tgh:  (8/8)
+Rules Text:   Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Insurrection
+Cost:   5RRR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planechase Rare, Onslaught Rare
+
+Name:   Intet, the Dreamer
+Cost:   3URG
+Type:   Legendary Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Invigorate
+Cost:   2G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.
+Target creature gets +4/+4 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Garruk vs. Liliana Common, Mercadian Masques Common
+
+Name:   Island
+Cost:   
+Type:   Basic Land — Island
+Pow/Tgh:  
+Rules Text:   U
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Izzet Boilerworks
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Guildpact Common
+
+Name:   Izzet Chronarch
+Cost:   3UR
+Type:   Creature — Human Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+Set/Rarity:   Magic: The Gathering-Commander Common, Guildpact Common
+
+Name:   Izzet Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {U}{R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Guildpact Common
+
+Name:   Jötun Grunt
+Cost:   1W
+Type:   Creature — Giant Soldier
+Pow/Tgh:  (4/4)
+Rules Text:   Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Coldsnap Uncommon
+
+Name:   Journey to Nowhere
+Cost:   1W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Elspeth vs. Tezzeret Common, Zendikar Common
+
+Name:   Jwar Isle Refuge
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Jwar Isle Refuge enters the battlefield tapped.
+When Jwar Isle Refuge enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Kaalia of the Vast
+Cost:   1WBR
+Type:   Legendary Creature — Human Cleric
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Karador, Ghost Chieftain
+Cost:   5BGW
+Type:   Legendary Creature — Centaur Spirit
+Pow/Tgh:  (3/4)
+Rules Text:   Karador, Ghost Chieftain costs {1} less to cast for each creature card in your graveyard.
+During each of your turns, you may cast one creature card from your graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Kazandu Refuge
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Kazandu Refuge enters the battlefield tapped.
+When Kazandu Refuge enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:   Duel Decks: Ajani vs. Nicol Bolas Uncommon, Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Zendikar Uncommon
+
+Name:   Kodama's Reach
+Cost:   2G
+Type:   Sorcery — Arcane
+Pow/Tgh:  
+Rules Text:   Search your library for two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Champions of Kamigawa Common
+
+Name:   Krosan Tusker
+Cost:   5GG
+Type:   Creature — Boar Beast
+Pow/Tgh:  (6/5)
+Rules Text:   Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Duel Decks: Garruk vs. Liliana Common, Onslaught Common
+
+Name:   Lash Out
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Lorwyn Common
+
+Name:   Lhurgoyf
+Cost:   2GG
+Type:   Creature — Lhurgoyf
+Pow/Tgh:  (*/1+*)
+Rules Text:   Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Eighth Edition Rare, Battle Royale Box Set Rare, Fifth Edition Rare, Ice Age Rare
+
+Name:   Lightkeeper of Emeria
+Cost:   3W
+Type:   Creature — Angel
+Pow/Tgh:  (2/4)
+Rules Text:   Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)
+Flying
+When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Worldwake Uncommon
+
+Name:   Lightning Greaves
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Duel Decks: Phyrexia vs. the Coalition Uncommon, Mirrodin Uncommon
+
+Name:   Living Death
+Cost:   3BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Duel Decks: Phyrexia vs. the Coalition Rare, Battle Royale Box Set Rare, Tempest Rare
+
+Name:   Lonely Sandbar
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Lonely Sandbar enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+Cycling {U} ({U}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Onslaught Common
+
+Name:   Magmatic Force
+Cost:   5RRR
+Type:   Creature — Elemental
+Pow/Tgh:  (7/7)
+Rules Text:   At the beginning of each upkeep, Magmatic Force deals 3 damage to target creature or player.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Magus of the Vineyard
+Cost:   G
+Type:   Creature — Human Wizard
+Pow/Tgh:  (1/1)
+Rules Text:   At the beginning of each player's precombat main phase, add {G}{G} to that player's mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Future Sight Rare
+
+Name:   Malfegor
+Cost:   2BBRR
+Type:   Legendary Creature — Demon Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare, Conflux Mythic Rare
+
+Name:   Mana-Charged Dragon
+Cost:   4RR
+Type:   Creature — Dragon
+Pow/Tgh:  (5/5)
+Rules Text:   Flying, trample
+Join forces — Whenever Mana-Charged Dragon attacks or blocks, each player starting with you may pay any amount of mana. Mana-Charged Dragon gets +X/+0 until end of turn, where X is the total amount of mana paid this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Martyr's Bond
+Cost:   4WW
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever Martyr's Bond or another nonland permanent you control is put into a graveyard from the battlefield, each opponent sacrifices a permanent that shares a card type with it.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Master Warcraft
+Cost:   2(R/W)(R/W)
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Cast Master Warcraft only before attackers are declared.
+You choose which creatures attack this turn. You choose how each creature blocks this turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Memory Erosion
+Cost:   1UU
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever an opponent casts a spell, that player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Shards of Alara Rare
+
+Name:   Minds Aglow
+Cost:   U
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Join forces — Starting with you, each player may pay any amount of mana. Each player draws X cards, where X is the total amount of mana paid this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Molten Slagheap
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{1}, {T}: Put a storage counter on Molten Slagheap.
+{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon
+
+Name:   Monk Realist
+Cost:   1W
+Type:   Creature — Human Monk Cleric
+Pow/Tgh:  (1/1)
+Rules Text:   When Monk Realist enters the battlefield, destroy target enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Common, Urza's Saga Common
+
+Name:   Mortify
+Cost:   1WB
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target creature or enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Guildpact Uncommon
+
+Name:   Mortivore
+Cost:   2BB
+Type:   Creature — Lhurgoyf
+Pow/Tgh:  (*/*)
+Rules Text:   Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Tenth Edition Rare, Ninth Edition Rare, Odyssey Rare
+
+Name:   Mother of Runes
+Cost:   W
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/1)
+Rules Text:   {T}: Target creature you control gains protection from the color of your choice until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Urza's Legacy Uncommon
+
+Name:   Mountain
+Cost:   
+Type:   Basic Land — Mountain
+Pow/Tgh:  
+Rules Text:   R
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Mulldrifter
+Cost:   4U
+Type:   Creature — Elemental
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Lorwyn Common
+
+Name:   Murmurs from Beyond
+Cost:   2U
+Type:   Instant — Arcane
+Pow/Tgh:  
+Rules Text:   Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.
+Set/Rarity:   Magic: The Gathering-Commander Common, Saviors of Kamigawa Common
+
+Name:   Nantuko Husk
+Cost:   2B
+Type:   Creature — Zombie Insect
+Pow/Tgh:  (2/2)
+Rules Text:   Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Tenth Edition Uncommon, Ninth Edition Uncommon, Onslaught Common
+
+Name:   Necrogenesis
+Cost:   BG
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   {2}: Exile target creature card from a graveyard. Put a 1/1 green Saproling creature token onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Shards of Alara Uncommon
+
+Name:   Nemesis Trap
+Cost:   4BB
+Type:   Instant — Trap
+Pow/Tgh:  
+Rules Text:   If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.
+Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Worldwake Uncommon
+
+Name:   Nezumi Graverobber // Nighteyes the Desecrator
+Cost:   1B
+Type:   Creature — Rat Rogue // Legendary Creature — Rat Wizard
+Pow/Tgh:  (2/1) // (4/2)
+Rules Text:   {1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.
+// {4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Champions of Kamigawa Uncommon
+
+Name:   Nin, the Pain Artist
+Cost:   UR
+Type:   Legendary Creature — Vedalken Wizard
+Pow/Tgh:  (1/1)
+Rules Text:   {X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Nucklavee
+Cost:   4(U/R)(U/R)
+Type:   Creature — Beast
+Pow/Tgh:  (4/4)
+Rules Text:   When Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.
+When Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Eventide Uncommon
+
+Name:   Numot, the Devastator
+Cost:   3RWU
+Type:   Legendary Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Oblation
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   The owner of target nonland permanent shuffles it into his or her library, then draws two cards.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Onslaught Rare
+
+Name:   Oblivion Ring
+Cost:   2W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Set/Rarity:   Magic 2012 Uncommon, Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Archenemy Common, Planechase Common, Shards of Alara Common, Lorwyn Common
+
+Name:   Oblivion Stone
+Cost:   3
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {4}, {T}: Put a fate counter on target permanent.
+{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Mirrodin Rare
+
+Name:   Oni of Wild Places
+Cost:   5R
+Type:   Creature — Demon Spirit
+Pow/Tgh:  (6/5)
+Rules Text:   Haste
+At the beginning of your upkeep, return a red creature you control to its owner's hand.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Saviors of Kamigawa Uncommon
+
+Name:   Orim's Thunder
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Destroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Apocalypse Common
+
+Name:   Oros, the Avenger
+Cost:   3WBR
+Type:   Legendary Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Orzhov Basilica
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Guildpact Common
+
+Name:   Orzhov Guildmage
+Cost:   (W/B)(W/B)
+Type:   Creature — Human Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   {2}{W}: Target player gains 1 life.
+{2}{B}: Each player loses 1 life.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Guildpact Uncommon
+
+Name:   Orzhov Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {W}{B} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Guildpact Common
+
+Name:   Path to Exile
+Cost:   W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Conflux Uncommon
+
+Name:   Patron of the Nezumi
+Cost:   5BB
+Type:   Legendary Creature — Spirit
+Pow/Tgh:  (6/6)
+Rules Text:   Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+Whenever a permanent is put into an opponent's graveyard, that player loses 1 life.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Betrayers of Kamigawa Rare
+
+Name:   Penumbra Spider
+Cost:   2GG
+Type:   Creature — Spider
+Pow/Tgh:  (2/4)
+Rules Text:   Reach (This creature can block creatures with flying.)
+When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Common, Time Spiral Common
+
+Name:   Perilous Research
+Cost:   1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Draw two cards, then sacrifice a permanent.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Coldsnap Uncommon
+
+Name:   Plains
+Cost:   
+Type:   Basic Land — Plains
+Pow/Tgh:  
+Rules Text:   W
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Plumeveil
+Cost:   (W/U)(W/U)(W/U)
+Type:   Creature — Elemental
+Pow/Tgh:  (4/4)
+Rules Text:   Flash (You may cast this spell any time you could cast an instant.)
+Defender, flying
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Shadowmoor Uncommon
+
+Name:   Pollen Lullaby
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Lorwyn Uncommon
+
+Name:   Prison Term
+Cost:   1WW
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Whenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planechase Uncommon, Shadowmoor Uncommon
+
+Name:   Propaganda
+Cost:   2U
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Tempest Uncommon
+
+Name:   Prophetic Bolt
+Cost:   3UR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Apocalypse Rare
+
+Name:   Prophetic Prism
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Rise of the Eldrazi Common
+
+Name:   Punishing Fire
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Punishing Fire deals 2 damage to target creature or player.
+Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Knights vs. Dragons Uncommon, Zendikar Uncommon
+
+Name:   Pyrohemia
+Cost:   2RR
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.
+{R}: Pyrohemia deals 1 damage to each creature and each player.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Planar Chaos Uncommon
+
+Name:   Rakdos Carnarium
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Rakdos Carnarium enters the battlefield tapped.
+When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Dissension Common
+
+Name:   Rakdos Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {B}{R} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Dissension Common
+
+Name:   Rapacious One
+Cost:   5R
+Type:   Creature — Eldrazi Drone
+Pow/Tgh:  (5/4)
+Rules Text:   Trample
+Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Rise of the Eldrazi Uncommon
+
+Name:   Ray of Command
+Cost:   3U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+Set/Rarity:   Magic: The Gathering-Commander Common, Masters Edition II Uncommon, Battle Royale Box Set Common, Fifth Edition Common, Mirage Common, Ice Age Common
+
+Name:   Razorjaw Oni
+Cost:   3B
+Type:   Creature — Demon Spirit
+Pow/Tgh:  (4/5)
+Rules Text:   Black creatures can't block.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Saviors of Kamigawa Uncommon
+
+Name:   Reins of Power
+Cost:   2UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Untap all creatures you control and all creatures target opponent controls. You and that opponent each gain control of all creatures the other controls until end of turn. Those creatures gain haste until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Stronghold Rare
+
+Name:   Reiver Demon
+Cost:   4BBBB
+Type:   Creature — Demon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Duel Decks: Divine vs. Demonic Rare, Mirrodin Rare
+
+Name:   Relic Crush
+Cost:   4G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Common, Zendikar Common
+
+Name:   Repulse
+Cost:   2U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Return target creature to its owner's hand.
+Draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Jace vs. Chandra Common, Invasion Common
+
+Name:   Return to Dust
+Cost:   2WW
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon
+
+Name:   Riddlekeeper
+Cost:   2U
+Type:   Creature — Homunculus
+Pow/Tgh:  (1/4)
+Rules Text:   Whenever a creature attacks you or a planeswalker you control, that creature's controller puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Righteous Cause
+Cost:   3WW
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever a creature attacks, you gain 1 life.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Duel Decks: Divine vs. Demonic Uncommon, Onslaught Uncommon
+
+Name:   Riku of Two Reflections
+Cost:   2URG
+Type:   Legendary Creature — Human Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.
+Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, put a token that's a copy of that creature onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Rise from the Grave
+Cost:   4B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Magic 2011 Uncommon, Duel Decks: Garruk vs. Liliana Uncommon, Magic 2010 Uncommon
+
+Name:   Ruhan of the Fomori
+Cost:   1RWU
+Type:   Legendary Creature — Giant Warrior
+Pow/Tgh:  (7/7)
+Rules Text:   At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Ruination
+Cost:   3R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy all nonbasic lands.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Stronghold Rare
+
+Name:   Rupture Spire
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Rupture Spire enters the battlefield tapped.
+When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity:   Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Premium Deck Series: Slivers Common, Conflux Common
+
+Name:   Sakura-Tribe Elder
+Cost:   1G
+Type:   Creature — Snake Shaman
+Pow/Tgh:  (1/1)
+Rules Text:   Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Champions of Kamigawa Common
+
+Name:   Savage Twister
+Cost:   XRG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Savage Twister deals X damage to each creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Planechase Uncommon, Guildpact Uncommon, Mirage Uncommon
+
+Name:   Scattering Stroke
+Cost:   2UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add {X} to your mana pool, where X is that spell's converted mana cost. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Lorwyn Uncommon
+
+Name:   Scavenging Ooze
+Cost:   1G
+Type:   Creature — Ooze
+Pow/Tgh:  (2/2)
+Rules Text:   {G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Scythe Specter
+Cost:   4BB
+Type:   Creature — Specter
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest converted mana cost among cards discarded this way loses life equal to that converted mana cost.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Secluded Steppe
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Secluded Steppe enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Duel Decks: Divine vs. Demonic Common, Onslaught Common
+
+Name:   Selesnya Evangel
+Cost:   GW
+Type:   Creature — Elf Shaman
+Pow/Tgh:  (1/2)
+Rules Text:   {1}, {T}, Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Selesnya Guildmage
+Cost:   (G/W)(G/W)
+Type:   Creature — Elf Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   {3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Selesnya Sanctuary
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Selesnya Sanctuary enters the battlefield tapped.
+When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{W} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Knights vs. Dragons Common, Ravnica: City of Guilds Common
+
+Name:   Selesnya Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {G}{W} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Ravnica: City of Guilds Common
+
+Name:   Serra Angel
+Cost:   3WW
+Type:   Creature — Angel
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:   Magic 2012 Uncommon, Magic: The Gathering-Commander Uncommon, Masters Edition IV Uncommon, Magic 2011 Uncommon, Magic 2010 Uncommon, Duel Decks: Divine vs. Demonic Rare, Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name:   Sewer Nemesis
+Cost:   3B
+Type:   Creature — Horror
+Pow/Tgh:  (*/*)
+Rules Text:   As Sewer Nemesis enters the battlefield, choose a player.
+Sewer Nemesis's power and toughness are each equal to the number of cards in the chosen player's graveyard.
+Whenever the chosen player casts a spell, that player puts the top card of his or her library into his or her graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Shared Trauma
+Cost:   B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Join forces — Starting with you, each player may pay any amount of mana. Each player puts the top X cards of his or her library into his or her graveyard, where X is the total amount of mana paid this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Shattered Angel
+Cost:   3WW
+Type:   Creature — Angel
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, New Phyrexia Uncommon
+
+Name:   Shriekmaw
+Cost:   4B
+Type:   Creature — Elemental
+Pow/Tgh:  (3/2)
+Rules Text:   Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+Set/Rarity:   Duel Decks: Ajani vs. Nicol Bolas Uncommon, Magic: The Gathering-Commander Uncommon, Archenemy Uncommon, Lorwyn Uncommon
+
+Name:   Sigil Captain
+Cost:   1GWW
+Type:   Creature — Rhino Soldier
+Pow/Tgh:  (3/3)
+Rules Text:   Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon
+
+Name:   Sign in Blood
+Cost:   BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Target player draws two cards and loses 2 life.
+Set/Rarity:   Magic: The Gathering-Commander Common, Magic 2011 Common, Archenemy Common, Duel Decks: Garruk vs. Liliana Common, Magic 2010 Common
+
+Name:   Simic Growth Chamber
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Simic Growth Chamber enters the battlefield tapped.
+When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{U} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Simic Signet
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}: Add {G}{U} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Simic Sky Swallower
+Cost:   5GU
+Type:   Creature — Leviathan
+Pow/Tgh:  (6/6)
+Rules Text:   Flying, trample
+Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity:   Magic: The Gathering-Commander Rare, Dissension Rare
+
+Name:   Skullbriar, the Walking Grave
+Cost:   BG
+Type:   Legendary Creature — Zombie Elemental
+Pow/Tgh:  (1/1)
+Rules Text:   Haste
+Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it.
+Counters remain on Skullbriar as it moves to any zone other than a player's hand or library.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Skullclamp
+Cost:   1
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, From the Vault: Exiled Mythic Rare, Darksteel Uncommon
+
+Name:   Skyscribing
+Cost:   XUU
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each player draws X cards.
+Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Dissension Uncommon
+
+Name:   Slipstream Eel
+Cost:   5UU
+Type:   Creature — Fish Beast
+Pow/Tgh:  (6/6)
+Rules Text:   Slipstream Eel can't attack unless defending player controls an Island.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Onslaught Common
+
+Name:   Sol Ring
+Cost:   1
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {T}: Add {2} to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Masters Edition IV Rare, From the Vault: Relics Mythic Rare, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+Name:   Solemn Simulacrum
+Cost:   4
+Type:   Artifact Creature — Golem
+Pow/Tgh:  (2/2)
+Rules Text:   When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+When Solemn Simulacrum dies, you may draw a card.
+Set/Rarity:   Magic 2012 Rare, Magic: The Gathering-Commander Rare, Mirrodin Rare
+
+Name:   Soul Snare
+Cost:   W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   {W}, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Spawnwrithe
+Cost:   2G
+Type:   Creature — Elemental
+Pow/Tgh:  (2/2)
+Rules Text:   Trample
+Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Shadowmoor Rare
+
+Name:   Spell Crumple
+Cost:   1UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target spell. If that spell is countered this way, put it on the bottom of its owner's library instead of into that player's graveyard. Put Spell Crumple on the bottom of its owner's library.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Spike Feeder
+Cost:   1GG
+Type:   Creature — Spike
+Pow/Tgh:  (0/0)
+Rules Text:   Spike Feeder enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral "Timeshifted" Special, Battle Royale Box Set Uncommon, Stronghold Uncommon
+
+Name:   Spitebellows
+Cost:   5R
+Type:   Creature — Elemental
+Pow/Tgh:  (6/1)
+Rules Text:   When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
+Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Morningtide Uncommon
+
+Name:   Spurnmage Advocate
+Cost:   W
+Type:   Creature — Human Nomad
+Pow/Tgh:  (1/1)
+Rules Text:   {T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Judgment Uncommon
+
+Name:   Squallmonger
+Cost:   3G
+Type:   Creature — Monger
+Pow/Tgh:  (3/3)
+Rules Text:   {2}: Squallmonger deals 1 damage to each creature with flying and each player. Any player may activate this ability.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Mercadian Masques Uncommon
+
+Name:   Stitch Together
+Cost:   BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return target creature card from your graveyard to your hand.
+Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Judgment Uncommon
+
+Name:   Storm Herd
+Cost:   8WW
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Guildpact Rare
+
+Name:   Stranglehold
+Cost:   3R
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Your opponents can't search libraries.
+If an opponent would begin an extra turn, that player skips that turn instead.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Sulfurous Blast
+Cost:   2RR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Sulfurous Blast deals 2 damage to each creature and each player. If you cast this spell during your main phase, Sulfurous Blast deals 3 damage to each creature and each player instead.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Time Spiral Uncommon
+
+Name:   Svogthos, the Restless Tomb
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with "This creature's power and toughness are each equal to the number of creature cards in your graveyard." It's still a land.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Ravnica: City of Guilds Uncommon
+
+Name:   Swamp
+Cost:   
+Type:   Basic Land — Swamp
+Pow/Tgh:  
+Rules Text:   B
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Symbiotic Wurm
+Cost:   5GGG
+Type:   Creature — Wurm
+Pow/Tgh:  (7/7)
+Rules Text:   When Symbiotic Wurm dies, put seven 1/1 green Insect creature tokens onto the battlefield.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Onslaught Rare
+
+Name:   Syphon Flesh
+Cost:   4B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each other player sacrifices a creature. You put a 2/2 black Zombie creature token onto the battlefield for each creature sacrificed this way.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Syphon Mind
+Cost:   3B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each other player discards a card. You draw a card for each card discarded this way.
+Set/Rarity:   Magic: The Gathering-Commander Common, Planechase Common, Onslaught Common
+
+Name:   Szadek, Lord of Secrets
+Cost:   3UUBB
+Type:   Legendary Creature — Vampire
+Pow/Tgh:  (5/5)
+Rules Text:   Flying
+If Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player puts that many cards from the top of his or her library into his or her graveyard.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Tariel, Reckoner of Souls
+Cost:   4WBR
+Type:   Legendary Creature — Angel
+Pow/Tgh:  (4/7)
+Rules Text:   Flying, vigilance
+{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Temple of the False God
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Scourge Uncommon
+
+Name:   Teneb, the Harvester
+Cost:   3BGW
+Type:   Legendary Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Terminate
+Cost:   BR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target creature. It can't be regenerated.
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Alara Reborn Common, Planeshift Common
+
+Name:   Terramorphic Expanse
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Set/Rarity:   Duel Decks: Ajani vs. Nicol Bolas Common, Magic: The Gathering-Commander Common, Magic 2011 Common, Archenemy Common, Duel Decks: Phyrexia vs. the Coalition Common, Premium Deck Series: Slivers Common, Planechase Common, Magic 2010 Common, Tenth Edition Common, Time Spiral Common
+
+Name:   The Mimeoplasm
+Cost:   2GUB
+Type:   Legendary Creature — Ooze
+Pow/Tgh:  (0/0)
+Rules Text:   As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Trade Secrets
+Cost:   1UU
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Onslaught Rare
+
+Name:   Tranquil Thicket
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {G} ({G}, Discard this card: Draw a card.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Archenemy Common, Duel Decks: Elves vs. Goblins Common, Onslaught Common
+
+Name:   Trench Gorger
+Cost:   6UU
+Type:   Creature — Leviathan
+Pow/Tgh:  (6/6)
+Rules Text:   Trample
+When Trench Gorger enters the battlefield, you may search your library for any number of land cards, exile them, then shuffle your library. If you do, Trench Gorger's power and toughness each become equal to the number of cards exiled this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Tribute to the Wild
+Cost:   1G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Each opponent sacrifices an artifact or enchantment.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Triskelavus
+Cost:   7
+Type:   Artifact Creature — Construct
+Pow/Tgh:  (1/1)
+Rules Text:   Flying
+Triskelavus enters the battlefield with three +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Triskelavus: Put a 1/1 colorless Triskelavite artifact creature token with flying onto the battlefield. It has "Sacrifice this creature: This creature deals 1 damage to target creature or player."
+Set/Rarity:   Magic: The Gathering-Commander Rare, Time Spiral Rare
+
+Name:   Troll Ascetic
+Cost:   1GG
+Type:   Creature — Troll Shaman
+Pow/Tgh:  (3/2)
+Rules Text:   Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Troll Ascetic.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Tenth Edition Rare, Mirrodin Rare
+
+Name:   Unnerve
+Cost:   3B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each opponent discards two cards.
+Set/Rarity:   Magic: The Gathering-Commander Common, Battle Royale Box Set Common, Urza's Saga Common
+
+Name:   Valley Rannet
+Cost:   4RG
+Type:   Creature — Beast
+Pow/Tgh:  (6/3)
+Rules Text:   Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Alara Reborn Common
+
+Name:   Vampire Nighthawk
+Cost:   1BB
+Type:   Creature — Vampire Shaman
+Pow/Tgh:  (2/3)
+Rules Text:   Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Zendikar Uncommon
+
+Name:   Vedalken Plotter
+Cost:   2U
+Type:   Creature — Vedalken Wizard
+Pow/Tgh:  (1/1)
+Rules Text:   When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Guildpact Uncommon
+
+Name:   Vengeful Rebirth
+Cost:   4RG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.
+Exile Vengeful Rebirth.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon
+
+Name:   Veteran Explorer
+Cost:   G
+Type:   Creature — Human Soldier Scout
+Pow/Tgh:  (1/1)
+Rules Text:   When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Weatherlight Uncommon
+
+Name:   Vish Kal, Blood Arbiter
+Cost:   4WBB
+Type:   Legendary Creature — Vampire
+Pow/Tgh:  (5/5)
+Rules Text:   Flying, lifelink
+Sacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature's power.
+Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.
+Set/Rarity:   Magic: The Gathering-Commander Rare
+
+Name:   Vision Skeins
+Cost:   1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Each player draws two cards.
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Vivid Crag
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Vivid Crag enters the battlefield tapped with two charge counters on it.
+{T}: Add {R} to your mana pool.
+{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Lorwyn Uncommon
+
+Name:   Vivid Creek
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Vivid Creek enters the battlefield tapped with two charge counters on it.
+{T}: Add {U} to your mana pool.
+{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Premium Deck Series: Slivers Uncommon, Lorwyn Uncommon
+
+Name:   Vivid Grove
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Vivid Grove enters the battlefield tapped with two charge counters on it.
+{T}: Add {G} to your mana pool.
+{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Premium Deck Series: Slivers Uncommon, Lorwyn Uncommon
+
+Name:   Vivid Marsh
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Vivid Marsh enters the battlefield tapped with two charge counters on it.
+{T}: Add {B} to your mana pool.
+{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Lorwyn Uncommon
+
+Name:   Vivid Meadow
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Vivid Meadow enters the battlefield tapped with two charge counters on it.
+{T}: Add {W} to your mana pool.
+{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Lorwyn Uncommon
+
+Name:   Voice of All
+Cost:   2WW
+Type:   Creature — Angel
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+As Voice of All enters the battlefield, choose a color.
+Voice of All has protection from the chosen color.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Tenth Edition Rare, Planeshift Uncommon
+
+Name:   Vorosh, the Hunter
+Cost:   3GUB
+Type:   Legendary Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Planar Chaos Rare
+
+Name:   Vow of Duty
+Cost:   2W
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Vow of Flight
+Cost:   2U
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Vow of Lightning
+Cost:   2R
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Vow of Malice
+Cost:   2B
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2, has intimidate, and can't attack you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Vow of Wildness
+Cost:   2G
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon
+
+Name:   Vulturous Zombie
+Cost:   3BG
+Type:   Creature — Plant Zombie
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Ravnica: City of Guilds Rare
+
+Name:   Wall of Denial
+Cost:   1WU
+Type:   Creature — Wall
+Pow/Tgh:  (0/8)
+Rules Text:   Defender, flying
+Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Alara Reborn Uncommon
+
+Name:   Wall of Omens
+Cost:   1W
+Type:   Creature — Wall
+Pow/Tgh:  (0/4)
+Rules Text:   Defender
+When Wall of Omens enters the battlefield, draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Rise of the Eldrazi Uncommon
+
+Name:   Whirlpool Whelm
+Cost:   1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+Set/Rarity:   Magic: The Gathering-Commander Common, Lorwyn Common
+
+Name:   Wild Ricochet
+Cost:   2RR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Lorwyn Rare
+
+Name:   Windborn Muse
+Cost:   3W
+Type:   Creature — Spirit
+Pow/Tgh:  (2/3)
+Rules Text:   Flying
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Set/Rarity:   Magic: The Gathering-Commander Rare, Tenth Edition Rare, Legions Rare
+
+Name:   Windfall
+Cost:   2U
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Battle Royale Box Set Uncommon, Urza's Saga Uncommon
+
+Name:   Wonder
+Cost:   3U
+Type:   Creature — Incarnation
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Judgment Uncommon
+
+Name:   Wrecking Ball
+Cost:   2BR
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target creature or land.
+Set/Rarity:   Magic: The Gathering-Commander Common, Dissension Common
+
+Name:   Wrexial, the Risen Deep
+Cost:   3UUB
+Type:   Legendary Creature — Kraken
+Pow/Tgh:  (5/8)
+Rules Text:   Islandwalk, swampwalk
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare, Worldwake Mythic Rare
+
+Name:   Yavimaya Elder
+Cost:   1GG
+Type:   Creature — Human Druid
+Pow/Tgh:  (2/1)
+Rules Text:   When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+{2}, Sacrifice Yavimaya Elder: Draw a card.
+Set/Rarity:   Magic: The Gathering-Commander Common, Duel Decks: Phyrexia vs. the Coalition Common, Urza's Destiny Common
+
+Name:   Zedruu the Greathearted
+Cost:   1RWU
+Type:   Legendary Creature — Minotaur Monk
+Pow/Tgh:  (2/4)
+Rules Text:   At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.
+{R}{W}{U}: Target opponent gains control of target permanent you control.
+Set/Rarity:   Magic: The Gathering-Commander Mythic Rare
+
+Name:   Zoetic Cavern
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+Morph {2} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Set/Rarity:   Magic: The Gathering-Commander Uncommon, Future Sight Uncommon

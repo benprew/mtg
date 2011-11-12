@@ -1,0 +1,2113 @@
+Name:   Abattoir Ghoul
+Cost:   3B
+Type:   Creature — Zombie
+Pow/Tgh:  (3/2)
+Rules Text:   First strike
+Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Abbey Griffin
+Cost:   3W
+Type:   Creature — Griffin
+Pow/Tgh:  (2/2)
+Rules Text:   Flying, vigilance
+Set/Rarity:   Innistrad Common
+
+Name:   Altar's Reap
+Cost:   1B
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   As an additional cost to cast Altar's Reap, sacrifice a creature.
+Draw two cards.
+Set/Rarity:   Innistrad Common
+
+Name:   Ambush Viper
+Cost:   1G
+Type:   Creature — Snake
+Pow/Tgh:  (2/1)
+Rules Text:   Flash (You may cast this spell any time you could cast an instant.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Ancient Grudge
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target artifact.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common, Time Spiral Common
+
+Name:   Angel of Flight Alabaster
+Cost:   4W
+Type:   Creature — Angel
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.
+Set/Rarity:   Innistrad Rare
+
+Name:   Angelic Overseer
+Cost:   3WW
+Type:   Creature — Angel
+Pow/Tgh:  (5/3)
+Rules Text:   Flying
+As long as you control a Human, Angelic Overseer has hexproof and is indestructible.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Armored Skaab
+Cost:   2U
+Type:   Creature — Zombie Warrior
+Pow/Tgh:  (1/4)
+Rules Text:   When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Army of the Damned
+Cost:   5BBB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.
+Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Ashmouth Hound
+Cost:   1R
+Type:   Creature — Elemental Hound
+Pow/Tgh:  (2/1)
+Rules Text:   Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Avacynian Priest
+Cost:   1W
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/2)
+Rules Text:   {1}, {T}: Tap target non-Human creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Avacyn's Pilgrim
+Cost:   G
+Type:   Creature — Human Monk
+Pow/Tgh:  (1/1)
+Rules Text:   {T}: Add {W} to your mana pool.
+Set/Rarity:   Innistrad Common
+
+Name:   Back from the Brink
+Cost:   4UU
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.
+Set/Rarity:   Innistrad Rare
+
+Name:   Balefire Dragon
+Cost:   5RR
+Type:   Creature — Dragon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Bane of Hanweir
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (5/5)
+Rules Text:   Bane of Hanweir attacks each turn if able.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Battleground Geist
+Cost:   4U
+Type:   Creature — Spirit
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+Other Spirit creatures you control get +1/+0.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Bitterheart Witch
+Cost:   4B
+Type:   Creature — Human Shaman
+Pow/Tgh:  (1/2)
+Rules Text:   Deathtouch
+When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Blasphemous Act
+Cost:   8R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Blasphemous Act costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.
+Set/Rarity:   Innistrad Rare
+
+Name:   Blazing Torch
+Cost:   1
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:   Innistrad Common, Zendikar Uncommon
+
+Name:   Bloodcrazed Neonate
+Cost:   1R
+Type:   Creature — Vampire
+Pow/Tgh:  (2/1)
+Rules Text:   Bloodcrazed Neonate attacks each turn if able.
+Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.
+Set/Rarity:   Innistrad Common
+
+Name:   Bloodgift Demon
+Cost:   3BB
+Type:   Creature — Demon
+Pow/Tgh:  (5/4)
+Rules Text:   Flying
+At the beginning of your upkeep, target player draws a card and loses 1 life.
+Set/Rarity:   Innistrad Rare
+
+Name:   Bloodline Keeper
+Cost:   2BB
+Type:   Creature — Vampire
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.
+Set/Rarity:   Innistrad Rare
+
+Name:   Bonds of Faith
+Cost:   1W
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.
+Set/Rarity:   Innistrad Common
+
+Name:   Boneyard Wurm
+Cost:   1G
+Type:   Creature — Wurm
+Pow/Tgh:  (*/*)
+Rules Text:   Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Brain Weevil
+Cost:   3B
+Type:   Creature — Insect
+Pow/Tgh:  (1/1)
+Rules Text:   Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+Set/Rarity:   Innistrad Common
+
+Name:   Bramblecrush
+Cost:   2GG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy target noncreature permanent.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Brimstone Volley
+Cost:   2R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Brimstone Volley deals 3 damage to target creature or player.
+Morbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Bump in the Night
+Cost:   B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Target opponent loses 3 life.
+Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Burning Vengeance
+Cost:   2R
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Butcher's Cleaver
+Cost:   3
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +3/+0.
+As long as equipped creature is a Human, it has lifelink.
+Equip {3}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Cackling Counterpart
+Cost:   1UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Put a token onto the battlefield that's a copy of target creature you control.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Caravan Vigil
+Cost:   G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Morbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Cellar Door
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Champion of the Parish
+Cost:   W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (1/1)
+Rules Text:   Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.
+Set/Rarity:   Innistrad Rare
+
+Name:   Chapel Geist
+Cost:   1WW
+Type:   Creature — Spirit
+Pow/Tgh:  (2/3)
+Rules Text:   Flying
+Set/Rarity:   Innistrad Common
+
+Name:   Charmbreaker Devils
+Cost:   5R
+Type:   Creature — Devil
+Pow/Tgh:  (4/4)
+Rules Text:   At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.
+Set/Rarity:   Innistrad Rare
+
+Name:   Civilized Scholar
+Cost:   2U
+Type:   Creature — Human Advisor
+Pow/Tgh:  (0/1)
+Rules Text:   {T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Claustrophobia
+Cost:   1UU
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+When Claustrophobia enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:   Innistrad Common
+
+Name:   Clifftop Retreat
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W} to your mana pool.
+Set/Rarity:   Innistrad Rare
+
+Name:   Cloistered Youth
+Cost:   1W
+Type:   Creature — Human
+Pow/Tgh:  (1/1)
+Rules Text:   At the beginning of your upkeep, you may transform Cloistered Youth.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Cobbled Wings
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature has flying.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:   Innistrad Common
+
+Name:   Corpse Lunge
+Cost:   2B
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.
+Corpse Lunge deals damage equal to the exiled card's power to target creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Creeping Renaissance
+Cost:   3GG
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Creepy Doll
+Cost:   5
+Type:   Artifact Creature — Construct
+Pow/Tgh:  (1/1)
+Rules Text:   Creepy Doll is indestructible.
+Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.
+Set/Rarity:   Innistrad Rare
+
+Name:   Crossway Vampire
+Cost:   1RR
+Type:   Creature — Vampire
+Pow/Tgh:  (3/2)
+Rules Text:   When Crossway Vampire enters the battlefield, target creature can't block this turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Curiosity
+Cost:   U
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Set/Rarity:   Innistrad Uncommon, Eighth Edition Uncommon, Exodus Uncommon
+
+Name:   Curse of Death's Hold
+Cost:   3BB
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+Creatures enchanted player controls get -1/-1.
+Set/Rarity:   Innistrad Rare
+
+Name:   Curse of Oblivion
+Cost:   3B
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Curse of Stalked Prey
+Cost:   1R
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.
+Set/Rarity:   Innistrad Rare
+
+Name:   Curse of the Bloody Tome
+Cost:   2U
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Curse of the Nightly Hunt
+Cost:   2R
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+Creatures enchanted player controls attack each turn if able.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Curse of the Pierced Heart
+Cost:   1R
+Type:   Enchantment — Aura Curse
+Pow/Tgh:  
+Rules Text:   Enchant player
+At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.
+Set/Rarity:   Innistrad Common
+
+Name:   Darkthicket Wolf
+Cost:   1G
+Type:   Creature — Wolf
+Pow/Tgh:  (2/2)
+Rules Text:   {2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Daybreak Ranger
+Cost:   2G
+Type:   Creature — Human Archer Werewolf
+Pow/Tgh:  (2/2)
+Rules Text:   {T}: Daybreak Ranger deals 2 damage to target creature with flying.
+At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.
+Set/Rarity:   Innistrad Rare
+
+Name:   Dead Weight
+Cost:   B
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets -2/-2.
+Set/Rarity:   Innistrad Common
+
+Name:   Dearly Departed
+Cost:   4WW
+Type:   Creature — Spirit
+Pow/Tgh:  (5/5)
+Rules Text:   Flying
+As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.
+Set/Rarity:   Innistrad Rare
+
+Name:   Delver of Secrets
+Cost:   U
+Type:   Creature — Human Wizard
+Pow/Tgh:  (1/1)
+Rules Text:   At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.
+Set/Rarity:   Innistrad Common
+
+Name:   Demonmail Hauberk
+Cost:   4
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +4/+2.
+Equip—Sacrifice a creature.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Deranged Assistant
+Cost:   1U
+Type:   Creature — Human Wizard
+Pow/Tgh:  (1/1)
+Rules Text:   {T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.
+Set/Rarity:   Innistrad Common
+
+Name:   Desperate Ravings
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Draw two cards, then discard a card at random.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Devil's Play
+Cost:   XR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Devil's Play deals X damage to target creature or player.
+Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Diregraf Ghoul
+Cost:   B
+Type:   Creature — Zombie
+Pow/Tgh:  (2/2)
+Rules Text:   Diregraf Ghoul enters the battlefield tapped.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Disciple of Griselbrand
+Cost:   1B
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/1)
+Rules Text:   {1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Dissipate
+Cost:   1UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Set/Rarity:   Innistrad Uncommon, Mirage Uncommon
+
+Name:   Divine Reckoning
+Cost:   2WW
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each player chooses a creature he or she controls. Destroy the rest.
+Flashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Doomed Traveler
+Cost:   W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (1/1)
+Rules Text:   When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Set/Rarity:   Innistrad Common
+
+Name:   Dream Twist
+Cost:   U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target player puts the top three cards of his or her library into his or her graveyard.
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Elder Cathar
+Cost:   2W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (2/2)
+Rules Text:   When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.
+Set/Rarity:   Innistrad Common
+
+Name:   Elder of Laurels
+Cost:   2G
+Type:   Creature — Human Advisor
+Pow/Tgh:  (2/3)
+Rules Text:   {3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+Set/Rarity:   Innistrad Rare
+
+Name:   Elite Inquisitor
+Cost:   WW
+Type:   Creature — Human Soldier
+Pow/Tgh:  (2/2)
+Rules Text:   First strike, vigilance
+Protection from Vampires, from Werewolves, and from Zombies
+Set/Rarity:   Innistrad Rare
+
+Name:   Endless Ranks of the Dead
+Cost:   2BB
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.
+Set/Rarity:   Innistrad Rare
+
+Name:   Essence of the Wild
+Cost:   3GGG
+Type:   Creature — Avatar
+Pow/Tgh:  (6/6)
+Rules Text:   Creatures you control enter the battlefield as a copy of Essence of the Wild.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Evil Twin
+Cost:   2UB
+Type:   Creature — Shapeshifter
+Pow/Tgh:  (0/0)
+Rules Text:   You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."
+Set/Rarity:   Innistrad Rare
+
+Name:   Falkenrath Marauders
+Cost:   3RR
+Type:   Creature — Vampire Warrior
+Pow/Tgh:  (2/2)
+Rules Text:   Flying, haste
+Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.
+Set/Rarity:   Innistrad Rare
+
+Name:   Falkenrath Noble
+Cost:   3B
+Type:   Creature — Vampire
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Feeling of Dread
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Tap up to two target creatures.
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Feral Ridgewolf
+Cost:   2R
+Type:   Creature — Wolf
+Pow/Tgh:  (1/2)
+Rules Text:   Trample
+{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Festerhide Boar
+Cost:   3G
+Type:   Creature — Boar
+Pow/Tgh:  (3/3)
+Rules Text:   Trample
+Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Fiend Hunter
+Cost:   1WW
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/3)
+Rules Text:   When Fiend Hunter enters the battlefield, you may exile another target creature.
+When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Forbidden Alchemy
+Cost:   2U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Forest
+Cost:   
+Type:   Basic Land — Forest
+Pow/Tgh:  
+Rules Text:   G
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Fortress Crab
+Cost:   3U
+Type:   Creature — Crab
+Pow/Tgh:  (1/6)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Frightful Delusion
+Cost:   2U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target spell unless its controller pays {1}. That player discards a card.
+Set/Rarity:   Innistrad Common
+
+Name:   Full Moon's Rise
+Cost:   1G
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Werewolf creatures you control get +1/+0 and have trample.
+Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Furor of the Bitten
+Cost:   R
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.
+Set/Rarity:   Innistrad Common
+
+Name:   Gallows Warden
+Cost:   4W
+Type:   Creature — Spirit
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+Other Spirit creatures you control get +0/+1.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Galvanic Juggernaut
+Cost:   4
+Type:   Artifact Creature — Juggernaut
+Pow/Tgh:  (5/5)
+Rules Text:   Galvanic Juggernaut attacks each turn if able.
+Galvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Garruk Relentless
+Cost:   3G
+Type:   Planeswalker — Garruk
+Loyalty:  (3)
+Rules Text:   When Garruk Relentless has two or fewer loyalty counters on him, transform him.
+0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
+0: Put a 2/2 green Wolf creature token onto the battlefield.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Garruk, the Veil-Cursed
+Cost:   
+Color:  Black/Green
+Type:   Planeswalker — Garruk
+Pow/Tgh:  
+Rules Text:   +1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.
+-1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+-3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Gatstaf Howler
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (3/3)
+Rules Text:   Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Gatstaf Shepherd
+Cost:   1G
+Type:   Creature — Human Werewolf
+Pow/Tgh:  (2/2)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Gavony Township
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.
+Set/Rarity:   Innistrad Rare
+
+Name:   Geist of Saint Traft
+Cost:   1WU
+Type:   Legendary Creature — Spirit Cleric
+Pow/Tgh:  (2/2)
+Rules Text:   Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Geistcatcher's Rig
+Cost:   6
+Type:   Artifact Creature — Construct
+Pow/Tgh:  (4/5)
+Rules Text:   When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Geistflame
+Cost:   R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Geistflame deals 1 damage to target creature or player.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Geist-Honored Monk
+Cost:   3WW
+Type:   Creature — Human Monk
+Pow/Tgh:  (*/*)
+Rules Text:   Vigilance
+Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.
+When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Set/Rarity:   Innistrad Rare
+
+Name:   Ghost Quarter
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+Set/Rarity:   Innistrad Uncommon, Dissension Uncommon
+
+Name:   Ghostly Possession
+Cost:   2W
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature has flying.
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Ghoulcaller's Bell
+Cost:   1
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {T}: Each player puts the top card of his or her library into his or her graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Ghoulcaller's Chant
+Cost:   B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Choose one — Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.
+Set/Rarity:   Innistrad Common
+
+Name:   Ghoulraiser
+Cost:   1BB
+Type:   Creature — Zombie
+Pow/Tgh:  (2/2)
+Rules Text:   When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.
+Set/Rarity:   Innistrad Common
+
+Name:   Gnaw to the Bone
+Cost:   2G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   You gain 2 life for each creature card in your graveyard.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Grasp of Phantoms
+Cost:   3U
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put target creature on top of its owner's library.
+Flashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Grave Bramble
+Cost:   1GG
+Type:   Creature — Plant
+Pow/Tgh:  (3/4)
+Rules Text:   Defender, protection from Zombies
+Set/Rarity:   Innistrad Common
+
+Name:   Graveyard Shovel
+Cost:   2
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Grimgrin, Corpse-Born
+Cost:   3UB
+Type:   Legendary Creature — Zombie Warrior
+Pow/Tgh:  (5/5)
+Rules Text:   Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.
+Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
+Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Grimoire of the Dead
+Cost:   4
+Type:   Legendary Artifact
+Pow/Tgh:  
+Rules Text:   {1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.
+{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Grizzled Outcasts
+Cost:   4G
+Type:   Creature — Human Werewolf
+Pow/Tgh:  (4/4)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.
+Set/Rarity:   Innistrad Common
+
+Name:   Gruesome Deformity
+Cost:   B
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Gutter Grime
+Cost:   4G
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with "This creature's power and toughness are each equal to the number of slime counters on Gutter Grime."
+Set/Rarity:   Innistrad Rare
+
+Name:   Hamlet Captain
+Cost:   1G
+Type:   Creature — Human Warrior
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Hanweir Watchkeep
+Cost:   2R
+Type:   Creature — Human Warrior Werewolf
+Pow/Tgh:  (1/5)
+Rules Text:   Defender
+At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Harvest Pyre
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.
+Harvest Pyre deals X damage to target creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Heartless Summoning
+Cost:   1B
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Creature spells you cast cost {2} less to cast.
+Creatures you control get -1/-1.
+Set/Rarity:   Innistrad Rare
+
+Name:   Heretic's Punishment
+Cost:   4R
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   {3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.
+Set/Rarity:   Innistrad Rare
+
+Name:   Hinterland Harbor
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+{T}: Add {G} or {U} to your mana pool.
+Set/Rarity:   Innistrad Rare
+
+Name:   Hollowhenge Scavenger
+Cost:   3GG
+Type:   Creature — Elemental
+Pow/Tgh:  (4/5)
+Rules Text:   Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Homicidal Brute
+Cost:   
+Color:  Red
+Type:   Creature — Human Mutant
+Pow/Tgh:  (5/1)
+Rules Text:   At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Howlpack Alpha
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (3/3)
+Rules Text:   Other Werewolf and Wolf creatures you control get +1/+1.
+At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.
+Set/Rarity:   Innistrad Rare
+
+Name:   Howlpack of Estwald
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (4/6)
+Rules Text:   At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.
+Set/Rarity:   Innistrad Common
+
+Name:   Hysterical Blindness
+Cost:   2U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Creatures your opponents control get -4/-0 until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Infernal Plunge
+Cost:   R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   As an additional cost to cast Infernal Plunge, sacrifice a creature.
+Add {R}{R}{R} to your mana pool.
+Set/Rarity:   Innistrad Common
+
+Name:   Inquisitor's Flail
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   If equipped creature would deal combat damage, it deals double that damage instead.
+If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.
+Equip {2}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Insectile Aberration
+Cost:   
+Color:  Blue
+Type:   Creature — Human Insect
+Pow/Tgh:  (3/2)
+Rules Text:   Flying
+Set/Rarity:   Innistrad Common
+
+Name:   Instigator Gang
+Cost:   3R
+Type:   Creature — Human Werewolf
+Pow/Tgh:  (2/3)
+Rules Text:   Attacking creatures you control get +1/+0.
+At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.
+Set/Rarity:   Innistrad Rare
+
+Name:   Intangible Virtue
+Cost:   1W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Creature tokens you control get +1/+1 and have vigilance.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Into the Maw of Hell
+Cost:   4RR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy target land. Into the Maw of Hell deals 13 damage to target creature.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Invisible Stalker
+Cost:   1U
+Type:   Creature — Human Rogue
+Pow/Tgh:  (1/1)
+Rules Text:   Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Invisible Stalker is unblockable.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Ironfang
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (3/1)
+Rules Text:   First strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.
+Set/Rarity:   Innistrad Common
+
+Name:   Island
+Cost:   
+Type:   Basic Land — Island
+Pow/Tgh:  
+Rules Text:   U
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Isolated Chapel
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B} to your mana pool.
+Set/Rarity:   Innistrad Rare
+
+Name:   Kessig Cagebreakers
+Cost:   4G
+Type:   Creature — Human Rogue
+Pow/Tgh:  (3/4)
+Rules Text:   Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
+Set/Rarity:   Innistrad Rare
+
+Name:   Kessig Wolf
+Cost:   2R
+Type:   Creature — Wolf
+Pow/Tgh:  (3/1)
+Rules Text:   {1}{R}: Kessig Wolf gains first strike until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Kessig Wolf Run
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+Set/Rarity:   Innistrad Rare
+
+Name:   Kindercatch
+Cost:   3GGG
+Type:   Creature — Spirit
+Pow/Tgh:  (6/6)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Krallenhorde Wantons
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (7/7)
+Rules Text:   At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.
+Set/Rarity:   Innistrad Common
+
+Name:   Kruin Outlaw
+Cost:   1RR
+Type:   Creature — Human Rogue Werewolf
+Pow/Tgh:  (2/2)
+Rules Text:   First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.
+Set/Rarity:   Innistrad Rare
+
+Name:   Laboratory Maniac
+Cost:   2U
+Type:   Creature — Human Wizard
+Pow/Tgh:  (2/2)
+Rules Text:   If you would draw a card while your library has no cards in it, you win the game instead.
+Set/Rarity:   Innistrad Rare
+
+Name:   Lantern Spirit
+Cost:   2U
+Type:   Creature — Spirit
+Pow/Tgh:  (2/1)
+Rules Text:   Flying
+{U}: Return Lantern Spirit to its owner's hand.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Liliana of the Veil
+Cost:   1BB
+Type:   Planeswalker — Liliana
+Loyalty:  (3)
+Rules Text:   +1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Lord of Lineage
+Cost:   
+Color:  Black
+Type:   Creature — Vampire
+Pow/Tgh:  (5/5)
+Rules Text:   Flying
+Other Vampire creatures you control get +2/+2.
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+Set/Rarity:   Innistrad Rare
+
+Name:   Lost in the Mist
+Cost:   3UU
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Counter target spell. Return target permanent to its owner's hand.
+Set/Rarity:   Innistrad Common
+
+Name:   Ludevic's Abomination
+Cost:   
+Color:  Blue
+Type:   Creature — Lizard Horror
+Pow/Tgh:  (13/13)
+Rules Text:   Trample
+Set/Rarity:   Innistrad Rare
+
+Name:   Ludevic's Test Subject
+Cost:   1U
+Type:   Creature — Lizard
+Pow/Tgh:  (0/3)
+Rules Text:   Defender
+{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.
+Set/Rarity:   Innistrad Rare
+
+Name:   Lumberknot
+Cost:   2GG
+Type:   Creature — Treefolk
+Pow/Tgh:  (1/1)
+Rules Text:   Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever a creature dies, put a +1/+1 counter on Lumberknot.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Make a Wish
+Cost:   3G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return two cards at random from your graveyard to your hand.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Makeshift Mauler
+Cost:   3U
+Type:   Creature — Zombie Horror
+Pow/Tgh:  (4/5)
+Rules Text:   As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Manor Gargoyle
+Cost:   5
+Type:   Artifact Creature — Gargoyle
+Pow/Tgh:  (4/4)
+Rules Text:   Defender
+Manor Gargoyle is indestructible as long as it has defender.
+{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.
+Set/Rarity:   Innistrad Rare
+
+Name:   Manor Skeleton
+Cost:   1B
+Type:   Creature — Skeleton
+Pow/Tgh:  (1/1)
+Rules Text:   Haste
+{1}{B}: Regenerate Manor Skeleton.
+Set/Rarity:   Innistrad Common
+
+Name:   Markov Patrician
+Cost:   2B
+Type:   Creature — Vampire
+Pow/Tgh:  (3/1)
+Rules Text:   Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:   Innistrad Common
+
+Name:   Mask of Avacyn
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)
+Equip {3}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Mausoleum Guard
+Cost:   3W
+Type:   Creature — Human Scout
+Pow/Tgh:  (2/2)
+Rules Text:   When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Maw of the Mire
+Cost:   4B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy target land. You gain 4 life.
+Set/Rarity:   Innistrad Common
+
+Name:   Mayor of Avabruck
+Cost:   1G
+Type:   Creature — Human Advisor Werewolf
+Pow/Tgh:  (1/1)
+Rules Text:   Other Human creatures you control get +1/+1.
+At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.
+Set/Rarity:   Innistrad Rare
+
+Name:   Memory's Journey
+Cost:   1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target player shuffles up to three target cards from his or her graveyard into his or her library.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Mentor of the Meek
+Cost:   2W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.
+Set/Rarity:   Innistrad Rare
+
+Name:   Merciless Predator
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (3/2)
+Rules Text:   At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Midnight Haunting
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Mikaeus, the Lunarch
+Cost:   XW
+Type:   Legendary Creature — Human Cleric
+Pow/Tgh:  (0/0)
+Rules Text:   Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.
+{T}: Put a +1/+1 counter on Mikaeus.
+{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.
+Set/Rarity:   Innistrad Mythic Rare, From the Vault: Legends Mythic Rare
+
+Name:   Mindshrieker
+Cost:   1U
+Type:   Creature — Spirit Bird
+Pow/Tgh:  (1/1)
+Rules Text:   Flying
+{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.
+Set/Rarity:   Innistrad Rare
+
+Name:   Mirror-Mad Phantasm
+Cost:   3UU
+Type:   Creature — Spirit
+Pow/Tgh:  (5/1)
+Rules Text:   Flying
+{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Moan of the Unhallowed
+Cost:   2BB
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put two 2/2 black Zombie creature tokens onto the battlefield.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Moldgraf Monstrosity
+Cost:   4GGG
+Type:   Creature — Insect
+Pow/Tgh:  (8/8)
+Rules Text:   Trample
+When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.
+Set/Rarity:   Innistrad Rare
+
+Name:   Moment of Heroism
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity:   Innistrad Common
+
+Name:   Moon Heron
+Cost:   3U
+Type:   Creature — Spirit Bird
+Pow/Tgh:  (3/2)
+Rules Text:   Flying
+Set/Rarity:   Innistrad Common
+
+Name:   Moonmist
+Cost:   1G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)
+Set/Rarity:   Innistrad Common
+
+Name:   Moorland Haunt
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Set/Rarity:   Innistrad Rare
+
+Name:   Morkrut Banshee
+Cost:   3BB
+Type:   Creature — Spirit
+Pow/Tgh:  (4/4)
+Rules Text:   Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Mountain
+Cost:   
+Type:   Basic Land — Mountain
+Pow/Tgh:  
+Rules Text:   R
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Premium Deck Series: Fire and Lightning Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Duel Decks: Jace vs. Chandra Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Duel Decks: Elves vs. Goblins Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Arabian Nights Common, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Mulch
+Cost:   1G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Set/Rarity:   Innistrad Common, Stronghold Common
+
+Name:   Murder of Crows
+Cost:   3UU
+Type:   Creature — Bird
+Pow/Tgh:  (4/4)
+Rules Text:   Flying
+Whenever another creature dies, you may draw a card. If you do, discard a card.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Naturalize
+Cost:   1G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target artifact or enchantment.
+Set/Rarity:   Innistrad Common, Magic 2012 Common, Magic 2011 Common, Rise of the Eldrazi Common, Magic 2010 Common, Shards of Alara Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+Name:   Nephalia Drownyard
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.
+Set/Rarity:   Innistrad Rare
+
+Name:   Nevermore
+Cost:   1WW
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   As Nevermore enters the battlefield, name a nonland card.
+The named card can't be cast.
+Set/Rarity:   Innistrad Rare
+
+Name:   Night Revelers
+Cost:   4R
+Type:   Creature — Vampire
+Pow/Tgh:  (4/4)
+Rules Text:   Night Revelers has haste as long as an opponent controls a Human.
+Set/Rarity:   Innistrad Common
+
+Name:   Night Terrors
+Cost:   2B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Target player reveals his or her hand. You choose a nonland card from it. Exile that card.
+Set/Rarity:   Innistrad Common
+
+Name:   Nightbird's Clutches
+Cost:   1R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Up to two target creatures can't block this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Nightfall Predator
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (4/4)
+Rules Text:   {R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.
+Set/Rarity:   Innistrad Rare
+
+Name:   Olivia Voldaren
+Cost:   2BR
+Type:   Legendary Creature — Vampire
+Pow/Tgh:  (3/3)
+Rules Text:   Flying
+{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.
+{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   One-Eyed Scarecrow
+Cost:   3
+Type:   Artifact Creature — Scarecrow
+Pow/Tgh:  (2/3)
+Rules Text:   Defender
+Creatures with flying your opponents control get -1/-0.
+Set/Rarity:   Innistrad Common
+
+Name:   Orchard Spirit
+Cost:   2G
+Type:   Creature — Spirit
+Pow/Tgh:  (2/2)
+Rules Text:   Orchard Spirit can't be blocked except by creatures with flying or reach.
+Set/Rarity:   Innistrad Common
+
+Name:   Parallel Lives
+Cost:   3G
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.
+Set/Rarity:   Innistrad Rare
+
+Name:   Paraselene
+Cost:   2W
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Past in Flames
+Cost:   3R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Pitchburn Devils
+Cost:   4R
+Type:   Creature — Devil
+Pow/Tgh:  (3/3)
+Rules Text:   When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+Set/Rarity:   Innistrad Common
+
+Name:   Plains
+Cost:   
+Type:   Basic Land — Plains
+Pow/Tgh:  
+Rules Text:   W
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Duel Decks: Knights vs. Dragons Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Duel Decks: Elspeth vs. Tezzeret Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Prey Upon
+Cost:   G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Set/Rarity:   Innistrad Common
+
+Name:   Purify the Grave
+Cost:   W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Exile target card from a graveyard.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Rage Thrower
+Cost:   5R
+Type:   Creature — Human Shaman
+Pow/Tgh:  (4/2)
+Rules Text:   Whenever another creature dies, Rage Thrower deals 2 damage to target player.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Rakish Heir
+Cost:   2R
+Type:   Creature — Vampire
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Rally the Peasants
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Creatures you control get +2/+0 until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Rampaging Werewolf
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (6/4)
+Rules Text:   At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.
+Set/Rarity:   Innistrad Common
+
+Name:   Ranger's Guile
+Cost:   G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+Set/Rarity:   Innistrad Common
+
+Name:   Reaper from the Abyss
+Cost:   3BBB
+Type:   Creature — Demon
+Pow/Tgh:  (6/6)
+Rules Text:   Flying
+Morbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Rebuke
+Cost:   2W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target attacking creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Reckless Waif
+Cost:   R
+Type:   Creature — Human Rogue Werewolf
+Pow/Tgh:  (1/1)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Riot Devils
+Cost:   2R
+Type:   Creature — Devil
+Pow/Tgh:  (2/3)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Rolling Temblor
+Cost:   2R
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Rolling Temblor deals 2 damage to each creature without flying.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Rooftop Storm
+Cost:   5U
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.
+Set/Rarity:   Innistrad Rare
+
+Name:   Rotting Fensnake
+Cost:   3B
+Type:   Creature — Zombie Snake
+Pow/Tgh:  (5/1)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Runechanter's Pike
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.
+Equip {2}
+Set/Rarity:   Innistrad Rare
+
+Name:   Runic Repetition
+Cost:   2U
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return target exiled card with flashback you own to your hand.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Scourge of Geier Reach
+Cost:   3RR
+Type:   Creature — Elemental
+Pow/Tgh:  (3/3)
+Rules Text:   Scourge of Geier Reach gets +1/+1 for each creature your opponents control.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Screeching Bat
+Cost:   2B
+Type:   Creature — Bat
+Pow/Tgh:  (2/2)
+Rules Text:   Flying
+At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Selfless Cathar
+Cost:   W
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/1)
+Rules Text:   {1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Selhoff Occultist
+Cost:   2U
+Type:   Creature — Human Rogue
+Pow/Tgh:  (2/3)
+Rules Text:   Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.
+Set/Rarity:   Innistrad Common
+
+Name:   Sensory Deprivation
+Cost:   U
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets -3/-0.
+Set/Rarity:   Innistrad Common
+
+Name:   Sever the Bloodline
+Cost:   3B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Exile target creature and all other creatures with the same name as that creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Sharpened Pitchfork
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature has first strike.
+As long as equipped creature is a Human, it gets +1/+1.
+Equip {1}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Shimmering Grotto
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.
+Set/Rarity:   Innistrad Common, Lorwyn Common
+
+Name:   Silent Departure
+Cost:   U
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return target creature to its owner's hand.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Silverchase Fox
+Cost:   1W
+Type:   Creature — Fox
+Pow/Tgh:  (2/2)
+Rules Text:   {1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.
+Set/Rarity:   Innistrad Common
+
+Name:   Silver-Inlaid Dagger
+Cost:   1
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +2/+0.
+As long as equipped creature is a Human, it gets an additional +1/+0.
+Equip {2}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Skaab Goliath
+Cost:   5U
+Type:   Creature — Zombie Giant
+Pow/Tgh:  (6/9)
+Rules Text:   As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.
+Trample
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Skaab Ruinator
+Cost:   1UU
+Type:   Creature — Zombie Horror
+Pow/Tgh:  (5/6)
+Rules Text:   As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.
+Flying
+You may cast Skaab Ruinator from your graveyard.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Skeletal Grimace
+Cost:   1B
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +1/+1 and has "{B}: Regenerate this creature."
+Set/Rarity:   Innistrad Common
+
+Name:   Skirsdag Cultist
+Cost:   2RR
+Type:   Creature — Human Shaman
+Pow/Tgh:  (2/2)
+Rules Text:   {R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Skirsdag High Priest
+Cost:   1B
+Type:   Creature — Human Cleric
+Pow/Tgh:  (1/2)
+Rules Text:   Morbid — {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.
+Set/Rarity:   Innistrad Rare
+
+Name:   Slayer of the Wicked
+Cost:   3W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (3/2)
+Rules Text:   When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Smite the Monstrous
+Cost:   3W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target creature with power 4 or greater.
+Set/Rarity:   Innistrad Common
+
+Name:   Snapcaster Mage
+Cost:   1U
+Type:   Creature — Human Wizard
+Pow/Tgh:  (2/1)
+Rules Text:   Flash
+When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Somberwald Spider
+Cost:   4G
+Type:   Creature — Spider
+Pow/Tgh:  (2/4)
+Rules Text:   Reach (This creature can block creatures with flying.)
+Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Spare from Evil
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Creatures you control gain protection from non-Human creatures until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Spectral Flight
+Cost:   1U
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Set/Rarity:   Innistrad Common
+
+Name:   Spectral Rider
+Cost:   WW
+Type:   Creature — Spirit Knight
+Pow/Tgh:  (2/2)
+Rules Text:   Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Spider Spawning
+Cost:   4G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.
+Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Spidery Grasp
+Cost:   2G
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)
+Set/Rarity:   Innistrad Common
+
+Name:   Splinterfright
+Cost:   2G
+Type:   Creature — Elemental
+Pow/Tgh:  (*/*)
+Rules Text:   Trample
+Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard.
+At the beginning of your upkeep, put the top two cards of your library into your graveyard.
+Set/Rarity:   Innistrad Rare
+
+Name:   Stalking Vampire
+Cost:   
+Color:  Black
+Type:   Creature — Vampire
+Pow/Tgh:  (5/5)
+Rules Text:   At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Stensia Bloodhall
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   {T}: Add {1} to your mana pool.
+{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.
+Set/Rarity:   Innistrad Rare
+
+Name:   Stitched Drake
+Cost:   1UU
+Type:   Creature — Zombie Drake
+Pow/Tgh:  (3/4)
+Rules Text:   As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.
+Flying
+Set/Rarity:   Innistrad Common
+
+Name:   Stitcher's Apprentice
+Cost:   1U
+Type:   Creature — Homunculus
+Pow/Tgh:  (1/2)
+Rules Text:   {1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Stony Silence
+Cost:   1W
+Type:   Enchantment
+Pow/Tgh:  
+Rules Text:   Activated abilities of artifacts can't be activated.
+Set/Rarity:   Innistrad Rare
+
+Name:   Stromkirk Noble
+Cost:   R
+Type:   Creature — Vampire
+Pow/Tgh:  (1/1)
+Rules Text:   Stromkirk Noble can't be blocked by Humans.
+Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.
+Set/Rarity:   Innistrad Rare
+
+Name:   Stromkirk Patrol
+Cost:   4B
+Type:   Creature — Vampire Soldier
+Pow/Tgh:  (4/3)
+Rules Text:   Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.
+Set/Rarity:   Innistrad Common
+
+Name:   Sturmgeist
+Cost:   3UU
+Type:   Creature — Spirit
+Pow/Tgh:  (*/*)
+Rules Text:   Flying
+Sturmgeist's power and toughness are each equal to the number of cards in your hand.
+Whenever Sturmgeist deals combat damage to a player, draw a card.
+Set/Rarity:   Innistrad Rare
+
+Name:   Sulfur Falls
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+{T}: Add {U} or {R} to your mana pool.
+Set/Rarity:   Innistrad Rare
+
+Name:   Swamp
+Cost:   
+Type:   Basic Land — Swamp
+Pow/Tgh:  
+Rules Text:   B
+Set/Rarity:   Innistrad Land, Innistrad Land, Innistrad Land, Duel Decks: Ajani vs. Nicol Bolas Land, Duel Decks: Ajani vs. Nicol Bolas Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic 2012 Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, Magic: The Gathering-Commander Land, New Phyrexia Land, New Phyrexia Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Scars of Mirrodin Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Magic 2011 Land, Archenemy Land, Archenemy Land, Archenemy Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Rise of the Eldrazi Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Duel Decks: Phyrexia vs. the Coalition Land, Mirrodin Besieged Land, Mirrodin Besieged Land, Premium Deck Series: Slivers Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Duel Decks: Garruk vs. Liliana Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Zendikar Land, Masters Edition III Land, Masters Edition III Land, Masters Edition III Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Planechase Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Magic 2010 Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Duel Decks: Divine vs. Demonic Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shards of Alara Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Shadowmoor Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Lorwyn Land, Masters Edition Land, Masters Edition Land, Masters Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Tenth Edition Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Time Spiral Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ravnica: City of Guilds Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Ninth Edition Land, Unhinged Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Champions of Kamigawa Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Mirrodin Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Eighth Edition Land, Onslaught Land, Onslaught Land, Onslaught Land, Onslaught Land, Odyssey Land, Odyssey Land, Odyssey Land, Odyssey Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Seventh Edition Land, Beatdown Box Set Land, Beatdown Box Set Land, Beatdown Box Set Land, Invasion Land, Invasion Land, Invasion Land, Invasion Land, Starter 2000 Land, Starter 2000 Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Battle Royale Box Set Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Mercadian Masques Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Starter 1999 Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Portal Three Kingdoms Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Classic Sixth Edition Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Urza's Saga Land, Unglued Common, Portal Second Age Land, Portal Second Age Land, Portal Second Age Land, Tempest Land, Tempest Land, Tempest Land, Tempest Land, Portal Land, Portal Land, Portal Land, Portal Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Fifth Edition Land, Mirage Land, Mirage Land, Mirage Land, Mirage Land, Ice Age Land, Ice Age Land, Ice Age Land, Fourth Edition Land, Fourth Edition Land, Fourth Edition Land, Revised Edition Land, Revised Edition Land, Revised Edition Land, Unlimited Edition Land, Unlimited Edition Land, Unlimited Edition Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Beta Land, Limited Edition Alpha Land, Limited Edition Alpha Land
+
+Name:   Terror of Kruin Pass
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (3/3)
+Rules Text:   Double strike
+Each Werewolf you control can't be blocked except by two or more creatures.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.
+Set/Rarity:   Innistrad Rare
+
+Name:   Think Twice
+Cost:   1U
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common, Time Spiral Common
+
+Name:   Thraben Militia
+Cost:   
+Color:  White
+Type:   Creature — Human Soldier
+Pow/Tgh:  (5/4)
+Rules Text:   Trample
+Set/Rarity:   Innistrad Common
+
+Name:   Thraben Purebloods
+Cost:   4W
+Type:   Creature — Hound
+Pow/Tgh:  (3/5)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Thraben Sentry
+Cost:   3W
+Type:   Creature — Human Soldier
+Pow/Tgh:  (2/2)
+Rules Text:   Vigilance
+Whenever another creature you control dies, you may transform Thraben Sentry.
+Set/Rarity:   Innistrad Common
+
+Name:   Tormented Pariah
+Cost:   3R
+Type:   Creature — Human Warrior Werewolf
+Pow/Tgh:  (3/2)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.
+Set/Rarity:   Innistrad Common
+
+Name:   Traitorous Blood
+Cost:   1RR
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Travel Preparations
+Cost:   1G
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Put a +1/+1 counter on each of up to two target creatures.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Traveler's Amulet
+Cost:   1
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   {1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:   Innistrad Common
+
+Name:   Tree of Redemption
+Cost:   3G
+Type:   Creature — Plant
+Pow/Tgh:  (0/13)
+Rules Text:   Defender
+{T}: Exchange your life total with Tree of Redemption's toughness.
+Set/Rarity:   Innistrad Mythic Rare
+
+Name:   Trepanation Blade
+Cost:   3
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.
+Equip {2}
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Tribute to Hunger
+Cost:   2B
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Target opponent sacrifices a creature. You gain life equal to that creature's toughness.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Typhoid Rats
+Cost:   B
+Type:   Creature — Rat
+Pow/Tgh:  (1/1)
+Rules Text:   Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:   Innistrad Common
+
+Name:   Ulvenwald Mystics
+Cost:   2GG
+Type:   Creature — Human Shaman Werewolf
+Pow/Tgh:  (3/3)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Ulvenwald Primordials
+Cost:   
+Color:  Green
+Type:   Creature — Werewolf
+Pow/Tgh:  (5/5)
+Rules Text:   {G}: Regenerate Ulvenwald Primordials.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Unbreathing Horde
+Cost:   2B
+Type:   Creature — Zombie
+Pow/Tgh:  (0/0)
+Rules Text:   Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.
+If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.
+Set/Rarity:   Innistrad Rare
+
+Name:   Unburial Rites
+Cost:   4B
+Type:   Sorcery
+Pow/Tgh:  
+Rules Text:   Return target creature card from your graveyard to the battlefield.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Undead Alchemist
+Cost:   3U
+Type:   Creature — Zombie
+Pow/Tgh:  (4/2)
+Rules Text:   If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.
+Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity:   Innistrad Rare
+
+Name:   Unholy Fiend
+Cost:   
+Color:  Black
+Type:   Creature — Horror
+Pow/Tgh:  (3/3)
+Rules Text:   At the beginning of your end step, you lose 1 life.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Unruly Mob
+Cost:   1W
+Type:   Creature — Human
+Pow/Tgh:  (1/1)
+Rules Text:   Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
+Set/Rarity:   Innistrad Common
+
+Name:   Urgent Exorcism
+Cost:   1W
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target Spirit or enchantment.
+Set/Rarity:   Innistrad Common
+
+Name:   Vampire Interloper
+Cost:   1B
+Type:   Creature — Vampire Scout
+Pow/Tgh:  (2/1)
+Rules Text:   Flying
+Vampire Interloper can't block.
+Set/Rarity:   Innistrad Common
+
+Name:   Vampiric Fury
+Cost:   1R
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Vampire creatures you control get +2/+0 and gain first strike until end of turn.
+Set/Rarity:   Innistrad Common
+
+Name:   Victim of Night
+Cost:   BB
+Type:   Instant
+Pow/Tgh:  
+Rules Text:   Destroy target non-Vampire, non-Werewolf, non-Zombie creature.
+Set/Rarity:   Innistrad Common
+
+Name:   Village Bell-Ringer
+Cost:   2W
+Type:   Creature — Human Scout
+Pow/Tgh:  (1/4)
+Rules Text:   Flash (You may cast this spell any time you could cast an instant.)
+When Village Bell-Ringer enters the battlefield, untap all creatures you control.
+Set/Rarity:   Innistrad Common
+
+Name:   Village Cannibals
+Cost:   2B
+Type:   Creature — Human
+Pow/Tgh:  (2/2)
+Rules Text:   Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.
+Set/Rarity:   Innistrad Uncommon
+
+Name:   Village Ironsmith
+Cost:   1R
+Type:   Creature — Human Werewolf
+Pow/Tgh:  (1/1)
+Rules Text:   First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.
+Set/Rarity:   Innistrad Common
+
+Name:   Villagers of Estwald
+Cost:   2G
+Type:   Creature — Human Werewolf
+Pow/Tgh:  (2/3)
+Rules Text:   At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.
+Set/Rarity:   Innistrad Common
+
+Name:   Voiceless Spirit
+Cost:   2W
+Type:   Creature — Spirit
+Pow/Tgh:  (2/1)
+Rules Text:   Flying, first strike
+Set/Rarity:   Innistrad Common
+
+Name:   Walking Corpse
+Cost:   1B
+Type:   Creature — Zombie
+Pow/Tgh:  (2/2)
+Rules Text:   
+Set/Rarity:   Innistrad Common
+
+Name:   Wildblood Pack
+Cost:   
+Color:  Red
+Type:   Creature — Werewolf
+Pow/Tgh:  (5/5)
+Rules Text:   Trample
+Attacking creatures you control get +3/+0.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.
+Set/Rarity:   Innistrad Rare
+
+Name:   Witchbane Orb
+Cost:   4
+Type:   Artifact
+Pow/Tgh:  
+Rules Text:   When Witchbane Orb enters the battlefield, destroy all Curses attached to you.
+You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)
+Set/Rarity:   Innistrad Rare
+
+Name:   Wooden Stake
+Cost:   2
+Type:   Artifact — Equipment
+Pow/Tgh:  
+Rules Text:   Equipped creature gets +1/+0.
+Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:   Innistrad Common
+
+Name:   Woodland Cemetery
+Cost:   
+Type:   Land
+Pow/Tgh:  
+Rules Text:   Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+{T}: Add {B} or {G} to your mana pool.
+Set/Rarity:   Innistrad Rare
+
+Name:   Woodland Sleuth
+Cost:   3G
+Type:   Creature — Human Scout
+Pow/Tgh:  (2/3)
+Rules Text:   Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.
+Set/Rarity:   Innistrad Common
+
+Name:   Wreath of Geists
+Cost:   G
+Type:   Enchantment — Aura
+Pow/Tgh:  
+Rules Text:   Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.
+Set/Rarity:   Innistrad Uncommon
