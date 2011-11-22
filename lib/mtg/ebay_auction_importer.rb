@@ -5,6 +5,7 @@ require 'rest_client'
 require 'uri'
 require 'json'
 require 'pp'
+require 'iconv'
 
 
 class String
@@ -119,7 +120,7 @@ class EbayAuctionImporter < Logger::Application
     @log.debug(url)
     result = ''
     begin
-      result = RestClient.get(url).to_s
+      result = Iconv.iconv('ASCII//TRANSLIT', 'UTF-8', RestClient.get(url).to_s).join
     rescue RestClient::BadRequest
       @log.fatal("Error processing request: #{url}")
       raise
