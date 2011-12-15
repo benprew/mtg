@@ -16,6 +16,8 @@ require 'json'
 
 include SqlDb
 
+set :haml, :ugly => true, :format => :html5
+
 configure :production do
   error do
     @error = request.env['sinatra.error']
