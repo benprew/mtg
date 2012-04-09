@@ -4,7 +4,7 @@ Vagrant::Config.run do |config|
   # please see the online documentation at vagrantup.com.
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "base"
+  config.vm.box = "lucid32"
 
   # The url from where the 'config.vm.box' box will be fetched if it
   # doesn't already exist on the user's system.
@@ -15,7 +15,7 @@ Vagrant::Config.run do |config|
 
   # Assign this VM to a host only network IP, allowing you to access it
   # via the IP.
-  config.vm.network "192.168.10.10"
+  config.vm.network "33.33.33.9"
 
   # Forward a port from the guest to the host, which allows for outside
   # computers to access the VM, whereas host only networking does not.
@@ -26,10 +26,12 @@ Vagrant::Config.run do |config|
   # an identifier, the second is the path on the guest to mount the
   # folder, and the third is the path on the host to the actual folder.
   # config.vm.share_folder "v-data", "/vagrant_data", "../data"
-  config.vm.share_folder("v-data", "/home/vagrant/src", "..", :nfs => true)
+  config.vm.share_folder("code", "/home/vagrant/src", "..")
 
-  config.vm.provision :puppet, :module_path => "~/src/mtg/manifests/modules", :options => [ "--verbose" ]
-
+  config.vm.provision :puppet do |puppet|
+    puppet.manifests_path = "manifests"
+    puppet.manifest_file  = "base.pp"
+  end
 
   # Enable provisioning with chef solo, specifying a cookbooks path (relative
   # to this Vagrantfile), and adding some recipes and/or roles.
