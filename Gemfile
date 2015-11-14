@@ -16,13 +16,13 @@ gem "sass"
 gem "bcrypt-ruby"
 
 gem 'ruby-prof'
-gem "rspec"
 
 group :development do
   gem 'shotgun'
 end
 
 group :test do
+  gem "rspec"
   gem "rack-test"
   gem "sqlite3-ruby"
 end
