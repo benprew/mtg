@@ -1,21 +1,21 @@
 source "http://rubygems.org"
 
-gem "sinatra"
-gem "haml"
-gem "maruku"
-gem "sequel"
-gem "mysql"
-gem "rest-client"
-gem "railsless-deploy"
-gem "capistrano-ext"
-gem "capistrano"
-gem "daemons"
-gem 'json'
-gem "unicorn"
-gem "sass"
 gem "bcrypt-ruby"
-
+gem "capistrano"
+gem "capistrano-ext"
+gem "daemons"
+gem "haml"
+gem 'iconv'
+gem 'json'
+gem "maruku"
+gem "mysql"
+gem "railsless-deploy"
+gem "rest-client"
 gem 'ruby-prof'
+gem "sass"
+gem "sequel"
+gem "sinatra"
+gem "unicorn"
 
 group :development do
   gem 'shotgun'
