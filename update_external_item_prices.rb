@@ -7,7 +7,7 @@ require 'bundler/setup'
 require 'rest_client'
 require 'uri'
 require 'json'
-require 'mtg'
+require_relative 'mtg'
 
 app_id = 'BenPrew2f-def9-421f-87b8-55dc6a53837'
 ebay_api_version = 595
