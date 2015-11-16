@@ -4,6 +4,7 @@ $:.unshift File.dirname(__FILE__) + '/../lib'
 
 require 'rubygems'
 require 'sinatra/base'
+require 'optparse'
 include Sinatra::Delegator
 
 options = {}
