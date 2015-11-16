@@ -42,6 +42,7 @@ namespace :deploy do
   task :update do
     transaction do
       update_code
+      run "cd #{current_path} && bundle"
     end
   end
 
