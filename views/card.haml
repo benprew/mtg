@@ -6,7 +6,7 @@
 .clear
 
 .grid_3
-  - if File.exists?(settings.public + @card.picture)
+  - if File.exists?(settings.public_folder + @card.picture)
     %img{ :src => @card.picture }
 
 .grid_9
