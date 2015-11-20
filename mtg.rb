@@ -12,6 +12,7 @@ require 'mtg/models/card'
 require 'mtg/models/external_item'
 require 'sass'
 require 'haml'
+require 'maruku'
 require 'json'
 
 include SqlDb
